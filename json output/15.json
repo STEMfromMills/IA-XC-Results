@@ -1,0 +1,646 @@
+{
+    "name": "Spencer",
+    "time_seconds": 1661403615,
+    "standings": [
+        [
+            "2A SPIRIT LAKE BRANDON HUGHES 2025",
+            0,
+            0
+        ],
+        [
+            "3A LEMARS TRACE OBBINK 2024",
+            1,
+            1
+        ],
+        [
+            "2A OKOBOJI EVAN OSLER 2025",
+            2,
+            2
+        ],
+        [
+            "3A ALGONA RYAN STUNDAHL 2023",
+            3,
+            3
+        ],
+        [
+            "2A SPIRIT LAKE DAMON VANDENBERG 2023",
+            4,
+            4
+        ],
+        [
+            "2A OKOBOJI TRIGG HEIMDAL 2025",
+            5,
+            5
+        ],
+        [
+            "3A ALGONA JACE MORTENSEN 2024",
+            6,
+            6
+        ],
+        [
+            "3A ALGONA GAVIN WEBER 2026",
+            7,
+            7
+        ],
+        [
+            "3A STORM LAKE JOEL RAMIREZ-PARRA 2026",
+            8,
+            8
+        ],
+        [
+            "2A OKOBOJI DYLAN JONES 2023",
+            9,
+            9
+        ],
+        [
+            "2A ESTHERVILLE-LC PARKER DUITSMAN 2024",
+            10,
+            10
+        ],
+        [
+            "3A STORM LAKE LUIZ MARTINEZ 2024",
+            11,
+            11
+        ],
+        [
+            "1A BISHOP GARRIGAN GAVIN SWIFT 2023",
+            12,
+            12
+        ],
+        [
+            "3A SPENCER VAN MUNSON 2024",
+            13,
+            13
+        ],
+        [
+            "2A OKOBOJI AKRON JOSTAND 2024",
+            14,
+            14
+        ],
+        [
+            "3A LEMARS MICHAEL MEIS 2023",
+            15,
+            15
+        ],
+        [
+            "2A OKOBOJI DAKOTA HESSELTINE 2023",
+            16,
+            16
+        ],
+        [
+            "3A ALGONA ISAAC WILSON 2025",
+            17,
+            17
+        ],
+        [
+            "2A OKOBOJI CHRISTIAN HESSE 2023",
+            18,
+            18
+        ],
+        [
+            "2A WESTERN CHRISTIAN CALEB DOUMA 2024",
+            19,
+            19
+        ],
+        [
+            "2A WESTERN CHRISTIAN COWAN VAN KLEY 2023",
+            20,
+            20
+        ],
+        [
+            "2A OKOBOJI DREW SANDVEN 2024",
+            21,
+            21
+        ],
+        [
+            "2A WESTERN CHRISTIAN ZACHARY MINDERHOUD 2023",
+            22,
+            22
+        ],
+        [
+            "3A SPENCER NOAH GOEKEN 2023",
+            23,
+            23
+        ],
+        [
+            "3A BH-RV BEN BLUM 2024",
+            24,
+            24
+        ],
+        [
+            "1A NORTH UNION GAVYN MORPHEW 2024",
+            25,
+            25
+        ],
+        [
+            "3A STORM LAKE CHRISTIAN ROQUE 2023",
+            26,
+            26
+        ],
+        [
+            "2A ESTHERVILLE-LC WARREN DUITSMAN 2026",
+            27,
+            27
+        ],
+        [
+            "3A LEMARS JUAN SANCHEZ 2023",
+            28,
+            28
+        ],
+        [
+            "3A LEMARS CADEN WURTH 2023",
+            29,
+            29
+        ],
+        [
+            "3A SPENCER JEROME HOLLINGSWORTH 2025",
+            30,
+            30
+        ],
+        [
+            "2A SPIRIT LAKE CARTER TRAUTMAN 2026",
+            31,
+            31
+        ],
+        [
+            "3A SPENCER NOAH FULLHART 2026",
+            32,
+            32
+        ],
+        [
+            "3A LEMARS NOAH LAURSEN 2024",
+            33,
+            33
+        ],
+        [
+            "3A ALGONA BRENDEN LUCAS 2024",
+            34,
+            34
+        ],
+        [
+            "2A SPIRIT LAKE RILEY SORENSON 2024",
+            35,
+            35
+        ],
+        [
+            "3A ALGONA RYLEY RIGGERT 2025",
+            36,
+            36
+        ],
+        [
+            "3A STORM LAKE BRETT PEDERSEN 2025",
+            37,
+            37
+        ],
+        [
+            "3A SPENCER JACE FULLHART 2024",
+            38,
+            38
+        ],
+        [
+            "2A ESTHERVILLE-LC BENNETT DUITSMAN 2026",
+            39,
+            39
+        ],
+        [
+            "3A SPENCER DEVON REES 2023",
+            40,
+            40
+        ],
+        [
+            "2A ESTHERVILLE-LC CONNER MATHESON 2026",
+            41,
+            41
+        ],
+        [
+            "1A NORTH UNION AIDEN BAUER 2026",
+            42,
+            42
+        ],
+        [
+            "2A SPIRIT LAKE AIDEN HOLDORF 2024",
+            43,
+            43
+        ],
+        [
+            "3A SPENCER ALEX BALDWIN 2024",
+            44,
+            44
+        ],
+        [
+            "2A SPIRIT LAKE CONNOR KUEPER 2023",
+            45,
+            45
+        ],
+        [
+            "2A SPIRIT LAKE TOMMY PROFIT 2023",
+            46,
+            46
+        ],
+        [
+            "1A BISHOP GARRIGAN DANIEL MEIS 2025",
+            47,
+            47
+        ],
+        [
+            "1A BISHOP GARRIGAN ETHAN KUPER 2024",
+            48,
+            48
+        ],
+        [
+            "3A BH-RV LOGAN SIEBRECHT 2024",
+            49,
+            49
+        ],
+        [
+            "3A STORM LAKE EDGAR DUARTE 2026",
+            50,
+            50
+        ],
+        [
+            "3A STORM LAKE TYLER BAUER 2025",
+            51,
+            51
+        ],
+        [
+            "1A NORTH UNION NICK ARNDORFER 2024",
+            52,
+            52
+        ],
+        [
+            "3A LEMARS SAM MCINTYRE 2023",
+            53,
+            53
+        ],
+        [
+            "2A ESTHERVILLE-LC JACOB KNUDSON 2023",
+            54,
+            54
+        ],
+        [
+            "1A BISHOP GARRIGAN NATHANIEL DARLING 2024",
+            55,
+            55
+        ],
+        [
+            "1A BISHOP GARRIGAN AMAURY THOMAS 2026",
+            56,
+            56
+        ],
+        [
+            "2A ESTHERVILLE-LC JAYDEN POLLOCK 2026",
+            57,
+            57
+        ],
+        [
+            "1A BISHOP GARRIGAN GABE SWIFT 2026",
+            58,
+            58
+        ],
+        [
+            "2A ESTHERVILLE-LC ISAAC REINEKE 2023",
+            59,
+            59
+        ],
+        [
+            "2A OKOBOJI LANE LARSON 2025",
+            60,
+            60
+        ],
+        [
+            "3A ALGONA SAMUEL TIILI 2024",
+            61,
+            61
+        ],
+        [
+            "2A WESTERN CHRISTIAN NOAH DEWEERD 2024",
+            62,
+            62
+        ],
+        [
+            "3A ALGONA BRECKIN BORCHARDT 2026",
+            63,
+            63
+        ],
+        [
+            "3A ALGONA JOESPH RICKLEFS 2024",
+            64,
+            64
+        ],
+        [
+            "3A SPENCER LUKE FISHER 2024",
+            65,
+            65
+        ],
+        [
+            "1A NORTH UNION DALTON TOBIN 2023",
+            66,
+            66
+        ],
+        [
+            "2A OKOBOJI NICO BARBA 2024",
+            67,
+            67
+        ],
+        [
+            "2A OKOBOJI KADEN ZWEIBAHMER 2023",
+            68,
+            68
+        ],
+        [
+            "2A OKOBOJI RAY KAISER 2026",
+            69,
+            69
+        ],
+        [
+            "3A ALGONA ZACH DUCKERT 2024",
+            70,
+            70
+        ],
+        [
+            "2A OKOBOJI SAM HOGGARD 2024",
+            71,
+            71
+        ],
+        [
+            "2A WESTERN CHRISTIAN CALEB VAN BEEK 2025",
+            72,
+            72
+        ],
+        [
+            "3A SPENCER BOSTON DAY 2024",
+            73,
+            73
+        ],
+        [
+            "2A OKOBOJI TYLER CHRISTENSON 2025",
+            74,
+            74
+        ],
+        [
+            "3A LEMARS JETT SCHMID 2025",
+            75,
+            75
+        ],
+        [
+            "3A SPENCER CONNOR STICKROD 2024",
+            76,
+            76
+        ],
+        [
+            "3A SPENCER CAMDEN MOSHER 2026",
+            77,
+            77
+        ],
+        [
+            "3A SPENCER CARSON KROGMAN 2025",
+            78,
+            78
+        ],
+        [
+            "2A OKOBOJI HUNTER HALLENGREN 2024",
+            79,
+            79
+        ],
+        [
+            "3A ALGONA CARSON OLMSTEAD 2024",
+            80,
+            80
+        ],
+        [
+            "3A SPENCER OWEN MCNEA 2026",
+            81,
+            81
+        ],
+        [
+            "3A SPENCER BLAKE MORRIS 2024",
+            82,
+            82
+        ],
+        [
+            "2A SPIRIT LAKE CONNOR BRAMBLETT 2024",
+            83,
+            83
+        ],
+        [
+            "3A SPENCER RENO ANDERSON 2026",
+            84,
+            84
+        ],
+        [
+            "3A LEMARS SETH VANDER SLUIS 2024",
+            85,
+            85
+        ],
+        [
+            "3A SPENCER ZACK RICHTER 2025",
+            86,
+            86
+        ],
+        [
+            "2A WESTERN CHRISTIAN ETHAN VAN'T HUL 2025",
+            87,
+            87
+        ],
+        [
+            "2A OKOBOJI TRISTAN STRANTZ 2024",
+            88,
+            88
+        ],
+        [
+            "2A OKOBOJI ANDREW FRERICHS 2026",
+            89,
+            89
+        ],
+        [
+            "3A SPENCER STORM NORGAARD 2024",
+            90,
+            90
+        ],
+        [
+            "2A OKOBOJI OLIVER MILLER 2026",
+            91,
+            91
+        ],
+        [
+            "2A WESTERN CHRISTIAN LEVI WESTRA 2025",
+            92,
+            92
+        ],
+        [
+            "1A NORTH UNION KADE MADDEN 2026",
+            93,
+            93
+        ],
+        [
+            "3A LEMARS AARON LEE 2025",
+            94,
+            94
+        ],
+        [
+            "2A OKOBOJI AUSTIN KASCH 2023",
+            95,
+            95
+        ],
+        [
+            "3A LEMARS NOAH VENTEICHER 2023",
+            96,
+            96
+        ],
+        [
+            "2A WESTERN CHRISTIAN MARK LEUSINK 2026",
+            97,
+            97
+        ],
+        [
+            "2A OKOBOJI COLE BECKER 2025",
+            98,
+            98
+        ],
+        [
+            "3A LEMARS JACOB MCGILL 2023",
+            99,
+            99
+        ],
+        [
+            "3A SPENCER TREVOR STEELE 2024",
+            100,
+            100
+        ],
+        [
+            "3A SPENCER GRANT WARD 2025",
+            101,
+            101
+        ],
+        [
+            "3A LEMARS LUKE HULINSKY 2025",
+            102,
+            102
+        ],
+        [
+            "2A OKOBOJI MARC HOGGARD 2025",
+            103,
+            103
+        ],
+        [
+            "3A ALGONA RYLEE WOLF 2025",
+            104,
+            104
+        ],
+        [
+            "2A OKOBOJI MICHAEL GONNERMAN 2024",
+            105,
+            105
+        ],
+        [
+            "2A SPIRIT LAKE HUDSON LEWIS 2026",
+            106,
+            106
+        ],
+        [
+            "2A EMMETSBURG BEN HURLEY 2024",
+            107,
+            107
+        ],
+        [
+            "3A LEMARS SAMUEL JOHNSON 2023",
+            108,
+            108
+        ],
+        [
+            "3A ALGONA GABE CONDOLEON 2026",
+            109,
+            109
+        ],
+        [
+            "3A ALGONA OWEN DOOCY 2026",
+            110,
+            110
+        ],
+        [
+            "3A SPENCER JAYDEN HIBBS 2026",
+            111,
+            111
+        ],
+        [
+            "3A BH-RV LUIS KING 2026",
+            112,
+            112
+        ],
+        [
+            "3A LEMARS RYDER MULLALLY 2025",
+            113,
+            113
+        ],
+        [
+            "2A SPIRIT LAKE SAM ODENDAHL 2024",
+            114,
+            114
+        ],
+        [
+            "2A OKOBOJI PAUL CONOVER 2023",
+            115,
+            115
+        ],
+        [
+            "2A OKOBOJI CONNOR CUNNINGHAM 2023",
+            116,
+            116
+        ],
+        [
+            "3A LEMARS BROCK FELDMAN 2023",
+            117,
+            117
+        ],
+        [
+            "2A EMMETSBURG LUCIAN BENJAMIN 2024",
+            118,
+            118
+        ],
+        [
+            "2A EMMETSBURG ROBERT FREDERICK 2025",
+            119,
+            119
+        ],
+        [
+            "3A LEMARS JEREMY CONDON 2024",
+            120,
+            120
+        ],
+        [
+            "2A ESTHERVILLE-LC AARON THELEN 2025",
+            121,
+            121
+        ],
+        [
+            "3A LEMARS HUNTER MULLALLY 2026",
+            122,
+            122
+        ],
+        [
+            "3A SPENCER GABE REIMAN 2024",
+            123,
+            123
+        ],
+        [
+            "3A LEMARS DALTON HENRY 2026",
+            124,
+            124
+        ],
+        [
+            "3A SPENCER OWEN MANWARREN 2024",
+            125,
+            125
+        ],
+        [
+            "3A LEMARS EVAN BRENNAN 2025",
+            126,
+            126
+        ],
+        [
+            "2A ESTHERVILLE-LC ELI ROSS 2024",
+            127,
+            127
+        ]
+    ]
+}
