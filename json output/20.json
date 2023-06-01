@@ -1,676 +1,591 @@
 {
-    "name": "Cedar Rapids Prairie FrSo",
-    "time_seconds": 7341771620,
+    "name": "Cedar Rapids Prairie Varsity",
+    "time_seconds": 1661576420,
     "standings": [
         [
-            "3A PELLA CANAAN DUNHAM 2026",
+            "3A MARION JEDIDIAH OSGOOD 2023",
             0,
             0
         ],
         [
-            "4A CR PRAIRIE NICK LEE 2025",
+            "3A PELLA CHASE LAUMAN 2023",
             1,
             1
         ],
         [
-            "4A CR PRAIRIE CARSON NOVE 2025",
+            "3A EPWORTH ISAIAH HAMMERAND 2023",
             2,
             2
         ],
         [
-            "4A CEDAR FALLS CONNOR MARTIN 2025",
+            "4A CEDAR FALLS JADEN MERRICK 2026",
             3,
             3
         ],
         [
-            "3A PELLA NOAH SCHUKNECHT 2026",
+            "3A PELLA NATHAN VANDERWAAL 2024",
             4,
             4
         ],
         [
-            "4A CR PRAIRIE BENNETT ALLRED 2025",
+            "4A IOWA CITY WEST SETH CHENEY 2023",
             5,
             5
         ],
         [
-            "4A CEDAR FALLS KIERAN DEGROOTE 2025",
+            "4A WAUKEE GARRETT WEBER 2023",
             6,
             6
         ],
         [
-            "4A CR PRAIRIE TYLER STEGEMOLLER 2025",
+            "4A IOWA CITY WEST MOUSTAFA TIEA 2025",
             7,
             7
         ],
         [
-            "4A CEDAR FALLS CHARLIE WIERING 2026",
+            "4A CEDAR FALLS GAVIN DENHOLM 2023",
             8,
             8
         ],
         [
-            "3A PELLA MASON GAULKE 2026",
+            "4A CEDAR FALLS JOHN FERGUSON 2025",
             9,
             9
         ],
         [
-            "4A IOWA CITY WEST PRANEEL RASTOGI 2026",
+            "4A CEDAR FALLS COLIN JOHNSON 2023",
             10,
             10
         ],
         [
-            "4A CEDAR FALLS MAX MILLS 2025",
+            "4A CEDAR FALLS LUKE HARTMAN 2024",
             11,
             11
         ],
         [
-            "4A IOWA CITY WEST JACK EASTVOLD 2026",
+            "4A CEDAR FALLS COLBY CRYER 2023",
             12,
             12
         ],
         [
-            "4A IOWA CITY WEST VENELIN KOTEV 2026",
+            "3A MARION JAKOB REGENNITTER 2023",
             13,
             13
         ],
         [
-            "4A CR PRAIRIE ETHAN MCMANUS 2026",
+            "3A MARION COOPER COOK 2024",
             14,
             14
         ],
         [
-            "4A CEDAR FALLS GAIGE MARTIN 2026",
+            "4A CR PRAIRIE ZACH COOPER 2023",
             15,
             15
         ],
         [
-            "3A PELLA DANIEL ROZENBOOM 2026",
+            "3A EPWORTH QUENTIN NAUMAN 2026",
             16,
             16
         ],
         [
-            "4A IOWA CITY WEST CASSANDRO CHAN 2025",
+            "4A CR PRAIRIE JAXON SICKLES 2023",
             17,
             17
         ],
         [
-            "4A IOWA CITY WEST THOMAS TONG 2026",
+            "4A CEDAR FALLS PASCAL CUHAT 2023",
             18,
             18
         ],
         [
-            "4A CR PRAIRIE EASTON MAI 2025",
+            "3A CLEAR CREEK-AMANA BROCK HILSMAN 2025",
             19,
             19
         ],
         [
-            "4A WAUKEE HARRY ABBOTT 2026",
+            "4A CEDAR FALLS JACK CONSIDINE 2024",
             20,
             20
         ],
         [
-            "4A CEDAR FALLS CHASE KIES 2025",
+            "4A IOWA CITY WEST MICHAEL LEE 2024",
             21,
             21
         ],
         [
-            "4A CEDAR FALLS JAKE GRAY 2025",
+            "4A LINN-MAR LUKE STEFFEN 2023",
             22,
             22
         ],
         [
-            "4A CEDAR FALLS ASHTIN DUFFY 2025",
+            "3A EPWORTH DEREK FANGMANN 2023",
             23,
             23
         ],
         [
-            "4A CR PRAIRIE BRAYDEN LEIS 2025",
+            "4A WAUKEE DASHIELL COYIER 2025",
             24,
             24
         ],
         [
-            "4A IOWA CITY WEST ASIF ALI 2026",
+            "3A CLEAR CREEK-AMANA PEYTON STADLER 2023",
             25,
             25
         ],
         [
-            "3A CLEAR CREEK-AMANA NICHOLAS SCHIELTZ 2026",
+            "3A EPWORTH DREW MEYER 2023",
             26,
             26
         ],
         [
-            "4A LINN-MAR TRISTAN CERNEY 2026",
+            "4A WAUKEE JONAS VANDIS 2025",
             27,
             27
         ],
         [
-            "4A CEDAR FALLS LIAM MCGRANE 2025",
+            "4A LINN-MAR OWEN HANSON 2025",
             28,
             28
         ],
         [
-            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
+            "4A CR PRAIRIE ANSON FAUCHIER 2023",
             29,
             29
         ],
         [
-            "4A CR WASHINGTON LUCAS BURKAMPER 2025",
+            "3A MARION JORDAN FISCHER 2024",
             30,
             30
         ],
         [
-            "4A CEDAR FALLS GREYSON VEISETH 2025",
+            "4A CR PRAIRIE HARRISON ALLARD 2023",
             31,
             31
         ],
         [
-            "4A CR PRAIRIE KYLE JOHNSON 2026",
+            "3A MARION CHRIS OBERBROECKLING 2023",
             32,
             32
         ],
         [
-            "4A CR PRAIRIE COLE YOUNGER 2025",
+            "4A IOWA CITY WEST ANDREW POLGREEN 2023",
             33,
             33
         ],
         [
-            "4A WAUKEE HUDSON CARDER 2026",
+            "4A IOWA CITY WEST ROBERT STONG 2024",
             34,
             34
         ],
         [
-            "4A IOWA CITY WEST KAI MERRIL 2025",
+            "3A PELLA ZACK NEUMANN 2023",
             35,
             35
         ],
         [
-            "4A CR PRAIRIE DADE DAVIS 2026",
+            "3A PELLA DEVON BROWNE 2025",
             36,
             36
         ],
         [
-            "4A WAUKEE ALEX KOTTMEYER 2025",
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
             37,
             37
         ],
         [
-            "4A CR PRAIRIE ERIC VALDE 2026",
+            "4A LINN-MAR ETHAN BOSTON 2025",
             38,
             38
         ],
         [
-            "4A CEDAR FALLS JAMES MANDT 2026",
+            "4A CR WASHINGTON KRIENE SCHNEIDERMANN 2024",
             39,
             39
         ],
         [
-            "4A LINN-MAR QUINN LORENZ 2026",
+            "2A MONTICELLO CHESNEY CAPRON 2023",
             40,
             40
         ],
         [
-            "4A CR PRAIRIE DILLON WIETHORN 2026",
+            "4A CR PRAIRIE LANDON KAHLER 2024",
             41,
             41
         ],
         [
-            "4A LINN-MAR TYLER PERSON 2025",
+            "4A LINN-MAR ETHAN COZINE 2023",
             42,
             42
         ],
         [
-            "4A IOWA CITY WEST MAXWELL BRUSS 2025",
+            "3A EPWORTH LEVI MEYER 2023",
             43,
             43
         ],
         [
-            "3A CLEAR CREEK-AMANA JACKSON VANHORN 2026",
+            "3A PELLA KAIDEN BROWNE 2025",
             44,
             44
         ],
         [
-            "2A WILLIAMSBURG FINN BRUMMEL 2026",
+            "3A PELLA AREN HELLBUSCH 2025",
             45,
             45
         ],
         [
-            "4A CR PRAIRIE JOHN HYNEK 2025",
+            "4A IOWA CITY WEST CADE BENSON 2024",
             46,
             46
         ],
         [
-            "4A CEDAR FALLS ETHAN MCKEE 2026",
+            "2A MONTICELLO JACOB MILLER 2023",
             47,
             47
         ],
         [
-            "4A IOWA CITY WEST ETHAN LEE 2026",
+            "4A CR WASHINGTON JOHN LORENZ 2023",
             48,
             48
         ],
         [
-            "3A PELLA EVAN JOHNSTON 2026",
+            "4A LINN-MAR JOEY BANOWETZ 2023",
             49,
             49
         ],
         [
-            "3A PELLA ASHER SCHIEBOUT 2026",
+            "3A CLEAR CREEK-AMANA JAMIE HAYES 2024",
             50,
             50
         ],
         [
-            "3A CLEAR CREEK-AMANA SAMSON STRANK 2026",
+            "4A WAUKEE JALEN TAHA 2024",
             51,
             51
         ],
         [
-            "4A WAUKEE LOGAN FRINK 2025",
+            "3A DAVENPORT ASSUMPTION DAVID LOCHNER 2023",
             52,
             52
         ],
         [
-            "2A WILLIAMSBURG LUKE HIRKO 2026",
+            "4A LINN-MAR RILEY KUHN 2024",
             53,
             53
         ],
         [
-            "4A DAVENPORT WEST ZACH CARNEY 2026",
+            "3A CLEAR CREEK-AMANA NOAH YOST 2024",
             54,
             54
         ],
         [
-            "3A CLEAR CREEK-AMANA CADEN BURKLE 2026",
+            "3A PELLA WYATT VAN DYKE 2024",
             55,
             55
         ],
         [
-            "4A LINN-MAR PARKER HOLTEN 2026",
+            "4A WAUKEE NICK WELLET 2025",
             56,
             56
         ],
         [
-            "4A CEDAR FALLS ISAIAH MAYFIELD 2025",
+            "4A WAUKEE ROHAN SAH 2023",
             57,
             57
         ],
         [
-            "2A WILLIAMSBURG NOLAN KENT 2026",
+            "2A MONTICELLO AEDAN ALTHOFF 2026",
             58,
             58
         ],
         [
-            "4A LINN-MAR LEO HACKETT 2026",
+            "4A IOWA CITY WEST JAMES DICKENS 2023",
             59,
             59
         ],
         [
-            "4A CEDAR FALLS SAM SMITH 2025",
+            "4A IOWA CITY WEST BRICE WAHE 2025",
             60,
             60
         ],
         [
-            "4A CR PRAIRIE BRAYLON ARMSTRONG 2026",
+            "2A MONTICELLO ALEX OSWALD 2024",
             61,
             61
         ],
         [
-            "2A WILLIAMSBURG HAYES ARWINE 2026",
+            "3A CLEAR CREEK-AMANA CAMERON KIMM 2023",
             62,
             62
         ],
         [
-            "4A CEDAR FALLS JACE WESTHOFF 2026",
+            "2A MONTICELLO CORD NIETERT 2023",
             63,
             63
         ],
         [
-            "4A LINN-MAR LUCAS TENTINGER 2025",
+            "4A WAUKEE JOSEPH LAWRY 2025",
             64,
             64
         ],
         [
-            "4A LINN-MAR EVAN FELTON 2025",
+            "3A EPWORTH BRODY STANER 2025",
             65,
             65
         ],
         [
-            "4A CEDAR FALLS WILL KREMER 2026",
+            "3A FORT MADISON RILEY TRIPP 2026",
             66,
             66
         ],
         [
-            "4A LINN-MAR ROBBIE HOKE 2026",
+            "4A WAUKEE LUKE HAYES 2024",
             67,
             67
         ],
         [
-            "4A LINN-MAR BASSIL ELSHIEKH 2025",
+            "3A CLEAR CREEK-AMANA ANDREW CARTIER 2024",
             68,
             68
         ],
         [
-            "4A IOWA CITY WEST MAX SCHEBEL 2026",
+            "4A DAVENPORT WEST SHAWN OLSEN 2025",
             69,
             69
         ],
         [
-            "4A WAUKEE MAX YOUNG 2025",
+            "4A WAUKEE ELLIS COYIER 2025",
             70,
             70
         ],
         [
-            "4A WAUKEE RISHAB PATEL 2026",
+            "4A WAUKEE SAIPHANI SIRIMALLE 2023",
             71,
             71
         ],
         [
-            "3A PELLA ZACH DOBSON 2026",
+            "2A WILLIAMSBURG CALVIN SEEMAN 2024",
             72,
             72
         ],
         [
-            "4A CR WASHINGTON CADE SMITH 2025",
+            "4A CR PRAIRIE KURTIS PETERSEN 2023",
             73,
             73
         ],
         [
-            "4A CR PRAIRIE TRAVIS RAIRDIN 2026",
+            "4A IOWA CITY WEST SAM SHOWERS 2025",
             74,
             74
         ],
         [
-            "3A CLEAR CREEK-AMANA ODIN HANKINS 2026",
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
             75,
             75
         ],
         [
-            "2A WILLIAMSBURG P.J. CAREY 2026",
+            "3A MARION JARRED REGENNITTER 2023",
             76,
             76
         ],
         [
-            "3A CLEAR CREEK-AMANA BROGAN NELSON 2026",
+            "4A DAVENPORT WEST CAMDEN KILKER 2023",
             77,
             77
         ],
         [
-            "4A WAUKEE NOLAN HARDER 2025",
+            "3A MARION JACE FOPMA 2023",
             78,
             78
         ],
         [
-            "2A WILLIAMSBURG NILE BUSCH 2026",
+            "4A LINN-MAR BHARGAVA MAYLA 2025",
             79,
             79
         ],
         [
-            "4A LINN-MAR JACK FAGAN 2026",
+            "3A FORT MADISON JOHN CONTRELL 2024",
             80,
             80
         ],
         [
-            "4A CEDAR FALLS DREW TJADEN 2025",
+            "3A CLEAR CREEK-AMANA TATE SCHLOSS 2025",
             81,
             81
         ],
         [
-            "4A WAUKEE PEYTON HOFFMAN 2026",
+            "3A FORT MADISON MASON MCLEY 2026",
             82,
             82
         ],
         [
-            "4A CR WASHINGTON AIDEN ERICKSON 2026",
+            "3A FORT MADISON NOLAN GUZMAN 2026",
             83,
             83
         ],
         [
-            "3A CLEAR CREEK-AMANA KAMERON DUNKIN 2026",
+            "3A FORT MADISON JACOB SHOTTENKIRK 2025",
             84,
             84
         ],
         [
-            "4A CEDAR FALLS LIAM WOODS 2026",
+            "4A IOWA CITY WEST ANEL VUKOVIC 2024",
             85,
             85
         ],
         [
-            "2A WILLIAMSBURG HUDSON NUNNELLEY 2026",
+            "3A DAVENPORT ASSUMPTION CONNOR LERCH 2025",
             86,
             86
         ],
         [
-            "4A IOWA CITY WEST ELIJAH NELSON 2026",
+            "3A CLEAR CREEK-AMANA ISAAC SORENSEN 2025",
             87,
             87
         ],
         [
-            "3A PELLA HENRY GAULEY 2026",
+            "2A MONTICELLO RYLAN BERTLING 2026",
             88,
             88
         ],
         [
-            "4A LINN-MAR OWEN SNYDER 2026",
+            "2A MONTICELLO NATHAN SAUSER 2023",
             89,
             89
         ],
         [
-            "4A CEDAR FALLS WALKER TAYLOR 2025",
+            "3A FORT MADISON PEYTON LAMBERT 2026",
             90,
             90
         ],
         [
-            "4A WAUKEE KELLAN KREGER 2026",
+            "4A CR PRAIRIE MICHAEL REYES 2023",
             91,
             91
         ],
         [
-            "4A IOWA CITY WEST CORMAC WILSON 2025",
+            "2A MONTICELLO WALKER SPENCE 2023",
             92,
             92
         ],
         [
-            "4A WAUKEE VICTOR NJANE 2025",
+            "2A MONTICELLO REEVE GRAVER 2025",
             93,
             93
         ],
         [
-            "4A WAUKEE RISHI PATEL 2026",
+            "3A EPWORTH COY MESSER 2025",
             94,
             94
         ],
         [
-            "4A CEDAR FALLS ALEX CHRIST 2025",
+            "3A FORT MADISON CAMERON SHUTWELL 2023",
             95,
             95
         ],
         [
-            "4A CEDAR FALLS OWEN DRALLE 2026",
+            "4A CR PRAIRIE KADEN DRUECKER 2023",
             96,
             96
         ],
         [
-            "4A DAVENPORT WEST CARL KORDICK 2025",
+            "4A DAVENPORT WEST AUSTIN LEWIS 2025",
             97,
             97
         ],
         [
-            "4A CR PRAIRIE LUKE EISELSTEIN 2025",
+            "3A DAVENPORT ASSUMPTION JOHN MURPHY 2026",
             98,
             98
         ],
         [
-            "4A LINN-MAR HAYDEN ACKLEY 2026",
+            "3A EPWORTH JIMMY HOOVER 2025",
             99,
             99
         ],
         [
-            "4A LINN-MAR BRONSON BEALS 2026",
+            "3A EPWORTH THOMAS BLAIR 2023",
             100,
             100
         ],
         [
-            "4A CEDAR FALLS AIDAN SEEKS 2025",
+            "4A CR WASHINGTON NICK FOREMAN 2024",
             101,
             101
         ],
         [
-            "4A CR WASHINGTON CADEN MESSENGER 2026",
+            "4A DAVENPORT WEST JAYCOB MCDANEL 2023",
             102,
             102
         ],
         [
-            "3A PELLA AIDEN HUSTON 2026",
+            "3A FORT MADISON CALVIN JOHNSON 2025",
             103,
             103
         ],
         [
-            "4A CR WASHINGTON HENRY APPLEBY-SPARROW 2026",
+            "2A WILLIAMSBURG IAN WILDE 2024",
             104,
             104
         ],
         [
-            "4A LINN-MAR BEN TENTINGER 2025",
+            "3A DAVENPORT ASSUMPTION GENO DELPREORE 2025",
             105,
             105
         ],
         [
-            "2A WILLIAMSBURG BRODY HAWK 2026",
+            "2A MONTICELLO CONNOR EASTIN 2025",
             106,
             106
         ],
         [
-            "4A CEDAR FALLS SPENCER ELDRIDGE 2025",
+            "3A FORT MADISON BEN THELE 2023",
             107,
             107
         ],
         [
-            "4A WAUKEE FINN GRAZIANO 2025",
+            "4A CR WASHINGTON KYLE REISINGER 2024",
             108,
             108
         ],
         [
-            "4A WAUKEE JARED MCBURNEY 2026",
+            "3A DAVENPORT ASSUMPTION AIDEN MARIETTA 2023",
             109,
             109
         ],
         [
-            "4A LINN-MAR AIDEN MOORE 2026",
+            "4A DAVENPORT WEST ALEX EWOLDT 2025",
             110,
             110
         ],
         [
-            "4A CEDAR FALLS GABE KEAGLE 2024",
+            "3A EPWORTH KOLT PACE 2026",
             111,
             111
         ],
         [
-            "4A CEDAR FALLS JOHN HOLLAND 2025",
+            "4A CR PRAIRIE NOAH REU 2023",
             112,
             112
         ],
         [
-            "4A CR PRAIRIE BENJAMIN HOLLINGER 2026",
+            "4A CR PRAIRIE GO BENESH 2023",
             113,
             113
         ],
         [
-            "4A CR PRAIRIE JOSEPH ENDICOTT 2025",
+            "3A FORT MADISON JACKSON HAESSIG 2026",
             114,
             114
         ],
         [
-            "4A CR PRAIRIE HARRISON STARK 2026",
+            "4A CR WASHINGTON JARVIS BIAH 2024",
             115,
             115
         ],
         [
-            "4A CR WASHINGTON CARVER HAGUE 2025",
+            "4A CR WASHINGTON RYDER FLEMING 2023",
             116,
             116
-        ],
-        [
-            "4A WAUKEE RYAN JOSEPH 2023",
-            117,
-            117
-        ],
-        [
-            "3A CLEAR CREEK-AMANA HAYDEN MILLER 2025",
-            118,
-            118
-        ],
-        [
-            "4A LINN-MAR BRADY LIMBERT 2026",
-            119,
-            119
-        ],
-        [
-            "4A CR PRAIRIE JONATHAN REU 2025",
-            120,
-            120
-        ],
-        [
-            "4A CR WASHINGTON CAMERON ANDREWS 2025",
-            121,
-            121
-        ],
-        [
-            "4A CEDAR FALLS COLE HANSEN 2026",
-            122,
-            122
-        ],
-        [
-            "4A CEDAR FALLS JOEL SCHMITZ 2026",
-            123,
-            123
-        ],
-        [
-            "4A CR PRAIRIE JACOB KRAMBEER 2026",
-            124,
-            124
-        ],
-        [
-            "4A IOWA CITY WEST THOMAS GIBSON 2025",
-            125,
-            125
-        ],
-        [
-            "4A IOWA CITY WEST DANIEL TIGARDOUN 2025",
-            126,
-            126
-        ],
-        [
-            "4A IOWA CITY WEST KARSTEN GHABEL 2025",
-            127,
-            127
-        ],
-        [
-            "4A WAUKEE ARMAAN MEHER 2026",
-            128,
-            128
-        ],
-        [
-            "3A CLEAR CREEK-AMANA JACK KESTEL 2025",
-            129,
-            129
-        ],
-        [
-            "2A WILLIAMSBURG LUKE KLEINMEYER 2026",
-            130,
-            130
-        ],
-        [
-            "4A CEDAR FALLS LUKE BERGER 2026",
-            131,
-            131
-        ],
-        [
-            "4A CEDAR FALLS JAY LAWSON 2026",
-            132,
-            132
-        ],
-        [
-            "4A LINN-MAR BRADYN KOSIKAS 2025",
-            133,
-            133
         ]
     ]
 }
