@@ -1,776 +1,466 @@
 {
-    "name": "1A State",
-    "time_seconds": 1666933221,
+    "name": "1A SQM Central Spring",
+    "time_seconds": 1666242021,
     "standings": [
         [
-            "1A Woodbine Landon Bendgen 2024",
+            "1A Newman Ryan Kelly 2023",
             0,
             0
         ],
         [
-            "1A IKM-Manning Caden Keller 2023",
+            "1A Lake Mills Justin Rygh 2024",
             1,
             1
         ],
         [
-            "1A Bellevue Payton Griebel 2024",
+            "1A St. Edmond Aaron Lursen 2023",
             2,
             2
         ],
         [
-            "1A Boyer Valley Patrick Heffernan 2023",
+            "1A North Iowa Gavin Grunhovd 2025",
             3,
             3
         ],
         [
-            "1A Madrid Ethan Loutzenheiser 2024",
+            "1A Newman Joey Ringo 2023",
             4,
             4
         ],
         [
-            "1A Iowa City Regina Aidan O'Neil 2024",
+            "1A Lake Mills Knute Rogne 2026",
             5,
             5
         ],
         [
-            "1A Lake Mills Justin Rygh 2024",
+            "1A Belmond-Klemme Isaac Swenson 2023",
             6,
             6
         ],
         [
-            "1A Saint Albert Colin Lillie 2023",
+            "1A Bishop Garrigan Gavin Swift 2023",
             7,
             7
         ],
         [
-            "1A MFL MarMac Jacob Schellhorn 2025",
+            "1A Manson NW Webster Lane Moline 2023",
             8,
             8
         ],
         [
-            "1A St. Edmond Aaron Lursen 2023",
+            "1A St. Edmond Sam Mericle 2024",
             9,
             9
         ],
         [
-            "1A Newman Ryan Kelly 2023",
+            "1A North Union Gavyn Morphew 2024",
             10,
             10
         ],
         [
-            "1A AC-GC Justin Reinhart 2023",
+            "1A St. Edmond Liam Shannon 2025",
             11,
             11
         ],
         [
-            "1A Ogden Carson Van Sickle 2024",
+            "1A GTRA Aiden Egertson 2023",
             12,
             12
         ],
         [
-            "1A Lynnville-Sully James Gruver 2023",
+            "1A Central Springs Carter Lanphere 2024",
             13,
             13
         ],
         [
-            "1A Prince of Peace Marcus Blount 2023",
+            "1A Lake Mills Kade Van Roekel 2025",
             14,
             14
         ],
         [
-            "1A Pekin Brady McWhirter 2025",
+            "1A St. Edmond Anthony Valles 2026",
             15,
             15
         ],
         [
-            "1A Sibley-Ocheyedan Ben Byers 2026",
+            "1A St. Edmond Thomas Cosgrove 2024",
             16,
             16
         ],
         [
-            "1A Bellevue Aiden Onken 2023",
+            "1A Newman Adam Henrich 2025",
             17,
             17
         ],
         [
-            "1A Sibley-Ocheyedan Alejandro Bernal 2023",
+            "1A Nashua-Plainfield Jase Hansen 2026",
             18,
             18
         ],
         [
-            "1A North Butler Owen Almelien 2023",
+            "1A Newman Liam Stockberger 2024",
             19,
             19
         ],
         [
-            "1A AC-GC Andrew Mahaffey 2024",
+            "1A Belmond-Klemme Bradan Gabrielson 2023",
             20,
             20
         ],
         [
-            "1A Cascade Adam Knepper 2023",
+            "1A Lake Mills Hayden Thompson 2026",
             21,
             21
         ],
         [
-            "1A Madrid Clay Warson 2024",
+            "1A Central Springs Gavin Ryner 2025",
             22,
             22
         ],
         [
-            "1A Nodaway Valley Doug Berg 2023",
+            "1A Manson NW Webster Carson Widlund 2024",
             23,
             23
         ],
         [
-            "1A North Iowa Gavin Grunhovd 2025",
+            "1A Manson NW Webster Thatcher Oswald 2026",
             24,
             24
         ],
         [
-            "1A MMCRU Kaden Galles 2024",
+            "1A St. Edmond Carter Rial 2023",
             25,
             25
         ],
         [
-            "1A East Marshall Joe Terrones 2023",
+            "1A Lake Mills Stephen Brandenburg 2026",
             26,
             26
         ],
         [
-            "1A Postville Abdiaziz Ibrahim 2024",
+            "1A Saint Ansgar Cole Hansen 2023",
             27,
             27
         ],
         [
-            "1A Iowa City Regina Dan Maley 2023",
+            "1A West Hancock Isaiah Collins 2025",
             28,
             28
         ],
         [
-            "1A Ankeny Christian Daniel Schoening 2024",
+            "1A Belmond-Klemme Griffin Paulsen 2026",
             29,
             29
         ],
         [
-            "1A English Valleys Gage Heyne 2025",
+            "1A Newman Landon Kohler 2023",
             30,
             30
         ],
         [
-            "1A Iowa City Regina Joe Maley 2023",
+            "1A Newman Sam Steidl 2025",
             31,
             31
         ],
         [
-            "1A Clayton Ridge Keaton Reimer 2023",
+            "1A Manson NW Webster Korbin Jensen 2023",
             32,
             32
         ],
         [
-            "1A Ogden Payton Van Sickle 2023",
+            "1A Central Springs Austin Lloyd 2023",
             33,
             33
         ],
         [
-            "1A SE Warren Ronan Jimenez 2023",
+            "1A Newman Noah O'Connell 2025",
             34,
             34
         ],
         [
-            "1A Woodbine Gunner Wagner 2025",
+            "1A Clarksville Howie Clark 2024",
             35,
             35
         ],
         [
-            "1A Saint Albert Owen Wise 2024",
+            "1A Lake Mills Lucas Oldenkamp 2025",
             36,
             36
         ],
         [
-            "1A Belmond-Klemme Isaac Swenson 2023",
+            "1A Nashua-Plainfield Caleb Sinnwell 2025",
             37,
             37
         ],
         [
-            "1A IKM-Manning Reed Hinners 2023",
+            "1A Manson NW Webster Owen Eldridge 2024",
             38,
             38
         ],
         [
-            "1A Valley Lutheran Adric Schmitz 2023",
+            "1A Central Springs Thomas Haas 2025",
             39,
             39
         ],
         [
-            "1A Bellevue Ben Steinbeck 2023",
+            "1A North Union Chase Cummins 2023",
             40,
             40
         ],
         [
-            "1A Maquoketa Valley Matthew Schaul 2025",
+            "1A Bishop Garrigan Ethan Kuper 2024",
             41,
             41
         ],
         [
-            "1A Winfield-Mt. Union Kohlby Newsom 2025",
+            "1A North Iowa Isaac Hillesland 2024",
             42,
             42
         ],
         [
-            "1A Woodbine Lane Vennink 2023",
+            "1A West Fork Ashyr Wiseman 2025",
             43,
             43
         ],
         [
-            "1A Kee Lansing Justin Wagner 2026",
+            "1A Belmond-Klemme Ryan Hartwig 2026",
             44,
             44
         ],
         [
-            "1A Clayton Ridge Gavin Moser 2023",
+            "1A Manson NW Webster Tysin Anderson 2025",
             45,
             45
         ],
         [
-            "1A Cascade Max Nadeau 2023",
+            "1A West Fork Edison Maske 2024",
             46,
             46
         ],
         [
-            "1A Collins-Maxwell Ethan Haus 2023",
+            "1A Nashua-Plainfield Levi Winters 2023",
             47,
             47
         ],
         [
-            "1A Columbus Community Damian Vergara 2024",
+            "1A Nashua-Plainfield Luke Paplow 2025",
             48,
             48
         ],
         [
-            "1A East Buchanan Noah Valenzuela 2024",
+            "1A Lake Mills Alejandro Vazquez-Perez 2025",
             49,
             49
         ],
         [
-            "1A East Marshall Kaleb Grant 2024",
+            "1A North Iowa Jackson Potter 2025",
             50,
             50
         ],
         [
-            "1A SE Warren Rylan Jimenez 2023",
+            "1A Clarksville Eric Laures 2023",
             51,
             51
         ],
         [
-            "1A Iowa City Regina Henry Bottorff 2023",
+            "1A St. Edmond Thomas Knobbe 2026",
             52,
             52
         ],
         [
-            "1A North Linn Caleb Bildstein 2025",
+            "1A West Hancock Kaden VanEpps 2025",
             53,
             53
         ],
         [
-            "1A Baxter Matt Richardson 2025",
+            "1A Belmond-Klemme Alec Herrold 2026",
             54,
             54
         ],
         [
-            "1A BCLUW Cayden McLeland 2023",
+            "1A Central Springs Jack Pruin 2025",
             55,
             55
         ],
         [
-            "1A Lynnville-Sully Zach Morningstar 2023",
+            "1A Riceville Cody Hart 2026",
             56,
             56
         ],
         [
-            "1A Riverside Mason McCready 2024",
+            "1A West Fork Josh Hagin 2023",
             57,
             57
         ],
         [
-            "1A AC-GC Noah Kading 2025",
+            "1A North Union Nicholas Arndorfer 2024",
             58,
             58
         ],
         [
-            "1A North Mahaska Asher DeBoef 2025",
+            "1A Central Springs Blake Barker 2024",
             59,
             59
         ],
         [
-            "1A Earlham Carson Maly 2025",
+            "1A Bishop Garrigan Daniel Meis 2025",
             60,
             60
         ],
         [
-            "1A IKM-Manning Lane Sams 2024",
+            "1A North Iowa Noah Hanson 2025",
             61,
             61
         ],
         [
-            "1A Woodbine Thomas Tremel 2024",
+            "1A Nashua-Plainfield Caleb Lentz 2024",
             62,
             62
         ],
         [
-            "1A Lake Mills Knute Rogne 2026",
+            "1A Central Springs Owen Wetter 2024",
             63,
             63
         ],
         [
-            "1A Saint Albert Parker Heisterkamp 2025",
+            "1A North Iowa Jaycob Guthart 2025",
             64,
             64
         ],
         [
-            "1A Iowa City Regina Riordan Smith 2024",
+            "1A North Union Dalton Tobin 2023",
             65,
             65
         ],
         [
-            "1A AC-GC Tyconder Ellis 2023",
+            "1A Northwood-Kensett Aiden Bice 2025",
             66,
             66
         ],
         [
-            "1A Lamoni Tyson McDole 2023",
+            "1A Manson NW Webster Brody Proctor 2024",
             67,
             67
         ],
         [
-            "1A AC-GC Gavin Sloss 2025",
+            "1A Northwood-Kensett Zach Heiken 2026",
             68,
             68
         ],
         [
-            "1A St. Edmond Sam Mericle 2024",
+            "1A Bishop Garrigan Amaury Thomas 2026",
             69,
             69
         ],
         [
-            "1A Bishop Garrigan Gavin Swift 2023",
+            "1A Bishop Garrigan Schyler Morse 2025",
             70,
             70
         ],
         [
-            "1A AC-GC Bo Arrasmith 2024",
+            "1A Saint Ansgar Lucan Knutson 2025",
             71,
             71
         ],
         [
-            "1A St. Edmond Liam Shannon 2025",
+            "1A GTRA Zach Borchers 2024",
             72,
             72
         ],
         [
-            "1A AC-GC Lance Bunde 2024",
+            "1A North Union Aiden Bauer 2026",
             73,
             73
         ],
         [
-            "1A Alta-Aurelia Braden Sonksen 2023",
+            "1A Bishop Garrigan Nathaniel Darling 2024",
             74,
             74
         ],
         [
-            "1A Cascade Lane Cook 2025",
+            "1A Nashua-Plainfield Brexton Bird 2026",
             75,
             75
         ],
         [
-            "1A North Mahaska Brayden Veiseth 2024",
+            "1A Rockford Ryker Hoffman 2025",
             76,
             76
         ],
         [
-            "1A Springville Evan Robertson 2023",
+            "1A Saint Ansgar Brian Nunez 2025",
             77,
             77
         ],
         [
-            "1A Hinton Zach Sypersma 2023",
+            "1A Riceville Elijah Dwine 2026",
             78,
             78
         ],
         [
-            "1A Sioux Central Jack Christian 2026",
+            "1A GTRA Tristan Harvey 2024",
             79,
             79
         ],
         [
-            "1A Ogden Jordan King 2023",
+            "1A Belmond-Klemme Daniel Rodriguez 2026",
             80,
             80
         ],
         [
-            "1A Manson NW Webster Lane Moline 2023",
+            "1A Nashua-Plainfield Brady Lensing 2026",
             81,
             81
         ],
         [
-            "1A East Marshall Patrick Slifer 2023",
+            "1A West Fork Eli Muhlenbruch 2026",
             82,
             82
         ],
         [
-            "1A East Union Jacob Driskill 2024",
+            "1A GTRA Quentin Scott 2023",
             83,
             83
         ],
         [
-            "1A Iowa City Regina Samuel Welter 2025",
+            "1A Northwood-Kensett Christopher Madsen 2024",
             84,
             84
         ],
         [
-            "1A Ogden Levi Russo 2023",
+            "1A Rockford Mac Hirv 2024",
             85,
             85
         ],
         [
-            "1A Cascade Ben Gehl 2023",
+            "1A West Bend-Mallard Trevor Sabin 2023",
             86,
             86
         ],
         [
-            "1A Sioux Central Leighton Sippel 2025",
+            "1A West Bend-Mallard Grayden Forsythe 2025",
             87,
             87
         ],
         [
-            "1A St. Edmond Anthony Valles 2026",
+            "1A Belmond-Klemme Callum Sifert 2026",
             88,
             88
         ],
         [
-            "1A Tri-Center Sean McGee 2023",
+            "1A West Bend-Mallard Klayton Jones 2024",
             89,
             89
         ],
         [
-            "1A IKM-Manning Nathan Johnson 2023",
+            "1A Bishop Garrigan Gabe Swift 2026",
             90,
             90
         ],
         [
-            "1A Woodbine Adam Barry 2025",
+            "1A West Fork Jake Swenson 2023",
             91,
             91
-        ],
-        [
-            "1A Earlham Blake Tiemeyer 2025",
-            92,
-            92
-        ],
-        [
-            "1A Newman Joey Ringo 2023",
-            93,
-            93
-        ],
-        [
-            "1A North Linn Levi Benesh 2026",
-            94,
-            94
-        ],
-        [
-            "1A Lawton-Bronson Theo Moseman 2023",
-            95,
-            95
-        ],
-        [
-            "1A Iowa City Regina Colin Olney 2024",
-            96,
-            96
-        ],
-        [
-            "1A Heartland Christian Gavin Andersen 2023",
-            97,
-            97
-        ],
-        [
-            "1A Sioux Central Brayden Kramber 2024",
-            98,
-            98
-        ],
-        [
-            "1A North Mahaska Nate Sampson 2024",
-            99,
-            99
-        ],
-        [
-            "1A Saint Albert Adam Denny 2023",
-            100,
-            100
-        ],
-        [
-            "1A Bellevue Connor Kilburg 2026",
-            101,
-            101
-        ],
-        [
-            "1A East Marshall Brock Curtis 2023",
-            102,
-            102
-        ],
-        [
-            "1A North Linn Landon Thomsen 2026",
-            103,
-            103
-        ],
-        [
-            "1A Lake Mills Kade Van Roekel 2025",
-            104,
-            104
-        ],
-        [
-            "1A Clayton Ridge Erik Flores 2023",
-            105,
-            105
-        ],
-        [
-            "1A St. Edmond Thomas Cosgrove 2024",
-            106,
-            106
-        ],
-        [
-            "1A Ogden Jude Benbow 2025",
-            107,
-            107
-        ],
-        [
-            "1A Bellevue Ben Meyer 2024",
-            108,
-            108
-        ],
-        [
-            "1A East Marshall Chandler Curtis 2026",
-            109,
-            109
-        ],
-        [
-            "1A Bellevue Gabe Manders 2025",
-            110,
-            110
-        ],
-        [
-            "1A North Linn Ty Pflughaupt 2024",
-            111,
-            111
-        ],
-        [
-            "1A North Mahaska Lane Harmon 2023",
-            112,
-            112
-        ],
-        [
-            "1A IKM-Manning Kasche Huehn 2025",
-            113,
-            113
-        ],
-        [
-            "1A East Marshall Cale Hungerford 2024",
-            114,
-            114
-        ],
-        [
-            "1A Cascade Andrew Kaalberg 2025",
-            115,
-            115
-        ],
-        [
-            "1A IKM-Manning Abe Polzien 2025",
-            116,
-            116
-        ],
-        [
-            "1A Saint Albert Gabriel Barajas 2025",
-            117,
-            117
-        ],
-        [
-            "1A Sioux Central Joshua Hoffman 2025",
-            118,
-            118
-        ],
-        [
-            "1A Lake Mills Hayden Thompson 2026",
-            119,
-            119
-        ],
-        [
-            "1A IKM-Manning Camden Morris 2026",
-            120,
-            120
-        ],
-        [
-            "1A Madrid Blake Renze 2025",
-            121,
-            121
-        ],
-        [
-            "1A Sioux Central Ethan Wernimont 2024",
-            122,
-            122
-        ],
-        [
-            "1A Lake Mills Stephen Brandenburg 2026",
-            123,
-            123
-        ],
-        [
-            "1A St. Edmond Carter Rial 2023",
-            124,
-            124
-        ],
-        [
-            "1A Woodbine Xander Johnson 2025",
-            125,
-            125
-        ],
-        [
-            "1A Ogden Parker Trusler 2023",
-            126,
-            126
-        ],
-        [
-            "1A North Mahaska Ben Yang 2025",
-            127,
-            127
-        ],
-        [
-            "1A Clayton Ridge Jackson Patino 2023",
-            128,
-            128
-        ],
-        [
-            "1A Saint Albert Joe Hughes 2025",
-            129,
-            129
-        ],
-        [
-            "1A Clayton Ridge Jesus Tabora-Lara 2025",
-            130,
-            130
-        ],
-        [
-            "1A North Mahaska Andy Knockel 2024",
-            131,
-            131
-        ],
-        [
-            "1A Ogden Brady Van Sickle 2025",
-            132,
-            132
-        ],
-        [
-            "1A Madrid Brody Buck 2025",
-            133,
-            133
-        ],
-        [
-            "1A Madrid Jacob White 2025",
-            134,
-            134
-        ],
-        [
-            "1A Cascade Nathaniel Manternach 2024",
-            135,
-            135
-        ],
-        [
-            "1A Woodbine Trey Burgermeyer 2024",
-            136,
-            136
-        ],
-        [
-            "1A Saint Albert Brady Smith 2026",
-            137,
-            137
-        ],
-        [
-            "1A Bellevue Kaden Guenther 2024",
-            138,
-            138
-        ],
-        [
-            "1A Sioux Central Nathan Kueny 2024",
-            139,
-            139
-        ],
-        [
-            "1A North Linn Carter Folkers 2023",
-            140,
-            140
-        ],
-        [
-            "1A Madrid Colton Kniffen 2023",
-            141,
-            141
-        ],
-        [
-            "1A Clayton Ridge Nate Meier 2023",
-            142,
-            142
-        ],
-        [
-            "1A Cascade Trenten Topping 2025",
-            143,
-            143
-        ],
-        [
-            "1A Madrid Cavin Pehl 2026",
-            144,
-            144
-        ],
-        [
-            "1A Sioux Central Alex Kueny 2026",
-            145,
-            145
-        ],
-        [
-            "1A Lake Mills Lucas Oldenkamp 2025",
-            146,
-            146
-        ],
-        [
-            "1A Clayton Ridge Colton Hoeger 2026",
-            147,
-            147
-        ],
-        [
-            "1A North Linn Sawyer Long 2026",
-            148,
-            148
-        ],
-        [
-            "1A St. Edmond Thomas Knobbe 2026",
-            149,
-            149
-        ],
-        [
-            "1A East Marshall Carter Brummel 2024",
-            150,
-            150
-        ],
-        [
-            "1A Lake Mills Alejandro Vazquez-Perez 2025",
-            151,
-            151
-        ],
-        [
-            "1A North Mahaska Clay Thompson 2024",
-            152,
-            152
-        ],
-        [
-            "1A North Linn Luke Barth 2026",
-            153,
-            153
         ]
     ]
 }
