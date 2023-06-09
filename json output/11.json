@@ -1,719 +1,719 @@
 {
-    "name": "Iowa City West",
+    "name": "IFA AGWSR",
     "time_seconds": 1661403611,
     "standings": [
         [
-            "4A IOWA CITY HIGH FORD WASHBURN 2023",
+            "1A EAST MARSHALL PATRICK SLIFER 2023",
             0,
             0
         ],
         [
-            "4A IOWA CITY HIGH NOAH CAREY 2023",
+            "1A NEWMAN JOEY RINGO 2023",
             1,
             1
         ],
         [
-            "4A IOWA CITY HIGH TRUMAN THOMPSON 2023",
+            "3A NEVADA CARTER HOLLAND 2024",
             2,
             2
         ],
         [
-            "4A IOWA CITY LIBERTY AIDAN DECKER 2024",
+            "3A CLEAR LAKE LEO TOLENTINO 2023",
             3,
             3
         ],
         [
-            "4A IOWA CITY LIBERTY NATHAN KINZER 2023",
+            "3A CLEAR LAKE JACK CRANE 2023",
             4,
             4
         ],
         [
-            "4A IOWA CITY HIGH AYMAN NORELDAIM 2023",
+            "1A EAST MARSHALL JOE TERRONES 2023",
             5,
             5
         ],
         [
-            "4A IOWA CITY HIGH BRAEDEN MARKER 2023",
+            "3A NEVADA OWEN FREEMAN 2023",
             6,
             6
         ],
         [
-            "4A IOWA CITY LIBERTY NOAH GREGOIRE 2025",
+            "3A CLEAR LAKE ANDREW MIXDORF 2023",
             7,
             7
         ],
         [
-            "4A BETTENDORF CHASE WAKEFIELD 2024",
+            "3A IFA-AGWSR JASE BEAUBIEN 2023",
             8,
             8
         ],
         [
-            "2A MID-PRAIRIE EMMETT SWARTZENTRUBER 2025",
+            "3A CLEAR LAKE JADEN WRIGHT 2023",
             9,
             9
         ],
         [
-            "4A IOWA CITY HIGH ADAM BYWATER 2023",
+            "3A NEVADA BRIAN RHODE 2025",
             10,
             10
         ],
         [
-            "4A IOWA CITY HIGH OWYN NOBLE 2024",
+            "1A EAST MARSHALL KALEB GRANT 2024",
             11,
             11
         ],
         [
-            "4A BETTENDORF XAVIER POTTS 2023",
+            "3A NEVADA NICK FRIDERES 2023",
             12,
             12
         ],
         [
-            "4A BETTENDORF RYAN HEDEN 2025",
+            "3A CLEAR LAKE OWEN SMITH 2025",
             13,
             13
         ],
         [
-            "4A IOWA CITY HIGH OLIVER PALMER 2023",
+            "3A NEVADA ROWAN STEELE 2024",
             14,
             14
         ],
         [
-            "4A DUBUQUE SENIOR JACK KIRMAN 2026",
+            "3A CLEAR LAKE MARCUS SKIDMORE 2023",
             15,
             15
         ],
         [
-            "4A BETTENDORF AJ WILLEY 2026",
+            "3A CLEAR LAKE AIDEN HIPPEN 2026",
             16,
             16
         ],
         [
-            "2A MID-PRAIRIE BLAKE CREED 2023",
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
             17,
             17
         ],
         [
-            "2A MID-PRAIRIE PRESTON YUTZY 2025",
+            "1A EAST MARSHALL BROCK CURTIS 2023",
             18,
             18
         ],
         [
-            "4A BETTENDORF KAIDAN VANDERWEELE 2024",
+            "3A CLEAR LAKE ISAAC SMITH 2026",
             19,
             19
         ],
         [
-            "4A IOWA CITY HIGH OWEN VANDERLINDEN 2023",
+            "1A EAST MARSHALL CHANDLER CURTIS 2026",
             20,
             20
         ],
         [
-            "4A IOWA CITY LIBERTY JACOB MADSEN 2025",
+            "2A EAGLE GROVE DRAKE WELAND 2023",
             21,
             21
         ],
         [
-            "4A IOWA CITY HIGH SETH YODER 2025",
+            "1A EAST MARSHALL CALE HUNGERFORD 2024",
             22,
             22
         ],
         [
-            "4A BETTENDORF GAGE RATH 2024",
+            "3A NEVADA WILL BAUMAN 2024",
             23,
             23
         ],
         [
-            "2A MID-PRAIRIE JAYSE YODER 2025",
+            "1A NEWMAN ADAM HENRICH 2025",
             24,
             24
         ],
         [
-            "4A IOWA CITY HIGH ADAM SCHAEFER 2025",
+            "3A HAMPTON-DUMONT CAL ISAAC VOSBURG 2025",
             25,
             25
         ],
         [
-            "4A IOWA CITY HIGH WILL DICKSON 2023",
+            "1A NEWMAN LIAM STOCKBERGER 2024",
             26,
             26
         ],
         [
-            "4A IOWA CITY HIGH GEORGE KARR 2025",
+            "3A NEVADA PAUL STEPHENS 2026",
             27,
             27
         ],
         [
-            "4A BETTENDORF NOAH GEHLER 2025",
+            "3A NEVADA DAWSON LEMKE 2026",
             28,
             28
         ],
         [
-            "4A BETTENDORF CALEB RANKIN 2025",
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
             29,
             29
         ],
         [
-            "4A IOWA CITY LIBERTY MAXWELL THOMPSON 2023",
+            "1A NEWMAN LANDON KOHLER 2023",
             30,
             30
         ],
         [
-            "4A DUBUQUE SENIOR ROBERT HOWES 2023",
+            "1A SOUTH HARDIN COLTON MCDONALD 2023",
             31,
             31
         ],
         [
-            "4A IOWA CITY LIBERTY MADDUX JOHNSON 2024",
+            "3A HUMBOLDT GABE THUMMA 2026",
             32,
             32
         ],
         [
-            "4A BETTENDORF NATHAN WINGER 2026",
+            "3A NEVADA FRANK ENGSTROM 2024",
             33,
             33
         ],
         [
-            "4A DUBUQUE SENIOR DANNY ROTHERT 2025",
+            "1A NEWMAN NOAH O'CONNELL 2025",
             34,
             34
         ],
         [
-            "4A BETTENDORF LANDON POTTS 2025",
+            "2A EAGLE GROVE NOAH THUL 2024",
             35,
             35
         ],
         [
-            "4A IOWA CITY HIGH MATT SCHAECKENBACH 2023",
+            "1A SOUTH HARDIN HAYDEN STARR 2025",
             36,
             36
         ],
         [
-            "2A MID-PRAIRIE NATHAN WALLINGTON 2023",
+            "3A CLEAR LAKE CALEB JONES 2024",
             37,
             37
         ],
         [
-            "4A DUBUQUE SENIOR CHARLIE BRANSCOMB 2024",
+            "3A NEVADA IAN THOMAS 2024",
             38,
             38
         ],
         [
-            "4A DUBUQUE SENIOR GRADEN KROGER 2026",
+            "3A IFA-AGWSR HUNTER MILLER 2025",
             39,
             39
         ],
         [
-            "2A MID-PRAIRIE DANIEL RODGERS 2024",
+            "2A EAGLE GROVE ZABDI CASTRO 2025",
             40,
             40
         ],
         [
-            "4A DUBUQUE SENIOR BEN HOHMANN 2026",
+            "1A NEWMAN SAM STEIDL 2025",
             41,
             41
         ],
         [
-            "4A BETTENDORF ZACH VANWYCHEN 2024",
+            "3A NEVADA LUCAS MILLS 2024",
             42,
             42
         ],
         [
-            "4A IOWA CITY LIBERTY THOMAS FOWLER 2025",
+            "2A EAGLE GROVE DUSTIN DAWSON 2023",
             43,
             43
         ],
         [
-            "2A MID-PRAIRIE JESSE STULTZ 2026",
+            "3A HUMBOLDT HAYDEN HANSEN 2024",
             44,
             44
         ],
         [
-            "4A IOWA CITY HIGH HAL SEAMANS 2023",
+            "1A EAST MARSHALL CARTER BRUMMEL 2024",
             45,
             45
         ],
         [
-            "4A DUBUQUE SENIOR FINN KINKAID 2025",
+            "3A HUMBOLDT JAYDEN GARGANO 2023",
             46,
             46
         ],
         [
-            "4A IOWA CITY HIGH JACK DEGNER 2024",
+            "3A NEVADA GAVIN SKAGGS 2024",
             47,
             47
         ],
         [
-            "4A IOWA CITY HIGH IAIN GARFINKEL 2023",
+            "2A EAGLE GROVE FELIX GONZALEZ 2026",
             48,
             48
         ],
         [
-            "2A MID-PRAIRIE JORDAN STOCK 2023",
+            "2A EAGLE GROVE DYLAN BECK 2025",
             49,
             49
         ],
         [
-            "4A IOWA CITY HIGH JONAS ACKERMAN 2023",
+            "2A EAGLE GROVE ZACH HOGREFE 2025",
             50,
             50
         ],
         [
-            "4A IOWA CITY HIGH HENRI RENAUD 2025",
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
             51,
             51
         ],
         [
-            "4A IOWA CITY HIGH RHYS ZAWOJEWSKI 2023",
+            "3A CLEAR LAKE WESTON CONWAY 2025",
             52,
             52
         ],
         [
-            "4A IOWA CITY HIGH EPHRAM BYLER 2025",
+            "3A HUMBOLDT JUSTIN ASH 2025",
             53,
             53
         ],
         [
-            "4A IOWA CITY HIGH DYLAN BEERENDS 2025",
+            "3A CLEAR LAKE ETHAN EVELSIZER 2024",
             54,
             54
         ],
         [
-            "4A DUBUQUE SENIOR SAM CAVANAUGH 2026",
+            "2A APLINGTON-PARKERSBURG JONAH CARNEY 2026",
             55,
             55
         ],
         [
-            "4A IOWA CITY HIGH BEN PLATTE 2024",
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
             56,
             56
         ],
         [
-            "4A BETTENDORF ELI HUGHES 2024",
+            "2A EAGLE GROVE ALEX GASPAR 2023",
             57,
             57
         ],
         [
-            "4A IOWA CITY LIBERTY JULIUS VIDAL 2026",
+            "3A HUMBOLDT DAYLIN MCDANIEL 2024",
             58,
             58
         ],
         [
-            "4A BETTENDORF JAMES PORTER 2024",
+            "3A NEVADA MILES ENGSTROM 2026",
             59,
             59
         ],
         [
-            "4A IOWA CITY LIBERTY LUKE GAGE 2023",
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
             60,
             60
         ],
         [
-            "4A IOWA CITY HIGH BRADY GLUBA 2025",
+            "3A HAMPTON-DUMONT CAL MITTERAND TCHAMBA 2023",
             61,
             61
         ],
         [
-            "4A DUBUQUE SENIOR COLTON FREUND 2026",
+            "3A CLEAR LAKE DANIEL STEINBRON 2026",
             62,
             62
         ],
         [
-            "4A DUBUQUE SENIOR ALEX DIXON 2024",
+            "3A CLEAR LAKE LIAM BYRNES 2025",
             63,
             63
         ],
         [
-            "4A IOWA CITY HIGH LINUS MCROBERTS 2026",
+            "3A CLEAR LAKE COLBY ARCHER 2026",
             64,
             64
         ],
         [
-            "2A MID-PRAIRIE THOMAS FLYNN 2025",
+            "3A HAMPTON-DUMONT CAL MARSHAL RUST 2023",
             65,
             65
         ],
         [
-            "4A DUBUQUE SENIOR HENRY ARLING 2026",
+            "3A CLEAR LAKE ANDREW KORENBERG 2024",
             66,
             66
         ],
         [
-            "2A MID-PRAIRIE LUKE BROKAW 2026",
+            "3A CLEAR LAKE HUDSON UETZ 2025",
             67,
             67
         ],
         [
-            "4A DUBUQUE SENIOR SAM WEBER 2024",
+            "3A HUMBOLDT JADEN HIMROD 2025",
             68,
             68
         ],
         [
-            "4A DUBUQUE SENIOR GABE CHRISTENSEN 2026",
+            "1A NEWMAN JACE SUNTKEN 2026",
             69,
             69
         ],
         [
-            "4A BETTENDORF ELIAS LIGHTFOOT 2024",
+            "3A NEVADA CALEB BIENSEN 2026",
             70,
             70
         ],
         [
-            "4A DUBUQUE SENIOR SHEA MCDONALD 2026",
+            "1A SOUTH HARDIN COLLIN BURK 2026",
             71,
             71
         ],
         [
-            "4A BETTENDORF KARTER HOLDRIDGE 2024",
+            "1A NEWMAN TYLER PETREE 2026",
             72,
             72
         ],
         [
-            "4A DUBUQUE SENIOR ALEX NIELSEN 2024",
+            "3A NEVADA CONNERY VARSA 2026",
             73,
             73
         ],
         [
-            "4A IOWA CITY LIBERTY TIMOTHY WELCH 2023",
+            "1A NEWMAN DAN SPOONER 2026",
             74,
             74
         ],
         [
-            "2A MID-PRAIRIE JACOB DONALDSON 2024",
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
             75,
             75
         ],
         [
-            "4A DUBUQUE SENIOR BEN SCHAEFER 2026",
+            "3A HUMBOLDT JASPER JONES 2025",
             76,
             76
         ],
         [
-            "4A IOWA CITY HIGH JARRIS PROSTTMANN 2026",
+            "3A HAMPTON-DUMONT CAL PEYTON KOFOOT 2025",
             77,
             77
         ],
         [
-            "4A IOWA CITY HIGH JACK LEHMAN 2026",
+            "3A NEVADA BOURNE HANSON 2026",
             78,
             78
         ],
         [
-            "2A MID-PRAIRIE MOSE YODER 2023",
+            "3A HAMPTON-DUMONT CAL BRODY ROBERTSON 2025",
             79,
             79
         ],
         [
-            "2A MID-PRAIRIE ANDREW STULTZ 2023",
+            "1A EAST MARSHALL JOE FULLER 2025",
             80,
             80
         ],
         [
-            "2A MID-PRAIRIE SAWYER HOUGH 2024",
+            "3A NEVADA RYAN WESSELS 2025",
             81,
             81
         ],
         [
-            "4A DUBUQUE SENIOR ELIJAH ROACH 2026",
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
             82,
             82
         ],
         [
-            "4A IOWA CITY LIBERTY PETER STRATHMAN 2025",
+            "1A EAST MARSHALL AUSTIN PANSEGRAU 2026",
             83,
             83
         ],
         [
-            "4A BETTENDORF WILLIAM NEIGHBOR 2025",
+            "1A SOUTH HARDIN GAVIN RUNYON 2025",
             84,
             84
         ],
         [
-            "4A IOWA CITY LIBERTY GAVIN NELSON 2024",
+            "1A BELMOND-KLEMME ALDO MARTINEZ 2023",
             85,
             85
         ],
         [
-            "4A BETTENDORF ELLIOT DAVIS 2026",
+            "3A IFA-AGWSR WILKEN KUBE 2024",
             86,
             86
         ],
         [
-            "4A BETTENDORF ALEX CULLUM 2024",
+            "2A EAGLE GROVE PATRICK HEATON 2026",
             87,
             87
         ],
         [
-            "4A DUBUQUE SENIOR JOSH SCHWAB 2026",
+            "2A APLINGTON-PARKERSBURG ISSAC FOXEN 2025",
             88,
             88
         ],
         [
-            "4A IOWA CITY LIBERTY EVAN PAVOLVEC 2025",
+            "3A CLEAR LAKE AIDAN MANEMANN 2023",
             89,
             89
         ],
         [
-            "4A IOWA CITY HIGH NOAM MORTON 2025",
+            "3A CLEAR LAKE CJ VARNER 2026",
             90,
             90
         ],
         [
-            "4A DUBUQUE SENIOR JACOB ROWE 2025",
+            "3A HUMBOLDT PEYTON VAN PELT 2024",
             91,
             91
         ],
         [
-            "4A IOWA CITY HIGH WILLIAM KARR 2025",
+            "3A HUMBOLDT CARSON CHAMBERS 2026",
             92,
             92
         ],
         [
-            "4A IOWA CITY HIGH SILAS GOLLINCK 2026",
+            "3A IFA-AGWSR MARTIN BEISEL 2023",
             93,
             93
         ],
         [
-            "4A DUBUQUE SENIOR WILLIAM FRY 2026",
+            "3A HUMBOLDT COLLIN VIK 2023",
             94,
             94
         ],
         [
-            "4A IOWA CITY HIGH BROM LEAPOLD 2023",
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
             95,
             95
         ],
         [
-            "4A DUBUQUE SENIOR MASON LIDDLE 2025",
+            "3A HUMBOLDT HENRY BORMANN 2024",
             96,
             96
         ],
         [
-            "4A IOWA CITY HIGH LUKE LOCHER 2024",
+            "1A NEWMAN JOSH HANSON 2024",
             97,
             97
         ],
         [
-            "4A IOWA CITY HIGH LYNDEN MACGILLIVRAY 2026",
+            "1A NEWMAN OWEN KLATT 2024",
             98,
             98
         ],
         [
-            "4A BETTENDORF JACK COCKAYNE 2023",
+            "3A CLEAR LAKE CODY HUA 2024",
             99,
             99
         ],
         [
-            "4A IOWA CITY LIBERTY RILEY DORMAN 2025",
+            "2A EAGLE GROVE EVAN COOPER 2025",
             100,
             100
         ],
         [
-            "4A IOWA CITY LIBERTY SEBASTIAN TUCKER 2026",
+            "3A NEVADA RYNE ERICKSON 2024",
             101,
             101
         ],
         [
-            "4A BETTENDORF TRENT ALLEN 2023",
+            "2A APLINGTON-PARKERSBURG GAVIN BERNARD 2025",
             102,
             102
         ],
         [
-            "4A IOWA CITY LIBERTY RUSSELL BROWN 2025",
+            "3A CLEAR LAKE ETHAN GANSEN 2024",
             103,
             103
         ],
         [
-            "4A IOWA CITY LIBERTY RYAN MCDERMOTT 2025",
+            "3A NEVADA COLLIN SKAGGS 2026",
             104,
             104
         ],
         [
-            "4A IOWA CITY LIBERTY ELI GATTS 2026",
+            "3A NEVADA NICHOLAS FISCHELS 2026",
             105,
             105
         ],
         [
-            "4A IOWA CITY HIGH SAM HAGEDORN 2023",
+            "3A NEVADA DAMIN BROCKMAN 2026",
             106,
             106
         ],
         [
-            "4A IOWA CITY LIBERTY KYLE GESELL 2025",
+            "1A NEWMAN ELIAS CARLSSON 2026",
             107,
             107
         ],
         [
-            "4A IOWA CITY HIGH FARIS ELTAYIB 2023",
+            "1A SOUTH HARDIN CHARLIE CUMMINGS 2026",
             108,
             108
         ],
         [
-            "4A DUBUQUE SENIOR TEDDY RUPPEL 2025",
+            "2A EAGLE GROVE FELIX REYES 2026",
             109,
             109
         ],
         [
-            "4A DUBUQUE SENIOR DEREK FOHT 2025",
+            "2A APLINGTON-PARKERSBURG ADAM MASKE 2023",
             110,
             110
         ],
         [
-            "4A DUBUQUE SENIOR PRESTON BLOCK 2025",
+            "3A IFA-AGWSR ERIC WENNES 2023",
             111,
             111
         ],
         [
-            "4A IOWA CITY LIBERTY ANGEL PAREDES RUIZ 2024",
+            "3A HAMPTON-DUMONT CAL ISAAC SAUKE 2025",
             112,
             112
         ],
         [
-            "4A IOWA CITY HIGH JACK EDWARDS 2026",
+            "3A HUMBOLDT GRAHAM BAKKEN 2026",
             113,
             113
         ],
         [
-            "4A IOWA CITY HIGH TRUMAN BRIGHT 2024",
+            "3A IFA-AGWSR AARON BLACKBURN 2026",
             114,
             114
         ],
         [
-            "2A MID-PRAIRIE JOSH KEAOUGH 2024",
+            "2A EAGLE GROVE BRANDON CRAIL 2023",
             115,
             115
         ],
         [
-            "2A MID-PRAIRIE ADRIAN SANCHEZ 2025",
+            "3A HAMPTON-DUMONT CAL CADE ALONZO 2024",
             116,
             116
         ],
         [
-            "4A IOWA CITY LIBERTY JOSH MUNSON 2023",
+            "3A HUMBOLDT STERLING SCRANTON 2025",
             117,
             117
         ],
         [
-            "4A BETTENDORF NOAH BAXA 2025",
+            "3A HUMBOLDT JOEL THURM 2026",
             118,
             118
         ],
         [
-            "4A IOWA CITY HIGH ELI FOSTER 2025",
+            "3A HAMPTON-DUMONT CAL TAM HINDIN 2024",
             119,
             119
         ],
         [
-            "4A DUBUQUE SENIOR ZACH MATHEW 2026",
+            "3A HUMBOLDT TYLER SCHLUTER 2023",
             120,
             120
         ],
         [
-            "4A DUBUQUE SENIOR FINNIGAN NOEL 2025",
+            "2A APLINGTON-PARKERSBURG LANDON REYNOLDS 2025",
             121,
             121
         ],
         [
-            "4A IOWA CITY LIBERTY TREVOR PETERSEN 2026",
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
             122,
             122
         ],
         [
-            "4A IOWA CITY LIBERTY ISAAC BLACKWELL 2026",
+            "3A CLEAR LAKE LANE STROUP 2026",
             123,
             123
         ],
         [
-            "4A IOWA CITY HIGH ARAV PARANDKAR 2025",
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
             124,
             124
         ],
         [
-            "4A DUBUQUE SENIOR ISAAC MAUS 2024",
+            "3A HUMBOLDT KEATON TAYLOR 2026",
             125,
             125
         ],
         [
-            "4A IOWA CITY HIGH CONNOR MCDOWELL 2023",
+            "3A CLEAR LAKE JACKSON WEST 2023",
             126,
             126
         ],
         [
-            "4A IOWA CITY HIGH MARK ELWER 2026",
+            "3A HUMBOLDT KADEN CAQUELIN 2025",
             127,
             127
         ],
         [
-            "4A IOWA CITY HIGH JACK AYERS 2023",
+            "3A HAMPTON-DUMONT CAL LANDYN MCGUIRE 2023",
             128,
             128
         ],
         [
-            "4A DUBUQUE SENIOR SEBASTIAN REINERT 2025",
+            "3A HAMPTON-DUMONT CAL CONNOR MILLER 2025",
             129,
             129
         ],
         [
-            "4A IOWA CITY HIGH JACOB DIXON 2025",
+            "3A CLEAR LAKE EZRA ZICKEFOOSE 2026",
             130,
             130
         ],
         [
-            "2A MID-PRAIRIE ALEX CASTILLO 2026",
+            "1A SOUTH HARDIN EDWIN LOZANO 2023",
             131,
             131
         ],
         [
-            "4A DUBUQUE SENIOR MONTE SPRANK 2024",
+            "3A HUMBOLDT JASE GOODELL 2023",
             132,
             132
         ],
         [
-            "4A DUBUQUE SENIOR JACKSON DAVIS 2026",
+            "3A CLEAR LAKE ABRAHAM CLARK 2026",
             133,
             133
         ],
         [
-            "4A IOWA CITY LIBERTY AUSTIN ANDERSON 2025",
+            "3A NEVADA SPENCER HALEY 2026",
             134,
             134
         ],
         [
-            "4A IOWA CITY LIBERTY JACOB SMITH 2024",
+            "3A CLEAR LAKE KARSEN EVANS 2026",
             135,
             135
         ],
         [
-            "4A IOWA CITY LIBERTY REGAN KOPECKY 2026",
+            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
             136,
             136
         ],
         [
-            "4A IOWA CITY HIGH LU GUETZKO 2023",
+            "3A CLEAR LAKE JACKSON EDEN 2026",
             137,
             137
         ],
         [
-            "2A MID-PRAIRIE OWEN ZIRKELBACH 2026",
+            "2A APLINGTON-PARKERSBURG ELI THORNE 2024",
             138,
             138
         ],
         [
-            "4A DUBUQUE SENIOR RYDER BARTMANN 2026",
+            "1A NEWMAN BEN SCHUTT 2025",
             139,
             139
         ],
         [
-            "4A DUBUQUE SENIOR GARRETT HESSELMAN 2025",
+            "3A HUMBOLDT MACK HARKLAU 2025",
             140,
             140
         ],
         [
-            "4A IOWA CITY LIBERTY COOPER BUSCHE 2026",
+            "3A HUMBOLDT JASON OXLAJ-MEJIA 2025",
             141,
             141
         ],
         [
-            "2A MID-PRAIRIE EVAN RESCHLY 2026",
+            "3A HUMBOLDT COLBY CAQUELIN 2023",
             142,
             142
         ]
