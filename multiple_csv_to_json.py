@@ -38,7 +38,11 @@ for filename in sorted(glob.glob(os.path.join(path, '*.csv'))):
       "standings": results_list
    }
    
-   race += 1
+   if race == 59:
+      race = 0
+   else:
+      race += 1
+   
    
    json_object = json.dumps(dictionary, indent=4)
 
