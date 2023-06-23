@@ -1,406 +1,321 @@
 {
-    "name": "1A SQM ACGC",
-    "time_seconds": 1666242018,
+    "name": "Central Decatur",
+    "time_seconds": 1662440418,
     "standings": [
         [
-            "1A IKM-MANNING CADEN KELLER 2023",
+            "1A SE WARREN RONAN JIMENEZ 2023",
             0,
             0
         ],
         [
-            "1A BOYER VALLEY PATRICK HEFFERNAN 2023",
+            "1A CENTRAL DECATUR VINCENT CARCAMO 2023",
             1,
             1
         ],
         [
-            "1A AC-GC JUSTIN REINHART 2023",
+            "1A LAMONI TYSON MCDOLE 2023",
             2,
             2
         ],
         [
-            "1A AC-GC ANDREW MAHAFFEY 2024",
+            "1A WAYNE LEVI MOSS 2024",
             3,
             3
         ],
         [
-            "1A NODAWAY VALLEY DOUG BERG 2023",
+            "1A CENTRAL DECATUR JOE SHEETZ 2024",
             4,
             4
         ],
         [
-            "1A ANKENY CHRISTIAN DANIEL SCHOENING 2026",
+            "2A CHARITON CONNOR DIXSON 2024",
             5,
             5
         ],
         [
-            "1A EARLHAM CARSON MALY 2025",
+            "2A CHARITON DAVID CRABB 2024",
             6,
             6
         ],
         [
-            "1A AC-GC NOAH KADING 2025",
+            "2A CHARITON BRADLEY HOBBS 2024",
             7,
             7
         ],
         [
-            "1A EARLHAM BLAKE TIEMEYER 2025",
+            "1A PLEASANTVILLE KURT KUHNEN 2025",
             8,
             8
         ],
         [
-            "1A IKM-MANNING LANE SAMS 2024",
+            "3A CLARKE CALHOUN LUNDQUIST 2023",
             9,
             9
         ],
         [
-            "1A AC-GC BO ARRASMITH 2024",
+            "3A CLARKE MICAH DOMINA 2025",
             10,
             10
         ],
         [
-            "1A IKM-MANNING REED HINNERS 2023",
+            "1A WAYNE MAX POLLOCK 2026",
             11,
             11
         ],
         [
-            "1A WEST MONONA EEIN MCKINLEY 2023",
+            "3A CLARKE DEVANTE CALDWELL 2025",
             12,
             12
         ],
         [
-            "1A AC-GC LANCE BUNDE 2024",
+            "1A CENTRAL DECATUR KEVIN LINHART 2023",
             13,
             13
         ],
         [
-            "1A AC-GC GAVIN SLOSS 2025",
+            "2A CHARITON BRENT CRABB 2026",
             14,
             14
         ],
         [
-            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            "2A CHARITON DREAVIN SHENEFIELD 2024",
             15,
             15
         ],
         [
-            "1A NODAWAY VALLEY MALACHI BROERS 2024",
+            "1A CENTRAL DECATUR ARI JOHNSON 2025",
             16,
             16
         ],
         [
-            "1A AC-GC TYCONDER ELLIS 2023",
+            "3A CLARKE RICHIE DONALDSON 2023",
             17,
             17
         ],
         [
-            "1A SOUTH HAMILTON LANDON GROVE 2023",
+            "1A PLEASANTVILLE JENKIN FULMER 2023",
             18,
             18
         ],
         [
-            "1A WEST MONONA JAYCE LYNN 2023",
+            "1A WAYNE NASH BUCKINGHAM 2024",
             19,
             19
         ],
         [
-            "1A IKM-MANNING KASCHE HUEHN 2025",
+            "2A CHARITON SAMUEL KERNS 2025",
             20,
             20
         ],
         [
-            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            "1A WAYNE DALTON COUCHMAN 2023",
             21,
             21
         ],
         [
-            "1A SOUTH HAMILTON ELI POTTER 2023",
+            "1A DIAGONAL SCOTTY BOHN 2023",
             22,
             22
         ],
         [
-            "1A EARLHAM PAYTON HARGER 2024",
+            "1A SE WARREN CHASE THOMPSON 2024",
             23,
             23
         ],
         [
-            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2025",
+            "2A CHARITON DYLAN CHANDLER 2026",
             24,
             24
         ],
         [
-            "1A ANKENY CHRISTIAN ALEX DAVIS 2026",
+            "1A MOUNT AYR ASHTYN BENESH 2024",
             25,
             25
         ],
         [
-            "1A WOODWARD ACADEMY ASHER MORLEY 2024",
+            "3A CLARKE CONNER WILLIAMS 2025",
             26,
             26
         ],
         [
-            "1A EXIRA ERIC WILSON 2024",
+            "1A DIAGONAL CARTER LUMBARD 2024",
             27,
             27
         ],
         [
-            "1A AHSTW CALEB HATCH 2024",
+            "3A CLARKE NATHANIEL BISHOP 2023",
             28,
             28
         ],
         [
-            "1A CAM GAVIN CLAYTON 2023",
+            "1A CENTRAL DECATUR MADDOX KISTLER 2025",
             29,
             29
         ],
         [
-            "1A SOUTH HAMILTON PETE COBURN 2024",
+            "1A DIAGONAL OWEN WHITTINGTON 2026",
             30,
             30
         ],
         [
-            "1A WEST MONONA ANDREW ORR 2024",
+            "1A MOUNT AYR BRAYLON GREENWELL 2026",
             31,
             31
         ],
         [
-            "1A WEST MONONA GABE MCKINLEY 2024",
+            "2A CHARITON MITCHELL SWARTHOUT 2023",
             32,
             32
         ],
         [
-            "1A IKM-MANNING ABE POLZIEN 2025",
+            "1A CENTRAL DECATUR CODY MORGAN 2023",
             33,
             33
         ],
         [
-            "1A SOUTH HAMILTON BOBBY TAPPER 2024",
+            "1A PLEASANTVILLE MORRISON FULMER 2026",
             34,
             34
         ],
         [
-            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            "1A WAYNE COOPER ANDERSON 2024",
             35,
             35
         ],
         [
-            "1A WOODWARD GRANGER CAEL LEIGHTON 2026",
+            "2A CHARITON GAGE HART 2024",
             36,
             36
         ],
         [
-            "1A EARLHAM BLAKE PETERSEN 2025",
+            "3A CLARKE COOPER BAHLS 2025",
             37,
             37
         ],
         [
-            "1A EARLHAM DONOVAN BRAET 2026",
+            "2A CHARITON ETHAN WERTS 2025",
             38,
             38
         ],
         [
-            "1A SOUTH HAMILTON BENJAMIN BAILEY 2023",
+            "1A PLEASANTVILLE JAYDIN BOONE 2025",
             39,
             39
         ],
         [
-            "1A ANKENY CHRISTIAN LANDON NEHRING 2024",
+            "1A CENTRAL DECATUR ANDEN HALL 2025",
             40,
             40
         ],
         [
-            "1A EARLHAM COLE FLICKINGER 2023",
+            "1A WAYNE NOAH HAGAN 2026",
             41,
             41
         ],
         [
-            "1A EXIRA AUSTIN RASMUSSEN 2026",
+            "1A PLEASANTVILLE BROCK JONES 2023",
             42,
             42
         ],
         [
-            "1A WOODWARD GRANGER DILLON LIMOGES 2024",
+            "2A CHARITON DREW CHANDLER 2026",
             43,
             43
         ],
         [
-            "1A WEST MONONA JESSE BOYNTON 2023",
+            "1A TWIN CEDARS NOAH FEE 2024",
             44,
             44
         ],
         [
-            "1A EARLHAM TYLER JOHNSON 2023",
+            "3A CLARKE ETHAN EARLS 2025",
             45,
             45
         ],
         [
-            "1A ANKENY CHRISTIAN THOMAS HURST 2025",
+            "3A CLARKE TRENT ENGEL 2023",
             46,
             46
         ],
         [
-            "1A WEST HARRISON JACOB BARRY 2024",
+            "3A CLARKE CADEN EARLS 2024",
             47,
             47
         ],
         [
-            "1A EXIRA JONAS LACANNE 2024",
+            "1A DIAGONAL ADLAI STEPHENS 2026",
             48,
             48
         ],
         [
-            "1A WOODWARD GRANGER HEALEY HILL 2023",
+            "1A WAYNE LAYTEN ANDERSON 2026",
             49,
             49
         ],
         [
-            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            "1A CENTRAL DECATUR KACYN WATSON 2026",
             50,
             50
         ],
         [
-            "1A WOODWARD GRANGER CARSTEN WRIGHT 2023",
+            "2A CHARITON QUIN ARNOLD 2024",
             51,
             51
         ],
         [
-            "1A ANKENY CHRISTIAN LUKE REITSMA 2026",
+            "3A CLARKE ALEXANDER SHINN 2024",
             52,
             52
         ],
         [
-            "1A WOODWARD GRANGER STERLING PARKINSON 2024",
+            "1A LAMONI HOSAH NIEBAUER 2025",
             53,
             53
         ],
         [
-            "1A SOUTH HAMILTON LAKEN ZANKER 2025",
+            "3A CLARKE JAKE PONTIER 2025",
             54,
             54
         ],
         [
-            "1A WEST MONONA JAXON PITTET 2026",
+            "3A CLARKE BRODY FEEHAN 2025",
             55,
             55
         ],
         [
-            "1A AUDUBON MASON STECKLER 2025",
+            "2A CHARITON LUIS ACUNA 2025",
             56,
             56
         ],
         [
-            "1A WOODWARD GRANGER ALEX YOUNTS 2026",
+            "1A SE WARREN GABE COLOCHO-OROSCO 2024",
             57,
             57
         ],
         [
-            "1A ANKENY CHRISTIAN LUCAS WEATHERS 2025",
+            "1A PLEASANTVILLE MAGELLAN GRABOVSKIS 2026",
             58,
             58
         ],
         [
-            "1A WEST MONONA COLE DISNEY 2023",
+            "1A SE WARREN HAROLD BALK 2025",
             59,
             59
         ],
         [
-            "1A WOODWARD GRANGER AIDEN TOPALOVICH 2024",
+            "3A CLARKE COOPER CIECALONE 2026",
             60,
             60
         ],
         [
-            "1A SOUTH HAMILTON JAGGER FERRIE 2025",
+            "1A DIAGONAL EJ ALLEE 2026",
             61,
             61
         ],
         [
-            "1A AUDUBON ELI DEIST 2024",
+            "3A CLARKE CASEY WADE 2026",
             62,
             62
-        ],
-        [
-            "1A WEST HARRISON RILEY ACKER 2023",
-            63,
-            63
-        ],
-        [
-            "1A EXIRA PHIL REINHART 2024",
-            64,
-            64
-        ],
-        [
-            "1A WEST HARRISON JAMES KRAFT 2024",
-            65,
-            65
-        ],
-        [
-            "1A PANORAMA ZACH HAYDEN 2026",
-            66,
-            66
-        ],
-        [
-            "1A ANKENY CHRISTIAN KYLE WEBER 2026",
-            67,
-            67
-        ],
-        [
-            "1A NODAWAY VALLEY JACK JENSEN 2024",
-            68,
-            68
-        ],
-        [
-            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
-            69,
-            69
-        ],
-        [
-            "1A WOODWARD ACADEMY DENNIS LOPEZ 2024",
-            70,
-            70
-        ],
-        [
-            "1A EXIRA JAIDEN PETTEPIER 2024",
-            71,
-            71
-        ],
-        [
-            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
-            72,
-            72
-        ],
-        [
-            "1A EXIRA QUINTINN WHITE 2024",
-            73,
-            73
-        ],
-        [
-            "1A EXIRA CARTER WIEMANN 2026",
-            74,
-            74
-        ],
-        [
-            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
-            75,
-            75
-        ],
-        [
-            "1A COON RAPIDS-BAYARD LOGAN KENYON 2026",
-            76,
-            76
-        ],
-        [
-            "1A WEST HARRISON GUNNER STOLZ 2023",
-            77,
-            77
-        ],
-        [
-            "1A CAM BLAKE GOSSMAN 2026",
-            78,
-            78
-        ],
-        [
-            "1A WEST HARRISON KENDEL BALDWIN 2026",
-            79,
-            79
         ]
     ]
 }
