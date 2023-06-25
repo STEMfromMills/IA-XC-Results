@@ -1,776 +1,746 @@
 {
-    "name": "1A State",
-    "time_seconds": 1666933228,
+    "name": "Waverly JV",
+    "time_seconds": 1662440428,
     "standings": [
         [
-            "1A WOODBINE LANDON BENDGEN 2024",
+            "3A EPWORTH QUENTIN NAUMAN 2026",
             0,
             0
         ],
         [
-            "1A IKM-MANNING CADEN KELLER 2023",
+            "4A MASON CITY BRANDT HAAKENSTAD 2025",
             1,
             1
         ],
         [
-            "1A BELLEVUE PAYTON GRIEBEL 2024",
+            "2A GRUNDY CENTER / GLADBROOK EMERSON VOKES 2026",
             2,
             2
         ],
         [
-            "1A BOYER VALLEY PATRICK HEFFERNAN 2023",
+            "3A CENTER POINT-URBANA CARTER EASTON 2025",
             3,
             3
         ],
         [
-            "1A MADRID ETHAN LOUTZENHEISER 2024",
+            "3A DECORAH GRANT ZILKA 2025",
             4,
             4
         ],
         [
-            "1A IOWA CITY REGINA AIDAN O'NEIL 2024",
+            "2A WAUKON ISAAC REISINGER 2025",
             5,
             5
         ],
         [
-            "1A LAKE MILLS JUSTIN RYGH 2024",
+            "3A DECORAH DAVIS COPPOLA 2025",
             6,
             6
         ],
         [
-            "1A SAINT ALBERT COLIN LILLIE 2023",
+            "2A WAUKON CALEB HELGERSON 2025",
             7,
             7
         ],
         [
-            "1A MFL MARMAC JACOB SCHELLHORN 2025",
+            "3A CENTER POINT-URBANA CAYLE ESTLING 2026",
             8,
             8
         ],
         [
-            "1A ST. EDMOND AARON LURSEN 2023",
+            "2A CRESTWOOD NATHAN AHERN 2025",
             9,
             9
         ],
         [
-            "1A NEWMAN RYAN KELLY 2023",
+            "3A WEST DELAWARE JASE TURNIS 2025",
             10,
             10
         ],
         [
-            "1A AC-GC JUSTIN REINHART 2023",
+            "3A CENTER POINT-URBANA COOPER GRIMM 2026",
             11,
             11
         ],
         [
-            "1A OGDEN CARSON VAN SICKLE 2024",
+            "1A NASHUA-PLAINFIELD JASE HANSEN 2026",
             12,
             12
         ],
         [
-            "1A LYNNVILLE-SULLY JAMES GRUVER 2023",
+            "3A DECORAH LANDYN HOOK 2025",
             13,
             13
         ],
         [
-            "1A PRINCE OF PEACE MARCUS BLOUNT 2023",
+            "2A DENVER TREVOR BAAS 2025",
             14,
             14
         ],
         [
-            "1A PEKIN BRADY MCWHIRTER 2025",
+            "2A DENVER GABE SWALES 2025",
             15,
             15
         ],
         [
-            "1A SIBLEY-OCHEYEDAN BEN BYERS 2026",
+            "2A DENVER SEAN GOMEZ 2025",
             16,
             16
         ],
         [
-            "1A BELLEVUE AIDEN ONKEN 2023",
+            "3A DECORAH THOMAS HAMMEL 2025",
             17,
             17
         ],
         [
-            "1A SIBLEY-OCHEYEDAN ALEJANDRO BERNAL 2023",
+            "3A WEST DELAWARE BRADEN WENGER 2025",
             18,
             18
         ],
         [
-            "1A NORTH BUTLER OWEN ALMELIEN 2023",
+            "3A DECORAH REID BERNS 2026",
             19,
             19
         ],
         [
-            "1A AC-GC ANDREW MAHAFFEY 2024",
+            "3A EPWORTH BRODY STANER 2025",
             20,
             20
         ],
         [
-            "1A CASCADE ADAM KNEPPER 2023",
+            "3A DECORAH RILEY BERNS 2026",
             21,
             21
         ],
         [
-            "1A MADRID CLAY WARSON 2024",
+            "2A GRUNDY CENTER / GLADBROOK DEVIN WRIDER 2025",
             22,
             22
         ],
         [
-            "1A NODAWAY VALLEY DOUG BERG 2023",
+            "3A WAVERLY-SHELL ROCK AUSTIN SOLDWISCH 2025",
             23,
             23
         ],
         [
-            "1A NORTH IOWA GAVIN GRUNHOVD 2025",
+            "2A WAUKON COLTON O'NEILL 2026",
             24,
             24
         ],
         [
-            "1A MMCRU KADEN GALLES 2024",
+            "3A DECORAH OLIVER BOLLINGER 2026",
             25,
             25
         ],
         [
-            "1A EAST MARSHALL JOE TERRONES 2023",
+            "3A DECORAH MITCHELL STEMPER 2026",
             26,
             26
         ],
         [
-            "1A POSTVILLE ABDIAZIZ IBRAHIM 2024",
+            "3A CENTER POINT-URBANA WILL CARDO 2026",
             27,
             27
         ],
         [
-            "1A IOWA CITY REGINA DAN MALEY 2023",
+            "2A GRUNDY CENTER / GLADBROOK BRAYDEN WALLIS 2025",
             28,
             28
         ],
         [
-            "1A ANKENY CHRISTIAN DANIEL SCHOENING 2024",
+            "2A WAUKON ETHAN GIBBS 2025",
             29,
             29
         ],
         [
-            "1A ENGLISH VALLEYS GAGE HEYNE 2025",
+            "3A EPWORTH COY MESSER 2025",
             30,
             30
         ],
         [
-            "1A IOWA CITY REGINA JOE MALEY 2023",
+            "3A WEST DELAWARE ASHTON CHESMORE 2025",
             31,
             31
         ],
         [
-            "1A CLAYTON RIDGE KEATON REIMER 2023",
+            "3A WEBSTER CITY JUSTIN CALLAHAN 2026",
             32,
             32
         ],
         [
-            "1A OGDEN PAYTON VAN SICKLE 2023",
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
             33,
             33
         ],
         [
-            "1A SE WARREN RONAN JIMENEZ 2023",
+            "3A DECORAH GARRETT SEE 2026",
             34,
             34
         ],
         [
-            "1A WOODBINE GUNNER WAGNER 2025",
+            "2A DENVER CHRISTIAN BROWN 2025",
             35,
             35
         ],
         [
-            "1A SAINT ALBERT OWEN WISE 2024",
+            "3A EPWORTH PRESTON KREMERS 2025",
             36,
             36
         ],
         [
-            "1A BELMOND-KLEMME ISAAC SWENSON 2023",
+            "3A DECORAH KEATON NALEAN-CARLSON 2026",
             37,
             37
         ],
         [
-            "1A IKM-MANNING REED HINNERS 2023",
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
             38,
             38
         ],
         [
-            "1A VALLEY LUTHERAN ADRIC SCHMITZ 2023",
+            "2A CRESTWOOD BROOKS MOSER 2025",
             39,
             39
         ],
         [
-            "1A BELLEVUE BEN STEINBECK 2023",
+            "2A DENVER MITCHELL DOEPKE 2026",
             40,
             40
         ],
         [
-            "1A MAQUOKETA VALLEY MATTHEW SCHAUL 2025",
+            "3A INDEPENDENCE ETHAN CALAHAN 2025",
             41,
             41
         ],
         [
-            "1A WINFIELD-MT. UNION KOHLBY NEWSOM 2025",
+            "3A CENTER POINT-URBANA LANDON BATCHELOR 2026",
             42,
             42
         ],
         [
-            "1A WOODBINE LANE VENNINK 2023",
+            "3A CENTER POINT-URBANA BEN SHOLES 2026",
             43,
             43
         ],
         [
-            "1A KEE LANSING JUSTIN WAGNER 2026",
+            "2A CRESTWOOD JACK MACDUFF 2026",
             44,
             44
         ],
         [
-            "1A CLAYTON RIDGE GAVIN MOSER 2023",
+            "2A DENVER NOAH BROOKS 2025",
             45,
             45
         ],
         [
-            "1A CASCADE MAX NADEAU 2023",
+            "3A DECORAH CARSON BOHNER 2026",
             46,
             46
         ],
         [
-            "1A COLLINS-MAXWELL ETHAN HAUS 2023",
+            "3A DECORAH MAX GRIMSTAD 2026",
             47,
             47
         ],
         [
-            "1A COLUMBUS COMMUNITY DAMIAN VERGARA 2024",
+            "3A EPWORTH KOLT PACE 2026",
             48,
             48
         ],
         [
-            "1A EAST BUCHANAN NOAH VALENZUELA 2024",
+            "2A CRESTWOOD OWEN KORSMO 2026",
             49,
             49
         ],
         [
-            "1A EAST MARSHALL KALEB GRANT 2024",
+            "3A INDEPENDENCE TANNER WILSON 2025",
             50,
             50
         ],
         [
-            "1A SE WARREN RYLAN JIMENEZ 2023",
+            "1A NASHUA-PLAINFIELD CALEB SINNWELL 2025",
             51,
             51
         ],
         [
-            "1A IOWA CITY REGINA HENRY BOTTORFF 2023",
+            "2A WAUKON BRANDON LEPPERT 2026",
             52,
             52
         ],
         [
-            "1A NORTH LINN CALEB BILDSTEIN 2025",
+            "1A HUDSON JACOB CULHAM 2026",
             53,
             53
         ],
         [
-            "1A BAXTER MATT RICHARDSON 2025",
+            "3A WEST DELAWARE ADAM COOK 2025",
             54,
             54
         ],
         [
-            "1A BCLUW CAYDEN MCLELAND 2023",
+            "3A WEBSTER CITY JACK BARNER 2026",
             55,
             55
         ],
         [
-            "1A LYNNVILLE-SULLY ZACH MORNINGSTAR 2023",
+            "3A WAVERLY-SHELL ROCK GABE SMOLIKHAGEN 2026",
             56,
             56
         ],
         [
-            "1A RIVERSIDE MASON MCCREADY 2024",
+            "2A NEW HAMPTON XANDER MEYERHOFF 2025",
             57,
             57
         ],
         [
-            "1A AC-GC NOAH KADING 2025",
+            "3A WEBSTER CITY OWEN PATTERSON 2025",
             58,
             58
         ],
         [
-            "1A NORTH MAHASKA ASHER DEBOEF 2025",
+            "3A INDEPENDENCE TALAN DECKER 2025",
             59,
             59
         ],
         [
-            "1A EARLHAM CARSON MALY 2025",
+            "3A DECORAH GARRETT WILLIE 2025",
             60,
             60
         ],
         [
-            "1A IKM-MANNING LANE SAMS 2024",
+            "2A DENVER JOSH RABENHORST 2026",
             61,
             61
         ],
         [
-            "1A WOODBINE THOMAS TREMEL 2024",
+            "1A NASHUA-PLAINFIELD LUKE PAPLOW 2025",
             62,
             62
         ],
         [
-            "1A LAKE MILLS KNUTE ROGNE 2026",
+            "3A WAVERLY-SHELL ROCK CYRUS LEYDA 2026",
             63,
             63
         ],
         [
-            "1A SAINT ALBERT PARKER HEISTERKAMP 2025",
+            "3A WEST DELAWARE GIL JOHNSON 2025",
             64,
             64
         ],
         [
-            "1A IOWA CITY REGINA RIORDAN SMITH 2024",
+            "3A WEST DELAWARE TRENT MENARD 2026",
             65,
             65
         ],
         [
-            "1A AC-GC TYCONDER ELLIS 2023",
+            "2A NEW HAMPTON JARRIN ROBINSON 2025",
             66,
             66
         ],
         [
-            "1A LAMONI TYSON MCDOLE 2023",
+            "3A WAVERLY-SHELL ROCK ANDY BRITT 2025",
             67,
             67
         ],
         [
-            "1A AC-GC GAVIN SLOSS 2025",
+            "3A WAVERLY-SHELL ROCK LUCAS GEERTS 2026",
             68,
             68
         ],
         [
-            "1A ST. EDMOND SAM MERICLE 2024",
+            "3A WAVERLY-SHELL ROCK COLIN KNUDSEN 2025",
             69,
             69
         ],
         [
-            "1A BISHOP GARRIGAN GAVIN SWIFT 2023",
+            "3A DECORAH KYLE PATTISON 2026",
             70,
             70
         ],
         [
-            "1A AC-GC BO ARRASMITH 2024",
+            "3A WEST DELAWARE ASHTON FANGMAN 2025",
             71,
             71
         ],
         [
-            "1A ST. EDMOND LIAM SHANNON 2025",
+            "1A WAPSIE VALLEY FINN SCHAEFER 2026",
             72,
             72
         ],
         [
-            "1A AC-GC LANCE BUNDE 2024",
+            "2A NEW HAMPTON EASTON MONTEITH 2026",
             73,
             73
         ],
         [
-            "1A ALTA-AURELIA BRADEN SONKSEN 2023",
+            "2A APLINGTON-PARKERSBURG JONAH CARNEY 2026",
             74,
             74
         ],
         [
-            "1A CASCADE LANE COOK 2025",
+            "3A CENTER POINT-URBANA JACOB DRIEIER 2025",
             75,
             75
         ],
         [
-            "1A NORTH MAHASKA BRAYDEN VEISETH 2024",
+            "2A CRESTWOOD COLLIN RICE 2026",
             76,
             76
         ],
         [
-            "1A SPRINGVILLE EVAN ROBERTSON 2023",
+            "2A GRUNDY CENTER / GLADBROOK CHRIS UTTERBACK 2025",
             77,
             77
         ],
         [
-            "1A HINTON ZACH SYPERSMA 2023",
+            "3A WEBSTER CITY KYZER ZINNEL 2026",
             78,
             78
         ],
         [
-            "1A SIOUX CENTRAL JACK CHRISTIAN 2026",
+            "3A WAVERLY-SHELL ROCK ZANDER CHRISTIANSEN 2026",
             79,
             79
         ],
         [
-            "1A OGDEN JORDAN KING 2023",
+            "3A INDEPENDENCE TYLER WIELAND 2025",
             80,
             80
         ],
         [
-            "1A MANSON NW WEBSTER LANE MOLINE 2023",
+            "2A APLINGTON-PARKERSBURG ISAAC FOXEN 2025",
             81,
             81
         ],
         [
-            "1A EAST MARSHALL PATRICK SLIFER 2023",
+            "3A WAVERLY-SHELL ROCK MCCOY MCLRAVY 2026",
             82,
             82
         ],
         [
-            "1A EAST UNION JACOB DRISKILL 2024",
+            "3A DECORAH BEAU NEWHOUSE 2025",
             83,
             83
         ],
         [
-            "1A IOWA CITY REGINA SAMUEL WELTER 2025",
+            "2A NEW HAMPTON EDDIE ARNOLD 2025",
             84,
             84
         ],
         [
-            "1A OGDEN LEVI RUSSO 2023",
+            "3A WAVERLY-SHELL ROCK COOPER RIDDER 2025",
             85,
             85
         ],
         [
-            "1A CASCADE BEN GEHL 2023",
+            "2A WAUKON ISAAK KOVARIK 2026",
             86,
             86
         ],
         [
-            "1A SIOUX CENTRAL LEIGHTON SIPPEL 2025",
+            "2A WAUKON TUCKER BURRICHTER 2026",
             87,
             87
         ],
         [
-            "1A ST. EDMOND ANTHONY VALLES 2026",
+            "3A INDEPENDENCE ELLIOT HURLEY 2025",
             88,
             88
         ],
         [
-            "1A TRI-CENTER SEAN MCGEE 2023",
+            "2A GRUNDY CENTER / GLADBROOK CAMERON SIEH 2025",
             89,
             89
         ],
         [
-            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            "2A DENVER DAGEN HENZEN 2025",
             90,
             90
         ],
         [
-            "1A WOODBINE ADAM BARRY 2025",
+            "2A WAUKON DRAKE HANKES 2026",
             91,
             91
         ],
         [
-            "1A EARLHAM BLAKE TIEMEYER 2025",
+            "3A WEST DELAWARE KYLER WOOTEN 2026",
             92,
             92
         ],
         [
-            "1A NEWMAN JOEY RINGO 2023",
+            "3A DECORAH ANDREW OLSON 2025",
             93,
             93
         ],
         [
-            "1A NORTH LINN LEVI BENESH 2026",
+            "4A WATERLOO EAST GEORVON TYLER 2025",
             94,
             94
         ],
         [
-            "1A LAWTON-BRONSON THEO MOSEMAN 2023",
+            "2A DENVER JOE RABENHORST 2026",
             95,
             95
         ],
         [
-            "1A IOWA CITY REGINA COLIN OLNEY 2024",
+            "1A NASHUA-PLAINFIELD BREXTON BIRD 2026",
             96,
             96
         ],
         [
-            "1A HEARTLAND CHRISTIAN GAVIN ANDERSEN 2023",
+            "3A DECORAH WILL ROBINSON 2026",
             97,
             97
         ],
         [
-            "1A SIOUX CENTRAL BRAYDEN KRAMBER 2024",
+            "3A WAVERLY-SHELL ROCK TSION BIRD 2025",
             98,
             98
         ],
         [
-            "1A NORTH MAHASKA NATE SAMPSON 2024",
+            "2A GRUNDY CENTER / GLADBROOK DANIEL HOMMEL 2026",
             99,
             99
         ],
         [
-            "1A SAINT ALBERT ADAM DENNY 2023",
+            "1A NASHUA-PLAINFIELD BRADY LENSING 2026",
             100,
             100
         ],
         [
-            "1A BELLEVUE CONNOR KILBURG 2026",
+            "4A WATERLOO EAST JUAN CALDERON 2025",
             101,
             101
         ],
         [
-            "1A EAST MARSHALL BROCK CURTIS 2023",
+            "1A RICEVILLE CODY HART 2026",
             102,
             102
         ],
         [
-            "1A NORTH LINN LANDON THOMSEN 2026",
+            "3A WAVERLY-SHELL ROCK WOUTER REULING 2026",
             103,
             103
         ],
         [
-            "1A LAKE MILLS KADE VAN ROEKEL 2025",
+            "2A WAUKON KELBY CAHALAN 2026",
             104,
             104
         ],
         [
-            "1A CLAYTON RIDGE ERIK FLORES 2023",
+            "3A DECORAH PHOUNG DOAN 2025",
             105,
             105
         ],
         [
-            "1A ST. EDMOND THOMAS COSGROVE 2024",
+            "3A WEST DELAWARE KAIDEN HAAS 2026",
             106,
             106
         ],
         [
-            "1A OGDEN JUDE BENBOW 2025",
+            "3A DECORAH JACK SOVERN 2025",
             107,
             107
         ],
         [
-            "1A BELLEVUE BEN MEYER 2024",
+            "4A MASON CITY MICHAEL JOHNSON 2026",
             108,
             108
         ],
         [
-            "1A EAST MARSHALL CHANDLER CURTIS 2026",
+            "4A WATERLOO EAST CARTER SEBER 2025",
             109,
             109
         ],
         [
-            "1A BELLEVUE GABE MANDERS 2025",
+            "1A RICEVILLE ELIJAH DWINE 2026",
             110,
             110
         ],
         [
-            "1A NORTH LINN TY PFLUGHAUPT 2024",
+            "3A WEBSTER CITY IVAN LOPEZ 2026",
             111,
             111
         ],
         [
-            "1A NORTH MAHASKA LANE HARMON 2023",
+            "1A WAPSIE VALLEY ALEX BRAM 2026",
             112,
             112
         ],
         [
-            "1A IKM-MANNING KASCHE HUEHN 2025",
+            "1A WAPSIE VALLEY MARSHALL WEEPIE 2026",
             113,
             113
         ],
         [
-            "1A EAST MARSHALL CALE HUNGERFORD 2024",
+            "2A DENVER XANDER PETERSON 2025",
             114,
             114
         ],
         [
-            "1A CASCADE ANDREW KAALBERG 2025",
+            "3A DECORAH CALEB JOHNSON 2026",
             115,
             115
         ],
         [
-            "1A IKM-MANNING ABE POLZIEN 2025",
+            "3A INDEPENDENCE CAEL POST 2025",
             116,
             116
         ],
         [
-            "1A SAINT ALBERT GABRIEL BARAJAS 2025",
+            "3A CENTER POINT-URBANA NICK KONGABLE 2025",
             117,
             117
         ],
         [
-            "1A SIOUX CENTRAL JOSHUA HOFFMAN 2025",
+            "2A DENVER JOSIAH SWALES 2026",
             118,
             118
         ],
         [
-            "1A LAKE MILLS HAYDEN THOMPSON 2026",
+            "1A NASHUA-PLAINFIELD SAM O'NEILL 2026",
             119,
             119
         ],
         [
-            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            "4A MASON CITY SAM SCHWARZ 2026",
             120,
             120
         ],
         [
-            "1A MADRID BLAKE RENZE 2025",
+            "3A DECORAH WILLIAM CHAMBERLAIN 2025",
             121,
             121
         ],
         [
-            "1A SIOUX CENTRAL ETHAN WERNIMONT 2024",
+            "2A CRESTWOOD ETHAN HOLTHAUS 2026",
             122,
             122
         ],
         [
-            "1A LAKE MILLS STEPHEN BRANDENBURG 2026",
+            "2A CRESTWOOD LUCAS WEMARK 2026",
             123,
             123
         ],
         [
-            "1A ST. EDMOND CARTER RIAL 2023",
+            "3A EPWORTH GRANT GAULEY 2026",
             124,
             124
         ],
         [
-            "1A WOODBINE XANDER JOHNSON 2025",
+            "4A MASON CITY PETER HARDEE 2026",
             125,
             125
         ],
         [
-            "1A OGDEN PARKER TRUSLER 2023",
+            "2A GRUNDY CENTER / GLADBROOK JAKE MAY 2026",
             126,
             126
         ],
         [
-            "1A NORTH MAHASKA BEN YANG 2025",
+            "2A GRUNDY CENTER / GLADBROOK PRESTON MARTENS 2025",
             127,
             127
         ],
         [
-            "1A CLAYTON RIDGE JACKSON PATINO 2023",
+            "3A EPWORTH JAKE BOGE 2026",
             128,
             128
         ],
         [
-            "1A SAINT ALBERT JOE HUGHES 2025",
+            "2A APLINGTON-PARKERSBURG LANDON REYNOLDS 2025",
             129,
             129
         ],
         [
-            "1A CLAYTON RIDGE JESUS TABORA-LARA 2025",
+            "3A WEBSTER CITY AIDEN ROLLINS 2025",
             130,
             130
         ],
         [
-            "1A NORTH MAHASKA ANDY KNOCKEL 2024",
+            "3A EPWORTH BRAYDEN EBERLING 2026",
             131,
             131
         ],
         [
-            "1A OGDEN BRADY VAN SICKLE 2025",
+            "3A WEST DELAWARE AIDEN CHOPARD 2026",
             132,
             132
         ],
         [
-            "1A MADRID BRODY BUCK 2025",
+            "3A DECORAH NOAH VILARDO 2026",
             133,
             133
         ],
         [
-            "1A MADRID JACOB WHITE 2025",
+            "2A GRUNDY CENTER / GLADBROOK KADEN KAUFFMAN 2025",
             134,
             134
         ],
         [
-            "1A CASCADE NATHANIEL MANTERNACH 2024",
+            "1A WAPSIE VALLEY ELIJAH EIKE 2026",
             135,
             135
         ],
         [
-            "1A WOODBINE TREY BURGERMEYER 2024",
+            "4A WATERLOO EAST PEDRO ZARCO 2025",
             136,
             136
         ],
         [
-            "1A SAINT ALBERT BRADY SMITH 2026",
+            "2A GRUNDY CENTER / GLADBROOK CALEB KNUTSEN 2025",
             137,
             137
         ],
         [
-            "1A BELLEVUE KADEN GUENTHER 2024",
+            "3A WEST DELAWARE LANDEN PALMER 2025",
             138,
             138
         ],
         [
-            "1A SIOUX CENTRAL NATHAN KUENY 2024",
+            "1A WAPSIE VALLEY ERIC BRYAN 2026",
             139,
             139
         ],
         [
-            "1A NORTH LINN CARTER FOLKERS 2023",
+            "1A HUDSON STEVEN DEKUTOSKI 2026",
             140,
             140
         ],
         [
-            "1A MADRID COLTON KNIFFEN 2023",
+            "2A NEW HAMPTON COLIN SHATEK 2026",
             141,
             141
         ],
         [
-            "1A CLAYTON RIDGE NATE MEIER 2023",
+            "1A WAPSIE VALLEY MADDEN KANE 2026",
             142,
             142
         ],
         [
-            "1A CASCADE TRENTEN TOPPING 2025",
+            "2A GRUNDY CENTER / GLADBROOK DANIEL BARKLEY 2026",
             143,
             143
         ],
         [
-            "1A MADRID CAVIN PEHL 2026",
+            "1A WAPSIE VALLEY ROBERT LEE 2025",
             144,
             144
         ],
         [
-            "1A SIOUX CENTRAL ALEX KUENY 2026",
+            "1A WAPSIE VALLEY MICHAEL BRYAN 2026",
             145,
             145
         ],
         [
-            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
+            "2A DENVER NICK SATTHERTHWAITE 2026",
             146,
             146
         ],
         [
-            "1A CLAYTON RIDGE COLTON HOEGER 2026",
+            "3A CENTER POINT-URBANA JACOB REGAN 2025",
             147,
             147
-        ],
-        [
-            "1A NORTH LINN SAWYER LONG 2026",
-            148,
-            148
-        ],
-        [
-            "1A ST. EDMOND THOMAS KNOBBE 2026",
-            149,
-            149
-        ],
-        [
-            "1A EAST MARSHALL CARTER BRUMMEL 2024",
-            150,
-            150
-        ],
-        [
-            "1A LAKE MILLS ALEJANDRO VAZQUEZ-PEREZ 2025",
-            151,
-            151
-        ],
-        [
-            "1A NORTH MAHASKA CLAY THOMPSON 2024",
-            152,
-            152
-        ],
-        [
-            "1A NORTH LINN LUKE BARTH 2026",
-            153,
-            153
         ]
     ]
 }

@@ -1,0 +1,661 @@
+{
+    "name": "3A State",
+    "time_seconds": 1667019636,
+    "standings": [
+        [
+            "3A LEWIS CENTRAL ETHAN EICHHORN 2024",
+            0,
+            0
+        ],
+        [
+            "3A MARION JEDIDIAH OSGOOD 2023",
+            1,
+            1
+        ],
+        [
+            "3A EPWORTH ISAIAH HAMMERAND 2023",
+            2,
+            2
+        ],
+        [
+            "3A NORTH POLK ZACH SPORAA 2023",
+            3,
+            3
+        ],
+        [
+            "3A GILBERT WILLIAM WADSLEY 2023",
+            4,
+            4
+        ],
+        [
+            "3A PELLA CANAAN DUNHAM 2026",
+            5,
+            5
+        ],
+        [
+            "3A SOUTH TAMA TOMMY TYYNISMAA 2024",
+            6,
+            6
+        ],
+        [
+            "3A PELLA CHASE LAUMAN 2023",
+            7,
+            7
+        ],
+        [
+            "3A PELLA NATHAN VANDERWAAL 2024",
+            8,
+            8
+        ],
+        [
+            "3A GLENWOOD BRYANT KELLER 2024",
+            9,
+            9
+        ],
+        [
+            "3A WINTERSET MASON BACK 2023",
+            10,
+            10
+        ],
+        [
+            "3A STORM LAKE LUIZ MARTINEZ 2024",
+            11,
+            11
+        ],
+        [
+            "3A WASHINGTON MICAH REES 2024",
+            12,
+            12
+        ],
+        [
+            "3A MOUNT VERNON-LISBON GRADY OLBERDING 2025",
+            13,
+            13
+        ],
+        [
+            "3A NORTH POLK MAX SPORAA 2023",
+            14,
+            14
+        ],
+        [
+            "3A LEWIS CENTRAL KADE DIERCKS 2024",
+            15,
+            15
+        ],
+        [
+            "3A NORTH POLK ALIK MCILRAVY 2024",
+            16,
+            16
+        ],
+        [
+            "3A MOC-FLOYD VALLEY TREVOR MIRANDE 2025",
+            17,
+            17
+        ],
+        [
+            "3A STORM LAKE JOEL RAMIREZ-PARRA 2026",
+            18,
+            18
+        ],
+        [
+            "3A CARLISLE KAEL STREETER 2026",
+            19,
+            19
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELI PAGE 2024",
+            20,
+            20
+        ],
+        [
+            "3A SOLON BRICK KABELA 2024",
+            21,
+            21
+        ],
+        [
+            "3A GLENWOOD ANDREW SMITH 2024",
+            22,
+            22
+        ],
+        [
+            "3A MARION COOPER COOK 2024",
+            23,
+            23
+        ],
+        [
+            "3A WINTERSET SAM HENSLEY 2024",
+            24,
+            24
+        ],
+        [
+            "3A MARION JAKOB REGENNITTER 2023",
+            25,
+            25
+        ],
+        [
+            "3A WINTERSET ETHAN EASTER 2023",
+            26,
+            26
+        ],
+        [
+            "3A EPWORTH QUENTIN NAUMAN 2026",
+            27,
+            27
+        ],
+        [
+            "3A ADM TORIN TIMMERMAN 2025",
+            28,
+            28
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROCK HILSMAN 2025",
+            29,
+            29
+        ],
+        [
+            "3A CARLISLE CHASE GACH 2024",
+            30,
+            30
+        ],
+        [
+            "3A CARLISLE KAMDEN BROWN 2025",
+            31,
+            31
+        ],
+        [
+            "3A ALGONA RYAN STUNDAHL 2023",
+            32,
+            32
+        ],
+        [
+            "3A PELLA DEVON BROWNE 2025",
+            33,
+            33
+        ],
+        [
+            "3A DENISON RICHARD GONZALEZ 2025",
+            34,
+            34
+        ],
+        [
+            "3A MOC-FLOYD VALLEY ISAIAH HULSHOF 2023",
+            35,
+            35
+        ],
+        [
+            "3A PELLA NOAH SCHUKNECHT 2026",
+            36,
+            36
+        ],
+        [
+            "3A SIOUX CENTER EASTON VANDENBERG 2023",
+            37,
+            37
+        ],
+        [
+            "3A CARROLL KUEMPER RYAN NORTH 2024",
+            38,
+            38
+        ],
+        [
+            "3A SOLON MICHAEL YEOMANS 2024",
+            39,
+            39
+        ],
+        [
+            "3A CARLISLE BRODY ROTH 2024",
+            40,
+            40
+        ],
+        [
+            "3A CARLISLE LOGAN HOWARD 2023",
+            41,
+            41
+        ],
+        [
+            "3A CLEAR LAKE JACK CRANE 2023",
+            42,
+            42
+        ],
+        [
+            "3A LEMARS TRACE OBBINK 2024",
+            43,
+            43
+        ],
+        [
+            "3A GILBERT PRESTON STENSLAND 2026",
+            44,
+            44
+        ],
+        [
+            "3A CENTRAL DEWITT CALEB OLSON 2025",
+            45,
+            45
+        ],
+        [
+            "3A CARROLL KUEMPER JACOB GREVING 2024",
+            46,
+            46
+        ],
+        [
+            "3A WAHLERT JAYDEN BROOKINS 2026",
+            47,
+            47
+        ],
+        [
+            "3A GLENWOOD LIAM HAYS 2024",
+            48,
+            48
+        ],
+        [
+            "3A MARION CHRIS OBERBROECKLING 2023",
+            49,
+            49
+        ],
+        [
+            "3A MARION JORDAN FISCHER 2024",
+            50,
+            50
+        ],
+        [
+            "3A MOUNT VERNON-LISBON KLAYTEN PERREAULT 2024",
+            51,
+            51
+        ],
+        [
+            "3A GILBERT CARSON SQUIERS 2026",
+            52,
+            52
+        ],
+        [
+            "3A NORTH POLK AUSTIN STIERMAN 2023",
+            53,
+            53
+        ],
+        [
+            "3A PELLA COOPER VANDE VOORT 2023",
+            54,
+            54
+        ],
+        [
+            "3A GLENWOOD KEVIN COOTS 2026",
+            55,
+            55
+        ],
+        [
+            "3A WINTERSET COLLIN KESSLER 2025",
+            56,
+            56
+        ],
+        [
+            "3A MOC-FLOYD VALLEY IAN VAN DER WERFF 2025",
+            57,
+            57
+        ],
+        [
+            "3A FORT MADISON JACOB SHOTTENKIRK 2025",
+            58,
+            58
+        ],
+        [
+            "3A WINTERSET ELI COWMAN 2024",
+            59,
+            59
+        ],
+        [
+            "3A MT PLEASANT BEN CARTHEY 2024",
+            60,
+            60
+        ],
+        [
+            "3A MOUNT VERNON-LISBON WESLEY SADLER 2025",
+            61,
+            61
+        ],
+        [
+            "3A MOUNT VERNON-LISBON DAWSON SCHEIL 2026",
+            62,
+            62
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELIJAH BLIX 2023",
+            63,
+            63
+        ],
+        [
+            "3A PELLA ZACK NEUMANN 2023",
+            64,
+            64
+        ],
+        [
+            "3A GLENWOOD PRESTON SLAYMAN 2023",
+            65,
+            65
+        ],
+        [
+            "3A GILBERT HARRISON KRAEHLING 2024",
+            66,
+            66
+        ],
+        [
+            "3A ADM DESMARAIS HARRISON 2023",
+            67,
+            67
+        ],
+        [
+            "3A NORTH POLK ETHAN STIERMAN 2023",
+            68,
+            68
+        ],
+        [
+            "3A EPWORTH DEREK FANGMANN 2023",
+            69,
+            69
+        ],
+        [
+            "3A CHARLES CITY NICK WILLIAMS 2025",
+            70,
+            70
+        ],
+        [
+            "3A CHARLES CITY XANDER GRAESER 2025",
+            71,
+            71
+        ],
+        [
+            "3A CARLISLE EZRA DECLEENE 2024",
+            72,
+            72
+        ],
+        [
+            "3A ADM HUNTER LANDPHAIR 2024",
+            73,
+            73
+        ],
+        [
+            "3A GILBERT ZAIN MUELLER 2024",
+            74,
+            74
+        ],
+        [
+            "3A GILBERT EMMETT BARBER 2025",
+            75,
+            75
+        ],
+        [
+            "3A GLENWOOD JACKSON GRIFFIN 2023",
+            76,
+            76
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CALEB HOINS 2023",
+            77,
+            77
+        ],
+        [
+            "3A SOUTH TAMA JAMES BRANT 2024",
+            78,
+            78
+        ],
+        [
+            "3A MOC-FLOYD VALLEY MICAH SCHMIDT 2025",
+            79,
+            79
+        ],
+        [
+            "3A CLEAR CREEK-AMANA THOMAS STILTNER 2024",
+            80,
+            80
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JAMIE HAYES 2024",
+            81,
+            81
+        ],
+        [
+            "3A ADM ISAAC CHAPMAN 2025",
+            82,
+            82
+        ],
+        [
+            "3A MOC-FLOYD VALLEY MICAH DEYOUNG 2023",
+            83,
+            83
+        ],
+        [
+            "3A WASHINGTON TYLER ALDERTON 2025",
+            84,
+            84
+        ],
+        [
+            "3A EPWORTH DREW MEYER 2023",
+            85,
+            85
+        ],
+        [
+            "3A SOLON GRANT BUMSTED 2024",
+            86,
+            86
+        ],
+        [
+            "3A FORT MADISON NOLAN GUZMAN 2026",
+            87,
+            87
+        ],
+        [
+            "3A MOUNT VERNON-LISBON SEAMUS O'CONNOR 2025",
+            88,
+            88
+        ],
+        [
+            "3A ADM KEEGAN HOLDMEYER 2025",
+            89,
+            89
+        ],
+        [
+            "3A NORTH POLK NOLAN MANDERNACH 2024",
+            90,
+            90
+        ],
+        [
+            "3A GLENWOOD DILLON ANDERSON 2023",
+            91,
+            91
+        ],
+        [
+            "3A SOLON LAWSIN SINNWELL 2024",
+            92,
+            92
+        ],
+        [
+            "3A SOLON EVAN BURG 2025",
+            93,
+            93
+        ],
+        [
+            "3A MOC-FLOYD VALLEY NATHAN ANDERSON 2025",
+            94,
+            94
+        ],
+        [
+            "3A NEVADA CARTER HOLLAND 2024",
+            95,
+            95
+        ],
+        [
+            "3A CLEAR CREEK-AMANA PEYTON STADLER 2023",
+            96,
+            96
+        ],
+        [
+            "3A KNOXVILLE ISAAC RANKIN 2026",
+            97,
+            97
+        ],
+        [
+            "3A ADM HUBIE CHAPLIN 2024",
+            98,
+            98
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ISAAC SORENSEN 2025",
+            99,
+            99
+        ],
+        [
+            "3A MOC-FLOYD VALLEY THATCHER DOUGHAN 2026",
+            100,
+            100
+        ],
+        [
+            "3A ADM SAM PETERS 2024",
+            101,
+            101
+        ],
+        [
+            "3A ATLANTIC DEVON FIELDS 2025",
+            102,
+            102
+        ],
+        [
+            "3A LEWIS CENTRAL MARSHALL ARKFELD 2025",
+            103,
+            103
+        ],
+        [
+            "3A MOUNT VERNON-LISBON ZACH FALL 2023",
+            104,
+            104
+        ],
+        [
+            "3A WINTERSET LUKE HEITHOFF 2023",
+            105,
+            105
+        ],
+        [
+            "3A FORT MADISON RILEY TRIPP 2026",
+            106,
+            106
+        ],
+        [
+            "3A WAHLERT KYLE POWERS 2025",
+            107,
+            107
+        ],
+        [
+            "3A GILBERT NOLAN WEBER 2023",
+            108,
+            108
+        ],
+        [
+            "3A CARLISLE ZACH STREETER 2024",
+            109,
+            109
+        ],
+        [
+            "3A EPWORTH LEVI MEYER 2023",
+            110,
+            110
+        ],
+        [
+            "3A CLEAR CREEK-AMANA LOGAN KAFER 2024",
+            111,
+            111
+        ],
+        [
+            "3A FORT MADISON PEYTON LAMBERT 2026",
+            112,
+            112
+        ],
+        [
+            "3A LEWIS CENTRAL RICHARD SELKEN 2025",
+            113,
+            113
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON EVAN JANZEN 2023",
+            114,
+            114
+        ],
+        [
+            "3A SOLON CAMDEN LYONS 2026",
+            115,
+            115
+        ],
+        [
+            "3A MARION JARRED REGENNITTER 2023",
+            116,
+            116
+        ],
+        [
+            "3A FORT MADISON MASON MCLEY 2026",
+            117,
+            117
+        ],
+        [
+            "3A MARION JACE FOPMA 2023",
+            118,
+            118
+        ],
+        [
+            "3A LEWIS CENTRAL ASHER RODENBURG 2026",
+            119,
+            119
+        ],
+        [
+            "3A SOLON WYATT APPLEGARTH 2024",
+            120,
+            120
+        ],
+        [
+            "3A EPWORTH BRODY STANER 2025",
+            121,
+            121
+        ],
+        [
+            "3A NORTH POLK GRANT ASPENGREN 2024",
+            122,
+            122
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CAMERON KIMM 2023",
+            123,
+            123
+        ],
+        [
+            "3A FORT MADISON CASTILLE JOHNSTUN 2025",
+            124,
+            124
+        ],
+        [
+            "3A MOUNT VERNON-LISBON JUNIOR KROB 2023",
+            125,
+            125
+        ],
+        [
+            "3A LEWIS CENTRAL DREW WHITE 2023",
+            126,
+            126
+        ],
+        [
+            "3A FORT MADISON CAMERON SHUTWELL 2023",
+            127,
+            127
+        ],
+        [
+            "3A WINTERSET LIAM SUTTON 2024",
+            128,
+            128
+        ],
+        [
+            "3A LEWIS CENTRAL JAXON BREWER 2025",
+            129,
+            129
+        ],
+        [
+            "3A EPWORTH THOMAS BLAIR 2023",
+            130,
+            130
+        ]
+    ]
+}
