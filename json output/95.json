@@ -1,406 +1,721 @@
 {
-    "name": "1A SQM ACGC",
-    "time_seconds": 1666242035,
+    "name": "Waverly V",
+    "time_seconds": 1662440435,
     "standings": [
         [
-            "1A IKM-MANNING CADEN KELLER 2023",
+            "3A EPWORTH ISAIAH HAMMERAND 2023",
             0,
             0
         ],
         [
-            "1A BOYER VALLEY PATRICK HEFFERNAN 2023",
+            "2A GRUNDY CENTER / GLADBROOK KADEN LYNCH 2024",
             1,
             1
         ],
         [
-            "1A AC-GC JUSTIN REINHART 2023",
+            "3A EPWORTH DEREK FANGMANN 2023",
             2,
             2
         ],
         [
-            "1A AC-GC ANDREW MAHAFFEY 2024",
+            "3A WAVERLY-SHELL ROCK CALEB HOINS 2023",
             3,
             3
         ],
         [
-            "1A NODAWAY VALLEY DOUG BERG 2023",
+            "2A GRUNDY CENTER / GLADBROOK BRENNEN SAGER 2023",
             4,
             4
         ],
         [
-            "1A ANKENY CHRISTIAN DANIEL SCHOENING 2026",
+            "2A DENVER JACK MULERT 2023",
             5,
             5
         ],
         [
-            "1A EARLHAM CARSON MALY 2025",
+            "3A EPWORTH DREW MEYER 2023",
             6,
             6
         ],
         [
-            "1A AC-GC NOAH KADING 2025",
+            "2A WAUKON NATHAN O'NEILL 2023",
             7,
             7
         ],
         [
-            "1A EARLHAM BLAKE TIEMEYER 2025",
+            "3A DECORAH HENRY WEIS 2024",
             8,
             8
         ],
         [
-            "1A IKM-MANNING LANE SAMS 2024",
+            "3A WEST DELAWARE ZACH WENGER 2024",
             9,
             9
         ],
         [
-            "1A AC-GC BO ARRASMITH 2024",
+            "2A WAUKON WYATT GULLA 2024",
             10,
             10
         ],
         [
-            "1A IKM-MANNING REED HINNERS 2023",
+            "2A WAUKON SKYLER DUGAN 2024",
             11,
             11
         ],
         [
-            "1A WEST MONONA EEIN MCKINLEY 2023",
+            "2A DENVER NEAL PINTER 2024",
             12,
             12
         ],
         [
-            "1A AC-GC LANCE BUNDE 2024",
+            "2A DENVER MAXWELL SCHWANDT 2023",
             13,
             13
         ],
         [
-            "1A AC-GC GAVIN SLOSS 2025",
+            "4A MASON CITY RA'SHAUN WYNTER 2024",
             14,
             14
         ],
         [
-            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
             15,
             15
         ],
         [
-            "1A NODAWAY VALLEY MALACHI BROERS 2024",
+            "2A GRUNDY CENTER / GLADBROOK TYLER VENENGA 2024",
             16,
             16
         ],
         [
-            "1A AC-GC TYCONDER ELLIS 2023",
+            "3A WAVERLY-SHELL ROCK CADEN KUEKER 2023",
             17,
             17
         ],
         [
-            "1A SOUTH HAMILTON LANDON GROVE 2023",
+            "3A EPWORTH LEVI MEYER 2023",
             18,
             18
         ],
         [
-            "1A WEST MONONA JAYCE LYNN 2023",
+            "4A MASON CITY JESS CORNICK 2023",
             19,
             19
         ],
         [
-            "1A IKM-MANNING KASCHE HUEHN 2025",
+            "2A WAUKON CONNOR CAHOON 2024",
             20,
             20
         ],
         [
-            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            "2A WAUKON JOSH KEENAN 2023",
             21,
             21
         ],
         [
-            "1A SOUTH HAMILTON ELI POTTER 2023",
+            "2A WAUKON NATE KEENAN 2023",
             22,
             22
         ],
         [
-            "1A EARLHAM PAYTON HARGER 2024",
+            "3A CENTER POINT-URBANA BRODY BEHRENS 2024",
             23,
             23
         ],
         [
-            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2025",
+            "3A DECORAH JAKE MAGNER 2023",
             24,
             24
         ],
         [
-            "1A ANKENY CHRISTIAN ALEX DAVIS 2026",
+            "3A CENTER POINT-URBANA CASEY KIRTZ 2024",
             25,
             25
         ],
         [
-            "1A WOODWARD ACADEMY ASHER MORLEY 2024",
+            "2A CRESTWOOD DOMINIC BIGALK 2024",
             26,
             26
         ],
         [
-            "1A EXIRA ERIC WILSON 2024",
+            "3A DECORAH CADE OLSON 2023",
             27,
             27
         ],
         [
-            "1A AHSTW CALEB HATCH 2024",
+            "3A CENTER POINT-URBANA TEEGAN FUESSLEY 2023",
             28,
             28
         ],
         [
-            "1A CAM GAVIN CLAYTON 2023",
+            "3A WAVERLY-SHELL ROCK MARSHALL MEYER 2023",
             29,
             29
         ],
         [
-            "1A SOUTH HAMILTON PETE COBURN 2024",
+            "2A NEW HAMPTON CAM MCMORRIS 2024",
             30,
             30
         ],
         [
-            "1A WEST MONONA ANDREW ORR 2024",
+            "3A CENTER POINT-URBANA ISAAC LARSON 2024",
             31,
             31
         ],
         [
-            "1A WEST MONONA GABE MCKINLEY 2024",
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
             32,
             32
         ],
         [
-            "1A IKM-MANNING ABE POLZIEN 2025",
+            "3A CENTER POINT-URBANA BRADLEY JONES 2024",
             33,
             33
         ],
         [
-            "1A SOUTH HAMILTON BOBBY TAPPER 2024",
+            "2A DENVER JAYDEN HERRMANN 2023",
             34,
             34
         ],
         [
-            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            "3A WEST DELAWARE EVAN KARTMAN 2024",
             35,
             35
         ],
         [
-            "1A WOODWARD GRANGER CAEL LEIGHTON 2026",
+            "1A HUDSON RYAN PECK 2023",
             36,
             36
         ],
         [
-            "1A EARLHAM BLAKE PETERSEN 2025",
+            "4A MASON CITY KALE DIMARCO 2023",
             37,
             37
         ],
         [
-            "1A EARLHAM DONOVAN BRAET 2026",
+            "2A NEW HAMPTON TREYCE ORR 2023",
             38,
             38
         ],
         [
-            "1A SOUTH HAMILTON BENJAMIN BAILEY 2023",
+            "2A NEW HAMPTON JACK SHAWVER 2024",
             39,
             39
         ],
         [
-            "1A ANKENY CHRISTIAN LANDON NEHRING 2024",
+            "2A DENVER JARETT CLAYTON 2024",
             40,
             40
         ],
         [
-            "1A EARLHAM COLE FLICKINGER 2023",
+            "3A DECORAH AIDAN NALEAN-CARLSON 2024",
             41,
             41
         ],
         [
-            "1A EXIRA AUSTIN RASMUSSEN 2026",
+            "3A WEBSTER CITY BRAYDEN HENELY 2023",
             42,
             42
         ],
         [
-            "1A WOODWARD GRANGER DILLON LIMOGES 2024",
+            "4A MASON CITY DANIEL SCHWARZ 2023",
             43,
             43
         ],
         [
-            "1A WEST MONONA JESSE BOYNTON 2023",
+            "1A HUDSON LUCAS GRADY 2024",
             44,
             44
         ],
         [
-            "1A EARLHAM TYLER JOHNSON 2023",
+            "3A WEST DELAWARE NOLAN MENSEN 2023",
             45,
             45
         ],
         [
-            "1A ANKENY CHRISTIAN THOMAS HURST 2025",
+            "2A DENVER CARSON HAASE 2024",
             46,
             46
         ],
         [
-            "1A WEST HARRISON JACOB BARRY 2024",
+            "3A DECORAH PETER ESSA 2024",
             47,
             47
         ],
         [
-            "1A EXIRA JONAS LACANNE 2024",
+            "3A DECORAH BENSON NEWHOUSE 2023",
             48,
             48
         ],
         [
-            "1A WOODWARD GRANGER HEALEY HILL 2023",
+            "2A DENVER ETHAN LARSON 2024",
             49,
             49
         ],
         [
-            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            "1A HUDSON BRADY HANSEN 2024",
             50,
             50
         ],
         [
-            "1A WOODWARD GRANGER CARSTEN WRIGHT 2023",
+            "3A WEST DELAWARE ALEX STEFFEN 2024",
             51,
             51
         ],
         [
-            "1A ANKENY CHRISTIAN LUKE REITSMA 2026",
+            "3A CENTER POINT-URBANA JONAH SALOW 2023",
             52,
             52
         ],
         [
-            "1A WOODWARD GRANGER STERLING PARKINSON 2024",
+            "1A HUDSON DREW HANSEN 2023",
             53,
             53
         ],
         [
-            "1A SOUTH HAMILTON LAKEN ZANKER 2025",
+            "2A CRESTWOOD SAM BRACE 2024",
             54,
             54
         ],
         [
-            "1A WEST MONONA JAXON PITTET 2026",
+            "4A MASON CITY JAMES FINGALSEN 2023",
             55,
             55
         ],
         [
-            "1A AUDUBON MASON STECKLER 2025",
+            "3A CENTER POINT-URBANA BRAYDEN BECK 2024",
             56,
             56
         ],
         [
-            "1A WOODWARD GRANGER ALEX YOUNTS 2026",
+            "4A MASON CITY MARKUS ELSBERND 2023",
             57,
             57
         ],
         [
-            "1A ANKENY CHRISTIAN LUCAS WEATHERS 2025",
+            "3A WEBSTER CITY AIDEN RAHE 2024",
             58,
             58
         ],
         [
-            "1A WEST MONONA COLE DISNEY 2023",
+            "2A DENVER GARRETT EVEN 2023",
             59,
             59
         ],
         [
-            "1A WOODWARD GRANGER AIDEN TOPALOVICH 2024",
+            "3A EPWORTH THOMAS BLAIR 2023",
             60,
             60
         ],
         [
-            "1A SOUTH HAMILTON JAGGER FERRIE 2025",
+            "2A GRUNDY CENTER / GLADBROOK JERYN SPEAR 2023",
             61,
             61
         ],
         [
-            "1A AUDUBON ELI DEIST 2024",
+            "3A WEST DELAWARE NICK MENSEN 2024",
             62,
             62
         ],
         [
-            "1A WEST HARRISON RILEY ACKER 2023",
+            "3A DECORAH TRAVIS NORDHEIM 2024",
             63,
             63
         ],
         [
-            "1A EXIRA PHIL REINHART 2024",
+            "2A DENVER CONNER CLINTON 2024",
             64,
             64
         ],
         [
-            "1A WEST HARRISON JAMES KRAFT 2024",
+            "4A WATERLOO EAST RICARDO RIOS 2024",
             65,
             65
         ],
         [
-            "1A PANORAMA ZACH HAYDEN 2026",
+            "2A CRESTWOOD LUKE STORTZ 2023",
             66,
             66
         ],
         [
-            "1A ANKENY CHRISTIAN KYLE WEBER 2026",
+            "1A NASHUA-PLAINFIELD CALEB LENTZ 2024",
             67,
             67
         ],
         [
-            "1A NODAWAY VALLEY JACK JENSEN 2024",
+            "1A CLARKSVILLE HOWIE CLARK 2024",
             68,
             68
         ],
         [
-            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
+            "3A DECORAH MAX WILSON 2023",
             69,
             69
         ],
         [
-            "1A WOODWARD ACADEMY DENNIS LOPEZ 2024",
+            "3A CENTER POINT-URBANA JAMES DESMET 2024",
             70,
             70
         ],
         [
-            "1A EXIRA JAIDEN PETTEPIER 2024",
+            "3A WEST DELAWARE ETHAN GRAWE 2024",
             71,
             71
         ],
         [
-            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
+            "1A TRIPOLI TAEBIEN WRIGHT 2023",
             72,
             72
         ],
         [
-            "1A EXIRA QUINTINN WHITE 2024",
+            "2A DENVER GRANT PAUTSCH 2024",
             73,
             73
         ],
         [
-            "1A EXIRA CARTER WIEMANN 2026",
+            "4A MASON CITY DEREK LOESCHEN 2023",
             74,
             74
         ],
         [
-            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            "1A HUDSON LANE ROGERS 2023",
             75,
             75
         ],
         [
-            "1A COON RAPIDS-BAYARD LOGAN KENYON 2026",
+            "2A DENVER JASON WATERMAN 2024",
             76,
             76
         ],
         [
-            "1A WEST HARRISON GUNNER STOLZ 2023",
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
             77,
             77
         ],
         [
-            "1A CAM BLAKE GOSSMAN 2026",
+            "1A CLARKSVILLE ERIC LAURES 2023",
             78,
             78
         ],
         [
-            "1A WEST HARRISON KENDEL BALDWIN 2026",
+            "4A MASON CITY BRODY HIRSCH 2023",
             79,
             79
+        ],
+        [
+            "3A WEST DELAWARE DOMINIC MASTIN 2024",
+            80,
+            80
+        ],
+        [
+            "1A HUDSON ALEX STEELE 2024",
+            81,
+            81
+        ],
+        [
+            "3A WEST DELAWARE OWEN NEUHAUS 2024",
+            82,
+            82
+        ],
+        [
+            "3A DECORAH MONTANA JUMP-GERLEMAN 2024",
+            83,
+            83
+        ],
+        [
+            "3A EPWORTH JACKSON DOYLE 2023",
+            84,
+            84
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
+            85,
+            85
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
+            86,
+            86
+        ],
+        [
+            "2A WAUKON CALEB PERKINS 2024",
+            87,
+            87
+        ],
+        [
+            "2A DENVER JACOB STEEGE 2023",
+            88,
+            88
+        ],
+        [
+            "3A DECORAH BROCK TAYLOR 2023",
+            89,
+            89
+        ],
+        [
+            "3A WEST DELAWARE GABE QUINT 2024",
+            90,
+            90
+        ],
+        [
+            "1A HUDSON DREW BARBER 2024",
+            91,
+            91
+        ],
+        [
+            "2A WAUKON CASHTON LLOYD 2024",
+            92,
+            92
+        ],
+        [
+            "3A DECORAH LUCAS ARENDT 2024",
+            93,
+            93
+        ],
+        [
+            "1A WAPSIE VALLEY COLE BRAM 2024",
+            94,
+            94
+        ],
+        [
+            "4A MASON CITY ETHAN OLSEN 2023",
+            95,
+            95
+        ],
+        [
+            "1A HUDSON CONNOR WARNELL 2024",
+            96,
+            96
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AIDEN BRIDGES 2024",
+            97,
+            97
+        ],
+        [
+            "4A WATERLOO EAST JUAN CARLOS RICO 2024",
+            98,
+            98
+        ],
+        [
+            "1A NASHUA-PLAINFIELD LEVI WINTERS 2023",
+            99,
+            99
+        ],
+        [
+            "2A WAUKON MASON WASSON 2024",
+            100,
+            100
+        ],
+        [
+            "3A DECORAH DOUG BENTLEY 2024",
+            101,
+            101
+        ],
+        [
+            "4A MASON CITY CYRUS EMAMI-AHARI 2023",
+            102,
+            102
+        ],
+        [
+            "2A WAUKON JAMES VANDERVELDEN 2023",
+            103,
+            103
+        ],
+        [
+            "3A INDEPENDENCE BLAKE GATES 2024",
+            104,
+            104
+        ],
+        [
+            "3A INDEPENDENCE CARTER STRAW 2023",
+            105,
+            105
+        ],
+        [
+            "4A MASON CITY DRAKE LOESCHEN 2023",
+            106,
+            106
+        ],
+        [
+            "2A WAUKON TANNER MARTING 2023",
+            107,
+            107
+        ],
+        [
+            "3A INDEPENDENCE MATT WIELAND 2023",
+            108,
+            108
+        ],
+        [
+            "3A INDEPENDENCE WILL PERRY 2023",
+            109,
+            109
+        ],
+        [
+            "1A JANESVILLE ETHAN HJELMELAND 2024",
+            110,
+            110
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK WESLEY LATCHMAN 2023",
+            111,
+            111
+        ],
+        [
+            "3A DECORAH ADAM WALTER 2024",
+            112,
+            112
+        ],
+        [
+            "2A DENVER NATE RABENHORST 2023",
+            113,
+            113
+        ],
+        [
+            "3A INDEPENDENCE CHASE KILER 2024",
+            114,
+            114
+        ],
+        [
+            "3A WEST DELAWARE ZACH O'REAR 2023",
+            115,
+            115
+        ],
+        [
+            "3A WEBSTER CITY GABE ROLLINS 2023",
+            116,
+            116
+        ],
+        [
+            "3A DECORAH LUCAS HANSON 2024",
+            117,
+            117
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK ALEX ROGERS 2024",
+            118,
+            118
+        ],
+        [
+            "3A WEBSTER CITY WYATT BINGHAM 2023",
+            119,
+            119
+        ],
+        [
+            "3A INDEPENDENCE CARSON BANTZ 2024",
+            120,
+            120
+        ],
+        [
+            "3A INDEPENDENCE KYLE JUSTASON 2024",
+            121,
+            121
+        ],
+        [
+            "3A DECORAH ALEX MCGOHAN 2024",
+            122,
+            122
+        ],
+        [
+            "3A DECORAH LANGE BETTS 2023",
+            123,
+            123
+        ],
+        [
+            "2A WAUKON RYAN KOLSRUD 2024",
+            124,
+            124
+        ],
+        [
+            "3A CENTER POINT-URBANA ZACH POST 2024",
+            125,
+            125
+        ],
+        [
+            "1A HUDSON CAMERON DANIELSEN 2023",
+            126,
+            126
+        ],
+        [
+            "3A CENTER POINT-URBANA MICHAEL ROELOFS 2024",
+            127,
+            127
+        ],
+        [
+            "1A WAPSIE VALLEY DAYNE BATES 2024",
+            128,
+            128
+        ],
+        [
+            "4A MASON CITY IAN CAROLUS 2024",
+            129,
+            129
+        ],
+        [
+            "1A JANESVILLE ALEX OLTMANN 2024",
+            130,
+            130
+        ],
+        [
+            "4A MASON CITY CALEB MCCAMBRIDGE 2023",
+            131,
+            131
+        ],
+        [
+            "1A TRIPOLI ADAM HENNINGS 2023",
+            132,
+            132
+        ],
+        [
+            "1A TRIPOLI BREVEN BIERMANN 2024",
+            133,
+            133
+        ],
+        [
+            "3A EPWORTH BRANDON VASKE 2024",
+            134,
+            134
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
+            135,
+            135
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK JACKSON MRAZ 2024",
+            136,
+            136
+        ],
+        [
+            "3A DECORAH NATHANIEL MYERS 2023",
+            137,
+            137
+        ],
+        [
+            "3A WEST DELAWARE WYATT WILLEY 2023",
+            138,
+            138
+        ],
+        [
+            "3A WEBSTER CITY LANDON CRAWFORD 2024",
+            139,
+            139
+        ],
+        [
+            "3A WEBSTER CITY DEREK CARR 2023",
+            140,
+            140
+        ],
+        [
+            "2A WAUKON STORM HUINKER 2023",
+            141,
+            141
+        ],
+        [
+            "4A MASON CITY BJORN ROEN 2024",
+            142,
+            142
         ]
     ]
 }

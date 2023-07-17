@@ -1,471 +1,266 @@
 {
-    "name": "Tipton V",
+    "name": "Sigourney",
     "time_seconds": 1662440429,
     "standings": [
         [
-            "1A IOWA CITY REGINA AIDAN O'NEIL 2024",
+            "1A NORTH MAHASKA LANE HARMON 2023",
             0,
             0
         ],
         [
-            "3A SOLON BRICK KABELA 2024",
+            "1A ENGLISH VALLEYS GAGE HEYNE 2025",
             1,
             1
         ],
         [
-            "2A TIPTON TY NICHOLS 2023",
+            "1A COLUMBUS COMMUNITY DAMIAN VERGARA 2024",
             2,
             2
         ],
         [
-            "2A TIPTON CLAY BOHLMANN 2025",
+            "1A NORTH MAHASKA BRAYDEN VEISETH 2024",
             3,
             3
         ],
         [
-            "3A SOLON MICHAEL YEOMANS 2024",
+            "1A NORTH MAHASKA ASHER DEBOEF 2025",
             4,
             4
         ],
         [
-            "3A CENTRAL DEWITT BEN ZIMMER 2024",
+            "1A SIGOURNEY TROY KLETT 2026",
             5,
             5
         ],
         [
-            "2A TIPTON MAXSON FOGG 2025",
+            "1A NORTH MAHASKA NATE SAMPSON 2024",
             6,
             6
         ],
         [
-            "1A IOWA CITY REGINA DAN MALEY 2023",
+            "1A COLUMBUS COMMUNITY TIM HILLS-CARRIER 2024",
             7,
             7
         ],
         [
-            "3A CENTRAL DEWITT CALEB OLSON 2025",
+            "1A COLUMBUS COMMUNITY BRYAN TLATENCHI 2025",
             8,
             8
         ],
         [
-            "2A TIPTON CALEB BOHLMANN 2026",
+            "1A NORTH MAHASKA ANDY KNOCKEL 2024",
             9,
             9
         ],
         [
-            "1A CASCADE ADAM KNEPPER 2023",
+            "1A COLUMBUS COMMUNITY CAEL PHILLIPS 2024",
             10,
             10
         ],
         [
-            "1A BELLEVUE AIDEN ONKEN 2023",
+            "1A MONTEZUMA JACK ERSELIUS 2024",
             11,
             11
         ],
         [
-            "2A ANAMOSA SHEA KEISTER 2023",
+            "1A WACO KERIRAN LUITJENS 2025",
             12,
             12
         ],
         [
-            "2A ANAMOSA SETH COUNTRYMAN 2025",
+            "1A NORTH MAHASKA BEN YANG 2025",
             13,
             13
         ],
         [
-            "1A IOWA CITY REGINA JOE MALEY 2023",
+            "1A MONTEZUMA JAYDEN ROSS 2024",
             14,
             14
         ],
         [
-            "3A SOLON LAWSIN SINNWELL 2024",
+            "1A WACO ISAAC RICH 2025",
             15,
             15
         ],
         [
-            "1A CASCADE MAX NADEAU 2023",
+            "1A MONTEZUMA CARTER MCKEE 2024",
             16,
             16
         ],
         [
-            "1A CASCADE LANE COOK 2025",
+            "1A WACO TRISTAN LUITJENS 2026",
             17,
             17
         ],
         [
-            "2A TIPTON JETT KAMBERLING 2026",
+            "1A MONTEZUMA GAVIN STRONG 2023",
             18,
             18
         ],
         [
-            "3A CENTRAL DEWITT CORBIN JORGENSEN 2025",
+            "1A MONTEZUMA BRYSON STOCKMAN 2025",
             19,
             19
         ],
         [
-            "3A CENTRAL DEWITT ELSTON LINDNER 2024",
+            "1A BELLE PLAINE GABE KAPLAN 2025",
             20,
             20
         ],
         [
-            "2A NORTHEAST CARTER JARGO 2023",
+            "1A BELLE PLAINE HUNTER HENRY 2026",
             21,
             21
         ],
         [
-            "1A IOWA CITY REGINA RIORDAN SMITH 2024",
+            "1A BELLE PLAINE MADDOX PURK 2025",
             22,
             22
         ],
         [
-            "2A ANAMOSA CALEB LOEHR 2023",
+            "1A WACO MATTIAS LUITJENS 2023",
             23,
             23
         ],
         [
-            "1A CALAMUS-WHEATLAND LOGAN RIEDESEL 2025",
+            "1A NORTH MAHASKA CLAY THOMPSON 2024",
             24,
             24
         ],
         [
-            "2A WILTON DEACON DUFFE 2024",
+            "1A NORTH MAHASKA KINCAID MITCHELL 2025",
             25,
             25
         ],
         [
-            "2A ANAMOSA JACK TROESTER 2024",
+            "1A MONTEZUMA JUSIAH WETERING 2025",
             26,
             26
         ],
         [
-            "3A SOLON GRANT BUMSTED 2024",
+            "1A WACO TANNER EGLI 2025",
             27,
             27
         ],
         [
-            "1A IOWA CITY REGINA HENRY BOTTORFF 2023",
+            "1A COLUMBUS COMMUNITY OSCAR ALCALA 2023",
             28,
             28
         ],
         [
-            "2A TIPTON ANDREW SHUMAKER 2024",
+            "1A KEOTA OWEN MORRIS 2025",
             29,
             29
         ],
         [
-            "2A TIPTON BRODY DEERBERG 2023",
+            "1A HIGHLAND JACKSON SCHNEIDER 2024",
             30,
             30
         ],
         [
-            "3A SOLON COLLIN BUMSTED 2024",
+            "1A LONE TREE JADIN GRIESER 2023",
             31,
             31
         ],
         [
-            "2A NORTHEAST DANIEL ROWLAND 2023",
+            "1A HLV NOLAN PIRKEL 2024",
             32,
             32
         ],
         [
-            "3A CENTRAL DEWITT PARKER PETSCHE 2025",
+            "1A MONTEZUMA KOHEN HOLLAND 2025",
             33,
             33
         ],
         [
-            "2A ANAMOSA CARVER REISS 2025",
+            "1A IOWA VALLEY AYDEN HOLLISTER 2026",
             34,
             34
         ],
         [
-            "2A ANAMOSA JACOB LOEHR 2023",
+            "1A LONE TREE TAYLOR ALBERHASKY 2025",
             35,
             35
         ],
         [
-            "1A IOWA CITY REGINA SAMUEL WELTER 2025",
+            "1A ENGLISH VALLEYS CALEB GARRINGER 2023",
             36,
             36
         ],
         [
-            "3A CENTRAL DEWITT RYLAN EDWARDS 2025",
+            "1A HLV ETHAN LICHT 2024",
             37,
             37
         ],
         [
-            "3A CENTRAL DEWITT ALEX FULLER 2023",
+            "1A LONE TREE BLAKE HONEYCUTT 2023",
             38,
             38
         ],
         [
-            "2A NORTHEAST PARKER MESSERICH 2025",
+            "1A COLUMBUS COMMUNITY ALEX REES 2026",
             39,
             39
         ],
         [
-            "2A NORTHEAST KELVIN MACHANDE 2024",
+            "1A MONTEZUMA COLTON BENSON 2023",
             40,
             40
         ],
         [
-            "2A NORTHEAST JACOB TEGELER 2024",
+            "1A HIGHLAND BRENDAN SCHNOEBELEN 2023",
             41,
             41
         ],
         [
-            "1A CASCADE BEN GEHL 2023",
+            "1A SIGOURNEY DAWSON MEYER 2025",
             42,
             42
         ],
         [
-            "1A IOWA CITY REGINA COLIN OLNEY 2024",
+            "1A HIGHLAND CHASE BOSHART 2026",
             43,
             43
         ],
         [
-            "2A NORTHEAST CARVER LANGE 2024",
+            "1A LONE TREE JOEY BIRTCHER 2024",
             44,
             44
         ],
         [
-            "2A WILTON BRODY BRISKER 2024",
+            "1A BELLE PLAINE HARRY SINGH 2024",
             45,
             45
         ],
         [
-            "1A DURANT RACE STARR 2025",
+            "1A HIGHLAND BRAYDEN ZYWIEC 2026",
             46,
             46
         ],
         [
-            "2A LOUISA-MUSCATINE TY MUNIZ 2025",
+            "1A WACO DEACON BIRD 2025",
             47,
             47
         ],
         [
-            "3A SOLON BEN DUCKETT 2024",
+            "1A HLV AUSTIN VANHAMME 2024",
             48,
             48
         ],
         [
-            "2A CAMANCHE MADDOX HOMAN 2025",
+            "1A COLUMBUS COMMUNITY DANIEL MARTINEZ 2023",
             49,
             49
         ],
         [
-            "1A NORTH CEDAR CLANCEY VANOORT 2026",
+            "1A NORTH MAHASKA LARRY MOHR 2026",
             50,
             50
         ],
         [
-            "1A CALAMUS-WHEATLAND JACKSON RIEDESEL 2024",
+            "1A HIGHLAND CHASE HICKENBOTTOM 2026",
             51,
             51
-        ],
-        [
-            "2A CAMANCHE NICK REUTER 2023",
-            52,
-            52
-        ],
-        [
-            "1A CASCADE NATHANIEL MANTERNACH 2024",
-            53,
-            53
-        ],
-        [
-            "1A CALAMUS-WHEATLAND MASON MOHR 2026",
-            54,
-            54
-        ],
-        [
-            "1A CALAMUS-WHEATLAND AIDAN YADDOF 2026",
-            55,
-            55
-        ],
-        [
-            "2A LOUISA-MUSCATINE KELLAN WALSH 2024",
-            56,
-            56
-        ],
-        [
-            "1A CASCADE ANDREW KAALBERG 2025",
-            57,
-            57
-        ],
-        [
-            "2A NORTHEAST ETHAN JOHNSON 2024",
-            58,
-            58
-        ],
-        [
-            "1A NORTH CEDAR JAYDON WIGGINS 2024",
-            59,
-            59
-        ],
-        [
-            "2A LOUISA-MUSCATINE GAVIN MILLS 2024",
-            60,
-            60
-        ],
-        [
-            "1A BELLEVUE BEN MEYER 2024",
-            61,
-            61
-        ],
-        [
-            "2A LOUISA-MUSCATINE SKYLER BECK 2024",
-            62,
-            62
-        ],
-        [
-            "1A MIDLAND MILO SMITH 2023",
-            63,
-            63
-        ],
-        [
-            "2A ANAMOSA GIOVANNY LOPEZ 2023",
-            64,
-            64
-        ],
-        [
-            "1A MIDLAND JAYSON RULEY 2025",
-            65,
-            65
-        ],
-        [
-            "1A CASCADE TRENTEN TOPPING 2025",
-            66,
-            66
-        ],
-        [
-            "1A NORTH CEDAR ELI DIES 2026",
-            67,
-            67
-        ],
-        [
-            "2A CAMANCHE CAMERON DORSEY 2025",
-            68,
-            68
-        ],
-        [
-            "1A DURANT NOLAN WILLIAMS 2026",
-            69,
-            69
-        ],
-        [
-            "2A WILTON BRIGGS OIEN 2026",
-            70,
-            70
-        ],
-        [
-            "2A WILTON GRAYSON HARTUNG 2025",
-            71,
-            71
-        ],
-        [
-            "1A CALAMUS-WHEATLAND ALEX RICKERTSEN 2026",
-            72,
-            72
-        ],
-        [
-            "2A CAMANCHE TY GRAVERT 2023",
-            73,
-            73
-        ],
-        [
-            "1A WAPELLO ASHTON SLATON 2023",
-            74,
-            74
-        ],
-        [
-            "1A WAPELLO WILL PARSONS 2026",
-            75,
-            75
-        ],
-        [
-            "1A NORTH CEDAR WESTON DIRCKS 2026",
-            76,
-            76
-        ],
-        [
-            "2A WILTON TOMMY DRAKE-METZGER 2026",
-            77,
-            77
-        ],
-        [
-            "2A CAMANCHE BRAXTON LAURION 2026",
-            78,
-            78
-        ],
-        [
-            "2A LOUISA-MUSCATINE JACOB SCHRIEBER 2024",
-            79,
-            79
-        ],
-        [
-            "2A CAMANCHE DAVID ZAVALA 2023",
-            80,
-            80
-        ],
-        [
-            "2A CAMANCHE TANNER SNODGRASS 2025",
-            81,
-            81
-        ],
-        [
-            "1A DURANT CLAYTON DIERICKX 2026",
-            82,
-            82
-        ],
-        [
-            "1A CALAMUS-WHEATLAND KAISER SANDS 2025",
-            83,
-            83
-        ],
-        [
-            "2A LOUISA-MUSCATINE TALIN BREWER 2024",
-            84,
-            84
-        ],
-        [
-            "1A WAPELLO JACK BOYSEN 2026",
-            85,
-            85
-        ],
-        [
-            "1A DURANT WILLIAM RICHARDSON 2024",
-            86,
-            86
-        ],
-        [
-            "1A DURANT ROYCE RICHMAN 2026",
-            87,
-            87
-        ],
-        [
-            "1A MIDLAND JAY BENTLEY 2023",
-            88,
-            88
-        ],
-        [
-            "2A WILTON TYLER ELLITHORPE 2026",
-            89,
-            89
-        ],
-        [
-            "1A WAPELLO JORDAN CHAMBERLIN-JOHNSTON 2026",
-            90,
-            90
-        ],
-        [
-            "3A SOLON EVAN BURG 2025",
-            91,
-            91
-        ],
-        [
-            "1A WAPELLO HOLDEN HELMIG 2026",
-            92,
-            92
         ]
     ]
 }
