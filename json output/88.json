@@ -1,481 +1,441 @@
 {
-    "name": "Treynor",
+    "name": "Tipton JV",
     "time_seconds": 1662440428,
     "standings": [
         [
-            "1A BOYER VALLEY PATRICK HEFFERNAN 2023",
+            "3A CENTRAL DEWITT ADAM WILKE 2026",
             0,
             0
         ],
         [
-            "1A SAINT ALBERT COLIN LILLIE 2023",
+            "1A IOWA CITY REGINA MATT TAKACS 2024",
             1,
             1
         ],
         [
-            "1A WOODBINE LANDON BENDGEN 2024",
+            "3A CENTRAL DEWITT KEEGAN PETERSON 2025",
             2,
             2
         ],
         [
-            "1A WOODBINE THOMAS TREMEL 2024",
+            "3A SOLON NATHAN SCHADLER 2023",
             3,
             3
         ],
         [
-            "1A WOODBINE GUNNER WAGNER 2025",
+            "2A TIPTON ZAC BUTLER 2025",
             4,
             4
         ],
         [
-            "2A TREYNOR MASON YOCHUM 2023",
+            "1A BELLEVUE CONNOR KILBURG 2026",
             5,
             5
         ],
         [
-            "2A TREYNOR JOHN ROSS BIEDERMAN 2023",
+            "3A SOLON MASON PAULEY 2024",
             6,
             6
         ],
         [
-            "1A SAINT ALBERT OWEN WISE 2024",
+            "3A SOLON NATE SHAFER 2023",
             7,
             7
         ],
         [
-            "1A GRISWOLD CODY DORSCHER 2025",
+            "3A CENTRAL DEWITT GREYSON DOLLAR 2025",
             8,
             8
         ],
         [
-            "1A WOODBINE ADAM BARRY 2025",
+            "2A TIPTON JACOB BARTON 2025",
             9,
             9
         ],
         [
-            "1A SAINT ALBERT ADAM DENNY 2023",
+            "1A BELLEVUE KADEN GUENTHER 2024",
             10,
             10
         ],
         [
-            "1A MISSOURI VALLEY JACOB HODEN 2024",
+            "3A CENTRAL DEWITT THOMAS FIELDING 2023",
             11,
             11
         ],
         [
-            "1A WOODBINE LANE VENNINK 2023",
+            "2A TIPTON WYATT NEBERGALL 2026",
             12,
             12
         ],
         [
-            "1A EAST MILLS STEVEN BARRETT 2024",
+            "1A IOWA CITY REGINA LINCON DARDIS 2025",
             13,
             13
         ],
         [
-            "1A TRI-CENTER BRENNAN BODEN 2025",
+            "3A CENTRAL DEWITT LUCAS JOHNSTON 2026",
             14,
             14
         ],
         [
-            "1A CAM GAVIN CLAYTON 2023",
+            "3A SOLON CAMDEN LYONS 2026",
             15,
             15
         ],
         [
-            "2A UNDERWOOD CONNOR BRUMMETT 2026",
+            "1A IOWA CITY REGINA BRENDAN OLNEY 2026",
             16,
             16
         ],
         [
-            "1A TRI-CENTER NICHOLAS DAHIR 2026",
+            "1A IOWA CITY REGINA LAIRD HOLDEN 2026",
             17,
             17
         ],
         [
-            "1A MISSOURI VALLEY ADAM MEADOWS 2025",
+            "2A TIPTON BRYCE OLSEEN 2026",
             18,
             18
         ],
         [
-            "1A SAINT ALBERT JOE HUGHES 2025",
+            "1A CASCADE GIOVANNI VEGA-VEGA 2024",
             19,
             19
         ],
         [
-            "1A WEST MONONA JAYCE LYNN 2023",
+            "3A SOLON JACK HOSKING 2024",
             20,
             20
         ],
         [
-            "1A HEARTLAND CHRISTIAN GAVIN ANDERSEN 2023",
+            "2A ANAMOSA BRAEDEN KEISTER 2025",
             21,
             21
         ],
         [
-            "1A SAINT ALBERT GABRIEL BARAJAS 2025",
+            "3A CENTRAL DEWITT RYAN ZIDARICH 2026",
             22,
             22
         ],
         [
-            "1A WEST MONONA ANDREW ORR 2024",
+            "2A WEST LIBERTY JOAQUIN ELIZONDO 2024",
             23,
             23
         ],
         [
-            "1A LOGAN-MAGNOLIA WYATT HAWKINS 2025",
+            "1A IOWA CITY REGINA JOE POLYAK 2024",
             24,
             24
         ],
         [
-            "2A TREYNOR JEYDEN FARR 2026",
+            "3A SOLON WYATT APPLEGARTH 2024",
             25,
             25
         ],
         [
-            "1A TRI-CENTER CHRISTIAN DAHIR 2024",
+            "2A WILTON TRAE HAGEN 2023",
             26,
             26
         ],
         [
-            "1A WOODBINE TREY BURGERMEYER 2024",
+            "2A TIPTON ZANDER HAGEN 2025",
             27,
             27
         ],
         [
-            "2A TREYNOR JACK CARLEY 2024",
+            "3A SOLON GABE NICHOLSON 2024",
             28,
             28
         ],
         [
-            "1A WEST MONONA JESSE BOYNTON 2023",
+            "3A SOLON HAYDEN HENNEBERRY 2023",
             29,
             29
         ],
         [
-            "1A WOODBINE XANDER JOHNSON 2025",
+            "1A CASCADE SEAN PRY 2023",
             30,
             30
         ],
         [
-            "1A WEST HARRISON JACOB BARRY 2024",
+            "2A ANAMOSA KRISTOFOR SUNDSTROM 2026",
             31,
             31
         ],
         [
-            "1A SIDNEY FLYNT BELL 2026",
+            "2A TIPTON DALTON MCDONALD 2024",
             32,
             32
         ],
         [
-            "1A SAINT ALBERT JACOB BOSWELL 2025",
+            "3A SOLON LEWIS SUTTON 2023",
             33,
             33
         ],
         [
-            "1A TRI-CENTER SIMEON WEERS 2024",
+            "2A TIPTON CARSON GLICK 2024",
             34,
             34
         ],
         [
-            "1A EAST MILLS CAMRYN JOHNSON 2024",
+            "3A SOLON SPENCER MICHELS 2026",
             35,
             35
         ],
         [
-            "2A TREYNOR MILES NICHOLS 2023",
+            "2A ANAMOSA GRIFFIN EMBREE 2026",
             36,
             36
         ],
         [
-            "1A HEARTLAND CHRISTIAN BRADY DINGUS 2025",
+            "2A NORTHEAST SIMON LUKESCH 2024",
             37,
             37
         ],
         [
-            "1A GRISWOLD NOLLAN SMITH 2026",
+            "3A SOLON CHARLIE PETTIT 2026",
             38,
             38
         ],
         [
-            "1A MISSOURI VALLEY AIDAN RANGEL 2025",
+            "3A CENTRAL DEWITT AIDAN COSTAS 2026",
             39,
             39
         ],
         [
-            "1A CAM CARSON CARY 2023",
+            "3A SOLON CADEN MAI 2026",
             40,
             40
         ],
         [
-            "1A TRI-CENTER KYLE MCDONALD 2025",
+            "1A CASCADE BRADLEY DOLPHIN 2026",
             41,
             41
         ],
         [
-            "1A SAINT ALBERT BRADY SMITH 2026",
+            "3A SOLON IAN RESSLER 2023",
             42,
             42
         ],
         [
-            "1A SAINT ALBERT ALEX DAWSON 2026",
+            "2A NORTHEAST CARTER MESSERICH 2023",
             43,
             43
         ],
         [
-            "1A WOODBINE CARSON KELLEY 2025",
+            "2A WILTON LIAM ALDELFINGER 2026",
             44,
             44
         ],
         [
-            "1A WEST MONONA COLE DISNEY 2023",
+            "2A TIPTON OWEN BOLDT 2025",
             45,
             45
         ],
         [
-            "1A WEST MONONA GABE MCKINLEY 2024",
+            "1A BELLEVUE OWEN PUTMAN 2026",
             46,
             46
         ],
         [
-            "1A WEST HARRISON RILEY ACKER 2023",
+            "3A SOLON RENE MEZA 2026",
             47,
             47
         ],
         [
-            "1A LOGAN-MAGNOLIA LYRICK STUEVE 2024",
+            "3A CENTRAL DEWITT TAIT DANIELS 2023",
             48,
             48
         ],
         [
-            "1A MISSOURI VALLEY KEATON VOSTER 2026",
+            "2A WEST LIBERTY CAMERON ELIZONDO 2024",
             49,
             49
         ],
         [
-            "1A LOGAN-MAGNOLIA WYATT GRIMES 2025",
+            "2A TIPTON ISAAC SPANGLER 2026",
             50,
             50
         ],
         [
-            "1A WEST MONONA JAXON PITTET 2026",
+            "2A NORTHEAST SAWYER SCHMIDT 2024",
             51,
             51
         ],
         [
-            "1A WEST HARRISON JAMES KRAFT 2024",
+            "3A SOLON OWEN YOUNG 2024",
             52,
             52
         ],
         [
-            "1A WOODBINE EVAN ESTRADA 2025",
+            "1A NORTH CEDAR JAMES TROUGHTON 2026",
             53,
             53
         ],
         [
-            "1A GRISWOLD HOLDEN JENSEN 2025",
+            "1A IOWA CITY REGINA GRADY KLINGEMAN 2026",
             54,
             54
         ],
         [
-            "1A TRI-CENTER MICAH MCCARTY 2026",
+            "3A SOLON BRODY CASH 2023",
             55,
             55
         ],
         [
-            "2A UNDERWOOD JAYDEN SHELTON 2026",
+            "2A NORTHEAST CORBIN KNUTSEN 2024",
             56,
             56
         ],
         [
-            "1A SIDNEY WILL BRYANT 2024",
+            "2A WEST LIBERTY MANU GARCIA BLANES 2025",
             57,
             57
         ],
         [
-            "1A GRISWOLD BRAYDEN LOCKWOOD 2026",
+            "3A CENTRAL DEWITT DYLAN STOKER 2024",
             58,
             58
         ],
         [
-            "1A STANTON LOGAN MCQUEEN 2025",
+            "1A CASCADE REECE DREW 2024",
             59,
             59
         ],
         [
-            "1A STANTON ZOOEY ALLEN 2025",
+            "3A SOLON BRAYDON BAKER 2026",
             60,
             60
         ],
         [
-            "1A LOGAN-MAGNOLIA JAMES NEWTON 2023",
+            "3A SOLON TRISTAN FREEMAN 2024",
             61,
             61
         ],
         [
-            "1A EAST MILLS ANDREW LARAMY 2023",
+            "1A IOWA CITY REGINA DANYAL MUEH 2025",
             62,
             62
         ],
         [
-            "1A BOYER VALLEY MICHAEL DAVIS 2026",
+            "2A NORTHEAST ALEX EVERSON 2023",
             63,
             63
         ],
         [
-            "1A MISSOURI VALLEY XAVIER RANGEL 2025",
+            "2A ANAMOSA THOMAS STEINLAGE 2023",
             64,
             64
         ],
         [
-            "1A HEARTLAND CHRISTIAN BRONX FETTER 2023",
+            "1A NORTH CEDAR MICHAEL REDHAGE 2025",
             65,
             65
         ],
         [
-            "2A TREYNOR CHASE KILLINGER 2026",
+            "2A ANAMOSA HOLLETT SKYLAR 2024",
             66,
             66
         ],
         [
-            "1A EAST MILLS COOPER STEARNS 2025",
+            "1A BELLEVUE MITCH MANDERS 2026",
             67,
             67
         ],
         [
-            "1A GRISWOLD TOSH FELTNER 2023",
+            "3A SOLON ETHAN MELLOY 2024",
             68,
             68
         ],
         [
-            "1A HEARTLAND CHRISTIAN SILAS LICKLITER 2024",
+            "3A SOLON ETHAN RESSLER 2026",
             69,
             69
         ],
         [
-            "2A UNDERWOOD NATE ARTHUR 2026",
+            "2A NORTHEAST ASA COX 2025",
             70,
             70
         ],
         [
-            "1A TRI-CENTER MATT EIKENBERRY 2024",
+            "3A SOLON JACOB KRAMER 2026",
             71,
             71
         ],
         [
-            "1A TRI-CENTER MATT STOWE 2023",
+            "2A WEST LIBERTY CHRISTOPHER PALMA 2023",
             72,
             72
         ],
         [
-            "1A TRI-CENTER EVAN WHAM 2026",
+            "1A NORTH CEDAR CHARLES ROBINSON 2024",
             73,
             73
         ],
         [
-            "1A WOODBINE BRANDON STEPPUHN 2024",
+            "3A SOLON TYLER GREGORY 2024",
             74,
             74
         ],
         [
-            "1A TRI-CENTER SMITH HUNTER 2025",
+            "2A NORTHEAST AUGUST ROWLAND 2025",
             75,
             75
         ],
         [
-            "1A MISSOURI VALLEY JACKSON HARRISON 2024",
+            "3A CENTRAL DEWITT CALEB GILMOUR 2026",
             76,
             76
         ],
         [
-            "1A HEARTLAND CHRISTIAN ELIJAH LEWIS 2024",
+            "2A NORTHEAST OTIS WELCH 2025",
             77,
             77
         ],
         [
-            "1A EAST MILLS WALTER SEIPOLD 2025",
+            "3A CENTRAL DEWITT TYLER DANIELS 2025",
             78,
             78
         ],
         [
-            "1A WOODBINE WYATT COENEN 2025",
+            "3A SOLON EVZEN MEZA 2025",
             79,
             79
         ],
         [
-            "1A MISSOURI VALLEY TYLER LEUSINK 2025",
+            "2A NORTHEAST GARRETT LAMP 2023",
             80,
             80
         ],
         [
-            "2A UNDERWOOD LUKE STOLZ 2023",
+            "2A WEST LIBERTY BEN THARP 2026",
             81,
             81
         ],
         [
-            "1A STANTON KYLE PASTORE 2023",
+            "3A SOLON OWEN REKERS 2026",
             82,
             82
         ],
         [
-            "1A TRI-CENTER PLOEN ZACH 2025",
+            "1A BELLEVUE EVERETT ARLEN 2026",
             83,
             83
         ],
         [
-            "1A WEST MONONA LOGAN MURRAY 2026",
+            "1A CASCADE ALEC COOK 2026",
             84,
             84
         ],
         [
-            "2A TREYNOR ANDREW SAAR 2023",
+            "2A WEST LIBERTY WESLEY HEATH 2026",
             85,
             85
         ],
         [
-            "1A MISSOURI VALLEY GAVIN THACKER 2025",
+            "3A SOLON MICHAEL DEVALK 2025",
             86,
             86
-        ],
-        [
-            "1A HEARTLAND CHRISTIAN MICHAEL HOLTMYER 2026",
-            87,
-            87
-        ],
-        [
-            "1A SAINT ALBERT ALEX MARSH 2026",
-            88,
-            88
-        ],
-        [
-            "2A UNDERWOOD CARTER FORBUSH 2025",
-            89,
-            89
-        ],
-        [
-            "1A WEST HARRISON KENDEL BALDWIN 2026",
-            90,
-            90
-        ],
-        [
-            "1A CAM BLAKE GOSSMAN 2026",
-            91,
-            91
-        ],
-        [
-            "1A LOGAN-MAGNOLIA JONNY DIGGINS 2024",
-            92,
-            92
-        ],
-        [
-            "1A WOODBINE DOMINICUS LARY 2026",
-            93,
-            93
-        ],
-        [
-            "1A WEST HARRISON GUNNAR STOLZ 2023",
-            94,
-            94
         ]
     ]
 }

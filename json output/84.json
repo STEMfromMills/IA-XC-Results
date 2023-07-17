@@ -1,491 +1,361 @@
 {
-    "name": "LeMars ",
+    "name": "Grinnell V",
     "time_seconds": 1662440424,
     "standings": [
         [
-            "3A MOC-FLOYD VALLEY ISAIAH HULSHOF 2023",
+            "3A PELLA CHASE LAUMAN 2023",
             0,
             0
         ],
         [
-            "3A MOC-FLOYD VALLEY TREVOR MIRANDE 2025",
+            "3A SOUTH TAMA TOMMY TYYNISMAA 2024",
             1,
             1
         ],
         [
-            "3A SIOUX CENTER EASTON VANDENBERG 2023",
+            "3A PELLA CANAAN DUNHAM 2026",
             2,
             2
         ],
         [
-            "3A SIOUX CENTER HUDSON VONK 2024",
+            "3A SOUTH TAMA JAMES BRANT 2024",
             3,
             3
         ],
         [
-            "3A STORM LAKE LUIZ MARTINEZ 2024",
+            "3A PELLA NATHAN VANDERWAAL 2024",
             4,
             4
         ],
         [
-            "3A SPENCER VAN MUNSON 2024",
+            "3A GRINNELL JONAS CONNER 2023",
             5,
             5
         ],
         [
-            "3A LEMARS TRACE OBBINK 2024",
+            "3A CARLISLE KAEL STREETER 2026",
             6,
             6
         ],
         [
-            "3A SERGEANT BLUFF-LUTON EVAN JANZEN 2023",
+            "3A CARLISLE KAMDEN BROWN 2025",
             7,
             7
         ],
         [
-            "2A UNITY CHRISTIAN STEPHEN SCHREURS 2024",
+            "3A KNOXVILLE ISAAC RANKIN 2026",
             8,
             8
         ],
         [
-            "3A MOC-FLOYD VALLEY MICAH DEYOUNG 2023",
+            "3A PELLA NOAH SCHUKNECHT 2026",
             9,
             9
         ],
         [
-            "3A SIOUX CENTER LOGAN FOLTZ 2024",
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
             10,
             10
         ],
         [
-            "3A MOC-FLOYD VALLEY IAN VANDERWERFF 2025",
+            "1A LYNNVILLE-SULLY JAMES GRUVER 2023",
             11,
             11
         ],
         [
-            "4A CB JEFFERSON KAIDEN HAMILTON 2026",
+            "3A PELLA COOPER VANDE VOORT 2023",
             12,
             12
         ],
         [
-            "3A MOC-FLOYD VALLEY MICAH SCHMIDT 2025",
+            "3A CARLISLE BRODY ROTH 2024",
             13,
             13
         ],
         [
-            "3A SIOUX CENTER KELLEN DEAN 2024",
+            "3A NEWTON LANDON MENNINGA 2024",
             14,
             14
         ],
         [
-            "3A LEMARS MICHAEL MEIS 2023",
+            "3A CARLISLE LOGAN HOWARD 2023",
             15,
             15
         ],
         [
-            "2A UNITY CHRISTIAN ETHAN WYNIA 2025",
+            "3A BENTON TREY SCHULTE 2023",
             16,
             16
         ],
         [
-            "4A SIOUX CITY EAST OMAR HERNANDEZ LOPEZ 2023",
+            "3A CARLISLE EZRA DECLEENE 2024",
             17,
             17
         ],
         [
-            "3A STORM LAKE JOEL RAMIREZ-PARRA 2026",
+            "3A CARLISLE HARRISON EIGHMY 2025",
             18,
             18
         ],
         [
-            "3A SERGEANT BLUFF-LUTON BRAULIO GONZALEZ 2025",
+            "3A SOUTH TAMA BRAXTEN ROHRS 2024",
             19,
             19
         ],
         [
-            "3A SERGEANT BLUFF-LUTON DAVID GEHLING 2024",
+            "3A CARLISLE CHASE GACH 2024",
             20,
             20
         ],
         [
-            "4A CB JEFFERSON MARK MARKUSON 2023",
+            "3A GRINNELL CADEL CONNER 2026",
             21,
             21
         ],
         [
-            "3A SERGEANT BLUFF-LUTON MICHAEL WIESELER 2024",
+            "3A PELLA KAIDEN BROWNE 2025",
             22,
             22
         ],
         [
-            "3A MOC-FLOYD VALLEY NATHAN ANDERSON 2025",
+            "3A NEWTON LEO FRIEDMAN 2023",
             23,
             23
         ],
         [
-            "2A UNITY CHRISTIAN LANE SCHOLTEN 2025",
+            "1A LYNNVILLE-SULLY ZACH MORNINGSTAR 2023",
             24,
             24
         ],
         [
-            "4A SIOUX CITY EAST MACIAH SHULTZ 2025",
+            "3A PELLA DEVON BROWNE 2025",
             25,
             25
         ],
         [
-            "4A SIOUX CITY EAST CADEN KOEPKE 2026",
+            "3A NEWTON JAVIN DOLAND 2025",
             26,
             26
         ],
         [
-            "2A UNITY CHRISTIAN JONATHON BREEMS 2023",
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
             27,
             27
         ],
         [
-            "3A MOC-FLOYD VALLEY THATCHER DOUGHAN 2026",
+            "3A SOUTH TAMA CADE ROSENBERGER 2024",
             28,
             28
         ],
         [
-            "3A SPENCER NOAH FULLHART 2026",
+            "3A BENTON ISAAC MORRIS 2024",
             29,
             29
         ],
         [
-            "2A UNITY CHRISTIAN IAIN MONROE 2023",
+            "3A NEWTON COLLIN BUCHLI 2023",
             30,
             30
         ],
         [
-            "2A WOODBURY CENTRAL-KP MARSHALL BENSON 2023",
+            "3A BENTON CALEB OLSON 2026",
             31,
             31
         ],
         [
-            "4A SIOUX CITY WEST JOJO SMALL 2025",
+            "3A NEWTON CHRISTIAN BUCHLI 2025",
             32,
             32
         ],
         [
-            "3A SERGEANT BLUFF-LUTON DANIEL DELAROSA 2026",
+            "2A WILLIAMSBURG CALVIN SEEMAN 2024",
             33,
             33
         ],
         [
-            "1A SIOUXLAND CHRISTIAN SAMMY DUERLOO 2024",
+            "3A GRINNELL KIRAN JONES 2023",
             34,
             34
         ],
         [
-            "3A SPENCER NOAH GOEKEN 2023",
+            "1A LYNNVILLE-SULLY HENDRICK LOWRY 2025",
             35,
             35
         ],
         [
-            "1A RIDGE VIEW BRODY BISENIUS 2025",
+            "3A GRINNELL ALEXANDER CRITES 2023",
             36,
             36
         ],
         [
-            "3A SIOUX CENTER MICAH TRUESDELL 2023",
+            "3A KNOXVILLE EZRA SCHMIDT 2025",
             37,
             37
         ],
         [
-            "3A SERGEANT BLUFF-LUTON KELLEN SWEUM 2024",
+            "3A NEWTON JESUS MURILLO 2024",
             38,
             38
         ],
         [
-            "3A LEMARS JUAN SANCHEZ 2023",
+            "3A GRINNELL BEAUX BLANCHARD 2025",
             39,
             39
         ],
         [
-            "4A SIOUX CITY WEST ERIC MUNOZ 2024",
+            "3A GRINNELL JEFF SIECK 2024",
             40,
             40
         ],
         [
-            "3A LEMARS MICHAEL MURRA 2024",
+            "3A BENTON BLAKE DAUGHERTY 2023",
             41,
             41
         ],
         [
-            "1A GEHLEN BRADAN WEBER 2025",
+            "3A SOUTH TAMA BARRETT JESINA 2026",
             42,
             42
         ],
         [
-            "1A RIDGE VIEW ODIN HANSON 2026",
+            "1A BGM HESSEL BOELEN 2023",
             43,
             43
         ],
         [
-            "3A STORM LAKE BRETT PEDERSEN 2025",
+            "3A CR XAVIER MARCUS CAMACHO 2024",
             44,
             44
         ],
         [
-            "3A LEMARS CADEN WURTH 2023",
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
             45,
             45
         ],
         [
-            "3A SIOUX CENTER MICAH VANDEVEGTE 2025",
+            "3A BENTON BRANDON SCHULTZ 2023",
             46,
             46
         ],
         [
-            "2A UNITY CHRISTIAN DAYLEN MULDER 2024",
+            "3A BENTON MARCUS RICKLEFS 2024",
             47,
             47
         ],
         [
-            "3A SERGEANT BLUFF-LUTON HAYDEN GAMBLE 2023",
+            "3A CR XAVIER ALEC BATTIEN 2023",
             48,
             48
         ],
         [
-            "3A SPENCER ALEX BALDWIN 2024",
+            "3A SOUTH TAMA HOLDEN SCHIRMER 2024",
             49,
             49
         ],
         [
-            "1A SIOUXLAND CHRISTIAN JUSTIN WILFORD 2023",
+            "3A GRINNELL HARRISON LAUG 2025",
             50,
             50
         ],
         [
-            "4A CB JEFFERSON ETHAN BOSE 2023",
+            "3A BENTON EVAN DAUGHERTY 2023",
             51,
             51
         ],
         [
-            "3A BISHOP HEELAN FISHER UHL 2025",
+            "2A WILLIAMSBURG IAN WILDE 2024",
             52,
             52
         ],
         [
-            "2A UNITY CHRISTIAN TYLER ROZENBOOM 2025",
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
             53,
             53
         ],
         [
-            "3A SPENCER JACE FULLHART 2024",
+            "2A WILLIAMSBURG JAKE BUCHHOLTZ 2023",
             54,
             54
         ],
         [
-            "3A SPENCER DEVON REES 2023",
+            "3A KNOXVILLE KADEN MCGILL 2023",
             55,
             55
         ],
         [
-            "3A BISHOP HEELAN KAMERON FJELDHEIM 2023",
+            "3A CR XAVIER WILL KARL 2023",
             56,
             56
         ],
         [
-            "3A BISHOP HEELAN BEN WALSH 2026",
+            "3A SOUTH TAMA CALE GRAFF 2025",
             57,
             57
         ],
         [
-            "3A STORM LAKE CHRISTIAN ROQUE 2023",
+            "3A CR XAVIER ABRAHAM RENZE 2026",
             58,
             58
         ],
         [
-            "2A WOODBURY CENTRAL-KP CARSON SEUNTJENS 2023",
+            "3A CR XAVIER DYLAN LANG 2026",
             59,
             59
         ],
         [
-            "4A SIOUX CITY EAST JACOB HARRISON 2023",
+            "3A NEWTON LANCE ZABEL 2026",
             60,
             60
         ],
         [
-            "3A BISHOP HEELAN ELIAS FLANERY 2024",
+            "3A CR XAVIER LIAM PERREAULT 2024",
             61,
             61
         ],
         [
-            "3A SPENCER JEROME HOLLINGSWORTH 2025",
+            "3A KNOXVILLE ETHAN RUSSELL 2025",
             62,
             62
         ],
         [
-            "4A SIOUX CITY EAST DYLAN CHWIRKA 2026",
+            "3A KNOXVILLE REID SINCLAIR 2025",
             63,
             63
         ],
         [
-            "4A SIOUX CITY EAST JACOB DENKER 2023",
+            "3A KNOXVILLE HUNTER GRAY 2024",
             64,
             64
         ],
         [
-            "1A GEHLEN ROBERT SCHMIT 2025",
+            "3A KNOXVILLE ANTHONY BAILEY 2025",
             65,
             65
         ],
         [
-            "4A SIOUX CITY WEST TYTON WEBB 2023",
+            "1A LYNNVILLE-SULLY ETHAN DUNSBERGEN 2026",
             66,
             66
         ],
         [
-            "3A BISHOP HEELAN JAMES DONOVAN 2025",
+            "3A CR XAVIER ETHAN WALZ 2025",
             67,
             67
         ],
         [
-            "3A BISHOP HEELAN CAHILL KIRKPATRICK 2024",
+            "1A BGM LOGAN FINDLAY 2024",
             68,
             68
         ],
         [
-            "1A RIDGE VIEW ROBERT FORRISTAL 2026",
+            "1A LYNNVILLE-SULLY EVAN FIKSE 2023",
             69,
             69
         ],
         [
-            "2A WOODBURY CENTRAL-KP CADEN COLBERT 2026",
+            "1A LYNNVILLE-SULLY WILL CONOVER 2026",
             70,
             70
-        ],
-        [
-            "4A SIOUX CITY EAST KELLEN VLAHOULIS 2023",
-            71,
-            71
-        ],
-        [
-            "1A GEHLEN NOLAN TEEL 2026",
-            72,
-            72
-        ],
-        [
-            "3A LEMARS NOAH LAURSEN 2024",
-            73,
-            73
-        ],
-        [
-            "4A CB JEFFERSON RYAN SHEPARD 2024",
-            74,
-            74
-        ],
-        [
-            "1A GEHLEN OWEN SIEVERS 2026",
-            75,
-            75
-        ],
-        [
-            "1A GEHLEN LANDEN KNEIP 2026",
-            76,
-            76
-        ],
-        [
-            "3A LEMARS SAM MCINTYRE 2023",
-            77,
-            77
-        ],
-        [
-            "4A SIOUX CITY WEST BENSON CARTER 2023",
-            78,
-            78
-        ],
-        [
-            "1A SIOUXLAND CHRISTIAN CHRISTIAN HSU 2025",
-            79,
-            79
-        ],
-        [
-            "1A SIOUXLAND CHRISTIAN ANTHONY VILLATORO 2024",
-            80,
-            80
-        ],
-        [
-            "1A RIDGE VIEW TRISTAN WERNER 2026",
-            81,
-            81
-        ],
-        [
-            "1A RIDGE VIEW COLE JOCHIMS 2026",
-            82,
-            82
-        ],
-        [
-            "4A CB JEFFERSON BAILYAN WILLIAMSON 2026",
-            83,
-            83
-        ],
-        [
-            "4A SIOUX CITY WEST GABE ENSZER 2025",
-            84,
-            84
-        ],
-        [
-            "1A RIDGE VIEW MATTHEW FORRISTAL 2024",
-            85,
-            85
-        ],
-        [
-            "3A STORM LAKE TYLER BAUER 2025",
-            86,
-            86
-        ],
-        [
-            "1A SIOUXLAND CHRISTIAN HUNTER PEARSON 2026",
-            87,
-            87
-        ],
-        [
-            "4A CB JEFFERSON ASA NEVILLE 2023",
-            88,
-            88
-        ],
-        [
-            "4A SIOUX CITY WEST CONNOR MCKEWON 2024",
-            89,
-            89
-        ],
-        [
-            "2A WOODBURY CENTRAL-KP EVAN JAGODZINSKE 2026",
-            90,
-            90
-        ],
-        [
-            "4A CB JEFFERSON BRANDON BOWEN 2024",
-            91,
-            91
-        ],
-        [
-            "2A WOODBURY CENTRAL-KP KAEDYN WILLIS 2026",
-            92,
-            92
-        ],
-        [
-            "2A WOODBURY CENTRAL-KP NOAH O'MARA 2024",
-            93,
-            93
-        ],
-        [
-            "2A WOODBURY CENTRAL-KP LEVI HAGGIN 2024",
-            94,
-            94
-        ],
-        [
-            "4A SIOUX CITY WEST CHRISTIAN SANCHEZ 2024",
-            95,
-            95
-        ],
-        [
-            "1A SIOUXLAND CHRISTIAN KEATON DUNCAN 2024",
-            96,
-            96
         ]
     ]
 }
