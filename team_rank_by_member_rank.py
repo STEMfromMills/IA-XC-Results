@@ -186,3 +186,7 @@ for team_info in whole_teams_list:
         sorted_team_list.insert(index,team_info)
 
 print(sorted_team_list)
+
+#need to create a new data structure of just the top seven of each team for better point totals
+#loop through the dataframe and create a new data frame just (new) rank and handle for only seven per team
+#maybe look at making a team list and corresponding team number list... counts up to 7 then stops adding that handle
