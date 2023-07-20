@@ -1,666 +1,466 @@
 {
-    "name": "2A State",
-    "time_seconds": 1666933203,
+    "name": "1A SQM Central Spring",
+    "time_seconds": 1666242003,
     "standings": [
         [
-            "2A DSM CHRISTIAN AARON FYNAARDT 2023",
+            "1A NEWMAN RYAN KELLY 2023",
             0,
             0
         ],
         [
-            "2A DSM CHRISTIAN CALEB TEN PAS 2026",
+            "1A LAKE MILLS JUSTIN RYGH 2024",
             1,
             1
         ],
         [
-            "2A OKOBOJI EVAN OSLER 2025",
+            "1A ST. EDMOND AARON LURSEN 2023",
             2,
             2
         ],
         [
-            "2A STARMONT CHARLIE SIECK 2023",
+            "1A NORTH IOWA GAVIN GRUNHOVD 2025",
             3,
             3
         ],
         [
-            "2A DANVILLE - NEW LONDON AJ BONNESEN 2023",
+            "1A NEWMAN JOEY RINGO 2023",
             4,
             4
         ],
         [
-            "2A MEDIAPOLIS SOLOMON ZAUGG 2024",
+            "1A LAKE MILLS KNUTE ROGNE 2026",
             5,
             5
         ],
         [
-            "2A TIPTON CLAY BOHLMANN 2025",
+            "1A BELMOND-KLEMME ISAAC SWENSON 2023",
             6,
             6
         ],
         [
-            "2A PELLA CHRISTIAN KADEN VAN WYNGARDEN 2023",
+            "1A BISHOP GARRIGAN GAVIN SWIFT 2023",
             7,
             7
         ],
         [
-            "2A CLARINDA TREYTON SCHAAPHERDER 2024",
+            "1A MANSON NW WEBSTER LANE MOLINE 2023",
             8,
             8
         ],
         [
-            "2A MONTICELLO CHESNEY CAPRON 2023",
+            "1A ST. EDMOND SAM MERICLE 2024",
             9,
             9
         ],
         [
-            "2A OELWEIN CONALL SAUSER 2025",
+            "1A NORTH UNION GAVYN MORPHEW 2024",
             10,
             10
         ],
         [
-            "2A OKOBOJI TRIGG HEIMDAL 2025",
+            "1A ST. EDMOND LIAM SHANNON 2025",
             11,
             11
         ],
         [
-            "2A MEDIAPOLIS OWEN SCHMIDGALL 2024",
+            "1A GTRA AIDEN EGERTSON 2023",
             12,
             12
         ],
         [
-            "2A TIPTON TY NICHOLS 2023",
+            "1A CENTRAL SPRINGS CARTER LANPHERE 2024",
             13,
             13
         ],
         [
-            "2A GRUNDY CENTER / GLADBROOK EMERSON VOKES 2026",
+            "1A LAKE MILLS KADE VAN ROEKEL 2025",
             14,
             14
         ],
         [
-            "2A I35 MASON MAIERS 2023",
+            "1A ST. EDMOND ANTHONY VALLES 2026",
             15,
             15
         ],
         [
-            "2A CLARINDA KYLE WAGONER 2025",
+            "1A ST. EDMOND THOMAS COSGROVE 2024",
             16,
             16
         ],
         [
-            "2A GHV CONNOR HAMMITT 2024",
+            "1A NEWMAN ADAM HENRICH 2025",
             17,
             17
         ],
         [
-            "2A DSM CHRISTIAN COLLIN HOUG 2024",
+            "1A NASHUA-PLAINFIELD JASE HANSEN 2026",
             18,
             18
         ],
         [
-            "2A MID-PRAIRIE EMMETT SWARTZENTRUBER 2025",
+            "1A NEWMAN LIAM STOCKBERGER 2024",
             19,
             19
         ],
         [
-            "2A GEORGE-LITTLE ROCK LANE HENRICHS 2023",
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
             20,
             20
         ],
         [
-            "2A ANAMOSA SHEA KEISTER 2023",
+            "1A LAKE MILLS HAYDEN THOMPSON 2026",
             21,
             21
         ],
         [
-            "2A OELWEIN JACOB SULLIVAN 2023",
+            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
             22,
             22
         ],
         [
-            "2A OKOBOJI DYLAN JONES 2023",
+            "1A MANSON NW WEBSTER CARSON WIDLUND 2024",
             23,
             23
         ],
         [
-            "2A WAUKON SKYLER DUGAN 2024",
+            "1A MANSON NW WEBSTER THATCHER OSWALD 2026",
             24,
             24
         ],
         [
-            "2A DSM CHRISTIAN JACK MCPARTLAND 2024",
+            "1A ST. EDMOND CARTER RIAL 2023",
             25,
             25
         ],
         [
-            "2A ESTHERVILLE-LC PARKER DUITSMAN 2024",
+            "1A LAKE MILLS STEPHEN BRANDENBURG 2026",
             26,
             26
         ],
         [
-            "2A WAUKON ISAAC REISINGER 2025",
+            "1A SAINT ANSGAR COLE HANSEN 2023",
             27,
             27
         ],
         [
-            "2A OELWEIN RAY GEARHART 2023",
+            "1A WEST HANCOCK ISAIAH COLLINS 2025",
             28,
             28
         ],
         [
-            "2A TIPTON MAXSON FOGG 2025",
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
             29,
             29
         ],
         [
-            "2A SPIRIT LAKE BRANDON HUGHES 2025",
+            "1A NEWMAN LANDON KOHLER 2023",
             30,
             30
         ],
         [
-            "2A ANAMOSA SETH COUNTRYMAN 2025",
+            "1A NEWMAN SAM STEIDL 2025",
             31,
             31
         ],
         [
-            "2A TIPTON CALEB BOHLMANN 2026",
+            "1A MANSON NW WEBSTER KORBIN JENSEN 2023",
             32,
             32
         ],
         [
-            "2A WAUKON WYATT GULLA 2024",
+            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
             33,
             33
         ],
         [
-            "2A JESUP NATHAN PINT 2025",
+            "1A NEWMAN NOAH O'CONNELL 2025",
             34,
             34
         ],
         [
-            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            "1A CLARKSVILLE HOWIE CLARK 2024",
             35,
             35
         ],
         [
-            "2A OKOBOJI DREW SANDVEN 2024",
+            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
             36,
             36
         ],
         [
-            "2A WAUKON NATHAN O'NEILL 2023",
+            "1A NASHUA-PLAINFIELD CALEB SINNWELL 2025",
             37,
             37
         ],
         [
-            "2A PELLA CHRISTIAN BEN GOSSELINK 2023",
+            "1A MANSON NW WEBSTER OWEN ELDRIDGE 2024",
             38,
             38
         ],
         [
-            "2A DANVILLE - NEW LONDON RYLAN MARTIN 2023",
+            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
             39,
             39
         ],
         [
-            "2A MID-PRAIRIE PRESTON YUTZY 2025",
+            "1A NORTH UNION CHASE CUMMINS 2023",
             40,
             40
         ],
         [
-            "2A UNITY CHRISTIAN DAYLEN MULDER 2024",
+            "1A BISHOP GARRIGAN ETHAN KUPER 2024",
             41,
             41
         ],
         [
-            "2A DENVER JACK MULERT 2023",
+            "1A NORTH IOWA ISAAC HILLESLAND 2024",
             42,
             42
         ],
         [
-            "2A WAUKON CONNOR CAHOON 2024",
+            "1A WEST FORK ASHYR WISEMAN 2025",
             43,
             43
         ],
         [
-            "2A UNITY CHRISTIAN JONATHON BREEMS 2023",
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
             44,
             44
         ],
         [
-            "2A DENVER NEAL PINTER 2024",
+            "1A MANSON NW WEBSTER TYSIN ANDERSON 2025",
             45,
             45
         ],
         [
-            "2A DSM CHRISTIAN CURREN JOHNSON 2023",
+            "1A WEST FORK EDISON MASKE 2024",
             46,
             46
         ],
         [
-            "2A MEDIAPOLIS JEFF CAMPBELL 2023",
+            "1A NASHUA-PLAINFIELD LEVI WINTERS 2023",
             47,
             47
         ],
         [
-            "2A MEDIAPOLIS LOGAN ROSAS 2024",
+            "1A NASHUA-PLAINFIELD LUKE PAPLOW 2025",
             48,
             48
         ],
         [
-            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            "1A LAKE MILLS ALEJANDRO VAZQUEZ-PEREZ 2025",
             49,
             49
         ],
         [
-            "2A I35 AUSTIN VANDER WERF 2024",
+            "1A NORTH IOWA JACKSON POTTER 2025",
             50,
             50
         ],
         [
-            "2A EAGLE GROVE DRAKE WELAND 2023",
+            "1A CLARKSVILLE ERIC LAURES 2023",
             51,
             51
         ],
         [
-            "2A UNITY CHRISTIAN ETHAN WYNIA 2025",
+            "1A ST. EDMOND THOMAS KNOBBE 2026",
             52,
             52
         ],
         [
-            "2A OKOBOJI AKRON JOSTAND 2024",
+            "1A WEST HANCOCK KADEN VANEPPS 2025",
             53,
             53
         ],
         [
-            "2A GHV ZACH FLATEBO 2025",
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
             54,
             54
         ],
         [
-            "2A DSM CHRISTIAN JACK GUMMERT 2024",
+            "1A CENTRAL SPRINGS JACK PRUIN 2025",
             55,
             55
         ],
         [
-            "2A EAST SAC PARKER ENGEL 2024",
+            "1A RICEVILLE CODY HART 2026",
             56,
             56
         ],
         [
-            "2A SE VALLEY OSCAR HANSON 2024",
+            "1A WEST FORK JOSH HAGIN 2023",
             57,
             57
         ],
         [
-            "2A DENVER MAXWELL SCHWANDT 2023",
+            "1A NORTH UNION NICHOLAS ARNDORFER 2024",
             58,
             58
         ],
         [
-            "2A VAN BUREN LINCOLN BAINBRIDGE 2026",
+            "1A CENTRAL SPRINGS BLAKE BARKER 2024",
             59,
             59
         ],
         [
-            "2A PELLA CHRISTIAN TYSEN DEVRIES 2024",
+            "1A BISHOP GARRIGAN DANIEL MEIS 2025",
             60,
             60
         ],
         [
-            "2A CHARITON CONNOR DIXSON 2024",
+            "1A NORTH IOWA NOAH HANSON 2025",
             61,
             61
         ],
         [
-            "2A OKOBOJI CHRISTIAN HESSE 2023",
+            "1A NASHUA-PLAINFIELD CALEB LENTZ 2024",
             62,
             62
         ],
         [
-            "2A DSM CHRISTIAN JOSH HAGENBERG 2025",
+            "1A CENTRAL SPRINGS OWEN WETTER 2024",
             63,
             63
         ],
         [
-            "2A WAUKON JOSH KEENAN 2023",
+            "1A NORTH IOWA JAYCOB GUTHART 2025",
             64,
             64
         ],
         [
-            "2A GRUNDY CENTER / GLADBROOK KADEN LYNCH 2024",
+            "1A NORTH UNION DALTON TOBIN 2023",
             65,
             65
         ],
         [
-            "2A VAN METER LUKA HULSE 2025",
+            "1A NORTHWOOD-KENSETT AIDEN BICE 2025",
             66,
             66
         ],
         [
-            "2A GHV SCYLAR SCHULZE 2023",
+            "1A MANSON NW WEBSTER BRODY PROCTOR 2024",
             67,
             67
         ],
         [
-            "2A DENVER TALAN LAFRENTZ 2025",
+            "1A NORTHWOOD-KENSETT ZACH HEIKEN 2026",
             68,
             68
         ],
         [
-            "2A UNITY CHRISTIAN STEPHEN SCHREURS 2024",
+            "1A BISHOP GARRIGAN AMAURY THOMAS 2026",
             69,
             69
         ],
         [
-            "2A WESTERN CHRISTIAN NOAH DEWEERD 2024",
+            "1A BISHOP GARRIGAN SCHYLER MORSE 2025",
             70,
             70
         ],
         [
-            "2A CHARITON BLANE WALLACE 2023",
+            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
             71,
             71
         ],
         [
-            "2A FOREST CITY PARKER SHARP 2023",
+            "1A GTRA ZACH BORCHERS 2024",
             72,
             72
         ],
         [
-            "2A TIPTON BRODY DEERBERG 2023",
+            "1A NORTH UNION AIDEN BAUER 2026",
             73,
             73
         ],
         [
-            "2A DANVILLE - NEW LONDON JACKSON SHACKLETT 2025",
+            "1A BISHOP GARRIGAN NATHANIEL DARLING 2024",
             74,
             74
         ],
         [
-            "2A GHV BRONSON BUITENWERF 2023",
+            "1A NASHUA-PLAINFIELD BREXTON BIRD 2026",
             75,
             75
         ],
         [
-            "2A FOREST CITY ETHAN BERTRAM 2026",
+            "1A ROCKFORD RYKER HOFFMAN 2025",
             76,
             76
         ],
         [
-            "2A EAST SAC LANDON SPORRER 2026",
+            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
             77,
             77
         ],
         [
-            "2A WAUKON NATE KEENAN 2023",
+            "1A RICEVILLE ELIJAH DWINE 2026",
             78,
             78
         ],
         [
-            "2A DENVER TREVOR BAAS 2025",
+            "1A GTRA TRISTAN HARVEY 2024",
             79,
             79
         ],
         [
-            "2A CRESTWOOD DOMINIC BIGALK 2024",
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
             80,
             80
         ],
         [
-            "2A PELLA CHRISTIAN SAWYER MEINDERS 2026",
+            "1A NASHUA-PLAINFIELD BRADY LENSING 2026",
             81,
             81
         ],
         [
-            "2A TREYNOR MASON YOCHUM 2023",
+            "1A WEST FORK ELI MUHLENBRUCH 2026",
             82,
             82
         ],
         [
-            "2A MID-PRAIRIE BLAKE CREED 2023",
+            "1A GTRA QUENTIN SCOTT 2023",
             83,
             83
         ],
         [
-            "2A GHV JONAH PRINGNITZ 2026",
+            "1A NORTHWOOD-KENSETT CHRISTOPHER MADSEN 2024",
             84,
             84
         ],
         [
-            "2A OELWEIN CALEB SCHUNK 2025",
+            "1A ROCKFORD MAC HIRV 2024",
             85,
             85
         ],
         [
-            "2A SE VALLEY COOPER NUSS 2023",
+            "1A WEST BEND-MALLARD TREVOR SABIN 2023",
             86,
             86
         ],
         [
-            "2A OELWEIN GABE DRISCOLL 2026",
+            "1A WEST BEND-MALLARD GRAYDEN FORSYTHE 2025",
             87,
             87
         ],
         [
-            "2A CLARINDA ALEX LIHS 2024",
+            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
             88,
             88
         ],
         [
-            "2A PELLA CHRISTIAN SHAUN OOSTERHEERT 2024",
+            "1A WEST BEND-MALLARD KLAYTON JONES 2024",
             89,
             89
         ],
         [
-            "2A CHARITON DAVID CRABB 2024",
+            "1A BISHOP GARRIGAN GABE SWIFT 2026",
             90,
             90
         ],
         [
-            "2A CHARITON BRADLEY HOBBS 2024",
+            "1A WEST FORK JAKE SWENSON 2023",
             91,
             91
-        ],
-        [
-            "2A DENVER JAYDEN HERRMANN 2023",
-            92,
-            92
-        ],
-        [
-            "2A FOREST CITY ETHAN JOHNSON 2023",
-            93,
-            93
-        ],
-        [
-            "2A FOREST CITY CARSON STRUKEL 2023",
-            94,
-            94
-        ],
-        [
-            "2A EBF SAM SEDDON 2023",
-            95,
-            95
-        ],
-        [
-            "2A PELLA CHRISTIAN DEACON BRANDERHORST 2025",
-            96,
-            96
-        ],
-        [
-            "2A FOREST CITY JOSIAH WELCH 2023",
-            97,
-            97
-        ],
-        [
-            "2A UNITY CHRISTIAN LANE SCHOLTEN 2025",
-            98,
-            98
-        ],
-        [
-            "2A OKOBOJI DAKOTA HESSELTINE 2023",
-            99,
-            99
-        ],
-        [
-            "2A GREENE COUNTY NOAH HINOTE 2025",
-            100,
-            100
-        ],
-        [
-            "2A DANVILLE - NEW LONDON CAUY GARRETT 2023",
-            101,
-            101
-        ],
-        [
-            "2A WEST LYON SAM MEESTER 2023",
-            102,
-            102
-        ],
-        [
-            "2A DANVILLE - NEW LONDON TALAN WHALEY 2024",
-            103,
-            103
-        ],
-        [
-            "2A FOREST CITY JADYN WELCH 2023",
-            104,
-            104
-        ],
-        [
-            "2A I35 BEN REYES 2023",
-            105,
-            105
-        ],
-        [
-            "2A DENVER GABE SWALES 2025",
-            106,
-            106
-        ],
-        [
-            "2A CHARITON BRENT CRABB 2026",
-            107,
-            107
-        ],
-        [
-            "2A DANVILLE - NEW LONDON SHINN ISAAC 2026",
-            108,
-            108
-        ],
-        [
-            "2A MID-PRAIRIE JESSE STULTZ 2026",
-            109,
-            109
-        ],
-        [
-            "2A TIPTON JETT KAMBERLING 2026",
-            110,
-            110
-        ],
-        [
-            "2A UNITY CHRISTIAN IAIN MONROE 2023",
-            111,
-            111
-        ],
-        [
-            "2A DANVILLE - NEW LONDON CARTER FESLER 2024",
-            112,
-            112
-        ],
-        [
-            "2A MID-PRAIRIE DANIEL RODGERS 2024",
-            113,
-            113
-        ],
-        [
-            "2A MID-PRAIRIE NATHAN WALLINGTON 2023",
-            114,
-            114
-        ],
-        [
-            "2A FOREST CITY SILAS GANN 2026",
-            115,
-            115
-        ],
-        [
-            "2A CLARINDA RYLAN HENKE 2023",
-            116,
-            116
-        ],
-        [
-            "2A UNITY CHRISTIAN EZRA LANDMAN 2024",
-            117,
-            117
-        ],
-        [
-            "2A CHARITON DREAVIN SHENEFIELD 2024",
-            118,
-            118
-        ],
-        [
-            "2A PELLA CHRISTIAN PAXTON BOUMA 2026",
-            119,
-            119
-        ],
-        [
-            "2A GHV GARRETT HELLER 2023",
-            120,
-            120
-        ],
-        [
-            "2A TIPTON ANDREW SHUMAKER 2024",
-            121,
-            121
-        ],
-        [
-            "2A MID-PRAIRIE JORDAN STOCK 2023",
-            122,
-            122
-        ],
-        [
-            "2A CLARINDA GRANT BARR 2024",
-            123,
-            123
-        ],
-        [
-            "2A MEDIAPOLIS TYLER BRATKOWSKI 2024",
-            124,
-            124
-        ],
-        [
-            "2A GHV CALEB GOOD 2025",
-            125,
-            125
-        ],
-        [
-            "2A MEDIAPOLIS BEN RICE 2025",
-            126,
-            126
-        ],
-        [
-            "2A OELWEIN KESHAUN WILLIAMS 2026",
-            127,
-            127
-        ],
-        [
-            "2A CHARITON SAMUEL KERNS 2025",
-            128,
-            128
-        ],
-        [
-            "2A CLARINDA FORREST EBERLY 2023",
-            129,
-            129
-        ],
-        [
-            "2A CLARINDA JONAH NORTON 2024",
-            130,
-            130
-        ],
-        [
-            "2A MEDIAPOLIS MAK KENNEDY 2023",
-            131,
-            131
         ]
     ]
 }

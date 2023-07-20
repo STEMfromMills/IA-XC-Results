@@ -1,7 +1,7 @@
 import pandas as pd
 
 #create Pandas dataframe from Elo-MMR output
-runner_data = pd.read_csv("all_players.csv",header=0)
+runner_data = pd.read_csv("4A.csv",header=0)
 
 #print(runner_data)
 
@@ -314,4 +314,9 @@ for team_info in combined_list:
             index += 1
         sorted_team_list.insert(index,team_info)
 
-print(sorted_team_list)
+#print(sorted_team_list)
+
+ranking = 1
+for team in sorted_team_list:
+    print(str(ranking) + ". " + team[0])
+    ranking += 1
