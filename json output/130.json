@@ -1,466 +1,336 @@
 {
-    "name": "1A SQM Central Spring",
-    "time_seconds": 1666242010,
+    "name": "North Scott j",
+    "time_seconds": 1663045210,
     "standings": [
         [
-            "1A NEWMAN RYAN KELLY 2023",
+            "4A NORTH SCOTT MASON HERRINGTON 2023",
             0,
             0
         ],
         [
-            "1A LAKE MILLS JUSTIN RYGH 2024",
+            "4A NORTH SCOTT MATTHEW SIMMONS 2025",
             1,
             1
         ],
         [
-            "1A ST. EDMOND AARON LURSEN 2023",
+            "3A CENTRAL DEWITT ALEX FULLER 2023",
             2,
             2
         ],
         [
-            "1A NORTH IOWA GAVIN GRUNHOVD 2025",
+            "3A CENTRAL DEWITT RYLAN EDWARDS 2025",
             3,
             3
         ],
         [
-            "1A NEWMAN JOEY RINGO 2023",
+            "4A DAVENPORT CENTRAL JOSH GANT 2026",
             4,
             4
         ],
         [
-            "1A LAKE MILLS KNUTE ROGNE 2026",
+            "3A CENTRAL DEWITT RYAN ZIDARICH 2026",
             5,
             5
         ],
         [
-            "1A BELMOND-KLEMME ISAAC SWENSON 2023",
+            "4A BETTENDORF JAMES PORTER 2024",
             6,
             6
         ],
         [
-            "1A BISHOP GARRIGAN GAVIN SWIFT 2023",
+            "4A BETTENDORF KARTER HOLDRIDGE 2024",
             7,
             7
         ],
         [
-            "1A MANSON NW WEBSTER LANE MOLINE 2023",
+            "4A BETTENDORF WILLIAM NEIGHBOR 2025",
             8,
             8
         ],
         [
-            "1A ST. EDMOND SAM MERICLE 2024",
+            "4A NORTH SCOTT ISAAC STANLEY 2025",
             9,
             9
         ],
         [
-            "1A NORTH UNION GAVYN MORPHEW 2024",
+            "4A NORTH SCOTT BRODY WESTENDORF 2025",
             10,
             10
         ],
         [
-            "1A ST. EDMOND LIAM SHANNON 2025",
+            "3A CENTRAL DEWITT THOMAS FIELDING 2023",
             11,
             11
         ],
         [
-            "1A GTRA AIDEN EGERTSON 2023",
+            "4A NORTH SCOTT LUKE SIMMONS 2024",
             12,
             12
         ],
         [
-            "1A CENTRAL SPRINGS CARTER LANPHERE 2024",
+            "3A CENTRAL DEWITT LUCAS JOHNSTON 2026",
             13,
             13
         ],
         [
-            "1A LAKE MILLS KADE VAN ROEKEL 2025",
+            "4A CLINTON SAM REYNOLDS 2024",
             14,
             14
         ],
         [
-            "1A ST. EDMOND ANTHONY VALLES 2026",
+            "4A NORTH SCOTT CONNOR MCMANN 2023",
             15,
             15
         ],
         [
-            "1A ST. EDMOND THOMAS COSGROVE 2024",
+            "4A NORTH SCOTT ISAAC COPELAND 2024",
             16,
             16
         ],
         [
-            "1A NEWMAN ADAM HENRICH 2025",
+            "3A CENTRAL DEWITT CALEB GOVERT 2024",
             17,
             17
         ],
         [
-            "1A NASHUA-PLAINFIELD JASE HANSEN 2026",
+            "3A CENTRAL DEWITT DYLAN STOKER 2024",
             18,
             18
         ],
         [
-            "1A NEWMAN LIAM STOCKBERGER 2024",
+            "4A DAVENPORT CENTRAL BODIE LOGSDON 2024",
             19,
             19
         ],
         [
-            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
+            "4A DAVENPORT CENTRAL ETHAN HUNT 2024",
             20,
             20
         ],
         [
-            "1A LAKE MILLS HAYDEN THOMPSON 2026",
+            "4A NORTH SCOTT ZACH MCMANN 2026",
             21,
             21
         ],
         [
-            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
+            "4A NORTH SCOTT MASON SCHAACK 2025",
             22,
             22
         ],
         [
-            "1A MANSON NW WEBSTER CARSON WIDLUND 2024",
+            "4A NORTH SCOTT OLIVER OLSEN 2025",
             23,
             23
         ],
         [
-            "1A MANSON NW WEBSTER THATCHER OSWALD 2026",
+            "4A BETTENDORF MATTHEW PEARSON 2025",
             24,
             24
         ],
         [
-            "1A ST. EDMOND CARTER RIAL 2023",
+            "4A DAVENPORT NORTH CAMDEN FORD 2025",
             25,
             25
         ],
         [
-            "1A LAKE MILLS STEPHEN BRANDENBURG 2026",
+            "4A NORTH SCOTT KOEN KRAMBECK 2026",
             26,
             26
         ],
         [
-            "1A SAINT ANSGAR COLE HANSEN 2023",
+            "4A CLINTON BAILEY DUNCAN 2024",
             27,
             27
         ],
         [
-            "1A WEST HANCOCK ISAIAH COLLINS 2025",
+            "4A BETTENDORF BRAULIO ESTEVES 2025",
             28,
             28
         ],
         [
-            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
+            "4A BETTENDORF JACK COCKAYNE 2023",
             29,
             29
         ],
         [
-            "1A NEWMAN LANDON KOHLER 2023",
+            "4A DAVENPORT NORTH JAY WELTZIN-TRAINER 2025",
             30,
             30
         ],
         [
-            "1A NEWMAN SAM STEIDL 2025",
+            "4A BETTENDORF LIAM REHNBERG 2026",
             31,
             31
         ],
         [
-            "1A MANSON NW WEBSTER KORBIN JENSEN 2023",
+            "4A BETTENDORF ELLIOT DAVIS 2026",
             32,
             32
         ],
         [
-            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
+            "4A BETTENDORF ODIN MOORE 2025",
             33,
             33
         ],
         [
-            "1A NEWMAN NOAH O'CONNELL 2025",
+            "4A BETTENDORF NOAH BAXA 2025",
             34,
             34
         ],
         [
-            "1A CLARKSVILLE HOWIE CLARK 2024",
+            "4A DAVENPORT WEST CARL KORDICK 2025",
             35,
             35
         ],
         [
-            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
+            "4A BETTENDORF ALEX CULLUM 2024",
             36,
             36
         ],
         [
-            "1A NASHUA-PLAINFIELD CALEB SINNWELL 2025",
+            "4A BETTENDORF TAYLOR SENELI 2025",
             37,
             37
         ],
         [
-            "1A MANSON NW WEBSTER OWEN ELDRIDGE 2024",
+            "4A DAVENPORT CENTRAL ANTHONY CONARD 2024",
             38,
             38
         ],
         [
-            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
+            "3A CENTRAL DEWITT TAIT DANIELS 2023",
             39,
             39
         ],
         [
-            "1A NORTH UNION CHASE CUMMINS 2023",
+            "4A CLINTON OLIVER TOTTEN 2024",
             40,
             40
         ],
         [
-            "1A BISHOP GARRIGAN ETHAN KUPER 2024",
+            "4A NORTH SCOTT GRANT PORTER 2025",
             41,
             41
         ],
         [
-            "1A NORTH IOWA ISAAC HILLESLAND 2024",
+            "4A NORTH SCOTT MICHAEL WILMING 2023",
             42,
             42
         ],
         [
-            "1A WEST FORK ASHYR WISEMAN 2025",
+            "4A NORTH SCOTT SYMER GARCIA 2023",
             43,
             43
         ],
         [
-            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
+            "4A CLINTON GAGE BROMLEY 2023",
             44,
             44
         ],
         [
-            "1A MANSON NW WEBSTER TYSIN ANDERSON 2025",
+            "4A NORTH SCOTT GUSTAVO PEREZ-ESPINA 2025",
             45,
             45
         ],
         [
-            "1A WEST FORK EDISON MASKE 2024",
+            "4A DAVENPORT NORTH CASSIDY BUCK 2025",
             46,
             46
         ],
         [
-            "1A NASHUA-PLAINFIELD LEVI WINTERS 2023",
+            "4A BETTENDORF LUKAS WIENCLAW 2026",
             47,
             47
         ],
         [
-            "1A NASHUA-PLAINFIELD LUKE PAPLOW 2025",
+            "4A DAVENPORT NORTH KALEB WEATHERSPOON 2024",
             48,
             48
         ],
         [
-            "1A LAKE MILLS ALEJANDRO VAZQUEZ-PEREZ 2025",
+            "4A DAVENPORT CENTRAL JACK JEYS 2024",
             49,
             49
         ],
         [
-            "1A NORTH IOWA JACKSON POTTER 2025",
+            "3A CENTRAL DEWITT CALEB GILMOUR 2026",
             50,
             50
         ],
         [
-            "1A CLARKSVILLE ERIC LAURES 2023",
+            "4A BETTENDORF NICK JOHNSTON 2026",
             51,
             51
         ],
         [
-            "1A ST. EDMOND THOMAS KNOBBE 2026",
+            "4A CLINTON KALEB SOPPE 2024",
             52,
             52
         ],
         [
-            "1A WEST HANCOCK KADEN VANEPPS 2025",
+            "4A BETTENDORF RYDER BAGBY 2024",
             53,
             53
         ],
         [
-            "1A BELMOND-KLEMME ALEC HERROLD 2026",
+            "4A NORTH SCOTT OWEN POWELL 2025",
             54,
             54
         ],
         [
-            "1A CENTRAL SPRINGS JACK PRUIN 2025",
+            "4A BETTENDORF JORDAN DESIMONE 2026",
             55,
             55
         ],
         [
-            "1A RICEVILLE CODY HART 2026",
+            "4A BETTENDORF JACK GIRSKIS 2026",
             56,
             56
         ],
         [
-            "1A WEST FORK JOSH HAGIN 2023",
+            "4A DAVENPORT NORTH NICK TRONNES 2025",
             57,
             57
         ],
         [
-            "1A NORTH UNION NICHOLAS ARNDORFER 2024",
+            "4A BETTENDORF ROWAN SCHALK 2026",
             58,
             58
         ],
         [
-            "1A CENTRAL SPRINGS BLAKE BARKER 2024",
+            "4A BETTENDORF ALEX BLOYD 2024",
             59,
             59
         ],
         [
-            "1A BISHOP GARRIGAN DANIEL MEIS 2025",
+            "4A DAVENPORT CENTRAL ALEX CHAVEZ 2024",
             60,
             60
         ],
         [
-            "1A NORTH IOWA NOAH HANSON 2025",
+            "4A BETTENDORF CHANCE SIEM 2026",
             61,
             61
         ],
         [
-            "1A NASHUA-PLAINFIELD CALEB LENTZ 2024",
+            "3A MAQUOKETA KYLE SIMMONS 2026",
             62,
             62
         ],
         [
-            "1A CENTRAL SPRINGS OWEN WETTER 2024",
+            "4A DAVENPORT CENTRAL MILES ERICKSON 2026",
             63,
             63
         ],
         [
-            "1A NORTH IOWA JAYCOB GUTHART 2025",
+            "4A DAVENPORT NORTH KOLTON DIRKS 2025",
             64,
             64
         ],
         [
-            "1A NORTH UNION DALTON TOBIN 2023",
+            "4A BETTENDORF AUSTIN OWEN 2026",
             65,
             65
-        ],
-        [
-            "1A NORTHWOOD-KENSETT AIDEN BICE 2025",
-            66,
-            66
-        ],
-        [
-            "1A MANSON NW WEBSTER BRODY PROCTOR 2024",
-            67,
-            67
-        ],
-        [
-            "1A NORTHWOOD-KENSETT ZACH HEIKEN 2026",
-            68,
-            68
-        ],
-        [
-            "1A BISHOP GARRIGAN AMAURY THOMAS 2026",
-            69,
-            69
-        ],
-        [
-            "1A BISHOP GARRIGAN SCHYLER MORSE 2025",
-            70,
-            70
-        ],
-        [
-            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
-            71,
-            71
-        ],
-        [
-            "1A GTRA ZACH BORCHERS 2024",
-            72,
-            72
-        ],
-        [
-            "1A NORTH UNION AIDEN BAUER 2026",
-            73,
-            73
-        ],
-        [
-            "1A BISHOP GARRIGAN NATHANIEL DARLING 2024",
-            74,
-            74
-        ],
-        [
-            "1A NASHUA-PLAINFIELD BREXTON BIRD 2026",
-            75,
-            75
-        ],
-        [
-            "1A ROCKFORD RYKER HOFFMAN 2025",
-            76,
-            76
-        ],
-        [
-            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
-            77,
-            77
-        ],
-        [
-            "1A RICEVILLE ELIJAH DWINE 2026",
-            78,
-            78
-        ],
-        [
-            "1A GTRA TRISTAN HARVEY 2024",
-            79,
-            79
-        ],
-        [
-            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
-            80,
-            80
-        ],
-        [
-            "1A NASHUA-PLAINFIELD BRADY LENSING 2026",
-            81,
-            81
-        ],
-        [
-            "1A WEST FORK ELI MUHLENBRUCH 2026",
-            82,
-            82
-        ],
-        [
-            "1A GTRA QUENTIN SCOTT 2023",
-            83,
-            83
-        ],
-        [
-            "1A NORTHWOOD-KENSETT CHRISTOPHER MADSEN 2024",
-            84,
-            84
-        ],
-        [
-            "1A ROCKFORD MAC HIRV 2024",
-            85,
-            85
-        ],
-        [
-            "1A WEST BEND-MALLARD TREVOR SABIN 2023",
-            86,
-            86
-        ],
-        [
-            "1A WEST BEND-MALLARD GRAYDEN FORSYTHE 2025",
-            87,
-            87
-        ],
-        [
-            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
-            88,
-            88
-        ],
-        [
-            "1A WEST BEND-MALLARD KLAYTON JONES 2024",
-            89,
-            89
-        ],
-        [
-            "1A BISHOP GARRIGAN GABE SWIFT 2026",
-            90,
-            90
-        ],
-        [
-            "1A WEST FORK JAKE SWENSON 2023",
-            91,
-            91
         ]
     ]
 }
