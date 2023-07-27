@@ -1,0 +1,406 @@
+{
+    "name": "Clear Lake var",
+    "time_seconds": 1663218033,
+    "standings": [
+        [
+            "4A AMES AHMED ALDAMAK 2024",
+            0,
+            0
+        ],
+        [
+            "4A AMES JONATHON WILLIAMS 2023",
+            1,
+            1
+        ],
+        [
+            "4A AMES BRENNEN BHAVE 2025",
+            2,
+            2
+        ],
+        [
+            "4A AMES ERIK ANDERSON 2024",
+            3,
+            3
+        ],
+        [
+            "4A AMES CHARLES BENNETT 2024",
+            4,
+            4
+        ],
+        [
+            "4A AMES GRANT CRESPI 2023",
+            5,
+            5
+        ],
+        [
+            "1A NORTH BUTLER OWEN ALMELIEN 2023",
+            6,
+            6
+        ],
+        [
+            "3A CLEAR LAKE JACK CRANE 2023",
+            7,
+            7
+        ],
+        [
+            "1A NEWMAN JOEY RINGO 2023",
+            8,
+            8
+        ],
+        [
+            "2A GHV CONNOR HAMMITT 2024",
+            9,
+            9
+        ],
+        [
+            "3A CLEAR LAKE LEO TOLENTINO 2023",
+            10,
+            10
+        ],
+        [
+            "2A FOREST CITY PARKER SHARP 2023",
+            11,
+            11
+        ],
+        [
+            "2A GHV ZACH FLATEBO 2025",
+            12,
+            12
+        ],
+        [
+            "2A FOREST CITY SILAS GANN 2026",
+            13,
+            13
+        ],
+        [
+            "2A EAGLE GROVE DRAKE WELAND 2023",
+            14,
+            14
+        ],
+        [
+            "3A CLEAR LAKE ANDREW MIXDORF 2023",
+            15,
+            15
+        ],
+        [
+            "2A FOREST CITY ETHAN JOHNSON 2023",
+            16,
+            16
+        ],
+        [
+            "1A NORTH BUTLER TRAGER PECHA 2026",
+            17,
+            17
+        ],
+        [
+            "2A FOREST CITY CARSON STRUKEL 2023",
+            18,
+            18
+        ],
+        [
+            "1A CENTRAL SPRINGS CARTER LANPHERE 2024",
+            19,
+            19
+        ],
+        [
+            "3A CLEAR LAKE MARCUS SKIDMORE 2023",
+            20,
+            20
+        ],
+        [
+            "3A CLEAR LAKE OWEN SMITH 2025",
+            21,
+            21
+        ],
+        [
+            "2A FOREST CITY JADYN WELCH 2023",
+            22,
+            22
+        ],
+        [
+            "1A SAINT ANSGAR COLE HANSEN 2023",
+            23,
+            23
+        ],
+        [
+            "2A FOREST CITY JOSIAH WELCH 2023",
+            24,
+            24
+        ],
+        [
+            "2A GHV CALEB GOOD 2025",
+            25,
+            25
+        ],
+        [
+            "3A CLEAR LAKE ISAAC SMITH 2026",
+            26,
+            26
+        ],
+        [
+            "3A HUMBOLDT GABE THUMMA 2026",
+            27,
+            27
+        ],
+        [
+            "3A CLEAR LAKE AIDEN HIPPEN 2026",
+            28,
+            28
+        ],
+        [
+            "2A EAGLE GROVE NOAH THUL 2024",
+            29,
+            29
+        ],
+        [
+            "2A FOREST CITY ETHAN BERTRAM 2026",
+            30,
+            30
+        ],
+        [
+            "1A NEWMAN ADAM HENRICH 2025",
+            31,
+            31
+        ],
+        [
+            "2A EAGLE GROVE ZABDI CASTRO 2025",
+            32,
+            32
+        ],
+        [
+            "1A NEWMAN LIAM STOCKBERGER 2024",
+            33,
+            33
+        ],
+        [
+            "2A GHV GARRETT HELLER 2023",
+            34,
+            34
+        ],
+        [
+            "2A GHV TYLER ENGLIN 2024",
+            35,
+            35
+        ],
+        [
+            "1A WEST FORK DYLAN STURGES 2024",
+            36,
+            36
+        ],
+        [
+            "2A GHV SCYLAR SCHULZE 2023",
+            37,
+            37
+        ],
+        [
+            "2A GHV JONAH PRINGNITZ 2026",
+            38,
+            38
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS CHRISTOPHER GREENFIELD 2025",
+            39,
+            39
+        ],
+        [
+            "2A EAGLE GROVE DYLAN BECK 2025",
+            40,
+            40
+        ],
+        [
+            "1A NEWMAN NOAH O'CONNELL 2025",
+            41,
+            41
+        ],
+        [
+            "1A NORTH BUTLER WYATT ANDERSON 2024",
+            42,
+            42
+        ],
+        [
+            "3A HUMBOLDT DAYLIN MCDANIEL 2024",
+            43,
+            43
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC VOSBURG 2025",
+            44,
+            44
+        ],
+        [
+            "2A EAGLE GROVE DUSTIN DAWSON 2023",
+            45,
+            45
+        ],
+        [
+            "2A EAGLE GROVE ZACH HOGREFE 2025",
+            46,
+            46
+        ],
+        [
+            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
+            47,
+            47
+        ],
+        [
+            "3A HUMBOLDT JAYDEN GARGANO 2023",
+            48,
+            48
+        ],
+        [
+            "1A NEWMAN SAM STEIDL 2025",
+            49,
+            49
+        ],
+        [
+            "1A NEWMAN LANDON KOHLER 2023",
+            50,
+            50
+        ],
+        [
+            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
+            51,
+            51
+        ],
+        [
+            "3A HUMBOLDT JUSTIN ASH 2025",
+            52,
+            52
+        ],
+        [
+            "2A EAGLE GROVE FELIX GONZALEZ 2026",
+            53,
+            53
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MARSHAL RUST 2023",
+            54,
+            54
+        ],
+        [
+            "3A HUMBOLDT JADEN HIMROD 2025",
+            55,
+            55
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MITERANDA TCHAMBA 2023",
+            56,
+            56
+        ],
+        [
+            "1A WEST FORK ASHER WISEMAN 2025",
+            57,
+            57
+        ],
+        [
+            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
+            58,
+            58
+        ],
+        [
+            "3A HUMBOLDT HENRY BORMANN 2024",
+            59,
+            59
+        ],
+        [
+            "3A HUMBOLDT HAYDEN HANSEN 2024",
+            60,
+            60
+        ],
+        [
+            "1A NEWMAN DAN SPOONER 2026",
+            61,
+            61
+        ],
+        [
+            "1A WEST HANCOCK KADEN VANEPPS 2025",
+            62,
+            62
+        ],
+        [
+            "1A CENTRAL SPRINGS JACK PRUIN 2025",
+            63,
+            63
+        ],
+        [
+            "1A NORTH BUTLER SAMUEL MARTINEZ-MACIAS 2026",
+            64,
+            64
+        ],
+        [
+            "1A NORTH BUTLER BRADY HENNING 2026",
+            65,
+            65
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL PEYTON KOFOOT 2025",
+            66,
+            66
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS TATE JACKSON 2025",
+            67,
+            67
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC SAUKE 2025",
+            68,
+            68
+        ],
+        [
+            "1A CENTRAL SPRINGS OWEN WETTER 2024",
+            69,
+            69
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL BRODY ROBERTSON 2025",
+            70,
+            70
+        ],
+        [
+            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
+            71,
+            71
+        ],
+        [
+            "1A WEST FORK EDISON MASKE 2024",
+            72,
+            72
+        ],
+        [
+            "1A WEST FORK JOSH HAGEN 2024",
+            73,
+            73
+        ],
+        [
+            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
+            74,
+            74
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL DAVID CAMARILLO 2024",
+            75,
+            75
+        ],
+        [
+            "1A WEST FORK SANDER THOMPKINS 2024",
+            76,
+            76
+        ],
+        [
+            "1A NORTH BUTLER OWEN SWYGMAN 2024",
+            77,
+            77
+        ],
+        [
+            "1A WEST FORK JAKE SWENSON 2023",
+            78,
+            78
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS HUNTER SMIDT 2025",
+            79,
+            79
+        ]
+    ]
+}
