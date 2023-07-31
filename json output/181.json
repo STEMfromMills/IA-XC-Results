@@ -1,0 +1,341 @@
+{
+    "name": "Mason City var",
+    "time_seconds": 1663650001,
+    "standings": [
+        [
+            "4A MASON CITY BRANDT HAAKENSTAD 2025",
+            0,
+            0
+        ],
+        [
+            "4A MASON CITY RA'SHAUN WYNTER 2024",
+            1,
+            1
+        ],
+        [
+            "4A MASON CITY JESS CORNICK 2023",
+            2,
+            2
+        ],
+        [
+            "1A VALLEY LUTHERAN ADRIC SCHMITZ 2023",
+            3,
+            3
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CALEB HOINS 2023",
+            4,
+            4
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CADEN KUEKER 2023",
+            5,
+            5
+        ],
+        [
+            "2A GHV ZACH FLATEBO 2025",
+            6,
+            6
+        ],
+        [
+            "1A NEWMAN JOEY RINGO 2023",
+            7,
+            7
+        ],
+        [
+            "4A MASON CITY KALE DIMARCO 2023",
+            8,
+            8
+        ],
+        [
+            "2A FOREST CITY ETHAN JOHNSON 2023",
+            9,
+            9
+        ],
+        [
+            "2A FOREST CITY PARKER SHARP 2023",
+            10,
+            10
+        ],
+        [
+            "2A FOREST CITY CARSON STRUKEL 2023",
+            11,
+            11
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK MARSHALL MEYER 2023",
+            12,
+            12
+        ],
+        [
+            "2A FOREST CITY JADYN WELCH 2023",
+            13,
+            13
+        ],
+        [
+            "2A FOREST CITY SILAS GANN 2026",
+            14,
+            14
+        ],
+        [
+            "3A WEBSTER CITY BRAYDEN HENELY 2023",
+            15,
+            15
+        ],
+        [
+            "2A FOREST CITY JOSIAH WELCH 2023",
+            16,
+            16
+        ],
+        [
+            "2A GHV CALEB GOOD 2025",
+            17,
+            17
+        ],
+        [
+            "4A MASON CITY BRADY WICKERING 2025",
+            18,
+            18
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AUSTIN SOLDWISCH 2025",
+            19,
+            19
+        ],
+        [
+            "2A FOREST CITY ETHAN BERTRAM 2026",
+            20,
+            20
+        ],
+        [
+            "2A FOREST CITY DAWSON SHARP 2025",
+            21,
+            21
+        ],
+        [
+            "1A NEWMAN ADAM HENRICH 2025",
+            22,
+            22
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK GAVIN BARRY 2024",
+            23,
+            23
+        ],
+        [
+            "1A NEWMAN LIAM STOCKBERGER 2024",
+            24,
+            24
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC VOSBURG 2025",
+            25,
+            25
+        ],
+        [
+            "1A NEWMAN LANDON KOHLER 2023",
+            26,
+            26
+        ],
+        [
+            "1A VALLEY LUTHERAN ISAAC DAWSON 2023",
+            27,
+            27
+        ],
+        [
+            "4A MASON CITY DANIEL SCHWARZ 2023",
+            28,
+            28
+        ],
+        [
+            "4A MASON CITY JAMES FINGALSEN 2023",
+            29,
+            29
+        ],
+        [
+            "2A GHV TYLER ENGLIN 2024",
+            30,
+            30
+        ],
+        [
+            "2A GHV SCYLAR SCHULZE 2023",
+            31,
+            31
+        ],
+        [
+            "4A MASON CITY MARKUS ELSBERND 2023",
+            32,
+            32
+        ],
+        [
+            "1A NEWMAN SAM STEIDL 2025",
+            33,
+            33
+        ],
+        [
+            "2A GHV JONAH PRINGNITZ 2026",
+            34,
+            34
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL YAHIR PEREZ 2023",
+            35,
+            35
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK COLIN KNUDSEN 2025",
+            36,
+            36
+        ],
+        [
+            "1A NEWMAN NOAH O'CONNELL 2025",
+            37,
+            37
+        ],
+        [
+            "1A VALLEY LUTHERAN KELLER WILSON 2024",
+            38,
+            38
+        ],
+        [
+            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
+            39,
+            39
+        ],
+        [
+            "1A VALLEY LUTHERAN ETHAN L'HEUREUX 2023",
+            40,
+            40
+        ],
+        [
+            "3A WEBSTER CITY OWEN PATTERSON 2025",
+            41,
+            41
+        ],
+        [
+            "3A WEBSTER CITY AIDEN RAHE 2024",
+            42,
+            42
+        ],
+        [
+            "3A WEBSTER CITY JACK BARNER 2026",
+            43,
+            43
+        ],
+        [
+            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
+            44,
+            44
+        ],
+        [
+            "2A GHV GARRETT HELLER 2023",
+            45,
+            45
+        ],
+        [
+            "2A FOREST CITY CESAR LECHUGA 2023",
+            46,
+            46
+        ],
+        [
+            "1A VALLEY LUTHERAN JONAH WOOLERY 2024",
+            47,
+            47
+        ],
+        [
+            "2A GHV TY HELLER 2026",
+            48,
+            48
+        ],
+        [
+            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
+            49,
+            49
+        ],
+        [
+            "3A WEBSTER CITY KYZER ZINNEL 2026",
+            50,
+            50
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CYRUS LEYDA 2026",
+            51,
+            51
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MITERANDA TCHAMBA 2023",
+            52,
+            52
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MARSHAL RUST 2023",
+            53,
+            53
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC SAUKE 2025",
+            54,
+            54
+        ],
+        [
+            "1A NEWMAN DAN SPOONER 2026",
+            55,
+            55
+        ],
+        [
+            "2A FOREST CITY CHASE SORENSON 2025",
+            56,
+            56
+        ],
+        [
+            "3A WEBSTER CITY WYATT BINGHAM 2023",
+            57,
+            57
+        ],
+        [
+            "1A CENTRAL SPRINGS JACK PRUIN 2025",
+            58,
+            58
+        ],
+        [
+            "2A GHV GAVIN CHAMBERS 2024",
+            59,
+            59
+        ],
+        [
+            "1A CENTRAL SPRINGS OWEN WETTER 2024",
+            60,
+            60
+        ],
+        [
+            "1A VALLEY LUTHERAN WALKER LAUGHRIDGE 2025",
+            61,
+            61
+        ],
+        [
+            "1A CENTRAL SPRINGS COOPER WYMORE 2025",
+            62,
+            62
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL BRODY ROBERTSON 2025",
+            63,
+            63
+        ],
+        [
+            "1A CENTRAL SPRINGS JONAH CARSON 2026",
+            64,
+            64
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL PEYTON KOFOOT 2025",
+            65,
+            65
+        ],
+        [
+            "1A CENTRAL SPRINGS LOGAN CORCORAN 2024",
+            66,
+            66
+        ]
+    ]
+}

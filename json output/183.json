@@ -1,301 +1,296 @@
 {
-    "name": "Bellevue",
-    "time_seconds": 1663563647,
+    "name": "Newton",
+    "time_seconds": 1663650003,
     "standings": [
         [
-            "1A BELLEVUE PAYTON GRIEBEL 2024",
+            "3A NORTH POLK ZACH SPORAA 2023",
             0,
             0
         ],
         [
-            "1A PRINCE OF PEACE MARCUS BLOUNT 2023",
+            "3A NORTH POLK MAX SPORAA 2023",
             1,
             1
         ],
         [
-            "1A BELLEVUE AIDEN ONKEN 2023",
+            "3A NORTH POLK ALIK MCILRAVY 2024",
             2,
             2
         ],
         [
-            "2A NORTHEAST CARTER JARGO 2023",
+            "3A GRINNELL JONAS CONNER 2023",
             3,
             3
         ],
         [
-            "1A CALAMUS-WHEATLAND LOGAN RIEDESEL 2025",
+            "3A NORTH POLK AUSTIN STIERMAN 2023",
             4,
             4
         ],
         [
-            "1A BELLEVUE BEN STEINBECK 2023",
+            "3A NEWTON LANDON MENNINGA 2024",
             5,
             5
         ],
         [
-            "2A NORTHEAST KELVIN MACHANDE 2024",
+            "4A NORWALK ETHAN FRANKLIN 2023",
             6,
             6
         ],
         [
-            "1A CALAMUS-WHEATLAND JACKSON RIEDESEL 2024",
+            "3A NORTH POLK ETHAN STIERMAN 2023",
             7,
             7
         ],
         [
-            "1A PRINCE OF PEACE TATE RUDEN 2025",
+            "4A NORWALK CORBIN OSWALD 2025",
             8,
             8
         ],
         [
-            "2A NORTHEAST DANIEL ROWLAND 2023",
+            "3A KNOXVILLE ISAAC RANKIN 2026",
             9,
             9
         ],
         [
-            "1A NORTH CEDAR CLANCEY VANOORT 2026",
+            "4A MARSHALLTOWN ANTHONIEH KOPSA 2023",
             10,
             10
         ],
         [
-            "1A DURANT RACE STARR 2025",
+            "3A GRINNELL LIAM CRITES 2026",
             11,
             11
         ],
         [
-            "1A CALAMUS-WHEATLAND MASON MOHR 2026",
+            "3A NEVADA BRIAN ROHDE 2025",
             12,
             12
         ],
         [
-            "2A NORTHEAST ETHAN JOHNSON 2024",
+            "3A NEWTON LEO FRIEDMAN 2023",
             13,
             13
         ],
         [
-            "2A CAMANCHE NICK REUTER 2023",
+            "4A NORWALK AJ MOSQUEDA 2025",
             14,
             14
         ],
         [
-            "1A BELLEVUE BEN MEYER 2024",
+            "3A GRINNELL CADEL CONNER 2026",
             15,
             15
         ],
         [
-            "2A NORTHEAST JACOB TEGELER 2024",
+            "4A NORWALK NATHAN STOCKER 2024",
             16,
             16
         ],
         [
-            "1A EASTON VALLEY COLE VENEMA 2024",
+            "3A NORTH POLK GRANT ASPENGREN 2024",
             17,
             17
         ],
         [
-            "2A NORTHEAST PARKER MESSERICH 2025",
+            "4A ANKENY JULIUS WIEGEND 2025",
             18,
             18
         ],
         [
-            "1A BELLEVUE CONNOR KILBURG 2026",
+            "4A NORWALK DON AGISHA 2023",
             19,
             19
         ],
         [
-            "3A MAQUOKETA JACOB NABB 2025",
+            "3A NEVADA CARTER HOLLAND 2024",
             20,
             20
         ],
         [
-            "2A NORTHEAST CARVER LANGE 2024",
+            "4A ANKENY ALEX COX 2023",
             21,
             21
         ],
         [
-            "1A CALAMUS-WHEATLAND AIDAN YADDOF 2026",
+            "4A ANKENY BRETT AUGUSTINE 2026",
             22,
             22
         ],
         [
-            "3A MAQUOKETA CONNER DEFOREST 2026",
+            "3A NEWTON COLLIN BUCHLI 2023",
             23,
             23
         ],
         [
-            "1A BELLEVUE KADEN GUENTHER 2024",
+            "3A NEWTON CHRISTIAN BUCHLI 2025",
             24,
             24
         ],
         [
-            "1A BELLEVUE KYLE DUNNE 2026",
+            "3A NEVADA OWEN FREEMAN 2023",
             25,
             25
         ],
         [
-            "2A CAMANCHE MADDOX HOMAN 2025",
+            "4A NORWALK JAMISON BICE 2024",
             26,
             26
         ],
         [
-            "3A MAQUOKETA BRECKIN DOWNEY 2024",
+            "3A NEVADA ROWAN STEELE 2024",
             27,
             27
         ],
         [
-            "1A CALAMUS-WHEATLAND JACOB WEIH 2023",
+            "4A ANKENY BRENNAN LESKO 2024",
             28,
             28
         ],
         [
-            "1A WAPELLO GARETT DICKEY 2023",
+            "3A GRINNELL ALEXANDER CRITES 2023",
             29,
             29
         ],
         [
-            "1A MIDLAND JAYSON RULEY 2025",
+            "4A MARSHALLTOWN JAMES JOHNSON 2024",
             30,
             30
         ],
         [
-            "1A MARQUETTE TREVOR KLEIN 2023",
+            "4A ANKENY JAKE DAHLMER 2024",
             31,
             31
         ],
         [
-            "1A NORTH CEDAR JAYDON WIGGINS 2024",
+            "4A MARSHALLTOWN CALEB RASMUSSEN 2026",
             32,
             32
         ],
         [
-            "1A MIDLAND MILO SMITH 2023",
+            "3A NORTH POLK OWEN REED 2026",
             33,
             33
         ],
         [
-            "1A MARQUETTE ANDREW SCHMIDT 2024",
+            "3A NEVADA WILL BAUMANN 2024",
             34,
             34
         ],
         [
-            "3A MAQUOKETA JAYDEN KOOS 2023",
+            "3A GRINNELL BEAUX BLANCHARD 2025",
             35,
             35
         ],
         [
-            "3A MAQUOKETA MASON SMITH 2026",
+            "3A NEWTON JAVIN DOLAND 2025",
             36,
             36
         ],
         [
-            "1A MARQUETTE ETHAN DESOTEL 2023",
+            "3A GRINNELL KIRAN JONES 2023",
             37,
             37
         ],
         [
-            "1A DURANT NOLAN WILLIAMS 2026",
+            "4A NORWALK LUKA FLORES 2023",
             38,
             38
         ],
         [
-            "1A NORTH CEDAR JAMES TROUGHTON 2026",
+            "3A NEVADA DAWSON LEMKE 2026",
             39,
             39
         ],
         [
-            "1A NORTH CEDAR WESTON DIRCKS 2026",
+            "4A ANKENY SAMUEL DUCAR 2023",
             40,
             40
         ],
         [
-            "1A NORTH CEDAR ELI DIES 2026",
+            "3A NEWTON JESUS MURILLO 2024",
             41,
             41
         ],
         [
-            "2A CAMANCHE TY GRAVERT 2023",
+            "3A KNOXVILLE ETHAN RUSSELL 2025",
             42,
             42
         ],
         [
-            "1A MARQUETTE WYATT GREGORICH 2026",
+            "3A KNOXVILLE REID SINCLAIR 2025",
             43,
             43
         ],
         [
-            "1A CALAMUS-WHEATLAND ALEX RICKERTSEN 2026",
+            "3A GRINNELL JEFF SIECK 2024",
             44,
             44
         ],
         [
-            "1A WAPELLO ASHTON SLATON 2023",
+            "3A NEWTON LANCE ZABEL 2026",
             45,
             45
         ],
         [
-            "1A PRINCE OF PEACE SAM SISNEROS 2026",
+            "4A MARSHALLTOWN DALE GREENE 2024",
             46,
             46
         ],
         [
-            "1A WAPELLO WILL PARSONS 2026",
+            "4A ANKENY QUINN DOW 2024",
             47,
             47
         ],
         [
-            "1A PRINCE OF PEACE HAKAEL POWELL 2025",
+            "3A NEVADA NICK FRIDERES 2023",
             48,
             48
         ],
         [
-            "1A PRINCE OF PEACE LIAM DARSIDAN 2025",
+            "4A MARSHALLTOWN CARTER NUNN 2026",
             49,
             49
         ],
         [
-            "1A PRINCE OF PEACE BRODY DEHNER 2023",
+            "4A DSM NORTH EBENEZER YAFETI 2026",
             50,
             50
         ],
         [
-            "1A CALAMUS-WHEATLAND KAISER SANDS 2025",
+            "4A MARSHALLTOWN CARSON WRIGHT 2026",
             51,
             51
         ],
         [
-            "2A CAMANCHE BRAXTON LAURION 2026",
+            "3A KNOXVILLE ANTHONY BAILEY 2025",
             52,
             52
         ],
         [
-            "1A DURANT WILLIAM RICHARDSON 2024",
+            "3A KNOXVILLE MASON GREEN 2025",
             53,
             53
         ],
         [
-            "1A DURANT ROYCE RICHMAN 2026",
+            "3A KNOXVILLE KADEN MCGILL 2023",
             54,
             54
         ],
         [
-            "1A MIDLAND JAY BENTLEY 2023",
+            "3A KNOXVILLE HUNTER GRAY 2024",
             55,
             55
         ],
         [
-            "1A WAPELLO JACK BOYSEN 2026",
+            "4A DSM NORTH SEE KREE 2025",
             56,
             56
         ],
         [
-            "1A WAPELLO JORDAN CHAMBERLIN-JOHNSTON 2026",
+            "4A DSM NORTH JOSUE BARAHONA-ALVARADO 2025",
             57,
             57
-        ],
-        [
-            "1A WAPELLO HOLDEN HELMIG 2026",
-            58,
-            58
         ]
     ]
 }

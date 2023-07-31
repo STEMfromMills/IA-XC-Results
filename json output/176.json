@@ -1,291 +1,286 @@
 {
-    "name": "Denver var",
-    "time_seconds": 1663563649,
+    "name": "Solon var",
+    "time_seconds": 1663563656,
     "standings": [
         [
-            "2A OELWEIN CONALL SAUSER 2025",
+            "3A MOUNT VERNON-LISBON GRADY OLBERDING 2025",
             0,
             0
         ],
         [
-            "2A OELWEIN RAY GEARHART 2023",
+            "2A TIPTON CLAY BOHLMANN 2025",
             1,
             1
         ],
         [
-            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            "3A SOLON BRICK KABELA 2024",
             2,
             2
         ],
         [
-            "2A DENVER JACK MULERT 2023",
+            "3A SOLON MICHAEL YEOMANS 2024",
             3,
             3
         ],
         [
-            "2A DENVER NEAL PINTER 2024",
+            "2A TIPTON TY NICHOLS 2023",
             4,
             4
         ],
         [
-            "2A OELWEIN JACOB SULLIVAN 2023",
+            "3A MOUNT VERNON-LISBON JUNIOR KROB 2023",
             5,
             5
         ],
         [
-            "2A DENVER MAXWELL SCHWANDT 2023",
+            "3A CENTRAL DEWITT CALEB OLSON 2025",
             6,
             6
         ],
         [
-            "2A JESUP NATHAN PINT 2025",
+            "3A CENTRAL DEWITT BEN ZIMMER 2024",
             7,
             7
         ],
         [
-            "2A DENVER TREVOR BAAS 2025",
+            "2A TIPTON MAXSON FOGG 2025",
             8,
             8
         ],
         [
-            "2A OELWEIN CALEB SCHUNK 2025",
+            "2A TIPTON CALEB BOHLMANN 2026",
             9,
             9
         ],
         [
-            "2A DENVER TALAN LAFRENTZ 2025",
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
             10,
             10
         ],
         [
-            "2A COLUMBUS CATHOLIC JACE MATERN 2025",
+            "3A MOUNT VERNON-LISBON WESLEY SADLER 2025",
             11,
             11
         ],
         [
-            "1A BCLUW CAYDEN MCLELAND 2023",
+            "3A MOUNT VERNON-LISBON DAWSON SCHEIL 2026",
             12,
             12
         ],
         [
-            "2A SUMNER-FREDERICKSBURG ETHAN BOYLE 2023",
+            "3A MOUNT VERNON-LISBON KLAYTEN PERREAULT 2024",
             13,
             13
         ],
         [
-            "2A DENVER JAYDEN HERRMANN 2023",
+            "3A MOUNT VERNON-LISBON ZACH FALL 2023",
             14,
             14
         ],
         [
-            "2A JESUP AYDEN GONZALEZ 2024",
+            "3A SOLON GRANT BUMSTED 2024",
             15,
             15
         ],
         [
-            "2A OELWEIN GABE DRISCOLL 2026",
+            "3A BENTON ISAAC MORRIS 2024",
             16,
             16
         ],
         [
-            "2A DENVER JARETT CLAYTON 2024",
+            "3A CENTRAL DEWITT ELSTON LINDNER 2024",
             17,
             17
         ],
         [
-            "2A DIKE-NEW HARTFORD TYLER NYSTEL 2023",
+            "3A SOLON LAWSIN SINNWELL 2024",
             18,
             18
         ],
         [
-            "2A JESUP KADEN LANGE 2026",
+            "3A SOLON EVAN BURG 2025",
             19,
             19
         ],
         [
-            "1A BCLUW CAYDEN WHITE 2025",
+            "3A CENTRAL DEWITT CORBIN JORGENSEN 2025",
             20,
             20
         ],
         [
-            "2A JESUP WILL NESBIT 2026",
+            "2A TIPTON JETT KAMBERLING 2026",
             21,
             21
         ],
         [
-            "2A SUMNER-FREDERICKSBURG ISAAC BOEHMLER 2023",
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
             22,
             22
         ],
         [
-            "2A UNION LA PORTE CITY CAMERON MULLEN 2026",
+            "3A CENTRAL DEWITT PARKER PETSCHE 2025",
             23,
             23
         ],
         [
-            "2A COLUMBUS CATHOLIC BROCK HAGEDORN 2023",
+            "3A BENTON CALEB OLSON 2026",
             24,
             24
         ],
         [
-            "2A COLUMBUS CATHOLIC THEODORE AHERN 2023",
+            "3A CENTRAL DEWITT ADAM WILKE 2026",
             25,
             25
         ],
         [
-            "2A JESUP TYLER NOLAN 2024",
+            "3A SOLON COLLIN BUMSTED 2024",
             26,
             26
         ],
         [
-            "2A UNION LA PORTE CITY KENGO UCHIYAMA-HANSEN 2025",
+            "2A TIPTON ANDREW SHUMAKER 2024",
             27,
             27
         ],
         [
-            "2A DIKE-NEW HARTFORD BRYCE PETERSEN 2023",
+            "2A TIPTON BRODY DEERBERG 2023",
             28,
             28
         ],
         [
-            "2A UNION LA PORTE CITY WYATT HOY 2024",
+            "3A BENTON BLAKE DAUGHERTY 2023",
             29,
             29
         ],
         [
-            "1A DUNKERTON DYLAN MARQUART 2025",
+            "4A DAVENPORT NORTH GRANT WIESE 2024",
             30,
             30
         ],
         [
-            "2A COLUMBUS CATHOLIC PETER MINARD 2023",
+            "3A CR XAVIER MARCUS CAMACHO 2024",
             31,
             31
         ],
         [
-            "2A JESUP KARSTEN NUEHRING 2025",
+            "2A WILLIAMSBURG JAKE BUCHHOLTZ 2023",
             32,
             32
         ],
         [
-            "2A COLUMBUS CATHOLIC JALEN HART 2025",
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
             33,
             33
         ],
         [
-            "1A DUNKERTON HENRY PETERSON 2025",
+            "2A WILLIAMSBURG IAN WILDE 2024",
             34,
             34
         ],
         [
-            "1A DUNKERTON NOAH FUELLING 2025",
+            "3A MOUNT VERNON-LISBON MICAH KNAPP 2023",
             35,
             35
         ],
         [
-            "2A SUMNER-FREDERICKSBURG XAVIER PARRA-MORALES 2025",
+            "3A CENTRAL DEWITT KEEGAN PETERSON 2025",
             36,
             36
         ],
         [
-            "1A WAPSIE VALLEY COLE BRAM 2024",
+            "3A BENTON BRANDON SCHULTZ 2023",
             37,
             37
         ],
         [
-            "2A SUMNER-FREDERICKSBURG LANE CONVERSE 2024",
+            "4A DAVENPORT NORTH MATT LICHT 2023",
             38,
             38
         ],
         [
-            "1A DUNKERTON DANE KRAUSE 2024",
+            "4A DAVENPORT NORTH CAMDEN BENNETT 2025",
             39,
             39
         ],
         [
-            "2A SUMNER-FREDERICKSBURG TRAVIS SMITH 2025",
+            "4A DAVENPORT NORTH ADAM WIESE 2026",
             40,
             40
         ],
         [
-            "2A SUMNER-FREDERICKSBURG PARKER SHERMAN 2025",
+            "4A DAVENPORT NORTH COLE MILLER 2024",
             41,
             41
         ],
         [
-            "2A DIKE-NEW HARTFORD RASMUS BRANDT 2023",
+            "2A WILLIAMSBURG SAM RICH 2023",
             42,
             42
         ],
         [
-            "2A UNION LA PORTE CITY ASHER BEERMAN 2023",
+            "3A SOLON BEN DUCKETT 2024",
             43,
             43
         ],
         [
-            "1A BCLUW CARTER KEMP 2023",
+            "3A CR XAVIER ALEC BATTIEN 2023",
             44,
             44
         ],
         [
-            "2A SUMNER-FREDERICKSBURG RYAN RICH 2023",
+            "3A CR XAVIER ABRAHAM RENZE 2026",
             45,
             45
         ],
         [
-            "2A DIKE-NEW HARTFORD SHAYDEN LOGER 2023",
+            "4A DAVENPORT NORTH SAM STACHULA 2024",
             46,
             46
         ],
         [
-            "2A JESUP KYLE WILSON 2023",
+            "3A BENTON LUKE LANGE 2025",
             47,
             47
         ],
         [
-            "2A OELWEIN LANDON DOWD 2026",
+            "3A CR XAVIER WILL KARL 2023",
             48,
             48
         ],
         [
-            "1A BCLUW DANE PETTY 2023",
+            "3A CR XAVIER LIAM PERREAULT 2024",
             49,
             49
         ],
         [
-            "2A UNION LA PORTE CITY AUSTIN MARTIN 2024",
+            "3A BENTON EVAN DAUGHERTY 2023",
             50,
             50
         ],
         [
-            "1A WAPSIE VALLEY FINN SCHAEFER 2026",
+            "3A CR XAVIER DYLAN LANG 2026",
             51,
             51
         ],
         [
-            "1A DUNKERTON COLIN SNYDER 2026",
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
             52,
             52
         ],
         [
-            "1A BCLUW ZACH MORRIS 2025",
+            "3A BENTON MARCUS RICKLEFS 2024",
             53,
             53
         ],
         [
-            "1A DUNKERTON KAYDEN KITE 2025",
+            "3A CR XAVIER TIM LESNIK 2023",
             54,
             54
         ],
         [
-            "2A DIKE-NEW HARTFORD FINN O'NEILL 2026",
+            "3A SOLON MASON PAULEY 2024",
             55,
             55
-        ],
-        [
-            "1A BCLUW JACOB CASTELL 2025",
-            56,
-            56
         ]
     ]
 }

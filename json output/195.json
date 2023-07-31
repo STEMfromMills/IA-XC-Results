@@ -1,0 +1,386 @@
+{
+    "name": "Mount Pleasant Var",
+    "time_seconds": 1663822815,
+    "standings": [
+        [
+            "3A WASHINGTON MICAH REES 2024",
+            0,
+            0
+        ],
+        [
+            "2A DANVILLE - NEW LONDON AJ BONNESEN 2023",
+            1,
+            1
+        ],
+        [
+            "3A MT PLEASANT BEN CARTHEY 2024",
+            2,
+            2
+        ],
+        [
+            "2A DANVILLE - NEW LONDON RYLAN MARTIN 2023",
+            3,
+            3
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CARTER FESLER 2024",
+            4,
+            4
+        ],
+        [
+            "1A WINFIELD-MT. UNION GABRIEL HEMSWORTH 2024",
+            5,
+            5
+        ],
+        [
+            "3A WASHINGTON TYLER ALDERTON 2025",
+            6,
+            6
+        ],
+        [
+            "3A OSKALOOSA WILL ROACH 2024",
+            7,
+            7
+        ],
+        [
+            "1A WINFIELD-MT. UNION KOHLBY NEWSOM 2025",
+            8,
+            8
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CAUY GARRETT 2023",
+            9,
+            9
+        ],
+        [
+            "1A COLUMBUS COMMUNITY DAMIAN VERGARA 2024",
+            10,
+            10
+        ],
+        [
+            "3A OSKALOOSA REID LUCK 2025",
+            11,
+            11
+        ],
+        [
+            "3A WASHINGTON DREW HORAK 2023",
+            12,
+            12
+        ],
+        [
+            "3A MT PLEASANT JUDE DYKSTRA 2026",
+            13,
+            13
+        ],
+        [
+            "2A DANVILLE - NEW LONDON JACKSON SHACKLETT 2025",
+            14,
+            14
+        ],
+        [
+            "2A DANVILLE - NEW LONDON TALAN WHALEY 2024",
+            15,
+            15
+        ],
+        [
+            "3A WASHINGTON ELIJAH MORRIS 2023",
+            16,
+            16
+        ],
+        [
+            "3A WASHINGTON LANE SCHROCK 2024",
+            17,
+            17
+        ],
+        [
+            "3A WASHINGTON ANDREW REES 2026",
+            18,
+            18
+        ],
+        [
+            "3A OSKALOOSA REED PETERSON 2024",
+            19,
+            19
+        ],
+        [
+            "2A CENTRAL LEE GRANT ANDERSON 2023",
+            20,
+            20
+        ],
+        [
+            "3A OSKALOOSA BLAKE HERNY 2026",
+            21,
+            21
+        ],
+        [
+            "3A OSKALOOSA JAVION REEVES 2026",
+            22,
+            22
+        ],
+        [
+            "3A FAIRFIELD NATE KONCZAL 2024",
+            23,
+            23
+        ],
+        [
+            "3A FAIRFIELD DAYTON MAUCK 2025",
+            24,
+            24
+        ],
+        [
+            "3A MT PLEASANT JONATHAN HOUGH 2023",
+            25,
+            25
+        ],
+        [
+            "1A COLUMBUS COMMUNITY TIM HILLS-CARRIER 2024",
+            26,
+            26
+        ],
+        [
+            "3A WASHINGTON ANDREW SHEPHERD 2024",
+            27,
+            27
+        ],
+        [
+            "3A FAIRFIELD RILEY PERKINS 2025",
+            28,
+            28
+        ],
+        [
+            "3A OSKALOOSA LUKE ABRAHAMSON 2024",
+            29,
+            29
+        ],
+        [
+            "3A FAIRFIELD BEN BOATRIGHT 2024",
+            30,
+            30
+        ],
+        [
+            "3A MT PLEASANT ISAAC RYNDERS 2023",
+            31,
+            31
+        ],
+        [
+            "1A COLUMBUS COMMUNITY TYLER HUMISTON 2023",
+            32,
+            32
+        ],
+        [
+            "2A LOUISA-MUSCATINE KELLAN WALSH 2024",
+            33,
+            33
+        ],
+        [
+            "2A DANVILLE - NEW LONDON ISAAC SHINN 2026",
+            34,
+            34
+        ],
+        [
+            "2A LOUISA-MUSCATINE GAVIN MILLS 2024",
+            35,
+            35
+        ],
+        [
+            "2A LOUISA-MUSCATINE TY MUNIZ 2025",
+            36,
+            36
+        ],
+        [
+            "1A COLUMBUS COMMUNITY CAEL PHILLIPS 2024",
+            37,
+            37
+        ],
+        [
+            "3A MT PLEASANT GABE FELDMANN 2023",
+            38,
+            38
+        ],
+        [
+            "3A MT PLEASANT TYLER JOHNSON 2023",
+            39,
+            39
+        ],
+        [
+            "3A MT PLEASANT ETHAN BRUSH 2024",
+            40,
+            40
+        ],
+        [
+            "1A COLUMBUS COMMUNITY BRYAN TLATENCHI 2025",
+            41,
+            41
+        ],
+        [
+            "1A WINFIELD-MT. UNION BOWEN THOMSON 2026",
+            42,
+            42
+        ],
+        [
+            "1A WACO ISAAC RICH 2025",
+            43,
+            43
+        ],
+        [
+            "2A CENTRAL LEE LEO THOMAS 2025",
+            44,
+            44
+        ],
+        [
+            "1A WACO KERIRAN LUITJENS 2025",
+            45,
+            45
+        ],
+        [
+            "1A WINFIELD-MT. UNION JACOB HAINES 2023",
+            46,
+            46
+        ],
+        [
+            "3A OSKALOOSA ELLIOTT NELSON 2023",
+            47,
+            47
+        ],
+        [
+            "1A WACO TRISTAN LUITJENS 2026",
+            48,
+            48
+        ],
+        [
+            "1A HOLY TRINITY SHELDON KRUSE 2023",
+            49,
+            49
+        ],
+        [
+            "1A WINFIELD-MT. UNION NICHOLAS SPARROW 2026",
+            50,
+            50
+        ],
+        [
+            "1A WINFIELD-MT. UNION TY SCORPIL 2024",
+            51,
+            51
+        ],
+        [
+            "2A LOUISA-MUSCATINE SKYLER BECK 2024",
+            52,
+            52
+        ],
+        [
+            "3A FAIRFIELD GABE TEJADA 2025",
+            53,
+            53
+        ],
+        [
+            "1A HOLY TRINITY EDWARD SCHROEDER 2024",
+            54,
+            54
+        ],
+        [
+            "1A WINFIELD-MT. UNION SHEADEN ADAMS 2025",
+            55,
+            55
+        ],
+        [
+            "1A COLUMBUS COMMUNITY ALEX REES 2026",
+            56,
+            56
+        ],
+        [
+            "2A CENTRAL LEE AYDEN KENT 2025",
+            57,
+            57
+        ],
+        [
+            "1A HOLY TRINITY TATE GREEN 2025",
+            58,
+            58
+        ],
+        [
+            "1A COLUMBUS COMMUNITY OSCAR ALCALA 2023",
+            59,
+            59
+        ],
+        [
+            "1A WACO MATTIAS LUITJENS 2023",
+            60,
+            60
+        ],
+        [
+            "3A FAIRFIELD CASS CLAE 2026",
+            61,
+            61
+        ],
+        [
+            "3A FAIRFIELD RYAN HIGGINS 2023",
+            62,
+            62
+        ],
+        [
+            "2A CENTRAL LEE BRENDEN MULLIGAN 2024",
+            63,
+            63
+        ],
+        [
+            "2A CENTRAL LEE ZACH MANWILL 2024",
+            64,
+            64
+        ],
+        [
+            "1A WACO TANNER EGLI 2025",
+            65,
+            65
+        ],
+        [
+            "2A CENTRAL LEE KYLER MULLIGAN 2026",
+            66,
+            66
+        ],
+        [
+            "1A LONE TREE TAYLOR ALBERHASKY 2025",
+            67,
+            67
+        ],
+        [
+            "1A HOLY TRINITY LAYNE RUNG 2026",
+            68,
+            68
+        ],
+        [
+            "2A LOUISA-MUSCATINE TALIN BREWER 2024",
+            69,
+            69
+        ],
+        [
+            "1A LONE TREE BLAKE HONEYCUTT 2023",
+            70,
+            70
+        ],
+        [
+            "1A LONE TREE JADIN GRIESER 2023",
+            71,
+            71
+        ],
+        [
+            "1A LONE TREE JOEY BIRTCHER 2024",
+            72,
+            72
+        ],
+        [
+            "1A WACO DEACON BIRD 2025",
+            73,
+            73
+        ],
+        [
+            "2A CENTRAL LEE DAN SEAMONS 2025",
+            74,
+            74
+        ],
+        [
+            "2A LOUISA-MUSCATINE TYSON WEDEKIND 2024",
+            75,
+            75
+        ]
+    ]
+}
