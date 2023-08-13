@@ -1,0 +1,396 @@
+{
+    "name": "GHV",
+    "time_seconds": 1664168447,
+    "standings": [
+        [
+            "1A LAKE MILLS JUSTIN RYGH 2024",
+            0,
+            0
+        ],
+        [
+            "1A NORTH BUTLER OWEN ALMELIEN 2023",
+            1,
+            1
+        ],
+        [
+            "1A NORTH IOWA GAVIN GRUNHOVD 2025",
+            2,
+            2
+        ],
+        [
+            "2A GHV CONNOR HAMMITT 2024",
+            3,
+            3
+        ],
+        [
+            "2A OSAGE KEAGAN HENNESSEY 2023",
+            4,
+            4
+        ],
+        [
+            "2A GHV ZACH FLATEBO 2025",
+            5,
+            5
+        ],
+        [
+            "1A LAKE MILLS KNUTE ROGNE 2026",
+            6,
+            6
+        ],
+        [
+            "2A OSAGE DARREN ADAMS 2024",
+            7,
+            7
+        ],
+        [
+            "2A GHV CALEB GOOD 2025",
+            8,
+            8
+        ],
+        [
+            "2A GHV SCYLAR SCHULZE 2023",
+            9,
+            9
+        ],
+        [
+            "1A CENTRAL SPRINGS CARTER LANPHERE 2024",
+            10,
+            10
+        ],
+        [
+            "2A GHV GARRETT HELLER 2023",
+            11,
+            11
+        ],
+        [
+            "1A LAKE MILLS KADE VAN ROEKEL 2025",
+            12,
+            12
+        ],
+        [
+            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
+            13,
+            13
+        ],
+        [
+            "2A OSAGE CHASE POTTER 2023",
+            14,
+            14
+        ],
+        [
+            "1A SAINT ANSGAR COLE HANSEN 2023",
+            15,
+            15
+        ],
+        [
+            "2A GHV TYLER ENGLIN 2024",
+            16,
+            16
+        ],
+        [
+            "2A GHV BRONSON BUITENWERF 2023",
+            17,
+            17
+        ],
+        [
+            "1A LAKE MILLS HAYDEN THOMPSON 2026",
+            18,
+            18
+        ],
+        [
+            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
+            19,
+            19
+        ],
+        [
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
+            20,
+            20
+        ],
+        [
+            "1A WEST HANCOCK ISAIAH COLLINS 2025",
+            21,
+            21
+        ],
+        [
+            "2A GHV JONAH PRINGNITZ 2026",
+            22,
+            22
+        ],
+        [
+            "2A GHV TY HELLER 2026",
+            23,
+            23
+        ],
+        [
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
+            24,
+            24
+        ],
+        [
+            "1A NORTH BUTLER TRAGER PECHA 2026",
+            25,
+            25
+        ],
+        [
+            "2A OSAGE ASHTON SONBERG 2023",
+            26,
+            26
+        ],
+        [
+            "1A WEST FORK ASHYR WISEMAN 2025",
+            27,
+            27
+        ],
+        [
+            "2A OSAGE LOGAN MITCHELL 2024",
+            28,
+            28
+        ],
+        [
+            "2A OSAGE HAMPTON ARCINIEGA 2025",
+            29,
+            29
+        ],
+        [
+            "2A OSAGE TANNER WRIGHT 2025",
+            30,
+            30
+        ],
+        [
+            "1A NORTH IOWA ISAAC HILLESLAND 2024",
+            31,
+            31
+        ],
+        [
+            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
+            32,
+            32
+        ],
+        [
+            "2A OSAGE TYSEN STANGEL 2026",
+            33,
+            33
+        ],
+        [
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
+            34,
+            34
+        ],
+        [
+            "2A GHV GAVIN CHAMBERS 2024",
+            35,
+            35
+        ],
+        [
+            "1A LAKE MILLS STEPHEN BRANDENBURG 2026",
+            36,
+            36
+        ],
+        [
+            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
+            37,
+            37
+        ],
+        [
+            "1A NORTH BUTLER SAMUEL MARTINEZ-MACIAS 2026",
+            38,
+            38
+        ],
+        [
+            "1A LAKE MILLS ASA STELLPFLUG 2024",
+            39,
+            39
+        ],
+        [
+            "1A CENTRAL SPRINGS JACK PRUIN 2025",
+            40,
+            40
+        ],
+        [
+            "1A LAKE MILLS BRYCE BUDACH 2024",
+            41,
+            41
+        ],
+        [
+            "1A NORTH IOWA NOAH HANSON 2025",
+            42,
+            42
+        ],
+        [
+            "1A NORTH BUTLER BRADY HENNING 2026",
+            43,
+            43
+        ],
+        [
+            "1A NORTH BUTLER ALEX ALMELIEN 2025",
+            44,
+            44
+        ],
+        [
+            "2A GHV LUKE LAMB 2025",
+            45,
+            45
+        ],
+        [
+            "1A LAKE MILLS KACEY RENNEKER 2024",
+            46,
+            46
+        ],
+        [
+            "1A WEST FORK JOSH HAGIN 2023",
+            47,
+            47
+        ],
+        [
+            "1A BELMOND-KLEMME ALDO MARTINEZ 2023",
+            48,
+            48
+        ],
+        [
+            "1A WEST HANCOCK KADEN VANEPPS 2025",
+            49,
+            49
+        ],
+        [
+            "1A CENTRAL SPRINGS BLAKE BARKER 2024",
+            50,
+            50
+        ],
+        [
+            "1A CENTRAL SPRINGS OWEN WETTER 2024",
+            51,
+            51
+        ],
+        [
+            "1A NORTHWOOD-KENSETT ZACH HEIKEN 2026",
+            52,
+            52
+        ],
+        [
+            "1A CENTRAL SPRINGS JONAH CARSON 2026",
+            53,
+            53
+        ],
+        [
+            "1A CENTRAL SPRINGS COOPER WYMORE 2025",
+            54,
+            54
+        ],
+        [
+            "2A OSAGE ETHAN PETERSON 2026",
+            55,
+            55
+        ],
+        [
+            "2A OSAGE JACKSON JOHNSON 2026",
+            56,
+            56
+        ],
+        [
+            "2A GHV LATHAM MITCHELL 2025",
+            57,
+            57
+        ],
+        [
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
+            58,
+            58
+        ],
+        [
+            "1A ROCKFORD RYKER HOFFMAN 2025",
+            59,
+            59
+        ],
+        [
+            "1A NORTH IOWA JAYCOB GUTHART 2025",
+            60,
+            60
+        ],
+        [
+            "1A WEST FORK ELI MUHLENBRUCH 2026",
+            61,
+            61
+        ],
+        [
+            "1A LAKE MILLS GERALDO VAZQUEZPEREZ 2023",
+            62,
+            62
+        ],
+        [
+            "1A WEST FORK EDISON MASKE 2024",
+            63,
+            63
+        ],
+        [
+            "1A WEST FORK JAKE SWENSON 2023",
+            64,
+            64
+        ],
+        [
+            "1A NORTHWOOD-KENSETT CHRISTOPHER MADSEN 2024",
+            65,
+            65
+        ],
+        [
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
+            66,
+            66
+        ],
+        [
+            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
+            67,
+            67
+        ],
+        [
+            "2A OSAGE BEN MEIER 2025",
+            68,
+            68
+        ],
+        [
+            "1A NORTH BUTLER EVAN SWYGMAN 2026",
+            69,
+            69
+        ],
+        [
+            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
+            70,
+            70
+        ],
+        [
+            "1A NORTH BUTLER OWEN SWYGMAN 2024",
+            71,
+            71
+        ],
+        [
+            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
+            72,
+            72
+        ],
+        [
+            "1A CENTRAL SPRINGS LOGAN CORCORAN 2024",
+            73,
+            73
+        ],
+        [
+            "2A OSAGE CONNOR ADAMS 2026",
+            74,
+            74
+        ],
+        [
+            "2A OSAGE TAYLOR HOBBS 2026",
+            75,
+            75
+        ],
+        [
+            "1A NORTH BUTLER MILES NIELSEN 2026",
+            76,
+            76
+        ],
+        [
+            "1A LAKE MILLS NOAH BRUNSVOLD 2026",
+            77,
+            77
+        ]
+    ]
+}

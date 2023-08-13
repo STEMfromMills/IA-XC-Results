@@ -1,386 +1,526 @@
 {
-    "name": "Mount Pleasant Var",
+    "name": "Dubuque Senior j",
     "time_seconds": 1663822815,
     "standings": [
         [
-            "3A WASHINGTON MICAH REES 2024",
+            "4A CEDAR FALLS JONATHAN SQUIRES 2023",
             0,
             0
         ],
         [
-            "2A DANVILLE - NEW LONDON AJ BONNESEN 2023",
+            "4A CEDAR FALLS BRAYDEN FREY 2024",
             1,
             1
         ],
         [
-            "3A MT PLEASANT BEN CARTHEY 2024",
+            "4A CEDAR FALLS VINCE FREDERIKSEN 2024",
             2,
             2
         ],
         [
-            "2A DANVILLE - NEW LONDON RYLAN MARTIN 2023",
+            "4A CEDAR FALLS COLLIN O'BRYON 2024",
             3,
             3
         ],
         [
-            "2A DANVILLE - NEW LONDON CARTER FESLER 2024",
+            "4A CEDAR FALLS TYLER BAILEY 2024",
             4,
             4
         ],
         [
-            "1A WINFIELD-MT. UNION GABRIEL HEMSWORTH 2024",
+            "4A DUBUQUE HEMPSTEAD MATTHEW HANSELMAN 2024",
             5,
             5
         ],
         [
-            "3A WASHINGTON TYLER ALDERTON 2025",
+            "4A CEDAR FALLS RENTSE DEJONG 2024",
             6,
             6
         ],
         [
-            "3A OSKALOOSA WILL ROACH 2024",
+            "4A CEDAR FALLS LANE WUNDERLICH 2023",
             7,
             7
         ],
         [
-            "1A WINFIELD-MT. UNION KOHLBY NEWSOM 2025",
+            "4A CEDAR FALLS WILLIAM PEASE 2024",
             8,
             8
         ],
         [
-            "2A DANVILLE - NEW LONDON CAUY GARRETT 2023",
+            "4A DUBUQUE HEMPSTEAD JOE VIZE 2023",
             9,
             9
         ],
         [
-            "1A COLUMBUS COMMUNITY DAMIAN VERGARA 2024",
+            "4A WATERLOO WEST CALEB KERKOVE 2024",
             10,
             10
         ],
         [
-            "3A OSKALOOSA REID LUCK 2025",
+            "4A DUBUQUE HEMPSTEAD GRANT MISIAGBECKLER 2023",
             11,
             11
         ],
         [
-            "3A WASHINGTON DREW HORAK 2023",
+            "4A PLEASANT VALLEY RYLAN WINDMILLER 2024",
             12,
             12
         ],
         [
-            "3A MT PLEASANT JUDE DYKSTRA 2026",
+            "3A WAHLERT GABRIEL AUER 2023",
             13,
             13
         ],
         [
-            "2A DANVILLE - NEW LONDON JACKSON SHACKLETT 2025",
+            "4A WATERLOO WEST YAIRH GONZALEZ 2025",
             14,
             14
         ],
         [
-            "2A DANVILLE - NEW LONDON TALAN WHALEY 2024",
+            "4A PLEASANT VALLEY DAVID MAHLKUCH 2024",
             15,
             15
         ],
         [
-            "3A WASHINGTON ELIJAH MORRIS 2023",
+            "4A IOWA CITY LIBERTY LUKE GAGE 2023",
             16,
             16
         ],
         [
-            "3A WASHINGTON LANE SCHROCK 2024",
+            "4A PLEASANT VALLEY PRANAV SURESH 2023",
             17,
             17
         ],
         [
-            "3A WASHINGTON ANDREW REES 2026",
+            "4A PLEASANT VALLEY ETHAN FOLTZ 2024",
             18,
             18
         ],
         [
-            "3A OSKALOOSA REED PETERSON 2024",
+            "4A DUBUQUE HEMPSTEAD LUCAS TYLER 2023",
             19,
             19
         ],
         [
-            "2A CENTRAL LEE GRANT ANDERSON 2023",
+            "4A PLEASANT VALLEY ASHVANTH PARANIDHARAN 2023",
             20,
             20
         ],
         [
-            "3A OSKALOOSA BLAKE HERNY 2026",
+            "4A WATERLOO WEST CHASE NORDMAN 2024",
             21,
             21
         ],
         [
-            "3A OSKALOOSA JAVION REEVES 2026",
+            "4A CEDAR FALLS HOGAN FUESSEL 2023",
             22,
             22
         ],
         [
-            "3A FAIRFIELD NATE KONCZAL 2024",
+            "4A DUBUQUE HEMPSTEAD JAKE STANNER 2023",
             23,
             23
         ],
         [
-            "3A FAIRFIELD DAYTON MAUCK 2025",
+            "4A CEDAR FALLS SAM O'HAIR 2024",
             24,
             24
         ],
         [
-            "3A MT PLEASANT JONATHAN HOUGH 2023",
+            "4A CEDAR FALLS GAVIN VANBROCKLIN 2024",
             25,
             25
         ],
         [
-            "1A COLUMBUS COMMUNITY TIM HILLS-CARRIER 2024",
+            "4A CEDAR FALLS NOLAN REESE 2024",
             26,
             26
         ],
         [
-            "3A WASHINGTON ANDREW SHEPHERD 2024",
+            "4A NORTH SCOTT KAIDEN POWER 2023",
             27,
             27
         ],
         [
-            "3A FAIRFIELD RILEY PERKINS 2025",
+            "4A CEDAR FALLS MIKOLAI PATTERSON 2024",
             28,
             28
         ],
         [
-            "3A OSKALOOSA LUKE ABRAHAMSON 2024",
+            "4A IOWA CITY LIBERTY MADDUX JOHNSON 2024",
             29,
             29
         ],
         [
-            "3A FAIRFIELD BEN BOATRIGHT 2024",
+            "3A WAHLERT SULLIVAN NEWLIN 2024",
             30,
             30
         ],
         [
-            "3A MT PLEASANT ISAAC RYNDERS 2023",
+            "4A IOWA CITY LIBERTY GAVIN NELSON 2024",
             31,
             31
         ],
         [
-            "1A COLUMBUS COMMUNITY TYLER HUMISTON 2023",
+            "4A WATERLOO WEST JAMES KNIGHT 2026",
             32,
             32
         ],
         [
-            "2A LOUISA-MUSCATINE KELLAN WALSH 2024",
+            "4A PLEASANT VALLEY TANISH CHAUHAN 2023",
             33,
             33
         ],
         [
-            "2A DANVILLE - NEW LONDON ISAAC SHINN 2026",
+            "4A CEDAR FALLS BRADEN STEWART 2024",
             34,
             34
         ],
         [
-            "2A LOUISA-MUSCATINE GAVIN MILLS 2024",
+            "4A WATERLOO WEST CONNOR HEUTHORST 2024",
             35,
             35
         ],
         [
-            "2A LOUISA-MUSCATINE TY MUNIZ 2025",
+            "4A CEDAR FALLS JACE ARENDS 2024",
             36,
             36
         ],
         [
-            "1A COLUMBUS COMMUNITY CAEL PHILLIPS 2024",
+            "4A DUBUQUE SENIOR LOGAN DEAN 2024",
             37,
             37
         ],
         [
-            "3A MT PLEASANT GABE FELDMANN 2023",
+            "4A CLINTON BRADY JENNINGS 2025",
             38,
             38
         ],
         [
-            "3A MT PLEASANT TYLER JOHNSON 2023",
+            "4A IOWA CITY LIBERTY TIMOTHY WELCH 2023",
             39,
             39
         ],
         [
-            "3A MT PLEASANT ETHAN BRUSH 2024",
+            "4A IOWA CITY LIBERTY PAYTON JOHNSTON 2023",
             40,
             40
         ],
         [
-            "1A COLUMBUS COMMUNITY BRYAN TLATENCHI 2025",
+            "4A PLEASANT VALLEY DANIEL ZIETLOW 2023",
             41,
             41
         ],
         [
-            "1A WINFIELD-MT. UNION BOWEN THOMSON 2026",
+            "4A CEDAR FALLS CARSON ANTON 2023",
             42,
             42
         ],
         [
-            "1A WACO ISAAC RICH 2025",
+            "4A NORTH SCOTT LUKE SIMMONS 2024",
             43,
             43
         ],
         [
-            "2A CENTRAL LEE LEO THOMAS 2025",
+            "4A NORTH SCOTT CONNOR MCMANN 2023",
             44,
             44
         ],
         [
-            "1A WACO KERIRAN LUITJENS 2025",
+            "3A WAHLERT EDEN SCHRACK 2024",
             45,
             45
         ],
         [
-            "1A WINFIELD-MT. UNION JACOB HAINES 2023",
+            "4A CEDAR FALLS TREVOR HUEGERICH 2024",
             46,
             46
         ],
         [
-            "3A OSKALOOSA ELLIOTT NELSON 2023",
+            "4A NORTH SCOTT ISAAC COPELAND 2024",
             47,
             47
         ],
         [
-            "1A WACO TRISTAN LUITJENS 2026",
+            "4A PLEASANT VALLEY TIMOTHY KU 2024",
             48,
             48
         ],
         [
-            "1A HOLY TRINITY SHELDON KRUSE 2023",
+            "4A DUBUQUE HEMPSTEAD JACOB JOHNSON 2023",
             49,
             49
         ],
         [
-            "1A WINFIELD-MT. UNION NICHOLAS SPARROW 2026",
+            "4A CEDAR FALLS GABE KEAGLE 2024",
             50,
             50
         ],
         [
-            "1A WINFIELD-MT. UNION TY SCORPIL 2024",
+            "4A CEDAR FALLS CARTER HALVORSON 2024",
             51,
             51
         ],
         [
-            "2A LOUISA-MUSCATINE SKYLER BECK 2024",
+            "4A DUBUQUE HEMPSTEAD WILL SCOTT 2024",
             52,
             52
         ],
         [
-            "3A FAIRFIELD GABE TEJADA 2025",
+            "4A IOWA CITY LIBERTY LUCIA ALLGOOD 2024",
             53,
             53
         ],
         [
-            "1A HOLY TRINITY EDWARD SCHROEDER 2024",
+            "4A IOWA CITY LIBERTY SAHIR SHARIF 2024",
             54,
             54
         ],
         [
-            "1A WINFIELD-MT. UNION SHEADEN ADAMS 2025",
+            "4A PLEASANT VALLEY MATT PISCHKE 2024",
             55,
             55
         ],
         [
-            "1A COLUMBUS COMMUNITY ALEX REES 2026",
+            "4A DUBUQUE SENIOR NIC GRAHAM 2023",
             56,
             56
         ],
         [
-            "2A CENTRAL LEE AYDEN KENT 2025",
+            "3A EPWORTH TYLER BEDTKA 2024",
             57,
             57
         ],
         [
-            "1A HOLY TRINITY TATE GREEN 2025",
+            "4A CEDAR FALLS CARSON WIRTZ 2023",
             58,
             58
         ],
         [
-            "1A COLUMBUS COMMUNITY OSCAR ALCALA 2023",
+            "3A CENTRAL DEWITT DYLAN STOKER 2024",
             59,
             59
         ],
         [
-            "1A WACO MATTIAS LUITJENS 2023",
+            "3A CENTRAL DEWITT CALEB GOVERT 2024",
             60,
             60
         ],
         [
-            "3A FAIRFIELD CASS CLAE 2026",
+            "4A CEDAR FALLS MAX DONALDSON 2024",
             61,
             61
         ],
         [
-            "3A FAIRFIELD RYAN HIGGINS 2023",
+            "4A CEDAR FALLS WILL WOLF 2023",
             62,
             62
         ],
         [
-            "2A CENTRAL LEE BRENDEN MULLIGAN 2024",
+            "4A PLEASANT VALLEY COLE HALUPNIK 2024",
             63,
             63
         ],
         [
-            "2A CENTRAL LEE ZACH MANWILL 2024",
+            "4A DUBUQUE SENIOR TEDDY RUPPEL 2025",
             64,
             64
         ],
         [
-            "1A WACO TANNER EGLI 2025",
+            "4A DUBUQUE SENIOR ALEX NIELSEN 2024",
             65,
             65
         ],
         [
-            "2A CENTRAL LEE KYLER MULLIGAN 2026",
+            "3A EPWORTH JT LUCIOUS 2024",
             66,
             66
         ],
         [
-            "1A LONE TREE TAYLOR ALBERHASKY 2025",
+            "4A PLEASANT VALLEY KUSHI MARIDU 2023",
             67,
             67
         ],
         [
-            "1A HOLY TRINITY LAYNE RUNG 2026",
+            "4A WATERLOO WEST BRAYDEN FULLER 2026",
             68,
             68
         ],
         [
-            "2A LOUISA-MUSCATINE TALIN BREWER 2024",
+            "4A CLINTON BAILEY DUNCAN 2024",
             69,
             69
         ],
         [
-            "1A LONE TREE BLAKE HONEYCUTT 2023",
+            "4A PLEASANT VALLEY LUKE HOSKINS 2023",
             70,
             70
         ],
         [
-            "1A LONE TREE JADIN GRIESER 2023",
+            "4A WATERLOO WEST TYRELL ADAMS 2024",
             71,
             71
         ],
         [
-            "1A LONE TREE JOEY BIRTCHER 2024",
+            "4A PLEASANT VALLEY JOSH THOMAS 2023",
             72,
             72
         ],
         [
-            "1A WACO DEACON BIRD 2025",
+            "4A DUBUQUE SENIOR MONTE SPRANK 2024",
             73,
             73
         ],
         [
-            "2A CENTRAL LEE DAN SEAMONS 2025",
+            "4A IOWA CITY LIBERTY MICAH REES 2024",
             74,
             74
         ],
         [
-            "2A LOUISA-MUSCATINE TYSON WEDEKIND 2024",
+            "4A PLEASANT VALLEY NIRMAL ALLA 2023",
             75,
             75
+        ],
+        [
+            "4A IOWA CITY LIBERTY ANGEL PAREDES RUIZ 2024",
+            76,
+            76
+        ],
+        [
+            "4A IOWA CITY LIBERTY JOSH MUNSON 2023",
+            77,
+            77
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD SEAN KELLEY 2023",
+            78,
+            78
+        ],
+        [
+            "3A CENTRAL DEWITT TAIT DANIELS 2023",
+            79,
+            79
+        ],
+        [
+            "4A NORTH SCOTT MICHAEL WILMING 2023",
+            80,
+            80
+        ],
+        [
+            "4A CEDAR FALLS BREVIN KINARD 2023",
+            81,
+            81
+        ],
+        [
+            "4A WATERLOO WEST LOGAN ODEKIRK 2024",
+            82,
+            82
+        ],
+        [
+            "4A CEDAR FALLS CONNOR DOYLE 2023",
+            83,
+            83
+        ],
+        [
+            "4A WATERLOO WEST SAM LUND 2023",
+            84,
+            84
+        ],
+        [
+            "4A DUBUQUE SENIOR ISAAC MAUS 2024",
+            85,
+            85
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD LEVI KRAMER 2024",
+            86,
+            86
+        ],
+        [
+            "4A CLINTON GAGE BROMLEY 2023",
+            87,
+            87
+        ],
+        [
+            "4A CLINTON OLIVER TOTTEN 2024",
+            88,
+            88
+        ],
+        [
+            "4A CEDAR FALLS JACKSON HERRING 2024",
+            89,
+            89
+        ],
+        [
+            "3A EPWORTH NATHAN CASEY 2023",
+            90,
+            90
+        ],
+        [
+            "4A IOWA CITY LIBERTY ADAM SCHULTZ 2024",
+            91,
+            91
+        ],
+        [
+            "4A CEDAR FALLS VINCENT SACCO 2024",
+            92,
+            92
+        ],
+        [
+            "4A DUBUQUE SENIOR THARU JAYAWICKRAMA 2023",
+            93,
+            93
+        ],
+        [
+            "4A CEDAR FALLS RYAN GAINES 2023",
+            94,
+            94
+        ],
+        [
+            "4A WATERLOO WEST KALE TAYLOR 2023",
+            95,
+            95
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JOSH BENNETT 2024",
+            96,
+            96
+        ],
+        [
+            "4A PLEASANT VALLEY MITCHELL POTERACK 2023",
+            97,
+            97
+        ],
+        [
+            "4A WATERLOO WEST MICHAEL DUNN 2023",
+            98,
+            98
+        ],
+        [
+            "4A NORTH SCOTT LOGAN BRUS 2023",
+            99,
+            99
+        ],
+        [
+            "3A EPWORTH BRANDON VASKE 2024",
+            100,
+            100
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD OWEN ERRTHUM 2024",
+            101,
+            101
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD RILEY TIGGES 2024",
+            102,
+            102
+        ],
+        [
+            "4A WATERLOO EAST JASON YARCE 2024",
+            103,
+            103
         ]
     ]
 }

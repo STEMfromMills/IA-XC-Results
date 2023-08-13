@@ -1,0 +1,516 @@
+{
+    "name": "CCA",
+    "time_seconds": 1664168446,
+    "standings": [
+        [
+            "2A MID-PRAIRIE EMMETT SWARTZENTRUBER 2025",
+            0,
+            0
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROCK HILSMAN 2025",
+            1,
+            1
+        ],
+        [
+            "3A CLEAR CREEK-AMANA PEYTON STADLER 2023",
+            2,
+            2
+        ],
+        [
+            "2A MID-PRAIRIE PRESTON YUTZY 2025",
+            3,
+            3
+        ],
+        [
+            "3A CLEAR CREEK-AMANA THOMAS STILTNER 2024",
+            4,
+            4
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JAMIE HAYES 2024",
+            5,
+            5
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ISAAC SORENSEN 2025",
+            6,
+            6
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CASH JENSEN 2023",
+            7,
+            7
+        ],
+        [
+            "3A CLEAR CREEK-AMANA NOAH YOST 2024",
+            8,
+            8
+        ],
+        [
+            "3A CLEAR CREEK-AMANA WILL SWIFT 2023",
+            9,
+            9
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACKSON SCHLOSS 2023",
+            10,
+            10
+        ],
+        [
+            "3A CR XAVIER MARCUS CAMACHO 2024",
+            11,
+            11
+        ],
+        [
+            "1A WINFIELD-MT. UNION KOHLBY NEWSOM 2025",
+            12,
+            12
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CAMERON KIMM 2023",
+            13,
+            13
+        ],
+        [
+            "2A MID-PRAIRIE BLAKE CREED 2023",
+            14,
+            14
+        ],
+        [
+            "1A WINFIELD-MT. UNION JACOB HAINES 2023",
+            15,
+            15
+        ],
+        [
+            "1A SIGOURNEY KLETT TROY 2026",
+            16,
+            16
+        ],
+        [
+            "3A CLEAR CREEK-AMANA LOGAN KAFER 2024",
+            17,
+            17
+        ],
+        [
+            "3A CLEAR CREEK-AMANA NICHOLAS SCHIELTZ 2026",
+            18,
+            18
+        ],
+        [
+            "2A MID-PRAIRIE NATHAN WALLINGTON 2023",
+            19,
+            19
+        ],
+        [
+            "3A CLEAR CREEK-AMANA TATE SCHLOSS 2025",
+            20,
+            20
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ANDREW CARTIER 2024",
+            21,
+            21
+        ],
+        [
+            "3A CR XAVIER ABRAHAM RENZE 2026",
+            22,
+            22
+        ],
+        [
+            "3A CLEAR CREEK-AMANA FRED SCHULTZ 2024",
+            23,
+            23
+        ],
+        [
+            "2A MID-PRAIRIE JORDAN STOCK 2023",
+            24,
+            24
+        ],
+        [
+            "2A MID-PRAIRIE DANIEL RODGERS 2024",
+            25,
+            25
+        ],
+        [
+            "2A MID-PRAIRIE JESSE STULTZ 2026",
+            26,
+            26
+        ],
+        [
+            "2A LOUISA-MUSCATINE KELLAN WALSH 2024",
+            27,
+            27
+        ],
+        [
+            "2A MID-PRAIRIE THOMAS FLYNN 2025",
+            28,
+            28
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CADEN BURKLE 2026",
+            29,
+            29
+        ],
+        [
+            "1A MONTEZUMA CARTER MCKEE 2024",
+            30,
+            30
+        ],
+        [
+            "2A LOUISA-MUSCATINE TY MUNIZ 2025",
+            31,
+            31
+        ],
+        [
+            "2A LOUISA-MUSCATINE GAVIN MILLS 2024",
+            32,
+            32
+        ],
+        [
+            "2A MID-PRAIRIE MOSE YODER 2023",
+            33,
+            33
+        ],
+        [
+            "2A MID-PRAIRIE LUKE BROKAW 2026",
+            34,
+            34
+        ],
+        [
+            "2A MID-PRAIRIE JACOB DONALDSON 2024",
+            35,
+            35
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON SAGE EGGAR 2024",
+            36,
+            36
+        ],
+        [
+            "1A WINFIELD-MT. UNION GABRIEL HEMSWORTH 2024",
+            37,
+            37
+        ],
+        [
+            "2A MID-PRAIRIE ANDREW STULTZ 2023",
+            38,
+            38
+        ],
+        [
+            "1A MONTEZUMA JAYDEN ROSS 2024",
+            39,
+            39
+        ],
+        [
+            "3A CR XAVIER WILL KARL 2023",
+            40,
+            40
+        ],
+        [
+            "3A CR XAVIER DYLAN LANG 2026",
+            41,
+            41
+        ],
+        [
+            "1A WINFIELD-MT. UNION NICHOLAS SPARROW 2026",
+            42,
+            42
+        ],
+        [
+            "2A LOUISA-MUSCATINE SKYLER BECK 2024",
+            43,
+            43
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ANDREW ROTZOLL 2025",
+            44,
+            44
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HARKARAN GILL 2023",
+            45,
+            45
+        ],
+        [
+            "3A CR XAVIER TIM LESNIK 2023",
+            46,
+            46
+        ],
+        [
+            "1A MONTEZUMA JACK ERSELIUS 2024",
+            47,
+            47
+        ],
+        [
+            "1A WINFIELD-MT. UNION BOWEN THOMSON 2026",
+            48,
+            48
+        ],
+        [
+            "1A WAPELLO GARETT DICKEY 2023",
+            49,
+            49
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON MICHAEL HADDEN 2026",
+            50,
+            50
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACKSON VANHORN 2026",
+            51,
+            51
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KEEGAN KENNE 2025",
+            52,
+            52
+        ],
+        [
+            "3A CR XAVIER LIAM PERREAULT 2024",
+            53,
+            53
+        ],
+        [
+            "1A WINFIELD-MT. UNION TY SCORPIL 2024",
+            54,
+            54
+        ],
+        [
+            "1A MONTEZUMA COLTON BENSON 2023",
+            55,
+            55
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON RYNE ROGERS 2023",
+            56,
+            56
+        ],
+        [
+            "1A WINFIELD-MT. UNION SHEADEN ADAMS 2025",
+            57,
+            57
+        ],
+        [
+            "2A MID-PRAIRIE SAWYER HOUGH 2024",
+            58,
+            58
+        ],
+        [
+            "3A CR XAVIER ETHAN WALZ 2025",
+            59,
+            59
+        ],
+        [
+            "3A CR XAVIER JOE DAKE 2026",
+            60,
+            60
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON ANTHONY MOAD 2024",
+            61,
+            61
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KAMERON DUNKIN 2026",
+            62,
+            62
+        ],
+        [
+            "1A MONTEZUMA BRYSON STOCKMAN 2025",
+            63,
+            63
+        ],
+        [
+            "1A WAPELLO ASHTON SLATON 2023",
+            64,
+            64
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ODIN GLEASON 2026",
+            65,
+            65
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON CONNER BUSH 2024",
+            66,
+            66
+        ],
+        [
+            "1A WINFIELD-MT. UNION JAIDEN BEEDING 2026",
+            67,
+            67
+        ],
+        [
+            "1A MONTEZUMA KOHEN HOLLAND 2025",
+            68,
+            68
+        ],
+        [
+            "3A CLEAR CREEK-AMANA COLE IBURG 2024",
+            69,
+            69
+        ],
+        [
+            "2A LOUISA-MUSCATINE BEN CODER 2025",
+            70,
+            70
+        ],
+        [
+            "1A WINFIELD-MT. UNION PRESTON PRIOR 2023",
+            71,
+            71
+        ],
+        [
+            "1A WAPELLO WILL PARSONS 2026",
+            72,
+            72
+        ],
+        [
+            "1A HLV NOLAN PIRKL 2024",
+            73,
+            73
+        ],
+        [
+            "1A MONTEZUMA JUSIAH WETERING 2025",
+            74,
+            74
+        ],
+        [
+            "2A MID-PRAIRIE ADRIAN SANCHEZ 2025",
+            75,
+            75
+        ],
+        [
+            "1A SIGOURNEY OWEN NORRISH 2026",
+            76,
+            76
+        ],
+        [
+            "2A LOUISA-MUSCATINE JACOB SCHRIEBER 2024",
+            77,
+            77
+        ],
+        [
+            "1A SIGOURNEY DAWSON MEYER 2025",
+            78,
+            78
+        ],
+        [
+            "3A CR XAVIER DAVID HUISKAMP 2024",
+            79,
+            79
+        ],
+        [
+            "1A HLV AUSTIN VANHAMME 2024",
+            80,
+            80
+        ],
+        [
+            "2A LOUISA-MUSCATINE TALIN BREWER 2024",
+            81,
+            81
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HAYDEN MILLER 2025",
+            82,
+            82
+        ],
+        [
+            "2A MID-PRAIRIE JOSH KEAOUGH 2024",
+            83,
+            83
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HENRY DAVIDSON 2026",
+            84,
+            84
+        ],
+        [
+            "3A NOTRE DAME / WEST BURLINGTON CALEB BUSH 2026",
+            85,
+            85
+        ],
+        [
+            "1A WINFIELD-MT. UNION GABE WHITE 2023",
+            86,
+            86
+        ],
+        [
+            "2A MID-PRAIRIE ALEX CASTILLO 2026",
+            87,
+            87
+        ],
+        [
+            "1A WAPELLO JACK BOYSEN 2026",
+            88,
+            88
+        ],
+        [
+            "2A MID-PRAIRIE OWEN ZIRKELBACH 2026",
+            89,
+            89
+        ],
+        [
+            "3A CR XAVIER JEFFRY HARTOGH 2025",
+            90,
+            90
+        ],
+        [
+            "3A CR XAVIER BLAISE PACHA 2025",
+            91,
+            91
+        ],
+        [
+            "3A CR XAVIER CONSTANTINE WHITE 2024",
+            92,
+            92
+        ],
+        [
+            "3A CR XAVIER JAMES LE 2023",
+            93,
+            93
+        ],
+        [
+            "1A WAPELLO JORDON CHAMBERLIN-JOHNSTON 2026",
+            94,
+            94
+        ],
+        [
+            "3A CR XAVIER NATE SELENSKY 2024",
+            95,
+            95
+        ],
+        [
+            "3A CR XAVIER OWEN HLUBEK 2026",
+            96,
+            96
+        ],
+        [
+            "3A CR XAVIER BRENDON PREMKUMAR 2025",
+            97,
+            97
+        ],
+        [
+            "2A MID-PRAIRIE EVAN RESCHLY 2026",
+            98,
+            98
+        ],
+        [
+            "1A WAPELLO HOLDEN HELMIG 2026",
+            99,
+            99
+        ],
+        [
+            "3A CR XAVIER SAM GIESE 2026",
+            100,
+            100
+        ],
+        [
+            "2A LOUISA-MUSCATINE TYSON WEDEKIND 2024",
+            101,
+            101
+        ]
+    ]
+}
