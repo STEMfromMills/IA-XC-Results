@@ -1,599 +1,599 @@
 {
-    "name": "Epworth j",
-    "time_seconds": 1664427611,
+    "name": "4A State",
+    "time_seconds": 1667019634,
     "standings": [
         [
-            "3A DECORAH D'MITRY LESSER 2025",
+            "4A DOWLING JACKSON HEIDESCH 2023",
             0,
             0
         ],
         [
-            "3A DECORAH GARRETT SEE 2026",
+            "4A IOWA CITY HIGH FORD WASHBURN 2023",
             1,
             1
         ],
         [
-            "4A WATERLOO WEST YAIRH GONZALEZ 2025",
+            "4A JOHNSTON JAXSON PLUMB 2023",
             2,
             2
         ],
         [
-            "4A CR KENNEDY LINCOLN MCMAHAN 2026",
+            "4A PLEASANT VALLEY JACOB MUMEY 2023",
             3,
             3
         ],
         [
-            "4A CR KENNEDY CREW GEATER 2024",
+            "4A DOWLING FLYNN MILLIGAN 2023",
             4,
             4
         ],
         [
-            "3A DECORAH AIDAN NALEAN-CARLSON 2024",
+            "4A SOUTHEAST POLK CARSON OWENS 2023",
             5,
             5
         ],
         [
-            "4A CR KENNEDY NOAH PENN 2026",
+            "4A CR KENNEDY MILES WILSON 2023",
             6,
             6
         ],
         [
-            "3A DECORAH MITCHELL STEMPER 2026",
+            "4A SIOUX CITY NORTH GABE NASH 2023",
             7,
             7
         ],
         [
-            "4A CR KENNEDY NATHANIEL GOFF 2026",
+            "4A DOWLING JACK FLORI 2025",
             8,
             8
         ],
         [
-            "3A DECORAH CARSON BOHNER 2026",
+            "4A DUBUQUE HEMPSTEAD JOHN MALONEY 2024",
             9,
             9
         ],
         [
-            "4A CR KENNEDY ALEXANDER VOLDEN 2024",
+            "4A ANKENY ETHAN ZUBER 2025",
             10,
             10
         ],
         [
-            "3A DECORAH PETER ESSA 2024",
+            "4A ANKENY CENTENNIAL AJ SCHERMERHORN 2024",
             11,
             11
         ],
         [
-            "3A DECORAH MAX WILSON 2023",
+            "4A PLEASANT VALLEY LUKE KNEPP 2023",
             12,
             12
         ],
         [
-            "4A CR KENNEDY ZACHARY ISPENTCHIAN 2025",
+            "4A DOWLING MAX DEROCHER 2024",
             13,
             13
         ],
         [
-            "4A WATERLOO WEST CHASE NORDMAN 2024",
+            "4A NORWALK DONOVAN CARD 2023",
             14,
             14
         ],
         [
-            "3A DECORAH BENSON NEWHOUSE 2023",
+            "4A CEDAR FALLS LUKE HARTMAN 2024",
             15,
             15
         ],
         [
-            "4A CR KENNEDY CHRISTIAN HODGINS 2024",
+            "4A SIOUX CITY NORTH NATNEAL KIFLE 2024",
             16,
             16
         ],
         [
-            "3A DECORAH RAVEN BATTLE 2023",
+            "4A CEDAR FALLS JADEN MERRICK 2026",
             17,
             17
         ],
         [
-            "3A DECORAH KEATON NALEAN-CARLSON 2026",
+            "4A ANKENY LEVI HILL 2023",
             18,
             18
         ],
         [
-            "4A CR KENNEDY AIDAN ZIEGLER 2024",
+            "4A JOHNSTON CARSON LANE 2023",
             19,
             19
         ],
         [
-            "4A CR KENNEDY MADDEN DEWALLE 2026",
+            "4A WEST DES MOINES VALLEY JACKSON BERGMAN 2024",
             20,
             20
         ],
         [
-            "4A WATERLOO WEST GUNNER STEELE 2025",
+            "4A IOWA CITY HIGH AMMON SMITH 2023",
             21,
             21
         ],
         [
-            "3A DECORAH MONTANA JUMP-GERLEMAN 2024",
+            "4A WEST DES MOINES VALLEY EVAN MCCLINTON 2024",
             22,
             22
         ],
         [
-            "3A MARION ASHER WEEMS 2025",
+            "4A IOWA CITY LIBERTY AIDAN DECKER 2024",
             23,
             23
         ],
         [
-            "4A CR KENNEDY COLLIN SWEENEY 2024",
+            "4A DOWLING OWEN WOLFE 2025",
             24,
             24
         ],
         [
-            "4A WATERLOO WEST JAMES KNIGHT 2026",
+            "4A NORWALK NOAH BUHROW 2024",
             25,
             25
         ],
         [
-            "2A MONTICELLO ROYCE KIBURZ 2025",
+            "4A JOHNSTON AIDAN O'CONNOR 2023",
             26,
             26
         ],
         [
-            "3A MARION JOSIAH GREGORY 2025",
+            "4A WAUKEE GARRETT WEBER 2023",
             27,
             27
         ],
         [
-            "3A DECORAH MAX GRIMSTAD 2026",
+            "4A DALLAS CENTER-GRIMES JACK EVERY 2024",
             28,
             28
         ],
         [
-            "4A CR KENNEDY REGAN ROELOFS 2024",
+            "4A SOUTHEAST POLK BRICE MCNELEY 2024",
             29,
             29
         ],
         [
-            "4A CR KENNEDY GRANT PATTRIDGE 2026",
+            "4A WAUKEE NW AIDAN COOPER 2024",
             30,
             30
         ],
         [
-            "3A DECORAH DOUG BENTLEY 2024",
+            "4A IOWA CITY LIBERTY NOAH GREGOIRE 2025",
             31,
             31
         ],
         [
-            "4A WATERLOO WEST CONNOR HEUTHORST 2024",
+            "4A DSM ROOSEVELT OWEN MARETT 2025",
             32,
             32
         ],
         [
-            "4A CR KENNEDY JONAH MCMAHAN 2024",
+            "4A CR KENNEDY ADAM GRAY 2026",
             33,
             33
         ],
         [
-            "3A CENTRAL DEWITT LUCAS JOHNSTON 2026",
+            "4A DUBUQUE HEMPSTEAD CALEB KASS 2023",
             34,
             34
         ],
         [
-            "3A DECORAH EZRA VORVICK 2025",
+            "4A WAUKEE NW DREW LEHMAN 2023",
             35,
             35
         ],
         [
-            "3A CENTRAL DEWITT DYLAN STOKER 2024",
+            "4A CR PRAIRIE NICK LEE 2025",
             36,
             36
         ],
         [
-            "3A DECORAH GARRETT WILLIE 2025",
+            "4A URBANDALE TOMMY HENSLEY 2024",
             37,
             37
         ],
         [
-            "3A MARION WES LOGAN 2023",
+            "4A WEST DES MOINES VALLEY JACOB FORNEY 2024",
             38,
             38
         ],
         [
-            "2A MONTICELLO MACE SCHNOOR 2026",
+            "4A SOUTHEAST POLK BRUCE JOHNSON 2024",
             39,
             39
         ],
         [
-            "4A CR KENNEDY SINTAYEHU HALL 2025",
+            "4A CR KENNEDY HENRY MCMAHAN 2024",
             40,
             40
         ],
         [
-            "2A MONTICELLO ALEX PRULL 2025",
+            "4A WAUKEE NW JOEL BLOOMER 2024",
             41,
             41
         ],
         [
-            "4A CR KENNEDY BEN KNIPFER 2024",
+            "4A JOHNSTON BRAYDEN PICKEN 2024",
             42,
             42
         ],
         [
-            "3A DECORAH LUCAS ARENDT 2024",
+            "4A ANKENY ABEL SQUIRES 2024",
             43,
             43
         ],
         [
-            "3A DECORAH BROCK TAYLOR 2023",
+            "4A CR PRAIRIE ZACH COOPER 2023",
             44,
             44
         ],
         [
-            "3A CENTRAL DEWITT CALEB GOVERT 2024",
+            "4A JOHNSTON HOLDEN SCHUG 2025",
             45,
             45
         ],
         [
-            "3A MARION ARTHUR SEUFFERLEIN 2025",
+            "4A AMES AHMED ALDAMAK 2024",
             46,
             46
         ],
         [
-            "3A WAHLERT WILLIAM FITZPATRICK 2026",
+            "4A NORWALK WILL CHASE 2023",
             47,
             47
         ],
         [
-            "3A DECORAH CARTER KOWITZ 2023",
+            "4A IOWA CITY HIGH NOAH CAREY 2023",
             48,
             48
         ],
         [
-            "3A DECORAH OLIVER BOLLINGER 2026",
+            "4A CEDAR FALLS GAVIN DENHOLM 2023",
             49,
             49
         ],
         [
-            "4A WATERLOO WEST BRAYDEN FULLER 2026",
+            "4A IOWA CITY WEST MOUSTAFA TIEA 2025",
             50,
             50
         ],
         [
-            "3A WAHLERT WALTER FREUND 2025",
+            "4A WAUKEE NW ZACK JANULEWICZ 2025",
             51,
             51
         ],
         [
-            "4A CR KENNEDY ANTHONY ZACHAR 2026",
+            "4A ANKENY JAKE BOSCH 2024",
             52,
             52
         ],
         [
-            "3A DECORAH TRAVIS NORDHEIM 2024",
+            "4A ANKENY TATE BROWNSBERGER 2025",
             53,
             53
         ],
         [
-            "3A EPWORTH JT LUCIOUS 2024",
+            "4A WEST DES MOINES VALLEY JONATHAN OWEN 2025",
             54,
             54
         ],
         [
-            "4A CR KENNEDY TANNER WILSON 2025",
+            "4A NORWALK JACK BROWN 2023",
             55,
             55
         ],
         [
-            "3A EPWORTH TYLER BEDTKA 2024",
+            "4A CR PRAIRIE JAXON SICKELS 2023",
             56,
             56
         ],
         [
-            "3A DECORAH KYLE PATTISON 2026",
+            "4A CEDAR FALLS COLIN JOHNSON 2023",
             57,
             57
         ],
         [
-            "3A EPWORTH KEVIN LANDA 2025",
+            "4A NORWALK TEEGAN KRALIK 2026",
             58,
             58
         ],
         [
-            "3A WAHLERT DUNCAN FREUND 2026",
+            "4A DOWLING MATTHEW BOOTMAN 2024",
             59,
             59
         ],
         [
-            "3A WAHLERT JOSH VAN OTTERLOO 2026",
+            "4A DSM ROOSEVELT WILL BEAUMONT 2024",
             60,
             60
         ],
         [
-            "3A CENTRAL DEWITT AIDAN COSTAS 2026",
+            "4A DUBUQUE HEMPSTEAD CHARLIE DRISCOLL 2024",
             61,
             61
         ],
         [
-            "3A INDEPENDENCE KYLE JUSTASON 2024",
+            "4A CEDAR FALLS JOHN FERGUSON 2025",
             62,
             62
         ],
         [
-            "4A CR KENNEDY BRYCE WILSON 2026",
+            "4A DOWLING NICK KLOCKE 2023",
             63,
             63
         ],
         [
-            "2A MONTICELLO GRANT GASSMAN 2026",
+            "4A ANKENY IKE SMITH 2026",
             64,
             64
         ],
         [
-            "4A CR KENNEDY ETHAN WHITE 2026",
+            "4A PLEASANT VALLEY MAX SORGENFREY 2024",
             65,
             65
         ],
         [
-            "4A CR KENNEDY LUCAS DOLPHIN 2023",
+            "4A URBANDALE ETHAN SMITH 2023",
             66,
             66
         ],
         [
-            "1A CASCADE GIOVANNI VEGA-VEGA 2024",
+            "4A URBANDALE BLAKE SMITH 2025",
             67,
             67
         ],
         [
-            "2A MONTICELLO HAYDEN TOMKINS 2023",
+            "4A IOWA CITY WEST SETH CHENEY 2023",
             68,
             68
         ],
         [
-            "3A DECORAH BEAU NEWHOUSE 2025",
+            "4A AMES ZACHARY LENKAITIS 2025",
             69,
             69
         ],
         [
-            "3A EPWORTH KOLT PACE 2026",
+            "4A CEDAR FALLS COLBY CRYER 2023",
             70,
             70
         ],
         [
-            "3A DECORAH ANDREW OLSON 2025",
+            "4A JOHNSTON JACK COEN 2024",
             71,
             71
         ],
         [
-            "3A CENTRAL DEWITT TAIT DANIELS 2023",
+            "4A IOWA CITY HIGH OWYN NOBLE 2024",
             72,
             72
         ],
         [
-            "4A CR KENNEDY TORREY JOHNSON 2024",
+            "4A SIOUX CITY NORTH BESHANENA GUTEMA 2023",
             73,
             73
         ],
         [
-            "1A CASCADE ELI MERFELD 2025",
+            "4A DSM ROOSEVELT AJ ACHESON 2026",
             74,
             74
         ],
         [
-            "3A MARION CHARLES CLARK 2026",
+            "4A PLEASANT VALLEY CARL REKOW 2024",
             75,
             75
         ],
         [
-            "1A CLAYTON RIDGE ETHAN BACKES 2026",
+            "4A LINN-MAR LUKE STEFFEN 2023",
             76,
             76
         ],
         [
-            "1A CLAYTON RIDGE COLTEN HOEGER 2026",
+            "4A CR KENNEDY JACOB BRUNS 2024",
             77,
             77
         ],
         [
-            "2A MONTICELLO CHARLY LLOYD 2025",
+            "4A DALLAS CENTER-GRIMES AJ ANGUS 2024",
             78,
             78
         ],
         [
-            "3A MARION RODNEY FETTER 2024",
+            "4A CR KENNEDY REECE MURRAY 2024",
             79,
             79
         ],
         [
-            "4A WATERLOO WEST LOGAN ODEKIRK 2024",
+            "4A WEST DES MOINES VALLEY AIDAN LIMBACK 2023",
             80,
             80
         ],
         [
-            "3A INDEPENDENCE MATT WIELAND 2023",
+            "4A NORTH SCOTT NIK DAVIS 2023",
             81,
             81
         ],
         [
-            "3A DECORAH LOGAN SMITH 2026",
+            "4A IOWA CITY HIGH AYMAN NORELDAIM 2023",
             82,
             82
         ],
         [
-            "3A DECORAH WILL ROBINSON 2026",
+            "4A SOUTHEAST POLK RYLAN ALTHOF 2024",
             83,
             83
         ],
         [
-            "3A DECORAH CALEB JOHNSON 2026",
+            "4A PLEASANT VALLEY CAMERON GOTTO 2025",
             84,
             84
         ],
         [
-            "4A WATERLOO WEST MICHAEL DUNN 2023",
+            "4A PLEASANT VALLEY ANDREW MILLER 2023",
             85,
             85
         ],
         [
-            "3A EPWORTH CHARLIE ZIMMERMAN 2026",
+            "4A IOWA CITY HIGH BRAEDEN MARKER 2023",
             86,
             86
         ],
         [
-            "3A MARION SAMUEL PROCTOR 2026",
+            "4A URBANDALE ANDREW DONOHO 2023",
             87,
             87
         ],
         [
-            "3A DECORAH ALEX MCGOHAN 2024",
+            "4A DUBUQUE HEMPSTEAD BRANDON KASS 2025",
             88,
             88
         ],
         [
-            "4A WATERLOO WEST SAM LUND 2023",
+            "4A NORWALK TONY ANANIA 2025",
             89,
             89
         ],
         [
-            "4A WATERLOO WEST KALE TAYLOR 2023",
+            "4A CR PRAIRIE BENNETT ALLRED 2025",
             90,
             90
         ],
         [
-            "3A MARION KYAN ROSS 2023",
+            "4A SIOUX CITY NORTH CONNOR SCHULTZ 2025",
             91,
             91
         ],
         [
-            "3A INDEPENDENCE CHASE KILER 2024",
+            "4A NORWALK BEN HANSON 2023",
             92,
             92
         ],
         [
-            "3A INDEPENDENCE ELLIOT HURLEY 2025",
+            "4A BETTENDORF AJ WILLEY 2026",
             93,
             93
         ],
         [
-            "3A DECORAH LANGE BETTS 2023",
+            "4A DUBUQUE HEMPSTEAD ZACK JOHNSON 2024",
             94,
             94
         ],
         [
-            "3A DECORAH ADAM WALTER 2024",
+            "4A JOHNSTON JONAH FREY 2023",
             95,
             95
         ],
         [
-            "4A CR KENNEDY COLE PRUETT 2024",
+            "4A SOUTHEAST POLK LUKE BARTLETT 2025",
             96,
             96
         ],
         [
-            "2A BECKMAN COLE LUENSMANN 2026",
+            "4A CEDAR FALLS CONNOR MARTIN 2025",
             97,
             97
         ],
         [
-            "4A WATERLOO WEST CALEB ANDERSEN 2025",
+            "4A CR KENNEDY SLADER BUCKHEISTER 2026",
             98,
             98
         ],
         [
-            "3A MARION GRIFFIN COATES 2023",
+            "4A SOUTHEAST POLK AYDIN MCNELEY 2024",
             99,
             99
         ],
         [
-            "3A DECORAH NOAH VILARDO 2026",
+            "4A URBANDALE SIDNEY SHIDE 2025",
             100,
             100
         ],
         [
-            "3A INDEPENDENCE CAEL POST 2025",
+            "4A BETTENDORF CHASE WAKEFIELD 2024",
             101,
             101
         ],
         [
-            "1A CLAYTON RIDGE KASEY THIESE 2026",
+            "4A WEST DES MOINES VALLEY JACK CAVAN 2024",
             102,
             102
         ],
         [
-            "4A CR KENNEDY OWEN MCLAUGHLIN 2026",
+            "4A SIOUX CITY NORTH RAUL GOMEZ 2023",
             103,
             103
         ],
         [
-            "3A MARION GRANT SCHULZ 2023",
+            "4A WEST DES MOINES VALLEY WILL JOHNSON 2023",
             104,
             104
         ],
         [
-            "3A MARION CORBAN MCCOY 2025",
+            "4A DUBUQUE HEMPSTEAD WILL HOUSELOG 2025",
             105,
             105
         ],
         [
-            "3A DECORAH JACK SOVERN 2025",
+            "4A CR PRAIRIE ANSON FAUCHIER 2023",
             106,
             106
         ],
         [
-            "3A EPWORTH BRANDON VASKE 2024",
+            "4A WAUKEE NW KELLEN TUYLS 2026",
             107,
             107
         ],
         [
-            "3A DECORAH LEANDER BUETTNER 2025",
+            "4A SIOUX CITY NORTH STEVEN KLING 2024",
             108,
             108
         ],
         [
-            "3A DECORAH WILLIAM CHAMBERLAIN 2025",
+            "4A PLEASANT VALLEY JACK PERRY 2025",
             109,
             109
         ],
         [
-            "2A BECKMAN ZACH HELLE 2025",
+            "4A MASON CITY JESS CORNICK 2023",
             110,
             110
         ],
         [
-            "3A EPWORTH GRANT GAULEY 2026",
+            "4A CR KENNEDY REUBEN SCHLAAK 2025",
             111,
             111
         ],
         [
-            "3A EPWORTH BRAYDEN EBERLING 2026",
+            "4A ANKENY AIDAN FARRELL 2024",
             112,
             112
         ],
         [
-            "3A CENTRAL DEWITT CALEB GILMOUR 2026",
+            "4A WAUKEE NW KAL HOPPE 2023",
             113,
             113
         ],
         [
-            "3A CENTRAL DEWITT TYLER DANIELS 2025",
+            "4A SOUTHEAST POLK BROCK JOHNSON 2025",
             114,
             114
         ],
         [
-            "1A CLAYTON RIDGE BLAKE IHDE 2023",
+            "4A WAUKEE NW CAEL KLINKENBORG 2023",
             115,
             115
         ],
         [
-            "3A DECORAH NATHANIEL MYERS 2023",
+            "4A IOWA CITY HIGH TRUMAN THOMPSON 2023",
             116,
             116
         ],
         [
-            "3A EPWORTH JAKE BOGE 2026",
+            "4A URBANDALE EVAN LEGGETT 2023",
             117,
             117
         ],
         [
-            "1A CASCADE ALEC COOK 2026",
+            "4A URBANDALE NATE HAMMERAND 2024",
             118,
             118
         ]
