@@ -1,0 +1,541 @@
+{
+    "name": "North Linn ",
+    "time_seconds": 1665205221,
+    "standings": [
+        [
+            "3A MARION JEDIDIAH OSGOOD 2023",
+            0,
+            0
+        ],
+        [
+            "3A WASHINGTON MICAH REES 2024",
+            1,
+            1
+        ],
+        [
+            "2A STARMONT CHARLIE SIECK 2023",
+            2,
+            2
+        ],
+        [
+            "3A MARION COOPER COOK 2024",
+            3,
+            3
+        ],
+        [
+            "1A IOWA CITY REGINA AIDAN O'NEIL 2024",
+            4,
+            4
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELI PAGE 2024",
+            5,
+            5
+        ],
+        [
+            "3A SOLON BRICK KABELA 2024",
+            6,
+            6
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK KADEN LYNCH 2024",
+            7,
+            7
+        ],
+        [
+            "2A TIPTON CLAY BOHLMANN 2025",
+            8,
+            8
+        ],
+        [
+            "3A SOLON MICHAEL YEOMANS 2024",
+            9,
+            9
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK EMERSON VOKES 2026",
+            10,
+            10
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELIJAH BLIX 2023",
+            11,
+            11
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALEX TORRES 2026",
+            12,
+            12
+        ],
+        [
+            "2A TIPTON TY NICHOLS 2023",
+            13,
+            13
+        ],
+        [
+            "3A MARION JORDAN FISCHER 2024",
+            14,
+            14
+        ],
+        [
+            "3A MARION JAKOB REGENNITTER 2023",
+            15,
+            15
+        ],
+        [
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
+            16,
+            16
+        ],
+        [
+            "3A SOLON EVAN BURG 2025",
+            17,
+            17
+        ],
+        [
+            "3A SOLON GRANT BUMSTED 2024",
+            18,
+            18
+        ],
+        [
+            "1A MAQUOKETA VALLEY MATTHEW SCHAUL 2025",
+            19,
+            19
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRENNEN SAGER 2023",
+            20,
+            20
+        ],
+        [
+            "1A IOWA CITY REGINA JOE MALEY 2023",
+            21,
+            21
+        ],
+        [
+            "2A TIPTON MAXSON FOGG 2025",
+            22,
+            22
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK TYLER VENENGA 2024",
+            23,
+            23
+        ],
+        [
+            "2A TIPTON CALEB BOHLMANN 2026",
+            24,
+            24
+        ],
+        [
+            "3A WASHINGTON LANE SCHROCK 2024",
+            25,
+            25
+        ],
+        [
+            "3A SOLON LAWSIN SINNWELL 2024",
+            26,
+            26
+        ],
+        [
+            "1A NORTH LINN CALEB BILDSTEIN 2025",
+            27,
+            27
+        ],
+        [
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
+            28,
+            28
+        ],
+        [
+            "3A WASHINGTON TYLER ALDERTON 2025",
+            29,
+            29
+        ],
+        [
+            "1A IOWA CITY REGINA SAMUEL WELTER 2025",
+            30,
+            30
+        ],
+        [
+            "3A WASHINGTON ANDREW REES 2026",
+            31,
+            31
+        ],
+        [
+            "3A BENTON ISAAC MORRIS 2024",
+            32,
+            32
+        ],
+        [
+            "1A IOWA CITY REGINA RIORDAN SMITH 2024",
+            33,
+            33
+        ],
+        [
+            "1A IOWA CITY REGINA HENRY BOTTORF 2023",
+            34,
+            34
+        ],
+        [
+            "1A NORTH LINN LEVI BENESH 2026",
+            35,
+            35
+        ],
+        [
+            "3A MARION BENNETT KAUTZ 2026",
+            36,
+            36
+        ],
+        [
+            "2A WILLIAMSBURG JAKE BUCHHOLTZ 2023",
+            37,
+            37
+        ],
+        [
+            "3A MARION JARRED REGENNITTER 2023",
+            38,
+            38
+        ],
+        [
+            "1A IOWA CITY REGINA DAN MALEY 2023",
+            39,
+            39
+        ],
+        [
+            "3A BENTON CALEB OLSON 2026",
+            40,
+            40
+        ],
+        [
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
+            41,
+            41
+        ],
+        [
+            "1A MAQUOKETA VALLEY GEORGE LIVINGSTON 2024",
+            42,
+            42
+        ],
+        [
+            "3A WASHINGTON ELIJAH MORRIS 2023",
+            43,
+            43
+        ],
+        [
+            "3A WASHINGTON DREW HORAK 2023",
+            44,
+            44
+        ],
+        [
+            "2A WILLIAMSBURG SAM RICH 2023",
+            45,
+            45
+        ],
+        [
+            "1A NORTH LINN LANDON THOMSEN 2026",
+            46,
+            46
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN CALEB SKINNER 2024",
+            47,
+            47
+        ],
+        [
+            "3A VINTON-SHELLSBURG JACK BLAIS 2026",
+            48,
+            48
+        ],
+        [
+            "2A TIPTON ANDREW SHUMAKER 2024",
+            49,
+            49
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALDIN SWANSON 2024",
+            50,
+            50
+        ],
+        [
+            "3A SOLON WYATT APPLEGARTH 2024",
+            51,
+            51
+        ],
+        [
+            "2A STARMONT LANE GERMAN 2023",
+            52,
+            52
+        ],
+        [
+            "2A TIPTON JETT KAMBERLING 2026",
+            53,
+            53
+        ],
+        [
+            "3A MARION JACE FOPMA 2023",
+            54,
+            54
+        ],
+        [
+            "2A STARMONT IAN OTDOERFER 2025",
+            55,
+            55
+        ],
+        [
+            "1A HUDSON LUCAS GRADY 2024",
+            56,
+            56
+        ],
+        [
+            "1A MAQUOKETA VALLEY ARION RAVE 2025",
+            57,
+            57
+        ],
+        [
+            "2A WILLIAMSBURG CREW KLINGNER 2024",
+            58,
+            58
+        ],
+        [
+            "1A HUDSON RYAN PECK 2023",
+            59,
+            59
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRAYDEN WALLIS 2025",
+            60,
+            60
+        ],
+        [
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
+            61,
+            61
+        ],
+        [
+            "1A IOWA CITY REGINA COLIN OLNEY 2024",
+            62,
+            62
+        ],
+        [
+            "1A HUDSON BRADY HANSEN 2024",
+            63,
+            63
+        ],
+        [
+            "3A SOLON TRISTAN FREEMAN 2024",
+            64,
+            64
+        ],
+        [
+            "3A BENTON BLAKE DAUGHERTY 2023",
+            65,
+            65
+        ],
+        [
+            "1A HUDSON LANE ROGERS 2023",
+            66,
+            66
+        ],
+        [
+            "2A TIPTON BRODY DEERBERG 2023",
+            67,
+            67
+        ],
+        [
+            "1A ALBURNETT HAYDEN GUSTAFSON 2026",
+            68,
+            68
+        ],
+        [
+            "3A BENTON LUKE LANGE 2025",
+            69,
+            69
+        ],
+        [
+            "3A BENTON MARCUS RICKLEFS 2024",
+            70,
+            70
+        ],
+        [
+            "3A VINTON-SHELLSBURG EMMETT COLSCH 2024",
+            71,
+            71
+        ],
+        [
+            "1A NORTH LINN TY PFLUGHAUPT 2024",
+            72,
+            72
+        ],
+        [
+            "3A INDEPENDENCE TANNER WILSON 2025",
+            73,
+            73
+        ],
+        [
+            "3A BENTON BRANDON SCHULTZ 2023",
+            74,
+            74
+        ],
+        [
+            "3A VINTON-SHELLSBURG ZACH KLOPPING 2025",
+            75,
+            75
+        ],
+        [
+            "3A BENTON EVAN DAUGHERTY 2023",
+            76,
+            76
+        ],
+        [
+            "1A ALBURNETT BEN BEMER 2026",
+            77,
+            77
+        ],
+        [
+            "1A ALBURNETT AUSTIN SCHECHINGER 2025",
+            78,
+            78
+        ],
+        [
+            "1A ALBURNETT TRENTON ABEL 2025",
+            79,
+            79
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK JERYN SPEAR 2023",
+            80,
+            80
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DEVIN WRIDER 2025",
+            81,
+            81
+        ],
+        [
+            "3A INDEPENDENCE ETHAN CALAHAN 2025",
+            82,
+            82
+        ],
+        [
+            "1A MAQUOKETA VALLEY TOBY GRIMM 2024",
+            83,
+            83
+        ],
+        [
+            "1A NORTH LINN CARTER FOLKERS 2023",
+            84,
+            84
+        ],
+        [
+            "3A INDEPENDENCE GATES BLAKE 2024",
+            85,
+            85
+        ],
+        [
+            "2A STARMONT BRAYDON WEDO 2023",
+            86,
+            86
+        ],
+        [
+            "1A NORTH LINN SAWYER LONG 2026",
+            87,
+            87
+        ],
+        [
+            "1A HUDSON CONNOR WARNELL 2024",
+            88,
+            88
+        ],
+        [
+            "1A MIDLAND JAYSON RULEY 2025",
+            89,
+            89
+        ],
+        [
+            "1A HUDSON JACOB FULHAM 2026",
+            90,
+            90
+        ],
+        [
+            "1A MAQUOKETA VALLEY KENYON BAKER 2026",
+            91,
+            91
+        ],
+        [
+            "1A ALBURNETT NOAH KRUCKENBERG 2024",
+            92,
+            92
+        ],
+        [
+            "1A MAQUOKETA VALLEY BRADY EIKE 2025",
+            93,
+            93
+        ],
+        [
+            "1A ALBURNETT BRADY SCOTT 2026",
+            94,
+            94
+        ],
+        [
+            "1A HUDSON DREW BARBER 2024",
+            95,
+            95
+        ],
+        [
+            "1A MIDLAND MILO SMITH 2023",
+            96,
+            96
+        ],
+        [
+            "3A INDEPENDENCE TYLER WIELAND 2025",
+            97,
+            97
+        ],
+        [
+            "2A STARMONT JACEN GRUMAN 2025",
+            98,
+            98
+        ],
+        [
+            "1A ALBURNETT RYAN SMITH 2025",
+            99,
+            99
+        ],
+        [
+            "3A INDEPENDENCE MATT WIELAND 2023",
+            100,
+            100
+        ],
+        [
+            "3A INDEPENDENCE TALAN DECKER 2025",
+            101,
+            101
+        ],
+        [
+            "3A INDEPENDENCE CHASE KILER 2024",
+            102,
+            102
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG CAEL HELMRICHS 2026",
+            103,
+            103
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG BILLY HOFFMAN 2026",
+            104,
+            104
+        ],
+        [
+            "2A STARMONT VINCENT BRYANT 2025",
+            105,
+            105
+        ],
+        [
+            "1A MIDLAND JAY BENTLEY 2023",
+            106,
+            106
+        ]
+    ]
+}
