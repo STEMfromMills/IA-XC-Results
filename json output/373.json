@@ -1,0 +1,391 @@
+{
+    "name": "WAMAC ",
+    "time_seconds": 1665637213,
+    "standings": [
+        [
+            "3A MARION JEDIDIAH OSGOOD 2023",
+            0,
+            0
+        ],
+        [
+            "3A SOUTH TAMA TOMMY TYYNISMAA 2024",
+            1,
+            1
+        ],
+        [
+            "3A MOUNT VERNON-LISBON GRADY OLBERDING 2025",
+            2,
+            2
+        ],
+        [
+            "3A SOLON BRICK KABELA 2024",
+            3,
+            3
+        ],
+        [
+            "3A SOUTH TAMA JAMES BRANT 2024",
+            4,
+            4
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELI PAGE 2024",
+            5,
+            5
+        ],
+        [
+            "3A MARION COOPER COOK 2024",
+            6,
+            6
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROCK HILSMAN 2025",
+            7,
+            7
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELIJAH BLIX 2023",
+            8,
+            8
+        ],
+        [
+            "3A MARION JORDAN FISCHER 2024",
+            9,
+            9
+        ],
+        [
+            "3A SOLON MICHAEL YEOMANS 2024",
+            10,
+            10
+        ],
+        [
+            "3A MOUNT VERNON-LISBON KLAYTEN PERREAULT 2024",
+            11,
+            11
+        ],
+        [
+            "3A MOUNT VERNON-LISBON JUNIOR KROB 2023",
+            12,
+            12
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALEX TORRES 2026",
+            13,
+            13
+        ],
+        [
+            "3A MARION JAKOB REGENNITTER 2023",
+            14,
+            14
+        ],
+        [
+            "3A SOUTH TAMA BRAXTEN ROHRS 2024",
+            15,
+            15
+        ],
+        [
+            "3A CLEAR CREEK-AMANA PEYTON STADLER 2023",
+            16,
+            16
+        ],
+        [
+            "3A SOLON GRANT BUMSTED 2024",
+            17,
+            17
+        ],
+        [
+            "3A CENTER POINT-URBANA CAYLE ESTLING 2026",
+            18,
+            18
+        ],
+        [
+            "3A MOUNT VERNON-LISBON WESLEY SADLER 2025",
+            19,
+            19
+        ],
+        [
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
+            20,
+            20
+        ],
+        [
+            "3A SOLON LAWSIN SINNWELL 2024",
+            21,
+            21
+        ],
+        [
+            "3A MOUNT VERNON-LISBON DAWSON SCHEIL 2026",
+            22,
+            22
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ISAAC SORENSEN 2025",
+            23,
+            23
+        ],
+        [
+            "3A CENTER POINT-URBANA COOPER GRIMM 2026",
+            24,
+            24
+        ],
+        [
+            "3A CENTER POINT-URBANA BRODY BEHRENS 2024",
+            25,
+            25
+        ],
+        [
+            "3A MOUNT VERNON-LISBON SEAMUS O'CONNOR 2025",
+            26,
+            26
+        ],
+        [
+            "3A MARION CHRIS OBERBROECKLING 2023",
+            27,
+            27
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JAMIE HAYES 2024",
+            28,
+            28
+        ],
+        [
+            "3A CENTER POINT-URBANA ISAAC LARSON 2024",
+            29,
+            29
+        ],
+        [
+            "3A MOUNT VERNON-LISBON ZACH FALL 2023",
+            30,
+            30
+        ],
+        [
+            "3A CENTER POINT-URBANA CASEY KIRTZ 2024",
+            31,
+            31
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CAMERON KIMM 2023",
+            32,
+            32
+        ],
+        [
+            "3A CENTER POINT-URBANA BRADLEY JONES 2024",
+            33,
+            33
+        ],
+        [
+            "3A SOUTH TAMA CADE ROSENBERGER 2024",
+            34,
+            34
+        ],
+        [
+            "3A WEST DELAWARE JASE TURNIS 2025",
+            35,
+            35
+        ],
+        [
+            "3A SOLON WYATT APPLEGARTH 2024",
+            36,
+            36
+        ],
+        [
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
+            37,
+            37
+        ],
+        [
+            "3A BENTON ISAAC MORRIS 2024",
+            38,
+            38
+        ],
+        [
+            "3A SOUTH TAMA KADEN KOPSA 2024",
+            39,
+            39
+        ],
+        [
+            "3A WEST DELAWARE ZACH WENGER 2024",
+            40,
+            40
+        ],
+        [
+            "3A CLEAR CREEK-AMANA LOGAN KAFER 2024",
+            41,
+            41
+        ],
+        [
+            "3A BENTON TREY SCHULTE 2023",
+            42,
+            42
+        ],
+        [
+            "3A SOUTH TAMA BARRETT JESINA 2026",
+            43,
+            43
+        ],
+        [
+            "3A SOLON CAMDEN LYONS 2026",
+            44,
+            44
+        ],
+        [
+            "3A VINTON-SHELLSBURG JACK BLAIS 2026",
+            45,
+            45
+        ],
+        [
+            "3A SOLON COLLIN BUMSTED 2024",
+            46,
+            46
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALDIN SWANSON 2024",
+            47,
+            47
+        ],
+        [
+            "2A WILLIAMSBURG SAM RICH 2023",
+            48,
+            48
+        ],
+        [
+            "3A CENTER POINT-URBANA CARTER EASTON 2025",
+            49,
+            49
+        ],
+        [
+            "3A MARION BENNETT KAUTZ 2026",
+            50,
+            50
+        ],
+        [
+            "3A BENTON CALEB OLSON 2026",
+            51,
+            51
+        ],
+        [
+            "3A WEST DELAWARE EVAN KARTMAN 2024",
+            52,
+            52
+        ],
+        [
+            "3A MARION JARRED REGENNITTER 2023",
+            53,
+            53
+        ],
+        [
+            "2A WILLIAMSBURG JAKE BUCHHOLTZ 2023",
+            54,
+            54
+        ],
+        [
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
+            55,
+            55
+        ],
+        [
+            "3A WEST DELAWARE ALEX STEFFEN 2024",
+            56,
+            56
+        ],
+        [
+            "3A BENTON BLAKE DAUGHERTY 2023",
+            57,
+            57
+        ],
+        [
+            "3A SOUTH TAMA HOLDEN SCHIRMER 2024",
+            58,
+            58
+        ],
+        [
+            "3A INDEPENDENCE TANNER WILSON 2025",
+            59,
+            59
+        ],
+        [
+            "2A WILLIAMSBURG CREW KLINGNER 2024",
+            60,
+            60
+        ],
+        [
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
+            61,
+            61
+        ],
+        [
+            "3A WEST DELAWARE NICK MENSEN 2024",
+            62,
+            62
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CASH JENSEN 2023",
+            63,
+            63
+        ],
+        [
+            "3A BENTON LUKE LANGE 2025",
+            64,
+            64
+        ],
+        [
+            "3A INDEPENDENCE BLAKE GATES 2024",
+            65,
+            65
+        ],
+        [
+            "3A BENTON MARCUS RICKLEFS 2024",
+            66,
+            66
+        ],
+        [
+            "3A VINTON-SHELLSBURG EMMETT COLSCH 2024",
+            67,
+            67
+        ],
+        [
+            "3A WEST DELAWARE NOLAN MENSEN 2023",
+            68,
+            68
+        ],
+        [
+            "3A BENTON BRANDON SCHULTZ 2023",
+            69,
+            69
+        ],
+        [
+            "3A INDEPENDENCE ETHAN CALAHAN 2025",
+            70,
+            70
+        ],
+        [
+            "3A VINTON-SHELLSBURG ZACH KLOPPING 2025",
+            71,
+            71
+        ],
+        [
+            "3A WEST DELAWARE BRADEN WENGER 2025",
+            72,
+            72
+        ],
+        [
+            "3A INDEPENDENCE TALAN DECKER 2025",
+            73,
+            73
+        ],
+        [
+            "3A INDEPENDENCE TYLER WIELAND 2025",
+            74,
+            74
+        ],
+        [
+            "3A INDEPENDENCE KYLE JUSTASON 2024",
+            75,
+            75
+        ],
+        [
+            "3A INDEPENDENCE MATT WIELAND 2023",
+            76,
+            76
+        ]
+    ]
+}

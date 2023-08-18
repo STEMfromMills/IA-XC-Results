@@ -1,356 +1,351 @@
 {
-    "name": "IA Star",
-    "time_seconds": 1665637254,
+    "name": "Unity Christian ",
+    "time_seconds": 1665723616,
     "standings": [
         [
-            "1A VALLEY LUTHERAN ADRIC SCHMITZ 2023",
+            "2A OKOBOJI EVAN OSLER 2025",
             0,
             0
         ],
         [
-            "1A COLLINS-MAXWELL ETHAN HAUS 2023",
+            "3A MOC-FLOYD VALLEY TREVOR MIRANDE 2025",
             1,
             1
         ],
         [
-            "1A BAXTER MATT RICHARDSON 2025",
+            "3A SIOUX CENTER EASTON VANDENBERG 2023",
             2,
             2
         ],
         [
-            "1A BCLUW CAYDEN MCLELAND 2023",
+            "3A MOC-FLOYD VALLEY ISAIAH HULSHOF 2023",
             3,
             3
         ],
         [
-            "1A COLLINS-MAXWELL AUSTIN HENNICK 2024",
+            "1A SIBLEY-OCHEYEDAN ALEJANDRO BERNAL 2023",
             4,
             4
         ],
         [
-            "1A VALLEY LUTHERAN ISAAC DAWSON 2023",
+            "2A OKOBOJI TRIGG HEIMDAL 2025",
             5,
             5
         ],
         [
-            "1A BCLUW CAYDEN WHITE 2025",
+            "2A GEORGE-LITTLE ROCK LANE HENRICHS 2023",
             6,
             6
         ],
         [
-            "1A BCLUW LINCOLN STOVER 2023",
+            "1A SIBLEY-OCHEYEDAN BEN BYERS 2026",
             7,
             7
         ],
         [
-            "1A COLLINS-MAXWELL HUNTER LEE 2023",
+            "2A OKOBOJI DYLAN JONES 2023",
             8,
             8
         ],
         [
-            "1A TRIPOLI TAEBIEN WRIGHT 2023",
+            "3A MOC-FLOYD VALLEY MICAH DEYOUNG 2023",
             9,
             9
         ],
         [
-            "1A VALLEY LUTHERAN ETHAN L'HEUREUX 2023",
+            "2A UNITY CHRISTIAN ETHAN WYNIA 2025",
             10,
             10
         ],
         [
-            "1A DUNKERTON DYLAN MARQUART 2025",
+            "3A MOC-FLOYD VALLEY IAN VAN DER WERFF 2025",
             11,
             11
         ],
         [
-            "1A CLARKSVILLE ERIC LAURES 2023",
+            "2A UNITY CHRISTIAN JONATHON BREEMS 2023",
             12,
             12
         ],
         [
-            "1A VALLEY LUTHERAN JEREMIAH STEGGALL 2023",
+            "2A OKOBOJI DREW SANDVEN 2024",
             13,
             13
         ],
         [
-            "1A DUNKERTON HENRY PETERSON 2025",
+            "2A UNITY CHRISTIAN DAYLEN MULDER 2024",
             14,
             14
         ],
         [
-            "1A WATERLOO CHRISTIAN DAWSON GRADY 2026",
+            "3A MOC-FLOYD VALLEY MICAH SCHMIDT 2025",
             15,
             15
         ],
         [
-            "1A WATERLOO CHRISTIAN LEVI TRELKA 2026",
+            "2A UNITY CHRISTIAN STEPHEN SCHREURS 2024",
             16,
             16
         ],
         [
-            "1A COLLINS-MAXWELL ISAIAH HILL 2024",
+            "2A OKOBOJI CHRISTIAN HESSE 2023",
             17,
             17
         ],
         [
-            "1A BAXTER LOGAN JONES 2024",
+            "2A OKOBOJI AKRON JOSTAND 2024",
             18,
             18
         ],
         [
-            "1A BAXTER LOGAN RAINSBARGER 2025",
+            "2A WESTERN CHRISTIAN CALEB DOUMA 2024",
             19,
             19
         ],
         [
-            "1A VALLEY LUTHERAN KELLER WILSON 2024",
+            "3A SIOUX CENTER LOGAN FOLTZ 2024",
             20,
             20
         ],
         [
-            "1A BCLUW CARTER KEMP 2023",
+            "3A MOC-FLOYD VALLEY THATCHER DOUGHAN 2026",
             21,
             21
         ],
         [
-            "1A VALLEY LUTHERAN WALKER LAUGHRIDGE 2025",
+            "2A UNITY CHRISTIAN LANE SCHOLTEN 2025",
             22,
             22
         ],
         [
-            "1A GMG BRAYTON DAVIS 2026",
+            "2A WESTERN CHRISTIAN COWAN VAN KLEY 2023",
             23,
             23
         ],
         [
-            "1A COLLINS-MAXWELL SILAS KIMBERLEY 2025",
+            "2A OKOBOJI DAKOTA HESSELTINE 2023",
             24,
             24
         ],
         [
-            "1A DUNKERTON NOAH FUELLING 2025",
+            "1A TRINITY CHRISTIAN CARTER WESTRA 2025",
             25,
             25
         ],
         [
-            "1A VALLEY LUTHERAN JONAH WOOLERY 2024",
+            "2A WESTERN CHRISTIAN ZACHARY MINDERHOUD 2023",
             26,
             26
         ],
         [
-            "1A COLO-NESCO CALEB ROBERTS 2024",
+            "3A SIOUX CENTER MICAH VANDEVEGTE 2025",
             27,
             27
         ],
         [
-            "1A DUNKERTON DANE KRAUSE 2024",
+            "3A MOC-FLOYD VALLEY NATHAN ANDERSON 2025",
             28,
             28
         ],
         [
-            "1A VALLEY LUTHERAN MICAH WILSON 2025",
+            "2A SHELDON MACHAEL WASSENAAR 2025",
             29,
             29
         ],
         [
-            "1A CLARKSVILLE HOWIE CLARK 2024",
+            "2A WEST LYON SAM MEESTER 2023",
             30,
             30
         ],
         [
-            "1A DUNKERTON AIDAN STICKLER 2025",
+            "2A UNITY CHRISTIAN EZRA LANDMAN 2024",
             31,
             31
         ],
         [
-            "1A WATERLOO CHRISTIAN EAN DAVIS 2025",
+            "2A SHELDON CALEB HUFF 2025",
             32,
             32
         ],
         [
-            "1A COLLINS-MAXWELL DEEGAN DIRKX 2025",
+            "3A BH-RV BEN BLUM 2024",
             33,
             33
         ],
         [
-            "1A JANESVILLE ETHAN HJELMELAND 2024",
+            "2A UNITY CHRISTIAN IAIN MONROE 2023",
             34,
             34
         ],
         [
-            "1A VALLEY LUTHERAN DW BELTZ 2024",
+            "2A GEORGE-LITTLE ROCK MATT HELKENN 2024",
             35,
             35
         ],
         [
-            "1A GMG GRADY DIELEMAN 2025",
+            "1A HARRIS-LAKE PARK LANDON GREVE 2024",
             36,
             36
         ],
         [
-            "1A BCLUW JACOB CASTELL 2025",
+            "2A GEORGE-LITTLE ROCK CHASE DUIN 2024",
             37,
             37
         ],
         [
-            "1A BCLUW SKYE MOSSMAN 2026",
+            "3A SIOUX CENTER MICAH TRUESDELL 2023",
             38,
             38
         ],
         [
-            "1A NORTH TAMA CASE MONAT 2024",
+            "1A SIBLEY-OCHEYEDAN DAVID POPPEN 2025",
             39,
             39
         ],
         [
-            "1A COLLINS-MAXWELL KYLER DAVIS 2026",
+            "2A SHELDON JOSH HOFFMANN 2025",
             40,
             40
         ],
         [
-            "1A BCLUW ZACH MORRIS 2025",
+            "2A GEORGE-LITTLE ROCK ULISES MACIAS 2023",
             41,
             41
         ],
         [
-            "1A DUNKERTON COLIN SNYDER 2026",
+            "2A WEST LYON TAYTON KNOBLOCH 2025",
             42,
             42
         ],
         [
-            "1A RICEVILLE CODY HART 2026",
+            "3A SIOUX CENTER NICHOLAS DAHM 2024",
             43,
             43
         ],
         [
-            "1A WATERLOO CHRISTIAN CONNOR FENCL 2025",
+            "2A GEORGE-LITTLE ROCK MATTHEW LANGHOLDT 2023",
             44,
             44
         ],
         [
-            "1A DUNKERTON KAYDEN KITE 2025",
+            "2A WESTERN CHRISTIAN NOAH DEWEERD 2024",
             45,
             45
         ],
         [
-            "1A BAXTER MADDOX PETERS 2026",
+            "2A GEORGE-LITTLE ROCK JESUS MARTINEZ 2024",
             46,
             46
         ],
         [
-            "1A GMG NOAH TESKE 2023",
+            "1A SIBLEY-OCHEYEDAN AIDEN DE ZEEUW 2024",
             47,
             47
         ],
         [
-            "1A BCLUW PAUL MURTY 2023",
+            "1A TRINITY CHRISTIAN REID GROENEWEG 2025",
             48,
             48
         ],
         [
-            "1A TRIPOLI ADAM HENNINGS 2023",
+            "3A SIOUX CENTER GABE DEKKERS 2023",
             49,
             49
         ],
         [
-            "1A RICEVILLE ELIJAH DWINE 2026",
+            "1A SIBLEY-OCHEYEDAN KEEGAN DE ZEEUW 2023",
             50,
             50
         ],
         [
-            "1A COLO-NESCO LAINE GOLLY 2025",
+            "3A BH-RV LOGAN SIEBRECHT 2024",
             51,
             51
         ],
         [
-            "1A BCLUW COLTON DONALDSON 2025",
+            "2A GEORGE-LITTLE ROCK RYLIE MAYO 2023",
             52,
             52
         ],
         [
-            "1A JANESVILLE ALEX OLTMANN 2024",
+            "1A SIBLEY-OCHEYEDAN CALE REITER 2025",
             53,
             53
         ],
         [
-            "1A COLO-NESCO LEVI VINK 2026",
+            "1A TRINITY CHRISTIAN KYLAN DAVELAAR 2025",
             54,
             54
         ],
         [
-            "1A WATERLOO CHRISTIAN BENNET GARDNER 2026",
+            "2A WESTERN CHRISTIAN CALEB VAN BEEK 2025",
             55,
             55
         ],
         [
-            "1A GMG DRAYSON STEPHENSON 2026",
+            "2A WEST LYON REED FEUCHT 2026",
             56,
             56
         ],
         [
-            "1A BAXTER AUSTIN ENGLAND 2026",
+            "2A WEST LYON ALEC KOCK 2026",
             57,
             57
         ],
         [
-            "1A WATERLOO CHRISTIAN CORBIN ELMORE 2025",
+            "3A BH-RV AMOS HESPE 2025",
             58,
             58
         ],
         [
-            "1A VALLEY LUTHERAN ZANE SCHMITZ 2026",
+            "1A TRINITY CHRISTIAN MALACHI BLOEMENDAAL 2026",
             59,
             59
         ],
         [
-            "1A MESKWAKI TENOCH SNOW 2024",
+            "2A WEST LYON AIDAN JENNINGS 2024",
             60,
             60
         ],
         [
-            "1A BCLUW RIVER WOOSLEY 2025",
+            "2A WEST LYON CARTER HASSELMANN 2023",
             61,
             61
         ],
         [
-            "1A BCLUW ELIJAH BOND 2025",
+            "2A SHELDON GAVIN STROUTH 2024",
             62,
             62
         ],
         [
-            "1A COLLINS-MAXWELL KALEB RUIZ-GENOVESE 2023",
+            "2A WEST LYON NATHAN YOUNG 2024",
             63,
             63
         ],
         [
-            "1A BCLUW TUCKER WEDGWOOD 2024",
+            "2A SHELDON MICHEAL STREHLOW 2023",
             64,
             64
         ],
         [
-            "1A TRIPOLI DESHAUN WILDER 2023",
+            "1A TRINITY CHRISTIAN NICOLAS VAN ENGEN 2023",
             65,
             65
         ],
         [
-            "1A MESKWAKI TIBBY BILLY 2024",
+            "2A SHELDON ELI THINER 2026",
             66,
             66
         ],
         [
-            "1A COLO-NESCO ISMAIL ERGENE 2024",
+            "2A SHELDON NOAH DAGEL 2023",
             67,
             67
         ],
         [
-            "1A BAXTER HUDSON BETHARDS 2025",
+            "3A BH-RV LUIS KING 2026",
             68,
             68
-        ],
-        [
-            "1A VALLEY LUTHERAN OWEN WEBER 2025",
-            69,
-            69
         ]
     ]
 }
