@@ -1,421 +1,371 @@
 {
-    "name": "Unity Christian j",
-    "time_seconds": 1665723615,
+    "name": "WCAC",
+    "time_seconds": 1665637215,
     "standings": [
         [
-            "3A MOC-FLOYD VALLEY GERRIT HULSTEIN 2025",
+            "2A DSM CHRISTIAN AARON FYNAARDT 2023",
             0,
             0
         ],
         [
-            "2A OKOBOJI LANE LARSON 2025",
+            "2A DSM CHRISTIAN CALEB TEN PAS 2026",
             1,
             1
         ],
         [
-            "2A UNITY CHRISTIAN JESSE HUISMAN 2024",
+            "1A AC-GC JUSTIN REINHART 2023",
             2,
             2
         ],
         [
-            "2A UNITY CHRISTIAN JEAN MALETOUNGOU 2023",
+            "1A MADRID ETHAN LOUTZENHEISER 2024",
             3,
             3
         ],
         [
-            "2A UNITY CHRISTIAN TYLER ROZENBOOM 2025",
+            "2A DSM CHRISTIAN COLLIN HOUG 2024",
             4,
             4
         ],
         [
-            "3A MOC-FLOYD VALLEY TEGEGN SMIT 2026",
+            "2A I35 MASON MAIERS 2023",
             5,
             5
         ],
         [
-            "2A UNITY CHRISTIAN DAVID WINN 2024",
+            "1A MADRID CLAY WARSON 2024",
             6,
             6
         ],
         [
-            "2A UNITY CHRISTIAN JOREN VANDE GRIEND 2026",
+            "1A OGDEN CARSON VAN SICKLE 2024",
             7,
             7
         ],
         [
-            "3A MOC-FLOYD VALLEY JACIEL REYES 2026",
+            "2A DSM CHRISTIAN JACK MCPARTLAND 2024",
             8,
             8
         ],
         [
-            "3A MOC-FLOYD VALLEY COOPER KATT 2026",
+            "1A AC-GC ANDREW MAHAFFEY 2024",
             9,
             9
         ],
         [
-            "2A OKOBOJI KADEN ZWEIBAHMER 2023",
+            "1A AC-GC NOAH KADING 2025",
             10,
             10
         ],
         [
-            "2A OKOBOJI NICO BARBA 2024",
+            "2A I35 AUSTIN VANDER WERF 2024",
             11,
             11
         ],
         [
-            "2A OKOBOJI ANDREW FRERICHS 2026",
+            "2A DSM CHRISTIAN JACK GUMMERT 2024",
             12,
             12
         ],
         [
-            "2A OKOBOJI TYLER CHRISTENSON 2025",
+            "1A OGDEN PAYTON VAN SICKLE 2023",
             13,
             13
         ],
         [
-            "3A SIOUX CENTER EASTON KROESE 2024",
+            "1A AC-GC GAVIN SLOSS 2025",
             14,
             14
         ],
         [
-            "3A MOC-FLOYD VALLEY CODY BRENNAN 2025",
+            "2A DSM CHRISTIAN CURREN JOHNSON 2023",
             15,
             15
         ],
         [
-            "3A MOC-FLOYD VALLEY ZACH VAN ZEE 2024",
+            "1A AC-GC BO ARRASMITH 2024",
             16,
             16
         ],
         [
-            "3A MOC-FLOYD VALLEY CHARLIE MOELLER 2024",
+            "2A I35 BEN REYES 2023",
             17,
             17
         ],
         [
-            "2A UNITY CHRISTIAN BRADEN ZEVENBERGEN 2024",
+            "2A VAN METER LUKA HULSE 2025",
             18,
             18
         ],
         [
-            "2A UNITY CHRISTIAN BRENNAN OBBINK 2026",
+            "1A EARLHAM BLAKE TIEMEYER 2025",
             19,
             19
         ],
         [
-            "3A SIOUX CENTER REESE DEKKERS 2023",
+            "1A AC-GC LANCE BUNDE 2024",
             20,
             20
         ],
         [
-            "3A SIOUX CENTER BLAKE BANDSTRA 2023",
+            "1A AC-GC TYCONDER ELLIS 2023",
             21,
             21
         ],
         [
-            "3A MOC-FLOYD VALLEY CARTER VAN GELDER 2026",
+            "1A EARLHAM CARSON MALY 2025",
             22,
             22
         ],
         [
-            "2A WESTERN CHRISTIAN LEVI WESTRA 2025",
+            "1A OGDEN LEVI RUSSO 2023",
             23,
             23
         ],
         [
-            "3A MOC-FLOYD VALLEY ANDREW HAVERDINK 2024",
+            "1A OGDEN JUDE BENBOW 2025",
             24,
             24
         ],
         [
-            "3A MOC-FLOYD VALLEY ANGEL REYNA 2024",
+            "1A OGDEN JORDAN KING 2023",
             25,
             25
         ],
         [
-            "2A GEORGE-LITTLE ROCK AARON SPRINGER 2024",
+            "1A WOODWARD ACADEMY ASHER MORLEY 2025",
             26,
             26
         ],
         [
-            "3A MOC-FLOYD VALLEY CHRISTIAN SHOLLY 2024",
+            "1A MADRID BLAKE RENZE 2025",
             27,
             27
         ],
         [
-            "2A OKOBOJI HUNTER HALLENGREN 2024",
+            "1A PLEASANTVILLE KURT KUHNEN 2025",
             28,
             28
         ],
         [
-            "3A SIOUX CENTER JETT VANES 2025",
+            "2A VAN METER CAEL REIMERS 2025",
             29,
             29
         ],
         [
-            "2A UNITY CHRISTIAN LANDON DE JONG 2024",
+            "1A EARLHAM BLAKE PETERSEN 2025",
             30,
             30
         ],
         [
-            "2A OKOBOJI RAY KAISER 2026",
+            "1A OGDEN PARKER TRUSLER 2023",
             31,
             31
         ],
         [
-            "3A MOC-FLOYD VALLEY JERRY HUANG 2026",
+            "2A WEST CENTRAL VALLEY CAEL HAZEN 2024",
             32,
             32
         ],
         [
-            "2A UNITY CHRISTIAN DYLAN KOELEWYN 2024",
+            "1A EARLHAM DONOVAN BRAET 2026",
             33,
             33
         ],
         [
-            "2A UNITY CHRISTIAN SAMUEL NONHOF 2023",
+            "2A I35 CANNON BECK 2024",
             34,
             34
         ],
         [
-            "2A GEORGE-LITTLE ROCK MATT ROELFS 2024",
+            "1A EARLHAM COLE FLICKINGER 2023",
             35,
             35
         ],
         [
-            "2A OKOBOJI OLIVER MILLER 2026",
+            "1A EARLHAM TYLER JOHNSON 2023",
             36,
             36
         ],
         [
-            "2A GEORGE-LITTLE ROCK SAM GRUIS 2023",
+            "2A I35 OWEN FESTLER 2023",
             37,
             37
         ],
         [
-            "3A MOC-FLOYD VALLEY DYLAN OVERMOHLE 2026",
+            "1A OGDEN SAGE SEEGER 2024",
             38,
             38
         ],
         [
-            "3A SIOUX CENTER WILLIAM HURST 2023",
+            "1A WOODWARD GRANGER CAEL LEIGHTON 2026",
             39,
             39
         ],
         [
-            "2A OKOBOJI TRISTAN STRANTZ 2024",
+            "1A MADRID BRODY BUCK 2025",
             40,
             40
         ],
         [
-            "2A UNITY CHRISTIAN SAM KAMP 2025",
+            "1A WOODWARD GRANGER HEALEY HILL 2023",
             41,
             41
         ],
         [
-            "2A OKOBOJI SAM HOGGARD 2024",
+            "2A VAN METER KAEGAN WIGANT 2026",
             42,
             42
         ],
         [
-            "2A UNITY CHRISTIAN WILLIAM BREEMS 2026",
+            "2A I35 CARSON ALLEN 2023",
             43,
             43
         ],
         [
-            "2A OKOBOJI MARC HOGGARD 2025",
+            "1A WOODWARD GRANGER ALEX YOUNTS 2026",
             44,
             44
         ],
         [
-            "3A SIOUX CENTER LANDON HAUGSTAD 2025",
+            "1A MADRID CAVIN PEHL 2026",
             45,
             45
         ],
         [
-            "2A OKOBOJI COLLIN OROSCO 2023",
+            "2A I35 MICHAEL UPP 2025",
             46,
             46
         ],
         [
-            "2A UNITY CHRISTIAN ELIJAH NYENHUIS 2025",
+            "1A PLEASANTVILLE JENKIN FULMER 2023",
             47,
             47
         ],
         [
-            "2A GEORGE-LITTLE ROCK NOAH KURRLE 2023",
+            "1A WOODWARD GRANGER STERLING PARKINSON 2024",
             48,
             48
         ],
         [
-            "2A GEORGE-LITTLE ROCK MARLIN MARTINEZ 2026",
+            "1A WOODWARD GRANGER AIDEN TOPOLAVICH 2024",
             49,
             49
         ],
         [
-            "3A SIOUX CENTER SERGIO RAMOSMORALES 2026",
+            "1A PLEASANTVILLE CAEL JOHNSON 2025",
             50,
             50
         ],
         [
-            "3A SIOUX CENTER LUIS MORALESMORALES 2026",
+            "1A PANORAMA ZACH HAYDEN 2026",
             51,
             51
         ],
         [
-            "2A UNITY CHRISTIAN RYAN VAN SCHOUWEN 2024",
+            "2A VAN METER LEO HAYES 2024",
             52,
             52
         ],
         [
-            "2A UNITY CHRISTIAN BEN PLOEGSTRA 2026",
+            "1A MADRID COLTON KNIFFEN 2023",
             53,
             53
         ],
         [
-            "3A MOC-FLOYD VALLEY GABE SCHOLTENS 2026",
+            "1A MADRID TRENDAN PEASLEY 2023",
             54,
             54
         ],
         [
-            "3A SIOUX CENTER DANIEL GARCIAVERA 2026",
+            "2A VAN METER TRESTON MURPHY 2025",
             55,
             55
         ],
         [
-            "2A WESTERN CHRISTIAN ETHAN VAN'T HUL 2024",
+            "2A VAN METER CORY OLIVER 2026",
             56,
             56
         ],
         [
-            "3A MOC-FLOYD VALLEY IAN GROSSMANN 2025",
+            "2A WEST CENTRAL VALLEY NICK SMITH 2023",
             57,
             57
         ],
         [
-            "3A MOC-FLOYD VALLEY SETH MAASSEN 2025",
+            "2A VAN METER LIAM NEWELL 2026",
             58,
             58
         ],
         [
-            "3A SIOUX CENTER ADAM HENRICH 2023",
+            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
             59,
             59
         ],
         [
-            "2A OKOBOJI COLE BECKER 2025",
+            "1A PLEASANTVILLE ETHAN KING 2026",
             60,
             60
         ],
         [
-            "3A MOC-FLOYD VALLEY MAX KOENIG 2026",
+            "1A PLEASANTVILLE MORRISON FULMER 2026",
             61,
             61
         ],
         [
-            "3A MOC-FLOYD VALLEY LEIF SCHMITZ 2026",
+            "1A PLEASANTVILLE JAYDIN BOONE 2025",
             62,
             62
         ],
         [
-            "3A MOC-FLOYD VALLEY NICK RUSSELL 2026",
+            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
             63,
             63
         ],
         [
-            "3A SIOUX CENTER EASTON ADDINK 2026",
+            "1A PLEASANTVILLE BROCK JONES 2023",
             64,
             64
         ],
         [
-            "3A SIOUX CENTER CRISTIAN RAMOS 2026",
+            "1A WOODWARD GRANGER ELIJAH TAYLOR 2023",
             65,
             65
         ],
         [
-            "3A SIOUX CENTER ISAIAH RENSINK 2026",
+            "1A WOODWARD ACADEMY DENNIS VALENTIN 2025",
             66,
             66
         ],
         [
-            "3A SIOUX CENTER BEN HAVERHALS 2026",
+            "2A WEST CENTRAL VALLEY LAMIL MACILLOK 2024",
             67,
             67
         ],
         [
-            "2A WEST LYON PETER RENS 2026",
+            "1A WOODWARD GRANGER GRANT POLITO 2025",
             68,
             68
         ],
         [
-            "3A SIOUX CENTER JONY RAMOS 2026",
+            "1A WOODWARD ACADEMY DENNIS LOPEZ 2025",
             69,
             69
         ],
         [
-            "3A MOC-FLOYD VALLEY CALEB SLOAN 2025",
+            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
             70,
             70
         ],
         [
-            "2A UNITY CHRISTIAN BEN VAN GENDEREN 2025",
+            "2A WEST CENTRAL VALLEY KIERNAN HUTTON 2026",
             71,
             71
         ],
         [
-            "3A SIOUX CENTER GAGE KOOPMANS 2026",
+            "2A WEST CENTRAL VALLEY NICK DEZEEUW 2023",
             72,
             72
-        ],
-        [
-            "2A SHELDON HUNTER GETTING 2025",
-            73,
-            73
-        ],
-        [
-            "2A GEORGE-LITTLE ROCK OLIVER HARMS 2025",
-            74,
-            74
-        ],
-        [
-            "1A HARRIS-LAKE PARK CHASE HIBMA 2026",
-            75,
-            75
-        ],
-        [
-            "2A UNITY CHRISTIAN MAX KUCHYK 2026",
-            76,
-            76
-        ],
-        [
-            "2A UNITY CHRISTIAN BREVAN OBBINK 2026",
-            77,
-            77
-        ],
-        [
-            "3A SIOUX CENTER MILES SCHUITEMAN 2023",
-            78,
-            78
-        ],
-        [
-            "3A SIOUX CENTER EVAN HURST 2026",
-            79,
-            79
-        ],
-        [
-            "3A SIOUX CENTER BRANDON YANEZDOMINGUEZ 2026",
-            80,
-            80
-        ],
-        [
-            "3A SIOUX CENTER ELI SEGAR 2026",
-            81,
-            81
-        ],
-        [
-            "1A SIBLEY-OCHEYEDAN ELLIOT DAIKER 2025",
-            82,
-            82
         ]
     ]
 }
