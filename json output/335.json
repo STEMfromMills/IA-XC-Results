@@ -1,0 +1,461 @@
+{
+    "name": "NE IA Conf j",
+    "time_seconds": 1665464435,
+    "standings": [
+        [
+            "2A WAUKON CALEB HELGERSON 2025",
+            0,
+            0
+        ],
+        [
+            "3A DECORAH D'MITRY LESSER 2025",
+            1,
+            1
+        ],
+        [
+            "3A DECORAH REID BERNS 2026",
+            2,
+            2
+        ],
+        [
+            "3A DECORAH RILEY BERNS 2026",
+            3,
+            3
+        ],
+        [
+            "2A WAUKON ETHAN GIBBS 2025",
+            4,
+            4
+        ],
+        [
+            "3A DECORAH BENSON NEWHOUSE 2023",
+            5,
+            5
+        ],
+        [
+            "3A DECORAH MITCHELL STEMPER 2026",
+            6,
+            6
+        ],
+        [
+            "3A DECORAH AIDAN NALEAN-CARLSON 2024",
+            7,
+            7
+        ],
+        [
+            "3A DECORAH THOMAS HAMMEL 2025",
+            8,
+            8
+        ],
+        [
+            "3A DECORAH KEATON NALEAN-CARLSON 2026",
+            9,
+            9
+        ],
+        [
+            "3A DECORAH CARSON BOHNER 2026",
+            10,
+            10
+        ],
+        [
+            "3A DECORAH OLIVER BOLLINGER 2026",
+            11,
+            11
+        ],
+        [
+            "3A DECORAH MAX WILSON 2023",
+            12,
+            12
+        ],
+        [
+            "3A DECORAH PETER ESSA 2024",
+            13,
+            13
+        ],
+        [
+            "2A WAUKON MASON WASSON 2024",
+            14,
+            14
+        ],
+        [
+            "2A WAUKON COLTON O'NEILL 2026",
+            15,
+            15
+        ],
+        [
+            "3A DECORAH RAVEN BATTLE 2023",
+            16,
+            16
+        ],
+        [
+            "3A DECORAH MONTANA JUMP-GERLEMAN 2024",
+            17,
+            17
+        ],
+        [
+            "3A DECORAH TRAVIS NORDHEIM 2024",
+            18,
+            18
+        ],
+        [
+            "3A CHARLES CITY MICHAEL BAUER 2025",
+            19,
+            19
+        ],
+        [
+            "3A CHARLES CITY HOLDEN MCINROY 2026",
+            20,
+            20
+        ],
+        [
+            "2A WAUKON BRANDON LEPPERT 2026",
+            21,
+            21
+        ],
+        [
+            "3A CHARLES CITY JACKSON KOWALSKI 2026",
+            22,
+            22
+        ],
+        [
+            "3A DECORAH DOUG BENTLEY 2024",
+            23,
+            23
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AIDEN BRIDGES 2024",
+            24,
+            24
+        ],
+        [
+            "3A CHARLES CITY NOAH MORRIS 2025",
+            25,
+            25
+        ],
+        [
+            "3A DECORAH LUCAS ARENDT 2024",
+            26,
+            26
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK WOUTER REULING 2026",
+            27,
+            27
+        ],
+        [
+            "3A DECORAH BROCK TAYLOR 2023",
+            28,
+            28
+        ],
+        [
+            "3A DECORAH EZRA VORVICK 2025",
+            29,
+            29
+        ],
+        [
+            "2A WAUKON CALEB PERKINS 2024",
+            30,
+            30
+        ],
+        [
+            "3A CHARLES CITY CLAY PRICE 2026",
+            31,
+            31
+        ],
+        [
+            "3A DECORAH CARTER KOWITZ 2023",
+            32,
+            32
+        ],
+        [
+            "2A WAUKON ISAAK KOVARIK 2026",
+            33,
+            33
+        ],
+        [
+            "3A DECORAH KYLE PATTISON 2026",
+            34,
+            34
+        ],
+        [
+            "3A DECORAH PHOUNG DOAN 2025",
+            35,
+            35
+        ],
+        [
+            "2A CRESTWOOD ETHIN MATT 2024",
+            36,
+            36
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK ZANDER CHRISTIANSEN 2026",
+            37,
+            37
+        ],
+        [
+            "2A WAUKON JAMES VANDERVELDEN 2023",
+            38,
+            38
+        ],
+        [
+            "2A WAUKON CASHTON LLOYD 2024",
+            39,
+            39
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK COOPER RIDDER 2025",
+            40,
+            40
+        ],
+        [
+            "3A CHARLES CITY CHRIS MARTIN 2025",
+            41,
+            41
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CYRUS LEYDA 2026",
+            42,
+            42
+        ],
+        [
+            "3A DECORAH ANDREW OLSON 2025",
+            43,
+            43
+        ],
+        [
+            "3A CHARLES CITY ADRIAN IBARRA 2024",
+            44,
+            44
+        ],
+        [
+            "3A DECORAH ADAM WALTER 2024",
+            45,
+            45
+        ],
+        [
+            "3A CHARLES CITY XAVIER SCOTT 2025",
+            46,
+            46
+        ],
+        [
+            "3A CHARLES CITY MASON MILLER 2024",
+            47,
+            47
+        ],
+        [
+            "2A WAUKON TANNER MARTING 2023",
+            48,
+            48
+        ],
+        [
+            "2A WAUKON TUCKER BURRICHTER 2026",
+            49,
+            49
+        ],
+        [
+            "2A NEW HAMPTON JAKE FRAHM 2023",
+            50,
+            50
+        ],
+        [
+            "2A WAUKON RYAN KOLSRUD 2024",
+            51,
+            51
+        ],
+        [
+            "2A NEW HAMPTON EDDIE ARNOLD 2025",
+            52,
+            52
+        ],
+        [
+            "3A CHARLES CITY KAYDEN KIRBY 2024",
+            53,
+            53
+        ],
+        [
+            "3A DECORAH BEAU NEWHOUSE 2025",
+            54,
+            54
+        ],
+        [
+            "2A WAUKON KELBY CAHALAN 2026",
+            55,
+            55
+        ],
+        [
+            "3A DECORAH CALEB JOHNSON 2026",
+            56,
+            56
+        ],
+        [
+            "2A NEW HAMPTON XANDER MEYERHOFF 2025",
+            57,
+            57
+        ],
+        [
+            "2A CRESTWOOD ETHAN HOLTHAUS 2026",
+            58,
+            58
+        ],
+        [
+            "3A DECORAH LOGAN SMITH 2026",
+            59,
+            59
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK ANDY BRITT 2025",
+            60,
+            60
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK KADEN BADURA 2024",
+            61,
+            61
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK LUCAS GEERTS 2026",
+            62,
+            62
+        ],
+        [
+            "3A DECORAH LUCAS HANSON 2024",
+            63,
+            63
+        ],
+        [
+            "2A WAUKON DRAKE HANKES 2026",
+            64,
+            64
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK MCCOY MCLRAVY 2026",
+            65,
+            65
+        ],
+        [
+            "3A DECORAH WILL ROBINSON 2026",
+            66,
+            66
+        ],
+        [
+            "3A CHARLES CITY ANTON DITTMER 2024",
+            67,
+            67
+        ],
+        [
+            "3A CHARLES CITY BLAKE HOEFT 2025",
+            68,
+            68
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK RYLEY GERST 2025",
+            69,
+            69
+        ],
+        [
+            "3A DECORAH ALEX MCGOHAN 2024",
+            70,
+            70
+        ],
+        [
+            "3A CHARLES CITY HUNTER NORTHRUP 2026",
+            71,
+            71
+        ],
+        [
+            "3A DECORAH NOAH VILARDO 2026",
+            72,
+            72
+        ],
+        [
+            "2A CRESTWOOD COLTEN KNIGHT 2023",
+            73,
+            73
+        ],
+        [
+            "3A DECORAH LANGE BETTS 2023",
+            74,
+            74
+        ],
+        [
+            "2A CRESTWOOD LUCAS WEMARK 2026",
+            75,
+            75
+        ],
+        [
+            "3A DECORAH JACK SOVERN 2025",
+            76,
+            76
+        ],
+        [
+            "3A CHARLES CITY BRADEN CHARLTON 2024",
+            77,
+            77
+        ],
+        [
+            "2A NEW HAMPTON KYLER GLENN 2024",
+            78,
+            78
+        ],
+        [
+            "3A CHARLES CITY RILEY PEREZ 2025",
+            79,
+            79
+        ],
+        [
+            "2A CRESTWOOD OWEN KORSMO 2026",
+            80,
+            80
+        ],
+        [
+            "3A DECORAH LEANDER BUETTNER 2025",
+            81,
+            81
+        ],
+        [
+            "3A DECORAH WILLIAM CHAMBERLAIN 2025",
+            82,
+            82
+        ],
+        [
+            "3A CHARLES CITY GAGE KILBY 2023",
+            83,
+            83
+        ],
+        [
+            "3A CHARLES CITY JARELL JONES 2025",
+            84,
+            84
+        ],
+        [
+            "2A WAUKON HAYDEN PALMER 2026",
+            85,
+            85
+        ],
+        [
+            "3A DECORAH NATHANIEL MYERS 2023",
+            86,
+            86
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK KRZYSZTOF KOZIEJ 2023",
+            87,
+            87
+        ],
+        [
+            "2A NEW HAMPTON COLIN SHATEK 2026",
+            88,
+            88
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK JACKSON MRAZ 2024",
+            89,
+            89
+        ],
+        [
+            "2A WAUKON ETHAN KELLY 2024",
+            90,
+            90
+        ]
+    ]
+}

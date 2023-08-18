@@ -1,0 +1,436 @@
+{
+    "name": "Tri Rivers Conf",
+    "time_seconds": 1665464446,
+    "standings": [
+        [
+            "2A STARMONT CHARLIE SIECK 2023",
+            0,
+            0
+        ],
+        [
+            "1A PRINCE OF PEACE MARCUS BLOUNT 2023",
+            1,
+            1
+        ],
+        [
+            "1A MAQUOKETA VALLEY MATTHEW SCHAUL 2025",
+            2,
+            2
+        ],
+        [
+            "1A EAST BUCHANAN NOAH VALENZUELA 2024",
+            3,
+            3
+        ],
+        [
+            "1A NORTH LINN CALEB BILDSTEIN 2025",
+            4,
+            4
+        ],
+        [
+            "1A SPRINGVILLE EVAN ROBERTSON 2023",
+            5,
+            5
+        ],
+        [
+            "1A MAQUOKETA VALLEY GEORGE LIVINGSTON 2024",
+            6,
+            6
+        ],
+        [
+            "1A CALAMUS-WHEATLAND LOGAN RIEDESEL 2025",
+            7,
+            7
+        ],
+        [
+            "1A SPRINGVILLE JACK STAMP 2025",
+            8,
+            8
+        ],
+        [
+            "1A NORTH LINN TY PFLUGHAUPT 2024",
+            9,
+            9
+        ],
+        [
+            "2A STARMONT LANE GERMAN 2023",
+            10,
+            10
+        ],
+        [
+            "1A NORTH LINN LEVI BENESH 2026",
+            11,
+            11
+        ],
+        [
+            "1A MAQUOKETA VALLEY ARION RAVE 2025",
+            12,
+            12
+        ],
+        [
+            "1A CALAMUS-WHEATLAND JACKSON RIEDESEL 2024",
+            13,
+            13
+        ],
+        [
+            "1A PRINCE OF PEACE TATE RUDEN 2025",
+            14,
+            14
+        ],
+        [
+            "1A NORTH LINN LANDON THOMSEN 2026",
+            15,
+            15
+        ],
+        [
+            "2A STARMONT IAN OTDOERFER 2025",
+            16,
+            16
+        ],
+        [
+            "1A CALAMUS-WHEATLAND MASON MOHR 2026",
+            17,
+            17
+        ],
+        [
+            "1A SPRINGVILLE GRANT CHRISMAN 2024",
+            18,
+            18
+        ],
+        [
+            "1A NORTH CEDAR JAYDON WIGGINS 2024",
+            19,
+            19
+        ],
+        [
+            "1A CALAMUS-WHEATLAND AIDAN YADDOF 2026",
+            20,
+            20
+        ],
+        [
+            "1A ALBURNETT HAYDEN GUSTAFSON 2026",
+            21,
+            21
+        ],
+        [
+            "1A ALBURNETT BEN BEMER 2026",
+            22,
+            22
+        ],
+        [
+            "1A NORTH LINN CARTER FOLKERS 2023",
+            23,
+            23
+        ],
+        [
+            "1A EAST BUCHANAN BEN HESNER 2023",
+            24,
+            24
+        ],
+        [
+            "1A EAST BUCHANAN HAYDEN NELSON 2024",
+            25,
+            25
+        ],
+        [
+            "1A EASTON VALLEY COLE VENEMA 2024",
+            26,
+            26
+        ],
+        [
+            "1A ALBURNETT AUSTIN SCHECHINGER 2025",
+            27,
+            27
+        ],
+        [
+            "2A STARMONT BRAYDON WEDO 2023",
+            28,
+            28
+        ],
+        [
+            "1A EAST BUCHANAN SAMMY COOK 2023",
+            29,
+            29
+        ],
+        [
+            "1A ALBURNETT TRENTON ABEL 2025",
+            30,
+            30
+        ],
+        [
+            "1A NORTH CEDAR CLANCEY VANOORT 2026",
+            31,
+            31
+        ],
+        [
+            "1A EAST BUCHANAN JADEN PEYTON 2023",
+            32,
+            32
+        ],
+        [
+            "1A MAQUOKETA VALLEY TOBY GRIMM 2024",
+            33,
+            33
+        ],
+        [
+            "1A ALBURNETT NOAH KRUCKENBERG 2024",
+            34,
+            34
+        ],
+        [
+            "1A MIDLAND MILO SMITH 2023",
+            35,
+            35
+        ],
+        [
+            "1A SPRINGVILLE CRESTON CORDES 2024",
+            36,
+            36
+        ],
+        [
+            "1A MARQUETTE ANDREW SCHMIDT 2024",
+            37,
+            37
+        ],
+        [
+            "1A PRINCE OF PEACE HAKAEL POWELL 2025",
+            38,
+            38
+        ],
+        [
+            "1A MAQUOKETA VALLEY KENYON BAKER 2026",
+            39,
+            39
+        ],
+        [
+            "1A ALBURNETT GUNNAR KEENEY 2023",
+            40,
+            40
+        ],
+        [
+            "1A CALAMUS-WHEATLAND ALEX RICKERTSEN 2026",
+            41,
+            41
+        ],
+        [
+            "1A NORTH LINN SAWYER LONG 2026",
+            42,
+            42
+        ],
+        [
+            "1A NORTH CEDAR ELI DIES 2026",
+            43,
+            43
+        ],
+        [
+            "1A MIDLAND JAYSON RULEY 2025",
+            44,
+            44
+        ],
+        [
+            "1A MARQUETTE TREVOR KLEIN 2023",
+            45,
+            45
+        ],
+        [
+            "1A MAQUOKETA VALLEY BRADY EIKE 2025",
+            46,
+            46
+        ],
+        [
+            "1A NORTH CEDAR WESTON DIRCKS 2026",
+            47,
+            47
+        ],
+        [
+            "1A ALBURNETT BRADY SCOTT 2026",
+            48,
+            48
+        ],
+        [
+            "1A NORTH CEDAR JAMES TROUGHTON 2026",
+            49,
+            49
+        ],
+        [
+            "1A ALBURNETT RYAN SMITH 2025",
+            50,
+            50
+        ],
+        [
+            "1A MARQUETTE ETHAN DESOTEL 2023",
+            51,
+            51
+        ],
+        [
+            "1A SPRINGVILLE SLAYTON STRAUB 2024",
+            52,
+            52
+        ],
+        [
+            "2A STARMONT WYATT NELSON 2025",
+            53,
+            53
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG CAEL HELMRICHS 2026",
+            54,
+            54
+        ],
+        [
+            "1A EASTON VALLEY GREGORY HUFFMAN 2026",
+            55,
+            55
+        ],
+        [
+            "2A STARMONT VINCENT BRYANT 2025",
+            56,
+            56
+        ],
+        [
+            "1A PRINCE OF PEACE BRODY DEHNER 2023",
+            57,
+            57
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG BILLY HOFFMAN 2026",
+            58,
+            58
+        ],
+        [
+            "1A CALAMUS-WHEATLAND KAISER SANDS 2025",
+            59,
+            59
+        ],
+        [
+            "1A ALBURNETT AIDAN MCGRAW 2024",
+            60,
+            60
+        ],
+        [
+            "1A NORTH LINN ISAAC PFAB 2025",
+            61,
+            61
+        ],
+        [
+            "1A NORTH LINN LUKE BARTH 2026",
+            62,
+            62
+        ],
+        [
+            "2A STARMONT CARSON CURTIS 2026",
+            63,
+            63
+        ],
+        [
+            "1A ALBURNETT CAM MCGRAW 2026",
+            64,
+            64
+        ],
+        [
+            "2A STARMONT JACOB SIMPSON 2023",
+            65,
+            65
+        ],
+        [
+            "1A PRINCE OF PEACE SAM SISNEROS 2026",
+            66,
+            66
+        ],
+        [
+            "1A PRINCE OF PEACE LIAM DARSIDAN 2025",
+            67,
+            67
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG DAKOTA HAMANN 2024",
+            68,
+            68
+        ],
+        [
+            "1A NORTH CEDAR SOREN TURNER 2025",
+            69,
+            69
+        ],
+        [
+            "1A EASTON VALLEY JOHN PORTZ 2024",
+            70,
+            70
+        ],
+        [
+            "2A STARMONT CALEB PINION 2026",
+            71,
+            71
+        ],
+        [
+            "1A NORTH CEDAR CHARLES ROBINSON 2024",
+            72,
+            72
+        ],
+        [
+            "1A NORTH CEDAR MICHAEL REDHAGE 2025",
+            73,
+            73
+        ],
+        [
+            "1A MARQUETTE REITER PATZNER 2023",
+            74,
+            74
+        ],
+        [
+            "1A NORTH CEDAR BRADEN SISSEL 2026",
+            75,
+            75
+        ],
+        [
+            "1A MARQUETTE WYATT GREGORICH 2026",
+            76,
+            76
+        ],
+        [
+            "1A MIDLAND JAY BENTLEY 2023",
+            77,
+            77
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG KYLER COLE 2025",
+            78,
+            78
+        ],
+        [
+            "1A ALBURNETT GAGE RAUCH 2026",
+            79,
+            79
+        ],
+        [
+            "2A STARMONT ANTHONY STOCKS 2023",
+            80,
+            80
+        ],
+        [
+            "2A STARMONT EVAN RECKER 2023",
+            81,
+            81
+        ],
+        [
+            "2A STARMONT CALEB BOARDMAN 2026",
+            82,
+            82
+        ],
+        [
+            "2A STARMONT JACEN GRUMAN 2025",
+            83,
+            83
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG MCCOY OLIND 2026",
+            84,
+            84
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG ROBERTO REZENDE 2025",
+            85,
+            85
+        ]
+    ]
+}

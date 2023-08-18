@@ -1,0 +1,321 @@
+{
+    "name": "Western IA Conf",
+    "time_seconds": 1665378031,
+    "standings": [
+        [
+            "1A IKM-MANNING CADEN KELLER 2023",
+            0,
+            0
+        ],
+        [
+            "1A RIVERSIDE MASON MCCREADY 2024",
+            1,
+            1
+        ],
+        [
+            "2A TREYNOR JOHN ROSS BIEDERMAN 2023",
+            2,
+            2
+        ],
+        [
+            "1A RIVERSIDE BRODY HENDERSON 2026",
+            3,
+            3
+        ],
+        [
+            "2A TREYNOR MASON YOCHUM 2023",
+            4,
+            4
+        ],
+        [
+            "1A IKM-MANNING LANE SAMS 2024",
+            5,
+            5
+        ],
+        [
+            "1A IKM-MANNING REED HINNERS 2023",
+            6,
+            6
+        ],
+        [
+            "1A TRI-CENTER SEAN MCGEE 2023",
+            7,
+            7
+        ],
+        [
+            "1A RIVERSIDE ERIC DUHACHEK 2023",
+            8,
+            8
+        ],
+        [
+            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            9,
+            9
+        ],
+        [
+            "1A TRI-CENTER BRENNAN BODEN 2025",
+            10,
+            10
+        ],
+        [
+            "1A MISSOURI VALLEY JACOB HODEN 2024",
+            11,
+            11
+        ],
+        [
+            "1A TRI-CENTER NICHOLAS DAHIR 2026",
+            12,
+            12
+        ],
+        [
+            "1A RIVERSIDE DAWSON HENDERSON 2026",
+            13,
+            13
+        ],
+        [
+            "1A IKM-MANNING ABE POLZIEN 2025",
+            14,
+            14
+        ],
+        [
+            "1A AHSTW CALEB HATCH 2024",
+            15,
+            15
+        ],
+        [
+            "1A LOGAN-MAGNOLIA WYATT HAWKINS 2025",
+            16,
+            16
+        ],
+        [
+            "2A UNDERWOOD CONNOR BRUMMETT 2026",
+            17,
+            17
+        ],
+        [
+            "2A TREYNOR JACK CARLEY 2024",
+            18,
+            18
+        ],
+        [
+            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            19,
+            19
+        ],
+        [
+            "1A RIVERSIDE TEEGAN SCHECHINGER 2023",
+            20,
+            20
+        ],
+        [
+            "1A TRI-CENTER CHRISTIAN DAHIR 2024",
+            21,
+            21
+        ],
+        [
+            "1A TRI-CENTER KYLE MCDONALD 2025",
+            22,
+            22
+        ],
+        [
+            "1A IKM-MANNING KASCHE HUEHN 2025",
+            23,
+            23
+        ],
+        [
+            "1A MISSOURI VALLEY ADAM MEADOWS 2025",
+            24,
+            24
+        ],
+        [
+            "1A AHSTW CADEN GERAGHTY 2025",
+            25,
+            25
+        ],
+        [
+            "1A LOGAN-MAGNOLIA LAYNE BRENDEN 2023",
+            26,
+            26
+        ],
+        [
+            "1A IKM-MANNING ISAAC BLANKMAN 2026",
+            27,
+            27
+        ],
+        [
+            "1A TRI-CENTER SIMEON WEERS 2024",
+            28,
+            28
+        ],
+        [
+            "1A MISSOURI VALLEY AIDAN RANGEL 2025",
+            29,
+            29
+        ],
+        [
+            "1A RIVERSIDE CALEB STEVENS 2023",
+            30,
+            30
+        ],
+        [
+            "2A TREYNOR MILES NICHOLS 2023",
+            31,
+            31
+        ],
+        [
+            "1A IKM-MANNING RYAN GERMER 2024",
+            32,
+            32
+        ],
+        [
+            "1A MISSOURI VALLEY KEATON VOSTER 2026",
+            33,
+            33
+        ],
+        [
+            "1A LOGAN-MAGNOLIA WYATT GRIMES 2025",
+            34,
+            34
+        ],
+        [
+            "1A IKM-MANNING JAYDEN PHIPPS 2024",
+            35,
+            35
+        ],
+        [
+            "1A IKM-MANNING NATHANAEL CONNER 2026",
+            36,
+            36
+        ],
+        [
+            "2A TREYNOR JEYDEN FARR 2026",
+            37,
+            37
+        ],
+        [
+            "1A MISSOURI VALLEY JACKSON HARRISON 2024",
+            38,
+            38
+        ],
+        [
+            "2A TREYNOR CHASE KILLINGER 2026",
+            39,
+            39
+        ],
+        [
+            "1A LOGAN-MAGNOLIA LYRICK STUEVE 2024",
+            40,
+            40
+        ],
+        [
+            "1A IKM-MANNING JOSIAH CONNER 2025",
+            41,
+            41
+        ],
+        [
+            "2A UNDERWOOD JAYDEN SHELTON 2026",
+            42,
+            42
+        ],
+        [
+            "1A TRI-CENTER MICAH MCCARTY 2026",
+            43,
+            43
+        ],
+        [
+            "1A MISSOURI VALLEY THERON FELNER 2025",
+            44,
+            44
+        ],
+        [
+            "1A AUDUBON ELI DEIST 2024",
+            45,
+            45
+        ],
+        [
+            "1A MISSOURI VALLEY GAVIN THACKER 2025",
+            46,
+            46
+        ],
+        [
+            "2A UNDERWOOD CARTER FORBUSH 2025",
+            47,
+            47
+        ],
+        [
+            "1A AUDUBON MASON STECKLER 2025",
+            48,
+            48
+        ],
+        [
+            "1A RIVERSIDE DALTON SMITH 2024",
+            49,
+            49
+        ],
+        [
+            "1A TRI-CENTER MATT EIKENBERRY 2024",
+            50,
+            50
+        ],
+        [
+            "1A IKM-MANNING HUNTER JULIN 2026",
+            51,
+            51
+        ],
+        [
+            "1A TRI-CENTER MATT STOWE 2023",
+            52,
+            52
+        ],
+        [
+            "2A UNDERWOOD NATE ARTHUR 2026",
+            53,
+            53
+        ],
+        [
+            "1A IKM-MANNING ZANDER RICHARDS 2024",
+            54,
+            54
+        ],
+        [
+            "1A MISSOURI VALLEY XAVIER RANGEL 2025",
+            55,
+            55
+        ],
+        [
+            "1A TRI-CENTER SMITH HUNTER 2025",
+            56,
+            56
+        ],
+        [
+            "1A LOGAN-MAGNOLIA AIDEN YOUNG 2024",
+            57,
+            57
+        ],
+        [
+            "1A LOGAN-MAGNOLIA JAMES NEWTON 2023",
+            58,
+            58
+        ],
+        [
+            "1A MISSOURI VALLEY TYLER LEUSINK 2025",
+            59,
+            59
+        ],
+        [
+            "2A UNDERWOOD LUKE STOLZ 2023",
+            60,
+            60
+        ],
+        [
+            "1A LOGAN-MAGNOLIA JONNY DIGGINS 2024",
+            61,
+            61
+        ],
+        [
+            "2A TREYNOR NATHANIEL BIEDERMAN 2025",
+            62,
+            62
+        ]
+    ]
+}

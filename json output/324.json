@@ -1,406 +1,566 @@
 {
-    "name": "1A SQM ACGC",
-    "time_seconds": 1666242024,
+    "name": "Forest City",
+    "time_seconds": 1665378024,
     "standings": [
         [
-            "1A IKM-MANNING CADEN KELLER 2023",
+            "1A LAKE MILLS JUSTIN RYGH 2024",
             0,
             0
         ],
         [
-            "1A BOYER VALLEY PATRICK HEFFERNAN 2023",
+            "1A NORTH IOWA GAVIN GRUNHOVD 2025",
             1,
             1
         ],
         [
-            "1A AC-GC JUSTIN REINHART 2023",
+            "2A GHV ZACH FLATEBO 2025",
             2,
             2
         ],
         [
-            "1A AC-GC ANDREW MAHAFFEY 2024",
+            "1A NORTH BUTLER OWEN ALMELIEN 2023",
             3,
             3
         ],
         [
-            "1A NODAWAY VALLEY DOUG BERG 2023",
+            "2A GHV CONNOR HAMMITT 2024",
             4,
             4
         ],
         [
-            "1A ANKENY CHRISTIAN DANIEL SCHOENING 2026",
+            "2A OSAGE KEAGAN HENNESSEY 2023",
             5,
             5
         ],
         [
-            "1A EARLHAM CARSON MALY 2025",
+            "1A NEWMAN JOEY RINGO 2023",
             6,
             6
         ],
         [
-            "1A AC-GC NOAH KADING 2025",
+            "1A GTRA AIDEN EGERTSON 2023",
             7,
             7
         ],
         [
-            "1A EARLHAM BLAKE TIEMEYER 2025",
+            "1A LAKE MILLS KNUTE ROGNE 2026",
             8,
             8
         ],
         [
-            "1A IKM-MANNING LANE SAMS 2024",
+            "2A FOREST CITY PARKER SHARP 2023",
             9,
             9
         ],
         [
-            "1A AC-GC BO ARRASMITH 2024",
+            "2A GHV SCYLAR SCHULZE 2023",
             10,
             10
         ],
         [
-            "1A IKM-MANNING REED HINNERS 2023",
+            "1A BELMOND-KLEMME ISAAC SWENSON 2023",
             11,
             11
         ],
         [
-            "1A WEST MONONA EEIN MCKINLEY 2023",
+            "1A BISHOP GARRIGAN GAVIN SWIFT 2023",
             12,
             12
         ],
         [
-            "1A AC-GC LANCE BUNDE 2024",
+            "2A GHV BRONSON BUITENWERF 2023",
             13,
             13
         ],
         [
-            "1A AC-GC GAVIN SLOSS 2025",
+            "2A OSAGE DARREN ADAMS 2024",
             14,
             14
         ],
         [
-            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            "2A FOREST CITY JADYN WELCH 2023",
             15,
             15
         ],
         [
-            "1A NODAWAY VALLEY MALACHI BROERS 2024",
+            "2A FOREST CITY CARSON STRUKEL 2023",
             16,
             16
         ],
         [
-            "1A AC-GC TYCONDER ELLIS 2023",
+            "2A FOREST CITY ETHAN BERTRAM 2026",
             17,
             17
         ],
         [
-            "1A SOUTH HAMILTON LANDON GROVE 2023",
+            "2A GHV CALEB GOOD 2025",
             18,
             18
         ],
         [
-            "1A WEST MONONA JAYCE LYNN 2023",
+            "2A FOREST CITY ETHAN JOHNSON 2023",
             19,
             19
         ],
         [
-            "1A IKM-MANNING KASCHE HUEHN 2025",
+            "1A NORTH UNION GAVYN MORPHEW 2024",
             20,
             20
         ],
         [
-            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            "2A FOREST CITY SILAS GANN 2026",
             21,
             21
         ],
         [
-            "1A SOUTH HAMILTON ELI POTTER 2023",
+            "2A GHV JONAH PRINGNITZ 2026",
             22,
             22
         ],
         [
-            "1A EARLHAM PAYTON HARGER 2024",
+            "1A SAINT ANSGAR COLE HANSEN 2023",
             23,
             23
         ],
         [
-            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2025",
+            "1A NEWMAN RYAN KELLY 2023",
             24,
             24
         ],
         [
-            "1A ANKENY CHRISTIAN ALEX DAVIS 2026",
+            "1A NORTH BUTLER TRAGER PECHA 2026",
             25,
             25
         ],
         [
-            "1A WOODWARD ACADEMY ASHER MORLEY 2024",
+            "2A FOREST CITY JOSIAH WELCH 2023",
             26,
             26
         ],
         [
-            "1A EXIRA ERIC WILSON 2024",
+            "2A GHV TY HELLER 2026",
             27,
             27
         ],
         [
-            "1A AHSTW CALEB HATCH 2024",
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
             28,
             28
         ],
         [
-            "1A CAM GAVIN CLAYTON 2023",
+            "1A LAKE MILLS KADE VAN ROEKEL 2025",
             29,
             29
         ],
         [
-            "1A SOUTH HAMILTON PETE COBURN 2024",
+            "2A OSAGE CHASE POTTER 2023",
             30,
             30
         ],
         [
-            "1A WEST MONONA ANDREW ORR 2024",
+            "1A WEST HANCOCK ISAIAH COLLINS 2025",
             31,
             31
         ],
         [
-            "1A WEST MONONA GABE MCKINLEY 2024",
+            "1A LAKE MILLS HAYDEN THOMPSON 2026",
             32,
             32
         ],
         [
-            "1A IKM-MANNING ABE POLZIEN 2025",
+            "2A GHV TYLER ENGLIN 2024",
             33,
             33
         ],
         [
-            "1A SOUTH HAMILTON BOBBY TAPPER 2024",
+            "2A OSAGE ASHTON SONBERG 2023",
             34,
             34
         ],
         [
-            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            "2A FOREST CITY DAWSON SHARP 2025",
             35,
             35
         ],
         [
-            "1A WOODWARD GRANGER CAEL LEIGHTON 2026",
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
             36,
             36
         ],
         [
-            "1A EARLHAM BLAKE PETERSEN 2025",
+            "1A NEWMAN LANDON KOHLER 2023",
             37,
             37
         ],
         [
-            "1A EARLHAM DONOVAN BRAET 2026",
+            "1A NEWMAN SAM STEIDL 2025",
             38,
             38
         ],
         [
-            "1A SOUTH HAMILTON BENJAMIN BAILEY 2023",
+            "1A NEWMAN NOAH O'CONNELL 2025",
             39,
             39
         ],
         [
-            "1A ANKENY CHRISTIAN LANDON NEHRING 2024",
+            "2A GHV GARRETT HELLER 2023",
             40,
             40
         ],
         [
-            "1A EARLHAM COLE FLICKINGER 2023",
+            "2A OSAGE LOGAN MITCHELL 2024",
             41,
             41
         ],
         [
-            "1A EXIRA AUSTIN RASMUSSEN 2026",
+            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
             42,
             42
         ],
         [
-            "1A WOODWARD GRANGER DILLON LIMOGES 2024",
+            "2A GHV GAVIN CHAMBERS 2024",
             43,
             43
         ],
         [
-            "1A WEST MONONA JESSE BOYNTON 2023",
+            "1A NEWMAN LIAM STOCKBERGER 2024",
             44,
             44
         ],
         [
-            "1A EARLHAM TYLER JOHNSON 2023",
+            "1A NORTH IOWA ISAAC HILLESLAND 2024",
             45,
             45
         ],
         [
-            "1A ANKENY CHRISTIAN THOMAS HURST 2025",
+            "1A GTRA QUENTIN SCOTT 2023",
             46,
             46
         ],
         [
-            "1A WEST HARRISON JACOB BARRY 2024",
+            "1A NEWMAN CADEN GIBBONS 2025",
             47,
             47
         ],
         [
-            "1A EXIRA JONAS LACANNE 2024",
+            "1A NORTH IOWA JACKSON POTTER 2025",
             48,
             48
         ],
         [
-            "1A WOODWARD GRANGER HEALEY HILL 2023",
+            "2A FOREST CITY CHASE SORENSON 2025",
             49,
             49
         ],
         [
-            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            "2A OSAGE TANNER WRIGHT 2025",
             50,
             50
         ],
         [
-            "1A WOODWARD GRANGER CARSTEN WRIGHT 2023",
+            "1A BISHOP GARRIGAN ETHAN KUPER 2024",
             51,
             51
         ],
         [
-            "1A ANKENY CHRISTIAN LUKE REITSMA 2026",
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
             52,
             52
         ],
         [
-            "1A WOODWARD GRANGER STERLING PARKINSON 2024",
+            "1A NORTH UNION CHASE CUMMINS 2023",
             53,
             53
         ],
         [
-            "1A SOUTH HAMILTON LAKEN ZANKER 2025",
+            "2A OSAGE TYSEN STANGEL 2026",
             54,
             54
         ],
         [
-            "1A WEST MONONA JAXON PITTET 2026",
+            "1A LAKE MILLS KACEY RENNEKER 2024",
             55,
             55
         ],
         [
-            "1A AUDUBON MASON STECKLER 2025",
+            "2A FOREST CITY CESAR LECHUGA 2023",
             56,
             56
         ],
         [
-            "1A WOODWARD GRANGER ALEX YOUNTS 2026",
+            "1A NEWMAN JOSH HANSON 2024",
             57,
             57
         ],
         [
-            "1A ANKENY CHRISTIAN LUCAS WEATHERS 2025",
+            "1A NEWMAN DAN SPOONER 2026",
             58,
             58
         ],
         [
-            "1A WEST MONONA COLE DISNEY 2023",
+            "1A NORTH BUTLER BRADY HENNING 2026",
             59,
             59
         ],
         [
-            "1A WOODWARD GRANGER AIDEN TOPALOVICH 2024",
+            "1A NEWMAN ELIAS CARLSSON 2026",
             60,
             60
         ],
         [
-            "1A SOUTH HAMILTON JAGGER FERRIE 2025",
+            "1A NEWMAN TYLER PETREE 2026",
             61,
             61
         ],
         [
-            "1A AUDUBON ELI DEIST 2024",
+            "1A NORTH IOWA NOAH HANSON 2025",
             62,
             62
         ],
         [
-            "1A WEST HARRISON RILEY ACKER 2023",
+            "1A WEST HANCOCK KADEN VANEPPS 2025",
             63,
             63
         ],
         [
-            "1A EXIRA PHIL REINHART 2024",
+            "2A GHV LUKE LAMB 2025",
             64,
             64
         ],
         [
-            "1A WEST HARRISON JAMES KRAFT 2024",
+            "1A LAKE MILLS ALEJANDRO VAZQUEZ-PEREZ 2025",
             65,
             65
         ],
         [
-            "1A PANORAMA ZACH HAYDEN 2026",
+            "1A NORTH UNION DALTON TOBIN 2023",
             66,
             66
         ],
         [
-            "1A ANKENY CHRISTIAN KYLE WEBER 2026",
+            "1A LAKE MILLS BRYCE BUDACH 2024",
             67,
             67
         ],
         [
-            "1A NODAWAY VALLEY JACK JENSEN 2024",
+            "1A NORTH BUTLER ALEX ALMELIEN 2025",
             68,
             68
         ],
         [
-            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
+            "1A NORTH UNION NICHOLAS ARNDORFER 2024",
             69,
             69
         ],
         [
-            "1A WOODWARD ACADEMY DENNIS LOPEZ 2024",
+            "1A GTRA ZACH BORCHERS 2024",
             70,
             70
         ],
         [
-            "1A EXIRA JAIDEN PETTEPIER 2024",
+            "1A NORTH UNION AIDEN BAUER 2026",
             71,
             71
         ],
         [
-            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
+            "1A NEWMAN JACE SUNTKEN 2026",
             72,
             72
         ],
         [
-            "1A EXIRA QUINTINN WHITE 2024",
+            "1A BISHOP GARRIGAN DANIEL MEIS 2025",
             73,
             73
         ],
         [
-            "1A EXIRA CARTER WIEMANN 2026",
+            "2A FOREST CITY CALVIN OHRT 2023",
             74,
             74
         ],
         [
-            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            "1A GTRA TRISTAN HARVEY 2024",
             75,
             75
         ],
         [
-            "1A COON RAPIDS-BAYARD LOGAN KENYON 2026",
+            "1A NEWMAN OWEN KLATT 2024",
             76,
             76
         ],
         [
-            "1A WEST HARRISON GUNNER STOLZ 2023",
+            "1A ROCKFORD RYKER HOFFMAN 2025",
             77,
             77
         ],
         [
-            "1A CAM BLAKE GOSSMAN 2026",
+            "2A FOREST CITY JASON BETTS 2025",
             78,
             78
         ],
         [
-            "1A WEST HARRISON KENDEL BALDWIN 2026",
+            "2A FOREST CITY BRODY DIRKSEN 2023",
             79,
             79
+        ],
+        [
+            "2A GHV BLAKE BUITENWERF 2026",
+            80,
+            80
+        ],
+        [
+            "2A FOREST CITY WYATT BERTRAM 2026",
+            81,
+            81
+        ],
+        [
+            "1A LAKE MILLS ASA STELLPFLUG 2024",
+            82,
+            82
+        ],
+        [
+            "2A FOREST CITY JACKSON CLOUSE 2024",
+            83,
+            83
+        ],
+        [
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
+            84,
+            84
+        ],
+        [
+            "1A BISHOP GARRIGAN SCHYLER MORSE 2025",
+            85,
+            85
+        ],
+        [
+            "1A BISHOP GARRIGAN NATHANIEL DARLING 2024",
+            86,
+            86
+        ],
+        [
+            "2A FOREST CITY CALVIN HOLTAN 2025",
+            87,
+            87
+        ],
+        [
+            "1A NORTHWOOD-KENSETT ZACH HEIKEN 2026",
+            88,
+            88
+        ],
+        [
+            "1A NORTHWOOD-KENSETT CHRISTOPHER MADSEN 2024",
+            89,
+            89
+        ],
+        [
+            "2A GHV LATHAM MITCHELL 2025",
+            90,
+            90
+        ],
+        [
+            "1A LAKE MILLS GERALDO VAZQUEZPEREZ 2023",
+            91,
+            91
+        ],
+        [
+            "2A OSAGE JACKSON JOHNSON 2026",
+            92,
+            92
+        ],
+        [
+            "1A BISHOP GARRIGAN AMAURY THOMAS 2026",
+            93,
+            93
+        ],
+        [
+            "2A OSAGE HAMPTON ARCINIEGA 2025",
+            94,
+            94
+        ],
+        [
+            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
+            95,
+            95
+        ],
+        [
+            "2A OSAGE BEN MEIER 2025",
+            96,
+            96
+        ],
+        [
+            "1A NORTH BUTLER EVAN SWYGMAN 2026",
+            97,
+            97
+        ],
+        [
+            "1A LAKE MILLS HOLDEN MAHER 2023",
+            98,
+            98
+        ],
+        [
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
+            99,
+            99
+        ],
+        [
+            "1A NORTH UNION KADE MADDEN 2026",
+            100,
+            100
+        ],
+        [
+            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
+            101,
+            101
+        ],
+        [
+            "1A ROCKFORD MAC HIRV 2024",
+            102,
+            102
+        ],
+        [
+            "2A OSAGE ETHAN PETERSON 2026",
+            103,
+            103
+        ],
+        [
+            "2A OSAGE TAYLOR HOBBS 2026",
+            104,
+            104
+        ],
+        [
+            "1A NORTH BUTLER MILES NIELSEN 2026",
+            105,
+            105
+        ],
+        [
+            "2A OSAGE CONNOR ADAMS 2026",
+            106,
+            106
+        ],
+        [
+            "2A FOREST CITY MARCUS PEDALTY 2025",
+            107,
+            107
+        ],
+        [
+            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
+            108,
+            108
+        ],
+        [
+            "1A BISHOP GARRIGAN GABE SWIFT 2026",
+            109,
+            109
+        ],
+        [
+            "1A NEWMAN BEN SCHUTT 2025",
+            110,
+            110
+        ],
+        [
+            "1A LAKE MILLS NOAH BRUNSVOLD 2026",
+            111,
+            111
         ]
     ]
 }
