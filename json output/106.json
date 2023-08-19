@@ -1,0 +1,366 @@
+{
+    "name": "Fairfield A",
+    "time_seconds": 1662613246,
+    "standings": [
+        [
+            "2A DANVILLE - NEW LONDON RYLAN MARTIN 2023",
+            0,
+            0
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CARTER FESLER 2024",
+            1,
+            1
+        ],
+        [
+            "2A CHARITON DAVID CRABB 2024",
+            2,
+            2
+        ],
+        [
+            "1A WINFIELD-MT. UNION KOHLBY NEWSOM 2025",
+            3,
+            3
+        ],
+        [
+            "2A DANVILLE - NEW LONDON JACKSON SHACKLETT 2025",
+            4,
+            4
+        ],
+        [
+            "2A CHARITON BRADLEY HOBBS 2024",
+            5,
+            5
+        ],
+        [
+            "2A DANVILLE - NEW LONDON TALAN WHALEY 2024",
+            6,
+            6
+        ],
+        [
+            "2A CHARITON CONNOR DIXSON 2024",
+            7,
+            7
+        ],
+        [
+            "1A HILLCREST ACADEMY MICAH GERBER 2025",
+            8,
+            8
+        ],
+        [
+            "2A VAN BUREN LINCOLN BAINBRIDGE 2026",
+            9,
+            9
+        ],
+        [
+            "1A WINFIELD-MT. UNION GABRIEL HEMSWORTH 2024",
+            10,
+            10
+        ],
+        [
+            "2A DANVILLE - NEW LONDON ISAAC SHINN 2026",
+            11,
+            11
+        ],
+        [
+            "2A EBF JAKE MELON 2023",
+            12,
+            12
+        ],
+        [
+            "2A DANVILLE - NEW LONDON NICK POWELL 2025",
+            13,
+            13
+        ],
+        [
+            "2A CHARITON BRENT CRABB 2026",
+            14,
+            14
+        ],
+        [
+            "2A EBF SAM SEDDON 2023",
+            15,
+            15
+        ],
+        [
+            "1A WINFIELD-MT. UNION JACOB HAINES 2023",
+            16,
+            16
+        ],
+        [
+            "2A DANVILLE - NEW LONDON PARKER BUCK 2026",
+            17,
+            17
+        ],
+        [
+            "1A WINFIELD-MT. UNION BOWEN THOMSON 2026",
+            18,
+            18
+        ],
+        [
+            "2A CHARITON SAMUEL KERNS 2025",
+            19,
+            19
+        ],
+        [
+            "1A PEKIN COLE MILLIKIN 2026",
+            20,
+            20
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CARTER BUCK 2024",
+            21,
+            21
+        ],
+        [
+            "1A HILLCREST ACADEMY JESSE BLOSSOM 2025",
+            22,
+            22
+        ],
+        [
+            "1A WINFIELD-MT. UNION TY SCORPIL 2024",
+            23,
+            23
+        ],
+        [
+            "1A WINFIELD-MT. UNION NICHOLAS SPARROW 2026",
+            24,
+            24
+        ],
+        [
+            "1A WAPELLO GARETT DICKEY 2023",
+            25,
+            25
+        ],
+        [
+            "2A CHARITON DYLAN CHANDLER 2026",
+            26,
+            26
+        ],
+        [
+            "2A CARDINAL KYRAN SPEES 2025",
+            27,
+            27
+        ],
+        [
+            "1A WINFIELD-MT. UNION JEFF MAISH 2023",
+            28,
+            28
+        ],
+        [
+            "2A CHARITON MITCH SWARTHOUT 2023",
+            29,
+            29
+        ],
+        [
+            "2A VAN BUREN GRANT LILLEY 2023",
+            30,
+            30
+        ],
+        [
+            "2A VAN BUREN OLIVER TACKETT 2026",
+            31,
+            31
+        ],
+        [
+            "2A VAN BUREN ISAIAH MEEK 2025",
+            32,
+            32
+        ],
+        [
+            "1A WINFIELD-MT. UNION SHEADEN ADAMS 2025",
+            33,
+            33
+        ],
+        [
+            "2A EBF NOAH WALKER 2023",
+            34,
+            34
+        ],
+        [
+            "2A CHARITON DREAVIN SHENEFIELD 2024",
+            35,
+            35
+        ],
+        [
+            "1A PEKIN BEN GUISE 2024",
+            36,
+            36
+        ],
+        [
+            "2A CARDINAL CAYDEN COURTNEY 2026",
+            37,
+            37
+        ],
+        [
+            "2A CHARITON ETHAN WERTS 2025",
+            38,
+            38
+        ],
+        [
+            "1A WAPELLO ASHTON SLATON 2023",
+            39,
+            39
+        ],
+        [
+            "1A WINFIELD-MT. UNION JACOB NELSON 2025",
+            40,
+            40
+        ],
+        [
+            "1A WAPELLO WILL PARSONS 2026",
+            41,
+            41
+        ],
+        [
+            "2A DANVILLE - NEW LONDON NOAH HORN 2026",
+            42,
+            42
+        ],
+        [
+            "2A DANVILLE - NEW LONDON TREVOR YALEY 2026",
+            43,
+            43
+        ],
+        [
+            "1A WINFIELD-MT. UNION JAIDEN BEEDING 2026",
+            44,
+            44
+        ],
+        [
+            "1A PEKIN DYLAN SOBASKI 2025",
+            45,
+            45
+        ],
+        [
+            "2A CARDINAL ALIJAH FRASE 2026",
+            46,
+            46
+        ],
+        [
+            "1A WINFIELD-MT. UNION PRESTON PRIOR 2023",
+            47,
+            47
+        ],
+        [
+            "1A LONE TREE JADIN GRIESER 2023",
+            48,
+            48
+        ],
+        [
+            "1A LONE TREE TAYLOR ALBERHASKY 2025",
+            49,
+            49
+        ],
+        [
+            "2A CHARITON DREW CHANDLER 2026",
+            50,
+            50
+        ],
+        [
+            "1A LONE TREE JOEY BIRTCHER 2024",
+            51,
+            51
+        ],
+        [
+            "1A LONE TREE BLAKE HONEYCUTT 2023",
+            52,
+            52
+        ],
+        [
+            "2A CHARITON GAGE HART 2024",
+            53,
+            53
+        ],
+        [
+            "2A VAN BUREN KEATEN KENNEDY 2025",
+            54,
+            54
+        ],
+        [
+            "1A HIGHLAND BRENDAN SCHNOEBELEN 2023",
+            55,
+            55
+        ],
+        [
+            "1A HIGHLAND JACKSON SCHNEIDER 2024",
+            56,
+            56
+        ],
+        [
+            "1A HIGHLAND BRAYDEN ZYWIEC 2026",
+            57,
+            57
+        ],
+        [
+            "1A HIGHLAND CHASE BOSHART 2026",
+            58,
+            58
+        ],
+        [
+            "1A WAPELLO JACK BOYSEN 2026",
+            59,
+            59
+        ],
+        [
+            "1A WAPELLO JORDAN CHAMBERLIN-JOHNSTON 2026",
+            60,
+            60
+        ],
+        [
+            "2A EBF CAEL LENOX 2024",
+            61,
+            61
+        ],
+        [
+            "1A HILLCREST ACADEMY KYLE NEUSCHWANDER 2025",
+            62,
+            62
+        ],
+        [
+            "2A CHARITON LUIS ACUNA 2025",
+            63,
+            63
+        ],
+        [
+            "2A DANVILLE - NEW LONDON ALEX PFADENHAUER 2026",
+            64,
+            64
+        ],
+        [
+            "1A WINFIELD-MT. UNION GABE WHITE 2023",
+            65,
+            65
+        ],
+        [
+            "2A DANVILLE - NEW LONDON JACOB HOBBS 2026",
+            66,
+            66
+        ],
+        [
+            "1A PEKIN BRADY MCWHIRTER 2025",
+            67,
+            67
+        ],
+        [
+            "1A HIGHLAND CHASE HICKENBOTTOM 2026",
+            68,
+            68
+        ],
+        [
+            "1A HILLCREST ACADEMY JEREMIAH DANKER 2025",
+            69,
+            69
+        ],
+        [
+            "2A DANVILLE - NEW LONDON AARON PFADENHAUER 2026",
+            70,
+            70
+        ],
+        [
+            "1A WAPELLO HOLDEN HELMIG 2026",
+            71,
+            71
+        ]
+    ]
+}

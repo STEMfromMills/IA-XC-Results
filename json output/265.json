@@ -1,0 +1,366 @@
+{
+    "name": "South Obrien ",
+    "time_seconds": 1664427625,
+    "standings": [
+        [
+            "2A GEORGE-LITTLE ROCK LANE HENRICHS 2023",
+            0,
+            0
+        ],
+        [
+            "2A ESTHERVILLE-LC PARKER DUITSMAN 2024",
+            1,
+            1
+        ],
+        [
+            "1A MMCRU KADEN GALLES 2024",
+            2,
+            2
+        ],
+        [
+            "1A MMCRU OWEN ALESCH 2023",
+            3,
+            3
+        ],
+        [
+            "1A HINTON CALEB BOWER 2026",
+            4,
+            4
+        ],
+        [
+            "1A SIOUX CENTRAL LEIGHTON SIPPEL 2025",
+            5,
+            5
+        ],
+        [
+            "2A SHELDON CALEB HUFF 2025",
+            6,
+            6
+        ],
+        [
+            "1A SIOUX CENTRAL BRAYDEN KRAMBER 2024",
+            7,
+            7
+        ],
+        [
+            "2A SHELDON JOSH HOFFMANN 2025",
+            8,
+            8
+        ],
+        [
+            "1A HINTON ZACH SYPERSMA 2023",
+            9,
+            9
+        ],
+        [
+            "1A TRINITY CHRISTIAN CARTER WESTRA 2025",
+            10,
+            10
+        ],
+        [
+            "1A MMCRU LUCAS BRAUN 2025",
+            11,
+            11
+        ],
+        [
+            "1A SIOUX CENTRAL JACK CHRISTIAN 2026",
+            12,
+            12
+        ],
+        [
+            "2A ESTHERVILLE-LC WARREN DUITSMAN 2026",
+            13,
+            13
+        ],
+        [
+            "1A HMS BRYCE DODGE 2023",
+            14,
+            14
+        ],
+        [
+            "1A HMS GEORGE VARGAS 2024",
+            15,
+            15
+        ],
+        [
+            "1A SIOUX CENTRAL JOSHUA HOFFMAN 2025",
+            16,
+            16
+        ],
+        [
+            "1A SOUTH O'BRIEN BEN WOODALL 2024",
+            17,
+            17
+        ],
+        [
+            "1A MMCRU WYATT ALESCH 2026",
+            18,
+            18
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK MATT HELKENN 2024",
+            19,
+            19
+        ],
+        [
+            "2A SHELDON MICHAEL WASSENAAR 2025",
+            20,
+            20
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK CHASE DUIN 2024",
+            21,
+            21
+        ],
+        [
+            "1A SIOUX CENTRAL ETHAN WERNIMONT 2024",
+            22,
+            22
+        ],
+        [
+            "1A GEHLEN NOLAN TEEL 2026",
+            23,
+            23
+        ],
+        [
+            "1A SIOUX CENTRAL ALEX KUENY 2026",
+            24,
+            24
+        ],
+        [
+            "2A ESTHERVILLE-LC CONNER MATHESON 2026",
+            25,
+            25
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK JESUS MARTINEZ 2024",
+            26,
+            26
+        ],
+        [
+            "2A WEST LYON TAYTON KNOBLOCH 2025",
+            27,
+            27
+        ],
+        [
+            "1A GEHLEN BRADAN WEBER 2025",
+            28,
+            28
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK RYLIE MAYO 2023",
+            29,
+            29
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK MATT LANGHOLDT 2023",
+            30,
+            30
+        ],
+        [
+            "1A TRINITY CHRISTIAN REID GROENEWEG 2025",
+            31,
+            31
+        ],
+        [
+            "1A SIOUX CENTRAL NATHAN KUENY 2024",
+            32,
+            32
+        ],
+        [
+            "1A TRINITY CHRISTIAN KYLAN DAVELAAR 2025",
+            33,
+            33
+        ],
+        [
+            "1A GEHLEN ROBERT SCHMIT 2025",
+            34,
+            34
+        ],
+        [
+            "2A ESTHERVILLE-LC BENNETT DUITSMAN 2026",
+            35,
+            35
+        ],
+        [
+            "2A WEST LYON ALEC KOCK 2026",
+            36,
+            36
+        ],
+        [
+            "2A WEST LYON REED FEUCHT 2026",
+            37,
+            37
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK BRANDON VAN BRIESEN 2023",
+            38,
+            38
+        ],
+        [
+            "1A HMS DAMIAN DODGE 2025",
+            39,
+            39
+        ],
+        [
+            "2A SHELDON GAVIN STROUTH 2024",
+            40,
+            40
+        ],
+        [
+            "1A WESTWOOD CARTER JENKINS 2024",
+            41,
+            41
+        ],
+        [
+            "1A WEST SIOUX TROY DEKKARS 2026",
+            42,
+            42
+        ],
+        [
+            "2A WEST LYON AIDAN JENNINGS 2024",
+            43,
+            43
+        ],
+        [
+            "1A HMS AIDEN BUSH 2025",
+            44,
+            44
+        ],
+        [
+            "1A GEHLEN LANDEN KNEIP 2026",
+            45,
+            45
+        ],
+        [
+            "2A ESTHERVILLE-LC JACOB KNUDSON 2023",
+            46,
+            46
+        ],
+        [
+            "1A SOUTH O'BRIEN BRETT EVANS 2025",
+            47,
+            47
+        ],
+        [
+            "1A GEHLEN OWEN SEIVERS 2026",
+            48,
+            48
+        ],
+        [
+            "1A HINTON IAN GREIGG 2025",
+            49,
+            49
+        ],
+        [
+            "2A SHELDON MICHAEL STREHLOW 2023",
+            50,
+            50
+        ],
+        [
+            "1A HMS BLAINE FINSTER 2025",
+            51,
+            51
+        ],
+        [
+            "2A WEST LYON CARTER HASSELMAN 2023",
+            52,
+            52
+        ],
+        [
+            "1A TRINITY CHRISTIAN MALACHI BLOEMENDAAL 2026",
+            53,
+            53
+        ],
+        [
+            "1A WESTWOOD OWEN SCOTT 2026",
+            54,
+            54
+        ],
+        [
+            "1A WHITING COLE BETHUNE 2025",
+            55,
+            55
+        ],
+        [
+            "1A SOUTH O'BRIEN DOMINIC ROUNDS 2026",
+            56,
+            56
+        ],
+        [
+            "1A SOUTH O'BRIEN ETHAN SCHWARZ 2025",
+            57,
+            57
+        ],
+        [
+            "1A SOUTH O'BRIEN IAN OLIVER 2024",
+            58,
+            58
+        ],
+        [
+            "2A SHELDON NOAH DAGEL 2023",
+            59,
+            59
+        ],
+        [
+            "2A ESTHERVILLE-LC JAYDEN POLLOCK 2026",
+            60,
+            60
+        ],
+        [
+            "1A HINTON CARSON SUDBECK 2025",
+            61,
+            61
+        ],
+        [
+            "1A WEST SIOUX ANTHONY HANSEN 2026",
+            62,
+            62
+        ],
+        [
+            "1A WEST SIOUX EVAN LAUTERS 2024",
+            63,
+            63
+        ],
+        [
+            "1A MMCRU MAX PEPPER 2025",
+            64,
+            64
+        ],
+        [
+            "1A TRINITY CHRISTIAN NICK VAN ENGEN 2023",
+            65,
+            65
+        ],
+        [
+            "1A SOUTH O'BRIEN BENSEN ROHWER 2025",
+            66,
+            66
+        ],
+        [
+            "1A WEST SIOUX MORGAN THONSTAD 2024",
+            67,
+            67
+        ],
+        [
+            "1A WESTWOOD KORBEN CHRISTOFFERSEN 2026",
+            68,
+            68
+        ],
+        [
+            "1A WHITING ISAAC RICH 2026",
+            69,
+            69
+        ],
+        [
+            "1A WESTWOOD NOAH SEGGERMAN 2025",
+            70,
+            70
+        ],
+        [
+            "1A SOUTH O'BRIEN KALEB BUENGER 2025",
+            71,
+            71
+        ]
+    ]
+}

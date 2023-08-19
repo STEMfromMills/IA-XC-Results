@@ -1,0 +1,471 @@
+{
+    "name": "Sioux Center var",
+    "time_seconds": 1663822830,
+    "standings": [
+        [
+            "3A LEMARS TRACE OBBINK 2024",
+            0,
+            0
+        ],
+        [
+            "2A OKOBOJI EVAN OSLER 2025",
+            1,
+            1
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK LANE HENRICHS 2023",
+            2,
+            2
+        ],
+        [
+            "3A SIOUX CENTER EASTON VANDENBERG 2023",
+            3,
+            3
+        ],
+        [
+            "2A OKOBOJI TRIGG HEIMDAL 2025",
+            4,
+            4
+        ],
+        [
+            "3A SIOUX CENTER HUDSON VONK 2024",
+            5,
+            5
+        ],
+        [
+            "2A OKOBOJI DYLAN JONES 2023",
+            6,
+            6
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN ALEJANDRO BERNAL 2023",
+            7,
+            7
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN BEN BYERS 2026",
+            8,
+            8
+        ],
+        [
+            "2A UNITY CHRISTIAN JONATHON BREEMS 2023",
+            9,
+            9
+        ],
+        [
+            "3A SPENCER VAN MUNSON 2024",
+            10,
+            10
+        ],
+        [
+            "3A LEMARS MICHAEL MEIS 2023",
+            11,
+            11
+        ],
+        [
+            "2A UNITY CHRISTIAN STEPHEN SCHREURS 2024",
+            12,
+            12
+        ],
+        [
+            "2A OKOBOJI AKRON JOSTAND 2024",
+            13,
+            13
+        ],
+        [
+            "2A UNITY CHRISTIAN ETHAN WYNIA 2025",
+            14,
+            14
+        ],
+        [
+            "2A OKOBOJI DREW SANDVEN 2024",
+            15,
+            15
+        ],
+        [
+            "2A WEST LYON SAM MEESTER 2023",
+            16,
+            16
+        ],
+        [
+            "2A UNITY CHRISTIAN DAYLEN MULDER 2024",
+            17,
+            17
+        ],
+        [
+            "3A SIOUX CENTER KELLEN DEAN 2024",
+            18,
+            18
+        ],
+        [
+            "2A OKOBOJI CHRISTIAN HESSE 2023",
+            19,
+            19
+        ],
+        [
+            "3A SIOUX CENTER LOGAN FOLTZ 2024",
+            20,
+            20
+        ],
+        [
+            "2A WESTERN CHRISTIAN CALEB DOUMA 2024",
+            21,
+            21
+        ],
+        [
+            "2A UNITY CHRISTIAN LANE SCHOLTEN 2025",
+            22,
+            22
+        ],
+        [
+            "2A WESTERN CHRISTIAN ZACHARY MINDERHOUD 2023",
+            23,
+            23
+        ],
+        [
+            "1A WEST MONONA JAYCE LYNN 2023",
+            24,
+            24
+        ],
+        [
+            "1A WEST MONONA EEIN MCKINLEY 2023",
+            25,
+            25
+        ],
+        [
+            "2A SHELDON JOSH HOFFMANN 2025",
+            26,
+            26
+        ],
+        [
+            "1A TRINITY CHRISTIAN CARTER WESTRA 2025",
+            27,
+            27
+        ],
+        [
+            "2A SHELDON CALEB HUFF 2025",
+            28,
+            28
+        ],
+        [
+            "2A UNITY CHRISTIAN IAIN MONROE 2023",
+            29,
+            29
+        ],
+        [
+            "2A OKOBOJI DAKOTA HESSELTINE 2023",
+            30,
+            30
+        ],
+        [
+            "3A SPENCER NOAH FULLHART 2026",
+            31,
+            31
+        ],
+        [
+            "3A SPENCER NOAH GOEKEN 2023",
+            32,
+            32
+        ],
+        [
+            "3A SIOUX CENTER MICAH VANDEVEGTE 2025",
+            33,
+            33
+        ],
+        [
+            "3A BH-RV BEN BLUM 2024",
+            34,
+            34
+        ],
+        [
+            "3A LEMARS CADEN WURTH 2023",
+            35,
+            35
+        ],
+        [
+            "3A BH-RV ARIEL VARGAS 2023",
+            36,
+            36
+        ],
+        [
+            "2A CHEROKEE KYLER DUCOMMUN 2025",
+            37,
+            37
+        ],
+        [
+            "2A WESTERN CHRISTIAN COWAN VAN KLEY 2023",
+            38,
+            38
+        ],
+        [
+            "3A LEMARS JUAN SANCHEZ 2023",
+            39,
+            39
+        ],
+        [
+            "2A CHEROKEE COLTON SAMSEL 2023",
+            40,
+            40
+        ],
+        [
+            "3A SPENCER SERGIO TELLO 2025",
+            41,
+            41
+        ],
+        [
+            "3A SPENCER NOLAN MCCUSKER 2026",
+            42,
+            42
+        ],
+        [
+            "1A WEST MONONA COLE DISNEY 2023",
+            43,
+            43
+        ],
+        [
+            "3A LEMARS MICHAEL MURRA 2024",
+            44,
+            44
+        ],
+        [
+            "2A UNITY CHRISTIAN TYLER ROZENBOOM 2025",
+            45,
+            45
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK CHASE DUIN 2024",
+            46,
+            46
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK JESUS MARTINEZ 2024",
+            47,
+            47
+        ],
+        [
+            "2A CHEROKEE JONATHAN REUSCH 2023",
+            48,
+            48
+        ],
+        [
+            "2A CHEROKEE XZAVIER HYNDMAN 2023",
+            49,
+            49
+        ],
+        [
+            "1A GEHLEN BRADAN WEBER 2025",
+            50,
+            50
+        ],
+        [
+            "2A WEST LYON TAYTON KNOBLOCH 2025",
+            51,
+            51
+        ],
+        [
+            "1A WEST MONONA JESSE BOYNTON 2023",
+            52,
+            52
+        ],
+        [
+            "1A GEHLEN NOLAN TEEL 2026",
+            53,
+            53
+        ],
+        [
+            "2A CHEROKEE RILEY SHWARTZ 2025",
+            54,
+            54
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK MATT HELKENN 2024",
+            55,
+            55
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN AIDEN DE ZEEUW 2024",
+            56,
+            56
+        ],
+        [
+            "3A LEMARS NOAH LAURSEN 2024",
+            57,
+            57
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN DAVID POPPEN 2025",
+            58,
+            58
+        ],
+        [
+            "3A SIOUX CENTER NICHOLAS DAHM 2024",
+            59,
+            59
+        ],
+        [
+            "1A WEST MONONA ANDREW ORR 2024",
+            60,
+            60
+        ],
+        [
+            "3A SPENCER ALEX BALDWIN 2024",
+            61,
+            61
+        ],
+        [
+            "2A CHEROKEE CULLY MIZNER-FUNDERMANN 2026",
+            62,
+            62
+        ],
+        [
+            "2A SHELDON MACHAEL WASSENAAR 2025",
+            63,
+            63
+        ],
+        [
+            "1A GEHLEN ROBERT SCHMIT 2025",
+            64,
+            64
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK RYLIE MAYO 2023",
+            65,
+            65
+        ],
+        [
+            "1A TRINITY CHRISTIAN REID GROENEWEG 2025",
+            66,
+            66
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK MATTHEW LANGHOLDT 2023",
+            67,
+            67
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN CALE REITER 2025",
+            68,
+            68
+        ],
+        [
+            "2A WESTERN CHRISTIAN NOAH DEWEERD 2024",
+            69,
+            69
+        ],
+        [
+            "2A CHEROKEE LAIKEN JOHNSON 2026",
+            70,
+            70
+        ],
+        [
+            "1A WEST MONONA GABE MCKINLEY 2024",
+            71,
+            71
+        ],
+        [
+            "1A TRINITY CHRISTIAN KYLAN DAVELAAR 2025",
+            72,
+            72
+        ],
+        [
+            "3A BH-RV LOGAN SIEBRECHT 2024",
+            73,
+            73
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK AARON SPRINGER 2024",
+            74,
+            74
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN KEEGAN DE ZEEUW 2023",
+            75,
+            75
+        ],
+        [
+            "2A WEST LYON ALEC KOCK 2026",
+            76,
+            76
+        ],
+        [
+            "2A WEST LYON AIDAN JENNINGS 2024",
+            77,
+            77
+        ],
+        [
+            "2A WEST LYON REED FEUCHT 2026",
+            78,
+            78
+        ],
+        [
+            "2A SHELDON GAVIN STROUTH 2024",
+            79,
+            79
+        ],
+        [
+            "3A SPENCER JACE FULLHART 2024",
+            80,
+            80
+        ],
+        [
+            "2A WEST LYON KEVIN MARTINEZ 2024",
+            81,
+            81
+        ],
+        [
+            "1A GEHLEN LANDEN KNEIP 2026",
+            82,
+            82
+        ],
+        [
+            "3A BH-RV AMOS HESPE 2025",
+            83,
+            83
+        ],
+        [
+            "1A GEHLEN OWEN SEIVERS 2026",
+            84,
+            84
+        ],
+        [
+            "1A WEST MONONA JAXON PITTET 2026",
+            85,
+            85
+        ],
+        [
+            "1A TRINITY CHRISTIAN MALACHI BLOEMENDAAL 2026",
+            86,
+            86
+        ],
+        [
+            "2A SHELDON MICHEAL STREHLOW 2023",
+            87,
+            87
+        ],
+        [
+            "2A WEST LYON CARTER HASSELMANN 2023",
+            88,
+            88
+        ],
+        [
+            "3A LEMARS SETH VANDERSLUIS 2024",
+            89,
+            89
+        ],
+        [
+            "2A SHELDON NOAH DAGEL 2023",
+            90,
+            90
+        ],
+        [
+            "3A BH-RV LUIS KING 2026",
+            91,
+            91
+        ],
+        [
+            "1A TRINITY CHRISTIAN NICOLAS VAN ENGEN 2023",
+            92,
+            92
+        ]
+    ]
+}

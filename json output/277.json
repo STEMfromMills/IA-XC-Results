@@ -1,0 +1,311 @@
+{
+    "name": "Hillcrest ",
+    "time_seconds": 1664773237,
+    "standings": [
+        [
+            "3A PELLA CHASE LAUMAN 2023",
+            0,
+            0
+        ],
+        [
+            "3A WASHINGTON MICAH REES 2024",
+            1,
+            1
+        ],
+        [
+            "3A PELLA CANAAN DUNHAM 2026",
+            2,
+            2
+        ],
+        [
+            "3A PELLA NATHAN VANDERWAAL 2024",
+            3,
+            3
+        ],
+        [
+            "2A MEDIAPOLIS SOLOMON ZAUGG 2024",
+            4,
+            4
+        ],
+        [
+            "3A MT PLEASANT BEN CARTHEY 2024",
+            5,
+            5
+        ],
+        [
+            "2A MEDIAPOLIS OWEN SCHMIDGALL 2024",
+            6,
+            6
+        ],
+        [
+            "3A PELLA ZACK NEUMANN 2023",
+            7,
+            7
+        ],
+        [
+            "3A PELLA NOAH SCHUKNECHT 2026",
+            8,
+            8
+        ],
+        [
+            "2A DANVILLE - NEW LONDON RYLAN MARTIN 2023",
+            9,
+            9
+        ],
+        [
+            "1A ENGLISH VALLEYS GAGE HEYNE 2025",
+            10,
+            10
+        ],
+        [
+            "3A PELLA COOPER VANDE VOORT 2023",
+            11,
+            11
+        ],
+        [
+            "3A PELLA AREN HELLBUSCH 2025",
+            12,
+            12
+        ],
+        [
+            "2A MEDIAPOLIS JEFF CAMPBELL 2023",
+            13,
+            13
+        ],
+        [
+            "1A NORTH MAHASKA BRAYDEN VEISETH 2024",
+            14,
+            14
+        ],
+        [
+            "2A DANVILLE - NEW LONDON JACKSON SHACKLETT 2025",
+            15,
+            15
+        ],
+        [
+            "3A WASHINGTON LANE SCHROCK 2024",
+            16,
+            16
+        ],
+        [
+            "3A WASHINGTON DREW HORAK 2023",
+            17,
+            17
+        ],
+        [
+            "3A WASHINGTON TYLER ALDERTON 2025",
+            18,
+            18
+        ],
+        [
+            "3A MT PLEASANT JUDE DYKSTRA 2026",
+            19,
+            19
+        ],
+        [
+            "1A NORTH MAHASKA ASHER DEBOEF 2025",
+            20,
+            20
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CAUY GARRETT 2023",
+            21,
+            21
+        ],
+        [
+            "1A NORTH MAHASKA NATE SAMPSON 2024",
+            22,
+            22
+        ],
+        [
+            "2A MEDIAPOLIS LOGAN ROSAS 2024",
+            23,
+            23
+        ],
+        [
+            "3A FAIRFIELD DAYTON MAUCK 2025",
+            24,
+            24
+        ],
+        [
+            "1A SIGOURNEY KLETT TROY 2026",
+            25,
+            25
+        ],
+        [
+            "3A WASHINGTON ANDREW REES 2026",
+            26,
+            26
+        ],
+        [
+            "3A FAIRFIELD RILEY PERKINS 2025",
+            27,
+            27
+        ],
+        [
+            "3A FAIRFIELD NATE KONCZAL 2024",
+            28,
+            28
+        ],
+        [
+            "2A DANVILLE - NEW LONDON ISAAC SHINN 2026",
+            29,
+            29
+        ],
+        [
+            "3A MT PLEASANT TYLER JOHNSON 2023",
+            30,
+            30
+        ],
+        [
+            "3A MT PLEASANT JONATHAN HOUGH 2023",
+            31,
+            31
+        ],
+        [
+            "3A FAIRFIELD BEN BOATRIGHT 2024",
+            32,
+            32
+        ],
+        [
+            "1A HILLCREST ACADEMY MICAH GERBER 2025",
+            33,
+            33
+        ],
+        [
+            "3A MT PLEASANT COLEMAN MOWERY 2024",
+            34,
+            34
+        ],
+        [
+            "2A DANVILLE - NEW LONDON NICK POWELL 2025",
+            35,
+            35
+        ],
+        [
+            "3A WASHINGTON KAEL MALICHKY 2024",
+            36,
+            36
+        ],
+        [
+            "3A MT PLEASANT GABE FELDMANN 2023",
+            37,
+            37
+        ],
+        [
+            "2A MEDIAPOLIS TYLER BRATKOWSKI 2024",
+            38,
+            38
+        ],
+        [
+            "3A MT PLEASANT ISAAC RYNDERS 2023",
+            39,
+            39
+        ],
+        [
+            "3A WASHINGTON SAWYER TSCHANTZ 2026",
+            40,
+            40
+        ],
+        [
+            "1A NORTH MAHASKA BEN YANG 2025",
+            41,
+            41
+        ],
+        [
+            "1A NORTH MAHASKA ANDY KNOCKEL 2024",
+            42,
+            42
+        ],
+        [
+            "1A WAPELLO GARETT DICKEY 2023",
+            43,
+            43
+        ],
+        [
+            "2A DANVILLE - NEW LONDON PARKER BUCK 2026",
+            44,
+            44
+        ],
+        [
+            "1A HILLCREST ACADEMY JESSE BLOSSOM 2025",
+            45,
+            45
+        ],
+        [
+            "3A FAIRFIELD GABE TEJADA 2025",
+            46,
+            46
+        ],
+        [
+            "2A MEDIAPOLIS BEN RICE 2025",
+            47,
+            47
+        ],
+        [
+            "1A NORTH MAHASKA CLAY THOMPSON 2024",
+            48,
+            48
+        ],
+        [
+            "1A WAPELLO ASHTON SLATON 2023",
+            49,
+            49
+        ],
+        [
+            "3A FAIRFIELD CASS CLAE 2026",
+            50,
+            50
+        ],
+        [
+            "1A WAPELLO WILL PARSONS 2026",
+            51,
+            51
+        ],
+        [
+            "1A SIGOURNEY DAWSON MEYER 2025",
+            52,
+            52
+        ],
+        [
+            "1A KEOTA OWEN MORRIS 2025",
+            53,
+            53
+        ],
+        [
+            "3A FAIRFIELD RYAN HIGGINS 2023",
+            54,
+            54
+        ],
+        [
+            "1A WAPELLO JACK BOYSEN 2026",
+            55,
+            55
+        ],
+        [
+            "1A LONE TREE JADIN GRIESER 2023",
+            56,
+            56
+        ],
+        [
+            "1A HILLCREST ACADEMY JEREMIAH DANKER 2025",
+            57,
+            57
+        ],
+        [
+            "1A WAPELLO JORDAN CHAMBERLIN-JOHNSTON 2026",
+            58,
+            58
+        ],
+        [
+            "1A HILLCREST ACADEMY KYLE NEUSCHWANDER 2025",
+            59,
+            59
+        ],
+        [
+            "1A WAPELLO HOLDEN HELMIG 2026",
+            60,
+            60
+        ]
+    ]
+}

@@ -1,0 +1,941 @@
+{
+    "name": "South Hardin",
+    "time_seconds": 1662008403,
+    "standings": [
+        [
+            "3A GILBERT WILLIAM WADSLEY 2023",
+            0,
+            0
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK KADEN LYNCH 2024",
+            1,
+            1
+        ],
+        [
+            "4A WATERLOO WEST PRESLEY BERNS 2025",
+            2,
+            2
+        ],
+        [
+            "3A GILBERT ZAIN MUELLER 2024",
+            3,
+            3
+        ],
+        [
+            "1A EAST MARSHALL JOE TERRONES 2023",
+            4,
+            4
+        ],
+        [
+            "3A GILBERT PRESTON STENSLAND 2026",
+            5,
+            5
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRENNEN SAGER 2023",
+            6,
+            6
+        ],
+        [
+            "3A GILBERT CARSON SQUIERS 2026",
+            7,
+            7
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK EMERSON VOKES 2026",
+            8,
+            8
+        ],
+        [
+            "3A NEVADA CARTER HOLLAND 2024",
+            9,
+            9
+        ],
+        [
+            "3A NEVADA OWEN FREEMAN 2023",
+            10,
+            10
+        ],
+        [
+            "1A EAST MARSHALL PATRICK SLIFER 2023",
+            11,
+            11
+        ],
+        [
+            "3A GILBERT EMMETT BARBER 2025",
+            12,
+            12
+        ],
+        [
+            "4A WATERLOO WEST BEN RITTER 2025",
+            13,
+            13
+        ],
+        [
+            "3A GILBERT HARRISON KRAEHLING 2024",
+            14,
+            14
+        ],
+        [
+            "1A BCLUW CAYDEN MCLELAND 2023",
+            15,
+            15
+        ],
+        [
+            "4A WATERLOO WEST RYAN HARN 2024",
+            16,
+            16
+        ],
+        [
+            "3A NEVADA BRIAN ROHDE 2025",
+            17,
+            17
+        ],
+        [
+            "3A GILBERT JOHN ARTZ 2025",
+            18,
+            18
+        ],
+        [
+            "2A JESUP NATHAN PINT 2025",
+            19,
+            19
+        ],
+        [
+            "1A SOUTH HAMILTON LANDON GROVE 2023",
+            20,
+            20
+        ],
+        [
+            "3A NEVADA ROWAN STEELE 2024",
+            21,
+            21
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK TYLER VENENGA 2024",
+            22,
+            22
+        ],
+        [
+            "1A EAST MARSHALL KALEB GRANT 2024",
+            23,
+            23
+        ],
+        [
+            "3A GILBERT EMRICK RYAN 2026",
+            24,
+            24
+        ],
+        [
+            "4A WATERLOO WEST BRADEN NYSTROM 2023",
+            25,
+            25
+        ],
+        [
+            "3A NEVADA WILL BAUMANN 2024",
+            26,
+            26
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
+            27,
+            27
+        ],
+        [
+            "1A HUDSON LUCAS GRADY 2024",
+            28,
+            28
+        ],
+        [
+            "1A BCLUW CAYDEN WHITE 2025",
+            29,
+            29
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DEVIN WRIDER 2025",
+            30,
+            30
+        ],
+        [
+            "1A EAST MARSHALL BROCK CURTIS 2023",
+            31,
+            31
+        ],
+        [
+            "3A GILBERT ZEKE HATFIELD 2025",
+            32,
+            32
+        ],
+        [
+            "3A GILBERT CALEB RAGALLER 2023",
+            33,
+            33
+        ],
+        [
+            "1A HUDSON BRADY HANSEN 2024",
+            34,
+            34
+        ],
+        [
+            "2A JESUP KADEN LANGE 2026",
+            35,
+            35
+        ],
+        [
+            "3A NEVADA DAWSON LEMKE 2026",
+            36,
+            36
+        ],
+        [
+            "2A JESUP WILL NESBIT 2026",
+            37,
+            37
+        ],
+        [
+            "1A EAST MARSHALL CALE HUNGERFORD 2024",
+            38,
+            38
+        ],
+        [
+            "4A WATERLOO WEST COOPER PAXTON 2023",
+            39,
+            39
+        ],
+        [
+            "1A HUDSON RYAN PECK 2023",
+            40,
+            40
+        ],
+        [
+            "1A HUDSON DREW HANSEN 2023",
+            41,
+            41
+        ],
+        [
+            "1A EAST MARSHALL CHANDLER CURTIS 2026",
+            42,
+            42
+        ],
+        [
+            "4A WATERLOO WEST ZEPHANIAH GUSTAFSON 2023",
+            43,
+            43
+        ],
+        [
+            "3A NEVADA PAUL STEPHENS 2026",
+            44,
+            44
+        ],
+        [
+            "2A JESUP TYLER NOLAN 2024",
+            45,
+            45
+        ],
+        [
+            "3A GILBERT JACOB DANILSON 2023",
+            46,
+            46
+        ],
+        [
+            "1A SOUTH HAMILTON ELI POTTER 2023",
+            47,
+            47
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TYLER NYSTEL 2023",
+            48,
+            48
+        ],
+        [
+            "3A NEVADA IAN THOMAS 2024",
+            49,
+            49
+        ],
+        [
+            "3A NEVADA LUCAS MILLS 2024",
+            50,
+            50
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRAYDEN WALLIS 2025",
+            51,
+            51
+        ],
+        [
+            "1A BCLUW LINCOLN STOVER 2023",
+            52,
+            52
+        ],
+        [
+            "2A JESUP AYDEN GONZALEZ 2024",
+            53,
+            53
+        ],
+        [
+            "2A WEST MARSHALL JACOB EIRIKSON 2026",
+            54,
+            54
+        ],
+        [
+            "1A SOUTH HARDIN GAVIN RUNYON 2025",
+            55,
+            55
+        ],
+        [
+            "4A WATERLOO WEST CALEB KERKOVE 2024",
+            56,
+            56
+        ],
+        [
+            "1A SOUTH HAMILTON PETE COBURN 2024",
+            57,
+            57
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
+            58,
+            58
+        ],
+        [
+            "4A WATERLOO WEST JAMES KNIGHT 2026",
+            59,
+            59
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK JERYN SPEAR 2023",
+            60,
+            60
+        ],
+        [
+            "1A SOUTH HAMILTON BOBBY TAPPER 2024",
+            61,
+            61
+        ],
+        [
+            "1A HUDSON LANE ROGERS 2023",
+            62,
+            62
+        ],
+        [
+            "3A NEVADA FRANK ENGSTROM 2024",
+            63,
+            63
+        ],
+        [
+            "1A SOUTH HARDIN COLTON MCDONALD 2023",
+            64,
+            64
+        ],
+        [
+            "3A NEVADA GAVIN SKAGGS 2024",
+            65,
+            65
+        ],
+        [
+            "1A HUDSON ALEX STEELE 2024",
+            66,
+            66
+        ],
+        [
+            "1A SOUTH HARDIN HAYDEN STARR 2025",
+            67,
+            67
+        ],
+        [
+            "1A EAST MARSHALL CARTER BRUMMEL 2024",
+            68,
+            68
+        ],
+        [
+            "3A GILBERT DALTON NELSON 2023",
+            69,
+            69
+        ],
+        [
+            "1A HUDSON JACOB CULHAM 2026",
+            70,
+            70
+        ],
+        [
+            "3A NEVADA NICK FRIDERES 2023",
+            71,
+            71
+        ],
+        [
+            "3A GILBERT LANDON LUCHT 2026",
+            72,
+            72
+        ],
+        [
+            "2A DIKE-NEW HARTFORD BRYCE PETERSEN 2023",
+            73,
+            73
+        ],
+        [
+            "1A BCLUW CARTER KEMP 2023",
+            74,
+            74
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
+            75,
+            75
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
+            76,
+            76
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RASMUS BRANDT 2023",
+            77,
+            77
+        ],
+        [
+            "3A GILBERT ELI HAGUE 2026",
+            78,
+            78
+        ],
+        [
+            "3A GILBERT WESTON CONGDON 2023",
+            79,
+            79
+        ],
+        [
+            "4A WATERLOO WEST GUNNER STEELE 2025",
+            80,
+            80
+        ],
+        [
+            "2A DIKE-NEW HARTFORD CALEB PAULSEN 2023",
+            81,
+            81
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK CHRIS UTTERBACK 2025",
+            82,
+            82
+        ],
+        [
+            "3A NEVADA CALEB BIENSEN 2026",
+            83,
+            83
+        ],
+        [
+            "1A BCLUW DANE PETTY 2023",
+            84,
+            84
+        ],
+        [
+            "3A GILBERT CASON EGGERT 2023",
+            85,
+            85
+        ],
+        [
+            "2A WEST MARSHALL JACK DECKER 2025",
+            86,
+            86
+        ],
+        [
+            "1A GMG BRAYTON DAVIS 2026",
+            87,
+            87
+        ],
+        [
+            "1A HUDSON DREW BARBER 2024",
+            88,
+            88
+        ],
+        [
+            "3A NEVADA CONNERY VARSA 2026",
+            89,
+            89
+        ],
+        [
+            "2A JESUP KARSTEN NUEHRING 2025",
+            90,
+            90
+        ],
+        [
+            "2A DIKE-NEW HARTFORD SHAYDEN LOGER 2023",
+            91,
+            91
+        ],
+        [
+            "1A GMG GRADY DIELEMAN 2025",
+            92,
+            92
+        ],
+        [
+            "1A SOUTH HARDIN COLLIN BURK 2026",
+            93,
+            93
+        ],
+        [
+            "2A WEST MARSHALL BREVON GIBSON 2024",
+            94,
+            94
+        ],
+        [
+            "1A SOUTH HAMILTON JAGGER FERRIE 2025",
+            95,
+            95
+        ],
+        [
+            "1A NORTH TAMA CASE MONAT 2024",
+            96,
+            96
+        ],
+        [
+            "1A SOUTH HAMILTON BEN BAILEY 2023",
+            97,
+            97
+        ],
+        [
+            "2A WEST MARSHALL JOHNATHAN DOWNS 2023",
+            98,
+            98
+        ],
+        [
+            "2A WEST MARSHALL DYLAN THOMPSON 2024",
+            99,
+            99
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ISAAC FOXEN 2025",
+            100,
+            100
+        ],
+        [
+            "2A WEST MARSHALL AIDEN DOWNS 2024",
+            101,
+            101
+        ],
+        [
+            "2A WEST MARSHALL JOSH EIGENBERGER 2023",
+            102,
+            102
+        ],
+        [
+            "2A WEST MARSHALL JOSEPH SWIGERT 2026",
+            103,
+            103
+        ],
+        [
+            "1A SOUTH HAMILTON CARSON GIBBS 2025",
+            104,
+            104
+        ],
+        [
+            "3A GILBERT BENNETT CONGDON 2024",
+            105,
+            105
+        ],
+        [
+            "2A WEST MARSHALL ERICK ROSAS 2026",
+            106,
+            106
+        ],
+        [
+            "1A EAST MARSHALL JOE FULLER 2025",
+            107,
+            107
+        ],
+        [
+            "3A GILBERT SPENCER WEYDERT 2024",
+            108,
+            108
+        ],
+        [
+            "3A GILBERT DENNIS MAY 2024",
+            109,
+            109
+        ],
+        [
+            "3A NEVADA BOURNE HANSON 2026",
+            110,
+            110
+        ],
+        [
+            "3A GILBERT TRISTAN LIMOGES 2025",
+            111,
+            111
+        ],
+        [
+            "1A JANESVILLE ETHAN HJELMELAND 2024",
+            112,
+            112
+        ],
+        [
+            "1A EAST MARSHALL AUSTIN PANSEGRAU 2026",
+            113,
+            113
+        ],
+        [
+            "1A SOUTH HAMILTON COLTON FINK 2023",
+            114,
+            114
+        ],
+        [
+            "3A GILBERT ERIK SOENKSEN 2023",
+            115,
+            115
+        ],
+        [
+            "4A WATERLOO WEST SAM LUND 2023",
+            116,
+            116
+        ],
+        [
+            "1A BCLUW JACOB CASTELL 2025",
+            117,
+            117
+        ],
+        [
+            "3A NEVADA RYAN WESSELS 2025",
+            118,
+            118
+        ],
+        [
+            "2A JESUP CAMDEN FUELING 2026",
+            119,
+            119
+        ],
+        [
+            "1A SOUTH HAMILTON SAM FINK 2026",
+            120,
+            120
+        ],
+        [
+            "2A WEST MARSHALL ZANE KIRKE 2023",
+            121,
+            121
+        ],
+        [
+            "1A SOUTH HAMILTON ELI RALSTON 2024",
+            122,
+            122
+        ],
+        [
+            "4A WATERLOO WEST LOGAN ODEKIRK 2024",
+            123,
+            123
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DANIEL HOMMEL 2026",
+            124,
+            124
+        ],
+        [
+            "1A SOUTH HAMILTON LAKEN ZANKER 2025",
+            125,
+            125
+        ],
+        [
+            "3A GILBERT ETHAN WILCOX 2025",
+            126,
+            126
+        ],
+        [
+            "3A GILBERT ADAM RENZE 2023",
+            127,
+            127
+        ],
+        [
+            "1A GMG NOAH TESKE 2023",
+            128,
+            128
+        ],
+        [
+            "3A NEVADA RYNE ERICKSON 2024",
+            129,
+            129
+        ],
+        [
+            "1A JANESVILLE ALEX OLTMANN 2024",
+            130,
+            130
+        ],
+        [
+            "3A NEVADA MILES ENGSTROM 2026",
+            131,
+            131
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK WESLEY LATCHMAN 2023",
+            132,
+            132
+        ],
+        [
+            "3A GILBERT DANIEL MAY 2026",
+            133,
+            133
+        ],
+        [
+            "2A WEST MARSHALL TYSON BUNTING 2026",
+            134,
+            134
+        ],
+        [
+            "3A GILBERT JACK SAVAGE 2026",
+            135,
+            135
+        ],
+        [
+            "4A WATERLOO WEST BRAYDEN FULLER 2026",
+            136,
+            136
+        ],
+        [
+            "4A WATERLOO WEST CAEL ANDERSON 2024",
+            137,
+            137
+        ],
+        [
+            "3A GILBERT JACKSON RIESSELMAN 2026",
+            138,
+            138
+        ],
+        [
+            "1A HUDSON CAMERON DANIELSEN 2023",
+            139,
+            139
+        ],
+        [
+            "3A NEVADA COLLIN SKAGGS 2026",
+            140,
+            140
+        ],
+        [
+            "2A DIKE-NEW HARTFORD FINN O'NEILL 2026",
+            141,
+            141
+        ],
+        [
+            "1A BCLUW ZACH MORRIS 2025",
+            142,
+            142
+        ],
+        [
+            "1A SOUTH HAMILTON LANE TARBILL 2025",
+            143,
+            143
+        ],
+        [
+            "1A SOUTH HAMILTON EMMETT BEACH 2025",
+            144,
+            144
+        ],
+        [
+            "2A WEST MARSHALL DOMINIC FICKEN 2023",
+            145,
+            145
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK PRESTON MARTENS 2025",
+            146,
+            146
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TREY DRUVENGA 2024",
+            147,
+            147
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK JAKE MAY 2026",
+            148,
+            148
+        ],
+        [
+            "3A NEVADA DAMIN BROCKMAN 2026",
+            149,
+            149
+        ],
+        [
+            "1A SOUTH HAMILTON BRAYDEN MOORE 2025",
+            150,
+            150
+        ],
+        [
+            "3A GILBERT EMERSON CONGDON 2026",
+            151,
+            151
+        ],
+        [
+            "2A JESUP DAVID SADLER 2026",
+            152,
+            152
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RUSH L'HEUREUX 2026",
+            153,
+            153
+        ],
+        [
+            "2A JESUP ZANDER SCHMIDT 2024",
+            154,
+            154
+        ],
+        [
+            "3A NEVADA NICHOLAS FISCHELS 2026",
+            155,
+            155
+        ],
+        [
+            "2A JESUP CAYDEN KIEFFER 2024",
+            156,
+            156
+        ],
+        [
+            "2A DIKE-NEW HARTFORD LUCAS RAGSDALE 2024",
+            157,
+            157
+        ],
+        [
+            "1A BCLUW PAUL MURTY 2023",
+            158,
+            158
+        ],
+        [
+            "1A BCLUW COLTON DONALDSON 2025",
+            159,
+            159
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG LANDON REYNOLDS 2025",
+            160,
+            160
+        ],
+        [
+            "2A WEST MARSHALL NOAH TOLLEFSON 2026",
+            161,
+            161
+        ],
+        [
+            "2A WEST MARSHALL LAWSON COULTER 2025",
+            162,
+            162
+        ],
+        [
+            "2A WEST MARSHALL WYATT THOMPSON 2023",
+            163,
+            163
+        ],
+        [
+            "2A DIKE-NEW HARTFORD JACOB WHITE 2026",
+            164,
+            164
+        ],
+        [
+            "2A WEST MARSHALL WESLEY THOMPSON 2023",
+            165,
+            165
+        ],
+        [
+            "2A JESUP PARKER WOODWARD 2025",
+            166,
+            166
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
+            167,
+            167
+        ],
+        [
+            "2A WEST MARSHALL EVAN MEESTER 2025",
+            168,
+            168
+        ],
+        [
+            "1A GMG JARRET HORNBERG 2023",
+            169,
+            169
+        ],
+        [
+            "3A GILBERT TRAVIS GOFF 2023",
+            170,
+            170
+        ],
+        [
+            "1A GMG DRAYSON STEPHENSON 2026",
+            171,
+            171
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK KADEN KAUFMAN 2025",
+            172,
+            172
+        ],
+        [
+            "3A GILBERT ALDO SCHWARTZ 2025",
+            173,
+            173
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG GAVIN BERNARD 2025",
+            174,
+            174
+        ],
+        [
+            "2A WEST MARSHALL MAVERICK GIBSON 2026",
+            175,
+            175
+        ],
+        [
+            "3A GILBERT SAM ELLINGSON 2026",
+            176,
+            176
+        ],
+        [
+            "1A SOUTH HARDIN EDWIN LOZANO 2023",
+            177,
+            177
+        ],
+        [
+            "1A BCLUW RIVER WOOSLEY 2025",
+            178,
+            178
+        ],
+        [
+            "1A MESKWAKI TENOCH SNOW 2024",
+            179,
+            179
+        ],
+        [
+            "2A WEST MARSHALL ETHAN WATSON 2026",
+            180,
+            180
+        ],
+        [
+            "3A GILBERT HUNTER HESSON 2024",
+            181,
+            181
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK CALEB KNUTSEN 2025",
+            182,
+            182
+        ],
+        [
+            "1A MESKWAKI TIBBY BILLY 2024",
+            183,
+            183
+        ],
+        [
+            "1A BCLUW TUCKER WEDGWOOD 2024",
+            184,
+            184
+        ],
+        [
+            "3A NEVADA SPENCER HALEY 2026",
+            185,
+            185
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DANIEL BARKLEY 2026",
+            186,
+            186
+        ]
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "name": "Winterset FR SO",
+    "time_seconds": 1662440438,
+    "standings": [
+        [
+            "2A DSM CHRISTIAN CALEB TEN PAS 2026",
+            0,
+            0
+        ],
+        [
+            "2A VAN METER LUKA HULSE 2025",
+            1,
+            1
+        ],
+        [
+            "3A WINTERSET COLLIN KESSLER 2025",
+            2,
+            2
+        ],
+        [
+            "3A PERRY YONAS ANDEMICHAEL 2025",
+            3,
+            3
+        ],
+        [
+            "2A DSM CHRISTIAN JADEN SISLER 2025",
+            4,
+            4
+        ],
+        [
+            "2A DSM CHRISTIAN CARTER MANN 2025",
+            5,
+            5
+        ],
+        [
+            "3A BALLARD MAX DAVIDSON 2026",
+            6,
+            6
+        ],
+        [
+            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2025",
+            7,
+            7
+        ],
+        [
+            "3A BALLARD JAYDEN LELAND 2026",
+            8,
+            8
+        ],
+        [
+            "2A DSM CHRISTIAN LUKE HAGENBERG 2025",
+            9,
+            9
+        ],
+        [
+            "3A BALLARD LOGAN HUNTRODS 2025",
+            10,
+            10
+        ],
+        [
+            "2A DSM CHRISTIAN BEN NYBERG 2025",
+            11,
+            11
+        ],
+        [
+            "3A PERRY THAD STEWART 2026",
+            12,
+            12
+        ],
+        [
+            "1A MARTENSDALE ELIJAH WHEELDON 2025",
+            13,
+            13
+        ],
+        [
+            "3A CRESTON OWEN WEIS 2026",
+            14,
+            14
+        ],
+        [
+            "3A BALLARD PEYTON JOHNSON 2026",
+            15,
+            15
+        ],
+        [
+            "3A WINTERSET LIBERTO INIESTA 2025",
+            16,
+            16
+        ],
+        [
+            "1A WOODWARD ACADEMY ASHER MORLEY 2024",
+            17,
+            17
+        ],
+        [
+            "2A DSM CHRISTIAN AIDEN BUCKINGHAM 2025",
+            18,
+            18
+        ],
+        [
+            "2A DSM CHRISTIAN EVAN FOPMA 2025",
+            19,
+            19
+        ],
+        [
+            "2A VAN METER CAEL REIMERS 2025",
+            20,
+            20
+        ],
+        [
+            "2A DSM CHRISTIAN OLSON CARSTENSEN 2025",
+            21,
+            21
+        ],
+        [
+            "2A DSM CHRISTIAN KIERAN SEELEY 2026",
+            22,
+            22
+        ],
+        [
+            "2A DSM CHRISTIAN COLBY ROSNO 2025",
+            23,
+            23
+        ],
+        [
+            "1A MARTENSDALE TEEGAN DORENKAMP 2025",
+            24,
+            24
+        ],
+        [
+            "2A I35 MICHAEL UPP 2025",
+            25,
+            25
+        ],
+        [
+            "2A DSM CHRISTIAN AARON ALFERINK 2025",
+            26,
+            26
+        ],
+        [
+            "2A DSM CHRISTIAN REED CHAPMAN 2025",
+            27,
+            27
+        ],
+        [
+            "1A MARTENSDALE NATHAN MUNDIL 2025",
+            28,
+            28
+        ],
+        [
+            "3A WINTERSET CHARLIE KING 2026",
+            29,
+            29
+        ],
+        [
+            "1A MARTENSDALE THOMAS MUNDIL 2025",
+            30,
+            30
+        ],
+        [
+            "3A CRESTON GABE HOPKINS 2025",
+            31,
+            31
+        ],
+        [
+            "3A BALLARD KALEB DEE 2026",
+            32,
+            32
+        ],
+        [
+            "2A I35 ZACH MAIERS 2026",
+            33,
+            33
+        ],
+        [
+            "1A WOODWARD ACADEMY MARIO MCDONALD 2025",
+            34,
+            34
+        ],
+        [
+            "2A VAN METER LIAM NEWELL 2026",
+            35,
+            35
+        ],
+        [
+            "3A CRESTON JESH VILLALPANDO 2026",
+            36,
+            36
+        ],
+        [
+            "1A MARTENSDALE DEVIN WEBB 2025",
+            37,
+            37
+        ],
+        [
+            "2A VAN METER TRESTON MURPHY 2025",
+            38,
+            38
+        ],
+        [
+            "2A VAN METER RYDER RASMUSSEN 2026",
+            39,
+            39
+        ],
+        [
+            "2A VAN METER CORY OLIVER 2026",
+            40,
+            40
+        ],
+        [
+            "2A DSM CHRISTIAN ETHAN KRATOCHVIL 2025",
+            41,
+            41
+        ],
+        [
+            "2A DSM CHRISTIAN JAXSON GRAY 2025",
+            42,
+            42
+        ],
+        [
+            "2A VAN METER KAEGAN WIGANT 2026",
+            43,
+            43
+        ],
+        [
+            "2A VAN METER CAMDEN KRUSEMARK 2025",
+            44,
+            44
+        ],
+        [
+            "3A WINTERSET DOMINIC SHAW 2025",
+            45,
+            45
+        ],
+        [
+            "3A PERRY OWEN MYERS 2025",
+            46,
+            46
+        ],
+        [
+            "3A BALLARD BRADEN KUBICHEK 2025",
+            47,
+            47
+        ],
+        [
+            "3A PERRY AIDAN CARLSON 2025",
+            48,
+            48
+        ],
+        [
+            "2A DSM CHRISTIAN ASHER KURTZ 2025",
+            49,
+            49
+        ],
+        [
+            "1A WOODWARD ACADEMY ZAVEIN MORENO 2025",
+            50,
+            50
+        ],
+        [
+            "2A DSM CHRISTIAN ASHER RIPPEY 2025",
+            51,
+            51
+        ],
+        [
+            "2A DSM CHRISTIAN ALEX STEENHOEK 2026",
+            52,
+            52
+        ],
+        [
+            "2A VAN METER LOGAN SCHAFFER 2026",
+            53,
+            53
+        ],
+        [
+            "2A VAN METER MASON BRADLEY 2026",
+            54,
+            54
+        ],
+        [
+            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
+            55,
+            55
+        ],
+        [
+            "2A DSM CHRISTIAN CARTER TIMMONS 2025",
+            56,
+            56
+        ],
+        [
+            "1A WOODWARD ACADEMY DENNIS VALENTIN 2025",
+            57,
+            57
+        ],
+        [
+            "2A VAN METER BEN KOSTER 2026",
+            58,
+            58
+        ],
+        [
+            "3A WINTERSET BARRETT SONGER 2026",
+            59,
+            59
+        ],
+        [
+            "3A PERRY KYEO AUGUSTINE 2026",
+            60,
+            60
+        ],
+        [
+            "3A PERRY ISAAC BALLARD 2025",
+            61,
+            61
+        ],
+        [
+            "2A VAN METER JACKSON SLICK 2025",
+            62,
+            62
+        ],
+        [
+            "2A DSM CHRISTIAN DEACON MENNINGA 2026",
+            63,
+            63
+        ],
+        [
+            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            64,
+            64
+        ]
+    ]
+}

@@ -1,0 +1,731 @@
+{
+    "name": "Charles City",
+    "time_seconds": 1661403608,
+    "standings": [
+        [
+            "4A WATERLOO WEST PRESLEY BERNS 2025",
+            0,
+            0
+        ],
+        [
+            "3A CHARLES CITY XANDER GRAESER 2025",
+            1,
+            1
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CALEB HOINS 2023",
+            2,
+            2
+        ],
+        [
+            "3A CHARLES CITY NICK WILLIAMS 2025",
+            3,
+            3
+        ],
+        [
+            "2A DENVER JACK MULERT 2023",
+            4,
+            4
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CADEN KUEKER 2023",
+            5,
+            5
+        ],
+        [
+            "2A DENVER MAXWELL SCHWANDT 2023",
+            6,
+            6
+        ],
+        [
+            "2A DENVER NEAL PINTER 2024",
+            7,
+            7
+        ],
+        [
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            8,
+            8
+        ],
+        [
+            "2A CRESTWOOD DOMINIC BIGALK 2024",
+            9,
+            9
+        ],
+        [
+            "4A WATERLOO WEST JOSIAH WENDLAND 2024",
+            10,
+            10
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK MARSHALL MEYER 2023",
+            11,
+            11
+        ],
+        [
+            "4A WATERLOO WEST RYAN HARN 2024",
+            12,
+            12
+        ],
+        [
+            "3A CHARLES CITY ISAAC THOMPSON 2024",
+            13,
+            13
+        ],
+        [
+            "2A DENVER SEAN GOMEZ 2025",
+            14,
+            14
+        ],
+        [
+            "2A DENVER JARETT CLAYTON 2024",
+            15,
+            15
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK GAVIN BARRY 2024",
+            16,
+            16
+        ],
+        [
+            "2A DENVER ETHAN LARSON 2024",
+            17,
+            17
+        ],
+        [
+            "2A DENVER TREVOR BAAS 2025",
+            18,
+            18
+        ],
+        [
+            "2A DENVER JAYDEN HERRMANN 2023",
+            19,
+            19
+        ],
+        [
+            "4A WATERLOO WEST ZEPHANIAH GUSTAFSON 2023",
+            20,
+            20
+        ],
+        [
+            "2A JESUP NATHAN PINT 2025",
+            21,
+            21
+        ],
+        [
+            "2A CRESTWOOD NATHAN AHERN 2025",
+            22,
+            22
+        ],
+        [
+            "2A NEW HAMPTON JACK SHAWVER 2024",
+            23,
+            23
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TYLER NYSTEL 2023",
+            24,
+            24
+        ],
+        [
+            "4A WATERLOO WEST BRADEN NYSTROM 2023",
+            25,
+            25
+        ],
+        [
+            "2A DENVER TALAN LAFRENTZ 2025",
+            26,
+            26
+        ],
+        [
+            "2A NEW HAMPTON TREYCE ORR 2023",
+            27,
+            27
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LUKAS MCGOWAN 2024",
+            28,
+            28
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AUSTIN SOLDWISCH 2025",
+            29,
+            29
+        ],
+        [
+            "2A DENVER GABE SWALES 2025",
+            30,
+            30
+        ],
+        [
+            "4A WATERLOO WEST CALEB KERKOVE 2024",
+            31,
+            31
+        ],
+        [
+            "4A WATERLOO WEST CHASE NORDMAN 2024",
+            32,
+            32
+        ],
+        [
+            "2A JESUP WILL NESBIT 2026",
+            33,
+            33
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK COLIN KNUDSEN 2025",
+            34,
+            34
+        ],
+        [
+            "3A CHARLES CITY LUKAS VANCE 2024",
+            35,
+            35
+        ],
+        [
+            "3A CHARLES CITY CARTER HABERKORN 2025",
+            36,
+            36
+        ],
+        [
+            "4A WATERLOO WEST COOPER PAXTON 2023",
+            37,
+            37
+        ],
+        [
+            "2A DENVER CHRISTIAN BROWN 2025",
+            38,
+            38
+        ],
+        [
+            "2A DENVER GARRETT EVEN 2023",
+            39,
+            39
+        ],
+        [
+            "2A JESUP KADEN LANGE 2026",
+            40,
+            40
+        ],
+        [
+            "4A WATERLOO WEST CONNOR HEUTHORST 2024",
+            41,
+            41
+        ],
+        [
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
+            42,
+            42
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY MICA ZURBRIGGEN 2024",
+            43,
+            43
+        ],
+        [
+            "2A DENVER CONNER CLINTON 2024",
+            44,
+            44
+        ],
+        [
+            "2A CRESTWOOD SAM BRACE 2024",
+            45,
+            45
+        ],
+        [
+            "3A CHARLES CITY HOLDEN MCINROY 2026",
+            46,
+            46
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY SHAWN GILSON 2023",
+            47,
+            47
+        ],
+        [
+            "2A CRESTWOOD BROOKS MOSER 2025",
+            48,
+            48
+        ],
+        [
+            "2A DENVER MITCHELL DOEPKE 2026",
+            49,
+            49
+        ],
+        [
+            "2A JESUP TYLER NOLAN 2024",
+            50,
+            50
+        ],
+        [
+            "2A JESUP AYDEN GONZALEZ 2024",
+            51,
+            51
+        ],
+        [
+            "2A DIKE-NEW HARTFORD BRYCE PETERSEN 2023",
+            52,
+            52
+        ],
+        [
+            "3A CHARLES CITY NOAH MORRIS 2025",
+            53,
+            53
+        ],
+        [
+            "2A CRESTWOOD LUKE STORTZ 2023",
+            54,
+            54
+        ],
+        [
+            "2A DENVER GRANT PAUTSCH 2024",
+            55,
+            55
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LEO PHAN 2023",
+            56,
+            56
+        ],
+        [
+            "2A DENVER CARSON HAASE 2024",
+            57,
+            57
+        ],
+        [
+            "2A DIKE-NEW HARTFORD CALEB PAULSEN 2023",
+            58,
+            58
+        ],
+        [
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
+            59,
+            59
+        ],
+        [
+            "3A CHARLES CITY ANDERS HAGLUND 2023",
+            60,
+            60
+        ],
+        [
+            "2A DENVER NOAH BROOKS 2025",
+            61,
+            61
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY PEYTON ELLIOTT 2026",
+            62,
+            62
+        ],
+        [
+            "4A WATERLOO WEST JAMES KNIGHT 2026",
+            63,
+            63
+        ],
+        [
+            "4A WATERLOO WEST GUNNER STEELE 2025",
+            64,
+            64
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY STANSBERY GABE 2026",
+            65,
+            65
+        ],
+        [
+            "3A CHARLES CITY JACKSON KOWALSKI 2026",
+            66,
+            66
+        ],
+        [
+            "2A CRESTWOOD JACK MACDUFF 2026",
+            67,
+            67
+        ],
+        [
+            "2A NEW HAMPTON JARRIN ROBINSON 2025",
+            68,
+            68
+        ],
+        [
+            "2A DENVER JASON WATERMAN 2024",
+            69,
+            69
+        ],
+        [
+            "3A CHARLES CITY BREYER ELLISON 2023",
+            70,
+            70
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CYRUS LEYDA 2026",
+            71,
+            71
+        ],
+        [
+            "2A NEW HAMPTON XANDER MEYERHOFF 2025",
+            72,
+            72
+        ],
+        [
+            "2A DIKE-NEW HARTFORD SHAYDEN LOGER 2023",
+            73,
+            73
+        ],
+        [
+            "2A DENVER DAGEN HENZEN 2025",
+            74,
+            74
+        ],
+        [
+            "3A CHARLES CITY CLAY PRICE 2026",
+            75,
+            75
+        ],
+        [
+            "2A JESUP KARSTEN NUEHRING 2025",
+            76,
+            76
+        ],
+        [
+            "2A NEW HAMPTON EASTON MONTEITH 2026",
+            77,
+            77
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK GABE SMOLIKHAGEN 2026",
+            78,
+            78
+        ],
+        [
+            "2A DENVER JACOB STEEGE 2023",
+            79,
+            79
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK COOPER RIDDER 2025",
+            80,
+            80
+        ],
+        [
+            "2A DENVER JOSH RABENHORST 2026",
+            81,
+            81
+        ],
+        [
+            "3A CHARLES CITY MICHAEL BAUER 2025",
+            82,
+            82
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK LUCAS GEERTS 2026",
+            83,
+            83
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AIDEN BRIDGES 2024",
+            84,
+            84
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY KEAGAN MCGRANE 2024",
+            85,
+            85
+        ],
+        [
+            "2A JESUP KYLE WILSON 2023",
+            86,
+            86
+        ],
+        [
+            "2A CRESTWOOD OWEN KORSMO 2026",
+            87,
+            87
+        ],
+        [
+            "2A CRESTWOOD KALEB ADAMS 2024",
+            88,
+            88
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK ANDY BRITT 2025",
+            89,
+            89
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK TSION BIRD 2025",
+            90,
+            90
+        ],
+        [
+            "2A CRESTWOOD ETHIN MATT 2024",
+            91,
+            91
+        ],
+        [
+            "2A NEW HAMPTON JAKE FRAHM 2023",
+            92,
+            92
+        ],
+        [
+            "2A CRESTWOOD COLLIN RICE 2026",
+            93,
+            93
+        ],
+        [
+            "4A WATERLOO WEST LOGAN ODEKIRK 2024",
+            94,
+            94
+        ],
+        [
+            "4A WATERLOO WEST SAM LUND 2023",
+            95,
+            95
+        ],
+        [
+            "1A RICEVILLE CODY HART 2026",
+            96,
+            96
+        ],
+        [
+            "3A CHARLES CITY ADRIAN IBARRA 2024",
+            97,
+            97
+        ],
+        [
+            "3A CHARLES CITY CHRIS MARTIN 2025",
+            98,
+            98
+        ],
+        [
+            "2A NEW HAMPTON EDDIE ARNOLD 2025",
+            99,
+            99
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK MCCOY MCLRAVY 2026",
+            100,
+            100
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK WOUTER REULING 2026",
+            101,
+            101
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK KADEN BADURA 2024",
+            102,
+            102
+        ],
+        [
+            "2A DENVER JOE RABENHORST 2026",
+            103,
+            103
+        ],
+        [
+            "2A DIKE-NEW HARTFORD FINN O'NEILL 2026",
+            104,
+            104
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK ZANDER CHRISTIANSEN 2026",
+            105,
+            105
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY TOMMY CLARK 2023",
+            106,
+            106
+        ],
+        [
+            "3A CHARLES CITY MASON MILLER 2024",
+            107,
+            107
+        ],
+        [
+            "2A DENVER XANDER PETERSON 2025",
+            108,
+            108
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY HUDSON BUSHMAN 2026",
+            109,
+            109
+        ],
+        [
+            "2A JESUP CAMDEN FUELING 2026",
+            110,
+            110
+        ],
+        [
+            "3A CHARLES CITY RILEY PEREZ 2025",
+            111,
+            111
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY CLAYTON SCHAEFER 2024",
+            112,
+            112
+        ],
+        [
+            "2A CRESTWOOD LUCAS WEMARK 2026",
+            113,
+            113
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY EZEKIEL STANSBERY 2024",
+            114,
+            114
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY NICK HOHENBRINK 2024",
+            115,
+            115
+        ],
+        [
+            "2A DENVER NATE RABENHORST 2023",
+            116,
+            116
+        ],
+        [
+            "4A WATERLOO WEST MICHAEL DUNN 2023",
+            117,
+            117
+        ],
+        [
+            "2A DIKE-NEW HARTFORD LUCAS RAGSDALE 2024",
+            118,
+            118
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TREY DRUVENGA 2024",
+            119,
+            119
+        ],
+        [
+            "2A CRESTWOOD COLTEN KNIGHT 2023",
+            120,
+            120
+        ],
+        [
+            "1A JANESVILLE ALEX OLTMANN 2024",
+            121,
+            121
+        ],
+        [
+            "2A JESUP ZANDER SCHMIDT 2024",
+            122,
+            122
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY ZACH MCLELLAN 2025",
+            123,
+            123
+        ],
+        [
+            "2A DENVER JOSIAH SWALES 2026",
+            124,
+            124
+        ],
+        [
+            "3A CHARLES CITY ORION REH 2024",
+            125,
+            125
+        ],
+        [
+            "3A CHARLES CITY BLAKE HOEFT 2025",
+            126,
+            126
+        ],
+        [
+            "2A DIKE-NEW HARTFORD JACOB WHITE 2026",
+            127,
+            127
+        ],
+        [
+            "2A JESUP DAVID SADLER 2026",
+            128,
+            128
+        ],
+        [
+            "2A CRESTWOOD ETHAN HOLTHAUS 2026",
+            129,
+            129
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RUSH L'HEUREUX 2026",
+            130,
+            130
+        ],
+        [
+            "2A JESUP CAYDEN KIEFFER 2024",
+            131,
+            131
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RASMUS BRANDT 2023",
+            132,
+            132
+        ],
+        [
+            "3A CHARLES CITY XAVIER SCOTT 2025",
+            133,
+            133
+        ],
+        [
+            "3A CHARLES CITY GAGE KILBY 2023",
+            134,
+            134
+        ],
+        [
+            "2A NEW HAMPTON COLIN SHATEK 2026",
+            135,
+            135
+        ],
+        [
+            "3A CHARLES CITY ANTON DITTMER 2024",
+            136,
+            136
+        ],
+        [
+            "3A CHARLES CITY BRADEN CHARLTON 2024",
+            137,
+            137
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK JACKSON MRAZ 2024",
+            138,
+            138
+        ],
+        [
+            "4A WATERLOO WEST CAEL ANDERSON 2024",
+            139,
+            139
+        ],
+        [
+            "1A JANESVILLE ETHAN HJELMELAND 2024",
+            140,
+            140
+        ],
+        [
+            "3A CHARLES CITY HUNTER NORTHRUP 2026",
+            141,
+            141
+        ],
+        [
+            "3A CHARLES CITY DYLAN STEWART 2026",
+            142,
+            142
+        ],
+        [
+            "2A JESUP PARKER WOODWARD 2025",
+            143,
+            143
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK RYLEY GERST 2025",
+            144,
+            144
+        ]
+    ]
+}

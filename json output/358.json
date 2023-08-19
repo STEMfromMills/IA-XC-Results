@@ -1,0 +1,516 @@
+{
+    "name": "MVC Waterloo frso",
+    "time_seconds": 1665637258,
+    "standings": [
+        [
+            "4A LINN-MAR ETHAN BOSTON 2025",
+            0,
+            0
+        ],
+        [
+            "4A IOWA CITY HIGH GEORGE KARR 2025",
+            1,
+            1
+        ],
+        [
+            "4A IOWA CITY HIGH SETH YODER 2025",
+            2,
+            2
+        ],
+        [
+            "4A IOWA CITY WEST PRANEEL RASTOGI 2026",
+            3,
+            3
+        ],
+        [
+            "4A LINN-MAR OWEN HANSON 2025",
+            4,
+            4
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD OWEN LEITZEN 2025",
+            5,
+            5
+        ],
+        [
+            "4A IOWA CITY WEST VENELIN KOTEV 2026",
+            6,
+            6
+        ],
+        [
+            "4A IOWA CITY WEST SAM SHOWERS 2025",
+            7,
+            7
+        ],
+        [
+            "4A IOWA CITY HIGH LINUS MCROBERTS 2026",
+            8,
+            8
+        ],
+        [
+            "4A IOWA CITY HIGH MAX MCDOWELL 2026",
+            9,
+            9
+        ],
+        [
+            "4A IOWA CITY HIGH ADAM SCHAEFER 2025",
+            10,
+            10
+        ],
+        [
+            "4A IOWA CITY HIGH DYLAN BEERENDS 2025",
+            11,
+            11
+        ],
+        [
+            "4A IOWA CITY WEST BRICE WAHE 2025",
+            12,
+            12
+        ],
+        [
+            "4A IOWA CITY HIGH BRADY GLUBA 2025",
+            13,
+            13
+        ],
+        [
+            "4A IOWA CITY WEST THOMAS TONG 2026",
+            14,
+            14
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD VINCENT SCHERR 2025",
+            15,
+            15
+        ],
+        [
+            "4A IOWA CITY HIGH HENRI RENAUD 2025",
+            16,
+            16
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD COHEN BREITBACH 2025",
+            17,
+            17
+        ],
+        [
+            "4A IOWA CITY WEST ASIF ALI 2026",
+            18,
+            18
+        ],
+        [
+            "4A IOWA CITY WEST CASSANDRO CHAN 2025",
+            19,
+            19
+        ],
+        [
+            "4A CR KENNEDY LINCOLN MCMAHAN 2026",
+            20,
+            20
+        ],
+        [
+            "4A IOWA CITY WEST MAXWELL BRUSS 2025",
+            21,
+            21
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD COLIN HENN 2026",
+            22,
+            22
+        ],
+        [
+            "4A LINN-MAR TRISTAN CERNEY 2026",
+            23,
+            23
+        ],
+        [
+            "4A IOWA CITY WEST JACK EASTVOLD 2026",
+            24,
+            24
+        ],
+        [
+            "4A CR KENNEDY MADDEN DEWALLE 2026",
+            25,
+            25
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD AIDEN LANGE 2025",
+            26,
+            26
+        ],
+        [
+            "4A LINN-MAR GRIFFIN ADAMSON 2025",
+            27,
+            27
+        ],
+        [
+            "4A LINN-MAR BHARGAVA MAYLA 2025",
+            28,
+            28
+        ],
+        [
+            "4A CR KENNEDY NOAH PENN 2026",
+            29,
+            29
+        ],
+        [
+            "4A IOWA CITY WEST ETHAN LEE 2026",
+            30,
+            30
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD BRENDON ZHENG 2025",
+            31,
+            31
+        ],
+        [
+            "4A CR KENNEDY SINTAYEHU HALL 2025",
+            32,
+            32
+        ],
+        [
+            "4A CR KENNEDY RYKER SCHECKEL 2026",
+            33,
+            33
+        ],
+        [
+            "4A IOWA CITY HIGH MUSTAFA NORELDAIM 2025",
+            34,
+            34
+        ],
+        [
+            "4A IOWA CITY HIGH EPHRAM BYLER 2025",
+            35,
+            35
+        ],
+        [
+            "4A LINN-MAR PARKER HOLTEN 2026",
+            36,
+            36
+        ],
+        [
+            "4A IOWA CITY WEST KAI MERRIL 2025",
+            37,
+            37
+        ],
+        [
+            "4A IOWA CITY HIGH WILLIAM KARR 2025",
+            38,
+            38
+        ],
+        [
+            "4A IOWA CITY WEST KARSTEN GHABEL 2025",
+            39,
+            39
+        ],
+        [
+            "4A LINN-MAR TALAN STRADT 2025",
+            40,
+            40
+        ],
+        [
+            "4A CR WASHINGTON AIDEN ERICKSON 2026",
+            41,
+            41
+        ],
+        [
+            "4A LINN-MAR QUINN LORENZ 2026",
+            42,
+            42
+        ],
+        [
+            "4A IOWA CITY HIGH BRADEN CLARK 2025",
+            43,
+            43
+        ],
+        [
+            "4A CR WASHINGTON LOUIS DEW 2025",
+            44,
+            44
+        ],
+        [
+            "4A CR KENNEDY GRANT PATTRIDGE 2026",
+            45,
+            45
+        ],
+        [
+            "4A LINN-MAR BRADY LIMBERT 2026",
+            46,
+            46
+        ],
+        [
+            "4A CR KENNEDY ANTHONY ZACHAR 2026",
+            47,
+            47
+        ],
+        [
+            "4A LINN-MAR ROBBIE HOKE 2026",
+            48,
+            48
+        ],
+        [
+            "4A LINN-MAR LEO HACKETT 2026",
+            49,
+            49
+        ],
+        [
+            "4A CR WASHINGTON CADE SMITH 2025",
+            50,
+            50
+        ],
+        [
+            "4A LINN-MAR JACK FAGAN 2026",
+            51,
+            51
+        ],
+        [
+            "4A CR KENNEDY BRYCE WILSON 2026",
+            52,
+            52
+        ],
+        [
+            "4A LINN-MAR LUCAS TENTINGER 2025",
+            53,
+            53
+        ],
+        [
+            "4A LINN-MAR ZACH TORSON 2026",
+            54,
+            54
+        ],
+        [
+            "4A IOWA CITY HIGH JACK EDWARDS 2026",
+            55,
+            55
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD CHARLES SCHULTZ 2026",
+            56,
+            56
+        ],
+        [
+            "4A CR KENNEDY TANNER WILSON 2025",
+            57,
+            57
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD KOREY HIRSCHSCHMITT 2026",
+            58,
+            58
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD MAX VILAR 2025",
+            59,
+            59
+        ],
+        [
+            "4A LINN-MAR BASSIL ELSHIEKH 2025",
+            60,
+            60
+        ],
+        [
+            "4A LINN-MAR TYLER PERSON 2025",
+            61,
+            61
+        ],
+        [
+            "3A EPWORTH KEVIN LANDA 2025",
+            62,
+            62
+        ],
+        [
+            "4A LINN-MAR EVAN FELTON 2025",
+            63,
+            63
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JETT DIDELOT 2025",
+            64,
+            64
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD PAXTON HICKEY 2026",
+            65,
+            65
+        ],
+        [
+            "4A IOWA CITY WEST THOMAS GIBSON 2025",
+            66,
+            66
+        ],
+        [
+            "4A CR WASHINGTON HENRY APPLEBY-SPARROW 2026",
+            67,
+            67
+        ],
+        [
+            "4A CR KENNEDY ETHAN WHITE 2026",
+            68,
+            68
+        ],
+        [
+            "4A LINN-MAR ETHAN KAMPHAUGH 2025",
+            69,
+            69
+        ],
+        [
+            "3A EPWORTH KOLT PACE 2026",
+            70,
+            70
+        ],
+        [
+            "4A IOWA CITY WEST BRADY OLSON 2025",
+            71,
+            71
+        ],
+        [
+            "4A IOWA CITY HIGH ELI FOSTER 2025",
+            72,
+            72
+        ],
+        [
+            "4A IOWA CITY HIGH JACOB DIXON 2025",
+            73,
+            73
+        ],
+        [
+            "4A LINN-MAR OWEN SNYDER 2026",
+            74,
+            74
+        ],
+        [
+            "3A EPWORTH CHARLIE ZIMMERMAN 2026",
+            75,
+            75
+        ],
+        [
+            "4A IOWA CITY WEST CORMAC WILSON 2025",
+            76,
+            76
+        ],
+        [
+            "4A CR WASHINGTON LAIRD HANNA 2026",
+            77,
+            77
+        ],
+        [
+            "4A CR WASHINGTON CAMERON ANDREWS 2025",
+            78,
+            78
+        ],
+        [
+            "4A LINN-MAR HAYDEN ACKLEY 2026",
+            79,
+            79
+        ],
+        [
+            "4A CR WASHINGTON CADEN MESSENGER 2026",
+            80,
+            80
+        ],
+        [
+            "4A IOWA CITY HIGH MARK ELWER 2026",
+            81,
+            81
+        ],
+        [
+            "4A CR WASHINGTON AUSTIN DAMISCH 2026",
+            82,
+            82
+        ],
+        [
+            "4A LINN-MAR BEN TENTINGER 2025",
+            83,
+            83
+        ],
+        [
+            "4A LINN-MAR BRONSON BEALS 2026",
+            84,
+            84
+        ],
+        [
+            "4A IOWA CITY WEST DANIEL TIGARDOUN 2025",
+            85,
+            85
+        ],
+        [
+            "4A IOWA CITY WEST SID WESTEGARD 2025",
+            86,
+            86
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD PARKER WELBES 2026",
+            87,
+            87
+        ],
+        [
+            "4A IOWA CITY WEST HENRY TIMMER HACKERT 2026",
+            88,
+            88
+        ],
+        [
+            "4A IOWA CITY HIGH NOLAN BALMER 2025",
+            89,
+            89
+        ],
+        [
+            "4A CR KENNEDY MAX LENO 2025",
+            90,
+            90
+        ],
+        [
+            "4A CR KENNEDY OWEN MCLAUGHLIN 2026",
+            91,
+            91
+        ],
+        [
+            "3A EPWORTH GRANT GAULEY 2026",
+            92,
+            92
+        ],
+        [
+            "4A LINN-MAR AIDEN MOORE 2026",
+            93,
+            93
+        ],
+        [
+            "3A EPWORTH JAKE BOGE 2026",
+            94,
+            94
+        ],
+        [
+            "4A LINN-MAR BRADYN KOSIKAS 2025",
+            95,
+            95
+        ],
+        [
+            "4A IOWA CITY HIGH PAUL TRAN 2026",
+            96,
+            96
+        ],
+        [
+            "3A EPWORTH BRAYDEN EBERLING 2026",
+            97,
+            97
+        ],
+        [
+            "4A LINN-MAR SAM BILES 2025",
+            98,
+            98
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD ORION HANDY 2026",
+            99,
+            99
+        ],
+        [
+            "4A CR KENNEDY KEPLER ENGELMAN 2025",
+            100,
+            100
+        ],
+        [
+            "4A CR WASHINGTON CHARLES SCHRADER 2025",
+            101,
+            101
+        ]
+    ]
+}

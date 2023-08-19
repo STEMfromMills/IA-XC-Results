@@ -1,0 +1,826 @@
+{
+    "name": "Roland Story",
+    "time_seconds": 1663822828,
+    "standings": [
+        [
+            "3A NORTH POLK ZACH SPORAA 2023",
+            0,
+            0
+        ],
+        [
+            "3A NORTH POLK MAX SPORAA 2023",
+            1,
+            1
+        ],
+        [
+            "1A MADRID ETHAN LOUTZENHEISER 2024",
+            2,
+            2
+        ],
+        [
+            "1A MADRID CLAY WARSON 2024",
+            3,
+            3
+        ],
+        [
+            "3A NORTH POLK ALIK MCILRAVY 2024",
+            4,
+            4
+        ],
+        [
+            "3A NORTH POLK AUSTIN STIERMAN 2023",
+            5,
+            5
+        ],
+        [
+            "1A OGDEN CARSON VAN SICKLE 2024",
+            6,
+            6
+        ],
+        [
+            "3A BONDURANT-FARRAR LUCAS WALKER 2024",
+            7,
+            7
+        ],
+        [
+            "3A NEVADA CARTER HOLLAND 2024",
+            8,
+            8
+        ],
+        [
+            "3A NORTH POLK ETHAN STIERMAN 2023",
+            9,
+            9
+        ],
+        [
+            "2A SE VALLEY COOPER NUSS 2023",
+            10,
+            10
+        ],
+        [
+            "3A NEVADA BRIAN ROHDE 2025",
+            11,
+            11
+        ],
+        [
+            "2A SE VALLEY OSCAR HANSON 2024",
+            12,
+            12
+        ],
+        [
+            "3A NEVADA ROWAN STEELE 2024",
+            13,
+            13
+        ],
+        [
+            "3A NORTH POLK OWEN REED 2026",
+            14,
+            14
+        ],
+        [
+            "3A NORTH POLK BRETT POSTEL 2025",
+            15,
+            15
+        ],
+        [
+            "3A NEVADA OWEN FREEMAN 2023",
+            16,
+            16
+        ],
+        [
+            "1A SOUTH HAMILTON LANDON GROVE 2023",
+            17,
+            17
+        ],
+        [
+            "3A BONDURANT-FARRAR NYLE DAVIS 2025",
+            18,
+            18
+        ],
+        [
+            "3A NEVADA NICK FRIDERES 2023",
+            19,
+            19
+        ],
+        [
+            "3A NEVADA WILL BAUMANN 2024",
+            20,
+            20
+        ],
+        [
+            "3A NORTH POLK GRANT ASPENGREN 2024",
+            21,
+            21
+        ],
+        [
+            "1A OGDEN LEVI RUSSO 2023",
+            22,
+            22
+        ],
+        [
+            "2A ROLAND-STORY EVAN VOGA 2025",
+            23,
+            23
+        ],
+        [
+            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2026",
+            24,
+            24
+        ],
+        [
+            "1A OGDEN BRADY VAN SICKLE 2025",
+            25,
+            25
+        ],
+        [
+            "3A NORTH POLK NOLAN MANDERNACH 2024",
+            26,
+            26
+        ],
+        [
+            "2A GREENE COUNTY NOAH HINOTE 2025",
+            27,
+            27
+        ],
+        [
+            "1A OGDEN PAYTON VAN SICKLE 2023",
+            28,
+            28
+        ],
+        [
+            "1A SOUTH HAMILTON ELI POTTER 2023",
+            29,
+            29
+        ],
+        [
+            "3A NEVADA DAWSON LEMKE 2026",
+            30,
+            30
+        ],
+        [
+            "2A GREENE COUNTY GAVYN WINTERS 2025",
+            31,
+            31
+        ],
+        [
+            "3A NORTH POLK COLE HAVERMAN 2023",
+            32,
+            32
+        ],
+        [
+            "1A OGDEN JUDE BENBOW 2025",
+            33,
+            33
+        ],
+        [
+            "3A NORTH POLK NATE BERGERSON 2023",
+            34,
+            34
+        ],
+        [
+            "3A BONDURANT-FARRAR COOPER STEEPLES 2025",
+            35,
+            35
+        ],
+        [
+            "3A BONDURANT-FARRAR JACK RIECK 2026",
+            36,
+            36
+        ],
+        [
+            "2A GREENE COUNTY ETHAN FREDERICK 2023",
+            37,
+            37
+        ],
+        [
+            "3A BONDURANT-FARRAR BRADLEY HUGHES 2026",
+            38,
+            38
+        ],
+        [
+            "1A OGDEN PARKER TRUSLER 2023",
+            39,
+            39
+        ],
+        [
+            "1A OGDEN SAGE SEEGER 2024",
+            40,
+            40
+        ],
+        [
+            "3A NEVADA GAVIN SKAGGS 2024",
+            41,
+            41
+        ],
+        [
+            "3A NEVADA LUCAS MILLS 2024",
+            42,
+            42
+        ],
+        [
+            "1A WOODWARD ACADEMY ASHER MORLEY 2025",
+            43,
+            43
+        ],
+        [
+            "1A SOUTH HAMILTON PETE COBURN 2024",
+            44,
+            44
+        ],
+        [
+            "3A SAYDEL NAHUM LOCK 2025",
+            45,
+            45
+        ],
+        [
+            "1A OGDEN MATTHEW SEGO 2023",
+            46,
+            46
+        ],
+        [
+            "3A BONDURANT-FARRAR GAVIN LYMAN 2024",
+            47,
+            47
+        ],
+        [
+            "3A NEVADA FRANK ENGSTROM 2024",
+            48,
+            48
+        ],
+        [
+            "1A MADRID JACOB WHITE 2025",
+            49,
+            49
+        ],
+        [
+            "3A NORTH POLK NATHAN HARRINGTON 2026",
+            50,
+            50
+        ],
+        [
+            "2A GREENE COUNTY KOLBY ANGELL 2024",
+            51,
+            51
+        ],
+        [
+            "3A NORTH POLK STOCKTON HUETHER 2025",
+            52,
+            52
+        ],
+        [
+            "3A BONDURANT-FARRAR DAVID EIVINS 2025",
+            53,
+            53
+        ],
+        [
+            "1A OGDEN CAEL DOZIER 2025",
+            54,
+            54
+        ],
+        [
+            "3A NEVADA IAN THOMAS 2024",
+            55,
+            55
+        ],
+        [
+            "1A MADRID BRODY BUCK 2025",
+            56,
+            56
+        ],
+        [
+            "3A BONDURANT-FARRAR BRADY SANGER 2026",
+            57,
+            57
+        ],
+        [
+            "3A BONDURANT-FARRAR SAM GRIFFITH 2026",
+            58,
+            58
+        ],
+        [
+            "3A BONDURANT-FARRAR MARTIN SCHMESIER 2025",
+            59,
+            59
+        ],
+        [
+            "1A SOUTH HAMILTON BEN BAILEY 2023",
+            60,
+            60
+        ],
+        [
+            "3A NORTH POLK ETHAN FAWCETT 2025",
+            61,
+            61
+        ],
+        [
+            "2A GREENE COUNTY BORK ERSNES 2023",
+            62,
+            62
+        ],
+        [
+            "1A SOUTH HAMILTON BOBBY TAPPER 2024",
+            63,
+            63
+        ],
+        [
+            "1A OGDEN TRAVIS BOOTHROYD 2024",
+            64,
+            64
+        ],
+        [
+            "3A BONDURANT-FARRAR PORTER FRANCOIS 2023",
+            65,
+            65
+        ],
+        [
+            "2A ROLAND-STORY LUCCAS HART 2025",
+            66,
+            66
+        ],
+        [
+            "3A BONDURANT-FARRAR AIDEN CARL 2024",
+            67,
+            67
+        ],
+        [
+            "3A NORTH POLK PAYTON LEHMAN 2025",
+            68,
+            68
+        ],
+        [
+            "3A BONDURANT-FARRAR AJ EVERLY 2023",
+            69,
+            69
+        ],
+        [
+            "2A GREENE COUNTY CARTER HINOTE 2026",
+            70,
+            70
+        ],
+        [
+            "3A NEVADA CALEB BIENSEN 2026",
+            71,
+            71
+        ],
+        [
+            "3A SAYDEL ALEX WOOD 2026",
+            72,
+            72
+        ],
+        [
+            "3A NORTH POLK MISHA MCILRAVY 2026",
+            73,
+            73
+        ],
+        [
+            "2A ROLAND-STORY NOLAN RHOAD 2024",
+            74,
+            74
+        ],
+        [
+            "2A ROLAND-STORY LUCAS WUEBKER 2024",
+            75,
+            75
+        ],
+        [
+            "3A NEVADA MILES ENGSTROM 2026",
+            76,
+            76
+        ],
+        [
+            "2A ROLAND-STORY COLTEN LUCCHESI 2024",
+            77,
+            77
+        ],
+        [
+            "1A OGDEN CADEN LERDAL 2025",
+            78,
+            78
+        ],
+        [
+            "2A SE VALLEY KYLE JOHNSON 2023",
+            79,
+            79
+        ],
+        [
+            "3A BONDURANT-FARRAR JONAH GREUBEL 2023",
+            80,
+            80
+        ],
+        [
+            "3A BONDURANT-FARRAR BRAYDIN PHIPPS 2025",
+            81,
+            81
+        ],
+        [
+            "1A WOODWARD ACADEMY MARIO MCDONALD 2026",
+            82,
+            82
+        ],
+        [
+            "2A SE VALLEY LINCOLN AKINS 2026",
+            83,
+            83
+        ],
+        [
+            "3A NEVADA CONNERY VARSA 2026",
+            84,
+            84
+        ],
+        [
+            "1A SOUTH HAMILTON LAKEN ZANKER 2025",
+            85,
+            85
+        ],
+        [
+            "1A WOODWARD ACADEMY ZAVEIN MORENO 2025",
+            86,
+            86
+        ],
+        [
+            "3A NEVADA RYNE ERICKSON 2024",
+            87,
+            87
+        ],
+        [
+            "3A BONDURANT-FARRAR MICAH BAILEY 2026",
+            88,
+            88
+        ],
+        [
+            "3A SAYDEL JACOB MCPHERREN 2026",
+            89,
+            89
+        ],
+        [
+            "1A SOUTH HAMILTON CARSON GIBBS 2025",
+            90,
+            90
+        ],
+        [
+            "3A NEVADA RYAN WESSELS 2025",
+            91,
+            91
+        ],
+        [
+            "2A GREENE COUNTY MYLO TAUTE 2023",
+            92,
+            92
+        ],
+        [
+            "2A SE VALLEY ETHAN TUCKER 2026",
+            93,
+            93
+        ],
+        [
+            "1A OGDEN BRAYDON DOTY 2023",
+            94,
+            94
+        ],
+        [
+            "1A MADRID COLTON KNIFFEN 2023",
+            95,
+            95
+        ],
+        [
+            "2A ROLAND-STORY TATE LANDE 2026",
+            96,
+            96
+        ],
+        [
+            "2A SE VALLEY SPENCER SUCHAN 2024",
+            97,
+            97
+        ],
+        [
+            "1A MADRID KEITH NEWTON 2023",
+            98,
+            98
+        ],
+        [
+            "2A SE VALLEY DREW DORSEY 2026",
+            99,
+            99
+        ],
+        [
+            "1A SOUTH HAMILTON COLTON FINK 2023",
+            100,
+            100
+        ],
+        [
+            "1A MADRID CAVIN PEHL 2026",
+            101,
+            101
+        ],
+        [
+            "2A ROLAND-STORY CALEB DANIELSON 2025",
+            102,
+            102
+        ],
+        [
+            "1A OGDEN TREVOR BOOTHROYD 2024",
+            103,
+            103
+        ],
+        [
+            "1A WOODWARD ACADEMY DENNIS VALENTIN 2025",
+            104,
+            104
+        ],
+        [
+            "3A NORTH POLK LUKE PHILLIPS 2023",
+            105,
+            105
+        ],
+        [
+            "3A BONDURANT-FARRAR CADEN ROBINSON SAATHOFF 2024",
+            106,
+            106
+        ],
+        [
+            "1A MADRID TATE LAWSON 2025",
+            107,
+            107
+        ],
+        [
+            "3A BONDURANT-FARRAR JONAH POOCK 2023",
+            108,
+            108
+        ],
+        [
+            "1A OGDEN LANDON ABBOTT 2026",
+            109,
+            109
+        ],
+        [
+            "2A SE VALLEY DREYVON STEADMAN 2025",
+            110,
+            110
+        ],
+        [
+            "3A NORTH POLK WILL FORD 2023",
+            111,
+            111
+        ],
+        [
+            "3A NEVADA BOURNE HANSON 2026",
+            112,
+            112
+        ],
+        [
+            "1A OGDEN WILL FREY 2025",
+            113,
+            113
+        ],
+        [
+            "2A ROLAND-STORY ADAM THIEL 2023",
+            114,
+            114
+        ],
+        [
+            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
+            115,
+            115
+        ],
+        [
+            "1A MADRID TRENDAN PEASLEY 2023",
+            116,
+            116
+        ],
+        [
+            "3A NEVADA DAMIN BROCKMAN 2026",
+            117,
+            117
+        ],
+        [
+            "1A SOUTH HAMILTON BRAYDEN MOORE 2025",
+            118,
+            118
+        ],
+        [
+            "1A SOUTH HAMILTON SAM FINK 2026",
+            119,
+            119
+        ],
+        [
+            "3A SAYDEL CONNER BROONER 2023",
+            120,
+            120
+        ],
+        [
+            "3A NORTH POLK HUDSON SHIPLEY 2025",
+            121,
+            121
+        ],
+        [
+            "2A GREENE COUNTY JAYDEN KOLLER 2026",
+            122,
+            122
+        ],
+        [
+            "1A OGDEN RYKER KRUSE 2025",
+            123,
+            123
+        ],
+        [
+            "3A NORTH POLK BRENNON MOREHEAD 2026",
+            124,
+            124
+        ],
+        [
+            "2A ROLAND-STORY NELS HANSON 2024",
+            125,
+            125
+        ],
+        [
+            "3A BONDURANT-FARRAR CALVIN SCHERTZ 2025",
+            126,
+            126
+        ],
+        [
+            "1A SOUTH HAMILTON LANE TARBILL 2025",
+            127,
+            127
+        ],
+        [
+            "1A SOUTH HAMILTON EMMETT BEACH 2025",
+            128,
+            128
+        ],
+        [
+            "3A NEVADA NICHOLAS FISCHELS 2026",
+            129,
+            129
+        ],
+        [
+            "1A OGDEN TRISTAN MOSLEY 2025",
+            130,
+            130
+        ],
+        [
+            "3A SAYDEL RAUL CASTANEDA 2025",
+            131,
+            131
+        ],
+        [
+            "2A ROLAND-STORY AYDEN MCLAIN 2024",
+            132,
+            132
+        ],
+        [
+            "3A NEVADA COLLIN SKAGGS 2026",
+            133,
+            133
+        ],
+        [
+            "3A BONDURANT-FARRAR BRAXTON ROBBEN 2025",
+            134,
+            134
+        ],
+        [
+            "1A OGDEN DECLAN SANCULI 2026",
+            135,
+            135
+        ],
+        [
+            "1A OGDEN PALMER HICKINGBOTTOM 2026",
+            136,
+            136
+        ],
+        [
+            "3A BONDURANT-FARRAR MAX FICK 2024",
+            137,
+            137
+        ],
+        [
+            "2A SE VALLEY COLE LUNDGREN 2025",
+            138,
+            138
+        ],
+        [
+            "1A MADRID CARTER LINDLEY 2024",
+            139,
+            139
+        ],
+        [
+            "1A MADRID LANDEN SCHNEIDER 2026",
+            140,
+            140
+        ],
+        [
+            "3A BONDURANT-FARRAR THEO BROWN 2024",
+            141,
+            141
+        ],
+        [
+            "2A SE VALLEY CAELAN OAKES-SUDHISH 2024",
+            142,
+            142
+        ],
+        [
+            "1A OGDEN JASE COLEMAN 2026",
+            143,
+            143
+        ],
+        [
+            "1A OGDEN HENRY RUSSO 2026",
+            144,
+            144
+        ],
+        [
+            "2A ROLAND-STORY SAM BRAUCHER 2025",
+            145,
+            145
+        ],
+        [
+            "1A OGDEN JACOB THOMSEN 2025",
+            146,
+            146
+        ],
+        [
+            "2A GREENE COUNTY TEAGAN CHISHOLM 2026",
+            147,
+            147
+        ],
+        [
+            "2A SE VALLEY JACOB SNYDER 2023",
+            148,
+            148
+        ],
+        [
+            "2A SE VALLEY CADEN KALTSCHNEE 2025",
+            149,
+            149
+        ],
+        [
+            "1A MADRID JOSHUA HAU 2024",
+            150,
+            150
+        ],
+        [
+            "2A ROLAND-STORY CAEL FABER 2026",
+            151,
+            151
+        ],
+        [
+            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            152,
+            152
+        ],
+        [
+            "2A SE VALLEY JAMIE DALLEY 2023",
+            153,
+            153
+        ],
+        [
+            "1A MADRID OWEN BURKHART 2024",
+            154,
+            154
+        ],
+        [
+            "3A BONDURANT-FARRAR AIDEN FROST 2024",
+            155,
+            155
+        ],
+        [
+            "3A NEVADA SPENCER HALEY 2026",
+            156,
+            156
+        ],
+        [
+            "3A SAYDEL BARRETT WEISPFENNING 2025",
+            157,
+            157
+        ],
+        [
+            "2A SE VALLEY ELIAS FIELD 2023",
+            158,
+            158
+        ],
+        [
+            "1A MADRID BLANE SCHNEIDER 2026",
+            159,
+            159
+        ],
+        [
+            "1A MADRID MICHAEL MCBRIDE 2025",
+            160,
+            160
+        ],
+        [
+            "1A MADRID DYLAN FOX 2026",
+            161,
+            161
+        ],
+        [
+            "2A SE VALLEY RYAN STEWART 2026",
+            162,
+            162
+        ],
+        [
+            "1A MADRID BRAEDEN ALBRECHT 2023",
+            163,
+            163
+        ]
+    ]
+}

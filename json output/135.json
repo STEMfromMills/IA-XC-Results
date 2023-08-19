@@ -1,0 +1,516 @@
+{
+    "name": "Oskaloosa JV",
+    "time_seconds": 1663045215,
+    "standings": [
+        [
+            "3A OSKALOOSA JAVION REEVES 2026",
+            0,
+            0
+        ],
+        [
+            "3A OSKALOOSA ELLIOT NELSON 2023",
+            1,
+            1
+        ],
+        [
+            "2A PELLA CHRISTIAN LOGAN GALLAHER 2026",
+            2,
+            2
+        ],
+        [
+            "3A OSKALOOSA LAWSON MORRIS 2023",
+            3,
+            3
+        ],
+        [
+            "3A OSKALOOSA OLIVER SMITH 2025",
+            4,
+            4
+        ],
+        [
+            "3A OSKALOOSA DYLAN PATZEL 2023",
+            5,
+            5
+        ],
+        [
+            "2A WILLIAMSBURG HAYES ARWINE 2026",
+            6,
+            6
+        ],
+        [
+            "3A NEWTON LANCE ZAABEL 2026",
+            7,
+            7
+        ],
+        [
+            "3A OSKALOOSA ANDREW STODGHILL 2025",
+            8,
+            8
+        ],
+        [
+            "2A WILLIAMSBURG CREW KLINGNER 2024",
+            9,
+            9
+        ],
+        [
+            "2A WILLIAMSBURG NOLAN KENT 2026",
+            10,
+            10
+        ],
+        [
+            "2A WILLIAMSBURG LUKE HIRKO 2026",
+            11,
+            11
+        ],
+        [
+            "3A OSKALOOSA REUBEN CHILCOTE 2026",
+            12,
+            12
+        ],
+        [
+            "4A BURLINGTON CHANDLER CARPER 2025",
+            13,
+            13
+        ],
+        [
+            "3A OSKALOOSA ELLIOTT ADAM 2023",
+            14,
+            14
+        ],
+        [
+            "2A PELLA CHRISTIAN ISAAC NATELBORG 2023",
+            15,
+            15
+        ],
+        [
+            "2A PELLA CHRISTIAN ZEB KANIS 2024",
+            16,
+            16
+        ],
+        [
+            "2A DANVILLE - NEW LONDON QUINN SAMPLES 2026",
+            17,
+            17
+        ],
+        [
+            "2A DAVIS COUNTY CAMRON HUBBARTT 2026",
+            18,
+            18
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CARTER BUCK 2024",
+            19,
+            19
+        ],
+        [
+            "3A KNOXVILLE MASON GREEN 2025",
+            20,
+            20
+        ],
+        [
+            "3A OSKALOOSA COOPER RUPPRECHT 2025",
+            21,
+            21
+        ],
+        [
+            "4A OTTUMWA KO HTAT 2026",
+            22,
+            22
+        ],
+        [
+            "2A ALBIA ERIC DERSHEIDS 2026",
+            23,
+            23
+        ],
+        [
+            "3A NEWTON COLE WALTER 2024",
+            24,
+            24
+        ],
+        [
+            "3A NEWTON JOEL LEWIS 2024",
+            25,
+            25
+        ],
+        [
+            "3A KNOXVILLE DRAKE MARVELLI 2023",
+            26,
+            26
+        ],
+        [
+            "3A OSKALOOSA ANDREW OTTO 2023",
+            27,
+            27
+        ],
+        [
+            "3A OSKALOOSA JAISON ANDERSON 2023",
+            28,
+            28
+        ],
+        [
+            "2A DAVIS COUNTY KAISON HEEMSBERGEN 2025",
+            29,
+            29
+        ],
+        [
+            "2A PELLA CHRISTIAN BEN VAN WYNGARDEN 2026",
+            30,
+            30
+        ],
+        [
+            "2A DAVIS COUNTY JOSIAH VANMAANEN 2025",
+            31,
+            31
+        ],
+        [
+            "2A DAVIS COUNTY BRYSON BENGE 2024",
+            32,
+            32
+        ],
+        [
+            "2A WILLIAMSBURG HUDSON NUNNELLEY 2026",
+            33,
+            33
+        ],
+        [
+            "2A DAVIS COUNTY TYLER BURTON 2024",
+            34,
+            34
+        ],
+        [
+            "3A CR XAVIER ETHAN WALZ 2025",
+            35,
+            35
+        ],
+        [
+            "4A BURLINGTON BLAZE DOCTHERMAN 2025",
+            36,
+            36
+        ],
+        [
+            "2A ALBIA LUCAS HOGELAND 2023",
+            37,
+            37
+        ],
+        [
+            "3A CR XAVIER JOE DAKE 2026",
+            38,
+            38
+        ],
+        [
+            "2A PELLA CHRISTIAN KEEGAN JUFFER 2026",
+            39,
+            39
+        ],
+        [
+            "2A DANVILLE - NEW LONDON NOAH HORN 2026",
+            40,
+            40
+        ],
+        [
+            "3A OSKALOOSA MICHAEL BIDDLE 2023",
+            41,
+            41
+        ],
+        [
+            "2A PELLA CHRISTIAN CLAY LAUTERBACH 2025",
+            42,
+            42
+        ],
+        [
+            "3A NEWTON JACOB SMITH 2025",
+            43,
+            43
+        ],
+        [
+            "2A DANVILLE - NEW LONDON TREVOR YALEY 2026",
+            44,
+            44
+        ],
+        [
+            "3A KNOXVILLE MASON HATCH 2023",
+            45,
+            45
+        ],
+        [
+            "3A NEWTON KENNY SKINNER HAVENS 2023",
+            46,
+            46
+        ],
+        [
+            "2A DAVIS COUNTY JOHN ERP 2025",
+            47,
+            47
+        ],
+        [
+            "3A OSKALOOSA LEVI CHRISTENSEN 2026",
+            48,
+            48
+        ],
+        [
+            "3A KNOXVILLE JASON KRASKO 2025",
+            49,
+            49
+        ],
+        [
+            "2A PELLA CHRISTIAN KIRBY VAN WYNGARDEN 2025",
+            50,
+            50
+        ],
+        [
+            "2A DAVIS COUNTY MAX MCCOY 2023",
+            51,
+            51
+        ],
+        [
+            "2A WILLIAMSBURG NILE BUSCH 2026",
+            52,
+            52
+        ],
+        [
+            "2A PELLA CHRISTIAN CAMERON DYKSTRA 2025",
+            53,
+            53
+        ],
+        [
+            "2A PELLA CHRISTIAN WYATT HOL 2025",
+            54,
+            54
+        ],
+        [
+            "2A DAVIS COUNTY GAVIN KLAUS 2025",
+            55,
+            55
+        ],
+        [
+            "3A CR XAVIER DAVID HUISKAMP 2024",
+            56,
+            56
+        ],
+        [
+            "3A OSKALOOSA ANTHONY WROBLEWSKI 2026",
+            57,
+            57
+        ],
+        [
+            "3A NEWTON COLIN CUMMINS 2024",
+            58,
+            58
+        ],
+        [
+            "2A DAVIS COUNTY GABE GERRITSON 2025",
+            59,
+            59
+        ],
+        [
+            "2A WILLIAMSBURG PJ CAREY 2026",
+            60,
+            60
+        ],
+        [
+            "3A KNOXVILLE ELLIOTT KING 2025",
+            61,
+            61
+        ],
+        [
+            "2A DAVIS COUNTY KOLE DRUMMOND 2026",
+            62,
+            62
+        ],
+        [
+            "4A BURLINGTON ADRIAN SALAS 2023",
+            63,
+            63
+        ],
+        [
+            "2A ALBIA MAXWELL BUTLER 2026",
+            64,
+            64
+        ],
+        [
+            "4A OTTUMWA JACOB MELLIN 2023",
+            65,
+            65
+        ],
+        [
+            "2A WILLIAMSBURG BRODY HAWK 2026",
+            66,
+            66
+        ],
+        [
+            "3A OSKALOOSA ANDREW CHRISTENSEN 2024",
+            67,
+            67
+        ],
+        [
+            "3A NEWTON GENTRY SWARTS 2025",
+            68,
+            68
+        ],
+        [
+            "4A BURLINGTON MOISE CORDERO 2023",
+            69,
+            69
+        ],
+        [
+            "2A PELLA CHRISTIAN ERIC MOME 2025",
+            70,
+            70
+        ],
+        [
+            "3A CR XAVIER NATE SELENSKY 2024",
+            71,
+            71
+        ],
+        [
+            "2A PELLA CHRISTIAN ANDREW SYTSMA 2024",
+            72,
+            72
+        ],
+        [
+            "4A BURLINGTON ANTWON BRITTON 2026",
+            73,
+            73
+        ],
+        [
+            "3A KNOXVILLE CONNOR SCHULTZ 2026",
+            74,
+            74
+        ],
+        [
+            "4A OTTUMWA DANIEL STEELE 2024",
+            75,
+            75
+        ],
+        [
+            "2A PELLA CHRISTIAN JACKSON WOOD 2026",
+            76,
+            76
+        ],
+        [
+            "3A CR XAVIER CONSTANTINE WHITE 2024",
+            77,
+            77
+        ],
+        [
+            "3A CR XAVIER JEFFREY HARTOGH 2025",
+            78,
+            78
+        ],
+        [
+            "3A CR XAVIER OWEN HLUBEK 2026",
+            79,
+            79
+        ],
+        [
+            "2A DANVILLE - NEW LONDON ALEX PFADENHAUER 2026",
+            80,
+            80
+        ],
+        [
+            "2A DANVILLE - NEW LONDON CARSON OURTH 2024",
+            81,
+            81
+        ],
+        [
+            "2A ALBIA TOBIAS GREEN 2023",
+            82,
+            82
+        ],
+        [
+            "2A ALBIA JOHN SHEPHARD 2026",
+            83,
+            83
+        ],
+        [
+            "2A PELLA CHRISTIAN DEVAN RUNNER 2026",
+            84,
+            84
+        ],
+        [
+            "2A PELLA CHRISTIAN BEN LUNSFORD 2026",
+            85,
+            85
+        ],
+        [
+            "2A PELLA CHRISTIAN NATE PATTERSON 2025",
+            86,
+            86
+        ],
+        [
+            "3A NEWTON ETHAN COMER 2026",
+            87,
+            87
+        ],
+        [
+            "3A OSKALOOSA CAM CASSENS 2024",
+            88,
+            88
+        ],
+        [
+            "2A DAVIS COUNTY OWEN KLAUS 2026",
+            89,
+            89
+        ],
+        [
+            "4A BURLINGTON ZACH GRIEVES 2026",
+            90,
+            90
+        ],
+        [
+            "2A ALBIA JOEY ORSINI 2025",
+            91,
+            91
+        ],
+        [
+            "2A WILLIAMSBURG LUKE KLEINMEYER 2026",
+            92,
+            92
+        ],
+        [
+            "4A OTTUMWA QUENTON MITCHELL 2025",
+            93,
+            93
+        ],
+        [
+            "2A ALBIA COLE WILSON 2026",
+            94,
+            94
+        ],
+        [
+            "4A OTTUMWA FABIAN ESPANOZA 2023",
+            95,
+            95
+        ],
+        [
+            "2A DAVIS COUNTY LANDON FETCHO 2025",
+            96,
+            96
+        ],
+        [
+            "3A CR XAVIER BRENDON PREKUMAR 2025",
+            97,
+            97
+        ],
+        [
+            "2A DANVILLE - NEW LONDON JACOB HOBBS 2026",
+            98,
+            98
+        ],
+        [
+            "4A OTTUMWA JAMES GATES 2024",
+            99,
+            99
+        ],
+        [
+            "2A DANVILLE - NEW LONDON AARON PFADENHAUER 2026",
+            100,
+            100
+        ],
+        [
+            "3A NEWTON ZANE MUNGER 2025",
+            101,
+            101
+        ]
+    ]
+}

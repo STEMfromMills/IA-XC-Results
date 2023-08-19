@@ -1,0 +1,736 @@
+{
+    "name": "Southeast Valley",
+    "time_seconds": 1661403616,
+    "standings": [
+        [
+            "1A MADRID ETHAN LOUTZENHEISER 2024",
+            0,
+            0
+        ],
+        [
+            "1A MADRID CLAY WARSON 2024",
+            1,
+            1
+        ],
+        [
+            "1A OGDEN CARSON VAN SICKLE 2024",
+            2,
+            2
+        ],
+        [
+            "1A ST. EDMOND AARON LURSEN 2023",
+            3,
+            3
+        ],
+        [
+            "1A AC-GC GAVIN SLOSS 2025",
+            4,
+            4
+        ],
+        [
+            "2A SE VALLEY OSCAR HANSON 2024",
+            5,
+            5
+        ],
+        [
+            "1A AC-GC BO ARRASMITH 2024",
+            6,
+            6
+        ],
+        [
+            "1A AC-GC ANDREW MAHAFFEY 2024",
+            7,
+            7
+        ],
+        [
+            "1A OGDEN PAYTON VAN SICKLE 2023",
+            8,
+            8
+        ],
+        [
+            "1A OGDEN JORDAN KING 2023",
+            9,
+            9
+        ],
+        [
+            "2A SE VALLEY COOPER NUSS 2023",
+            10,
+            10
+        ],
+        [
+            "1A MANSON NW WEBSTER LANE MOLINE 2023",
+            11,
+            11
+        ],
+        [
+            "1A ST. EDMOND SAM MERICLE 2024",
+            12,
+            12
+        ],
+        [
+            "2A EAST SAC PARKER ENGEL 2024",
+            13,
+            13
+        ],
+        [
+            "1A AC-GC LANCE BUNDE 2024",
+            14,
+            14
+        ],
+        [
+            "1A AC-GC NOAH KADING 2025",
+            15,
+            15
+        ],
+        [
+            "1A MANSON NW WEBSTER THATCHER OSWALD 2026",
+            16,
+            16
+        ],
+        [
+            "3A PERRY YONAS ANDEMICHAEL 2025",
+            17,
+            17
+        ],
+        [
+            "1A ST. EDMOND LIAM SHANNON 2025",
+            18,
+            18
+        ],
+        [
+            "2A EAST SAC ISAIAH ARAGON 2024",
+            19,
+            19
+        ],
+        [
+            "1A OGDEN PARKER TRUSLER 2023",
+            20,
+            20
+        ],
+        [
+            "1A OGDEN SAGE SEEGER 2024",
+            21,
+            21
+        ],
+        [
+            "3A PERRY THAD STEWART 2026",
+            22,
+            22
+        ],
+        [
+            "1A OGDEN LEVI RUSSO 2023",
+            23,
+            23
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN REDGE POTTS 2025",
+            24,
+            24
+        ],
+        [
+            "1A AC-GC TYCONDER ELLIS 2023",
+            25,
+            25
+        ],
+        [
+            "1A ST. EDMOND THOMAS COSGROVE 2024",
+            26,
+            26
+        ],
+        [
+            "1A OGDEN BRADY VAN SICKLE 2025",
+            27,
+            27
+        ],
+        [
+            "1A MANSON NW WEBSTER THADE LACHELT 2023",
+            28,
+            28
+        ],
+        [
+            "1A WOODWARD ACADEMY ANTHONY GIBBONS 2025",
+            29,
+            29
+        ],
+        [
+            "2A EAST SAC LANDON SPORRER 2026",
+            30,
+            30
+        ],
+        [
+            "1A ST. EDMOND CARTER RIAL 2023",
+            31,
+            31
+        ],
+        [
+            "1A MADRID BLAKE RENZE 2025",
+            32,
+            32
+        ],
+        [
+            "1A AC-GC JACKSON SLOSS 2023",
+            33,
+            33
+        ],
+        [
+            "1A AC-GC JARRETT MCCLAIN 2024",
+            34,
+            34
+        ],
+        [
+            "1A AC-GC EASTON STRINGHAM 2024",
+            35,
+            35
+        ],
+        [
+            "1A OGDEN JUDE BENBOW 2025",
+            36,
+            36
+        ],
+        [
+            "1A ST. EDMOND ANTHONY VALLES 2026",
+            37,
+            37
+        ],
+        [
+            "2A OABCIG CHANCE BUNS 2023",
+            38,
+            38
+        ],
+        [
+            "1A AC-GC ALEX SPACK 2023",
+            39,
+            39
+        ],
+        [
+            "2A EAST SAC OWEN ENGEL 2026",
+            40,
+            40
+        ],
+        [
+            "2A WEST CENTRAL VALLEY CAEL HAZEN 2024",
+            41,
+            41
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS NIKOLAS SOLIS ",
+            42,
+            42
+        ],
+        [
+            "2A EAST SAC WYATT SMITH 2026",
+            43,
+            43
+        ],
+        [
+            "1A OGDEN CAEL DOZIER 2025",
+            44,
+            44
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN ELI WHEELOCK 2023",
+            45,
+            45
+        ],
+        [
+            "1A OGDEN MATTHEW SEGO 2023",
+            46,
+            46
+        ],
+        [
+            "2A SE VALLEY KYLE JOHNSON 2023",
+            47,
+            47
+        ],
+        [
+            "2A OABCIG HUNTER MAIER 2026",
+            48,
+            48
+        ],
+        [
+            "3A PERRY OWEN MYERS 2025",
+            49,
+            49
+        ],
+        [
+            "1A AC-GC JUSTIN DAVIS 2023",
+            50,
+            50
+        ],
+        [
+            "3A PERRY GANNON MEIS 2023",
+            51,
+            51
+        ],
+        [
+            "1A MADRID BRODY BUCK 2025",
+            52,
+            52
+        ],
+        [
+            "1A OGDEN CADEN LERDAL 2025",
+            53,
+            53
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN JOE THIELEN 2026",
+            54,
+            54
+        ],
+        [
+            "2A EAST SAC RILEY ARAGON 2026",
+            55,
+            55
+        ],
+        [
+            "1A MANSON NW WEBSTER TYSIN ANDERSON 2025",
+            56,
+            56
+        ],
+        [
+            "1A MANSON NW WEBSTER OWEN ELDRIDGE 2024",
+            57,
+            57
+        ],
+        [
+            "1A WOODWARD ACADEMY ASHER MORLEY 2024",
+            58,
+            58
+        ],
+        [
+            "2A SE VALLEY LINCOLN AKINS 2026",
+            59,
+            59
+        ],
+        [
+            "2A SE VALLEY ETHAN TUCKER 2026",
+            60,
+            60
+        ],
+        [
+            "1A MANSON NW WEBSTER CONNOR PROCTOR 2025",
+            61,
+            61
+        ],
+        [
+            "1A AC-GC FINN BILLHEIMER 2026",
+            62,
+            62
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN NATHAN BURLEY 2024",
+            63,
+            63
+        ],
+        [
+            "1A OGDEN TRAVIS BOOTHROYD 2024",
+            64,
+            64
+        ],
+        [
+            "1A MADRID COLTON KNIFFEN 2023",
+            65,
+            65
+        ],
+        [
+            "1A ST. EDMOND JOE TOUNEY 2023",
+            66,
+            66
+        ],
+        [
+            "1A OGDEN RYKER KRUSE 2025",
+            67,
+            67
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS TATE JACKSON 2025",
+            68,
+            68
+        ],
+        [
+            "1A WOODWARD ACADEMY ZAVEIN MORENO 2025",
+            69,
+            69
+        ],
+        [
+            "1A OGDEN PALMER HICKINGBOTTOM 2026",
+            70,
+            70
+        ],
+        [
+            "1A OGDEN TREVOR BOOTHROYD 2024",
+            71,
+            71
+        ],
+        [
+            "1A MADRID TATE LAWSON 2025",
+            72,
+            72
+        ],
+        [
+            "1A NEWELL-FONDA DAMION MEINERTS 2024",
+            73,
+            73
+        ],
+        [
+            "1A OGDEN WILL FREY 2025",
+            74,
+            74
+        ],
+        [
+            "1A MANSON NW WEBSTER BRODY PROCTOR 2024",
+            75,
+            75
+        ],
+        [
+            "1A WOODWARD ACADEMY MARIO MCDONALD 2025",
+            76,
+            76
+        ],
+        [
+            "2A SE VALLEY CAELAN OAKES-SUDHISH 2023",
+            77,
+            77
+        ],
+        [
+            "1A MANSON NW WEBSTER KORBIN JENSEN 2023",
+            78,
+            78
+        ],
+        [
+            "1A OGDEN LANDON ABBOTT 2026",
+            79,
+            79
+        ],
+        [
+            "1A MADRID CAVIN PEHL 2026",
+            80,
+            80
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN NIKOLAS WHIPKEY 2023",
+            81,
+            81
+        ],
+        [
+            "2A OABCIG WILL GEBEL 2023",
+            82,
+            82
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK SMITH 2023",
+            83,
+            83
+        ],
+        [
+            "1A ST. EDMOND THOMAS KNOBBE 2026",
+            84,
+            84
+        ],
+        [
+            "2A SE VALLEY DREW DORSEY 2026",
+            85,
+            85
+        ],
+        [
+            "3A PERRY BRYCE ANLIKER 2023",
+            86,
+            86
+        ],
+        [
+            "3A PERRY AIDAN CARLSON 2025",
+            87,
+            87
+        ],
+        [
+            "1A ST. EDMOND CASTEN WACHOLTZ 2023",
+            88,
+            88
+        ],
+        [
+            "3A PERRY CHAD GRAY 2023",
+            89,
+            89
+        ],
+        [
+            "1A WOODWARD ACADEMY FARAJ DAJI ",
+            90,
+            90
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN MATT NATH 2024",
+            91,
+            91
+        ],
+        [
+            "1A ST. EDMOND JONAH CARLSON 2026",
+            92,
+            92
+        ],
+        [
+            "2A OABCIG QUINTIN SAMWAY 2025",
+            93,
+            93
+        ],
+        [
+            "2A SE VALLEY SPENCER SUCHAN 2024",
+            94,
+            94
+        ],
+        [
+            "1A MADRID TRENDAN PEASLEY 2023",
+            95,
+            95
+        ],
+        [
+            "1A NEWELL-FONDA ADEN ARCHER 2026",
+            96,
+            96
+        ],
+        [
+            "1A ST. EDMOND TREY WILKINS 2024",
+            97,
+            97
+        ],
+        [
+            "1A MANSON NW WEBSTER NOAH BERGER 2026",
+            98,
+            98
+        ],
+        [
+            "1A ST. EDMOND ABRAM LARSON 2025",
+            99,
+            99
+        ],
+        [
+            "1A WOODWARD ACADEMY DENNIS LOPEZ 2024",
+            100,
+            100
+        ],
+        [
+            "1A AC-GC MAX TRUJILLO-GARCIA 2026",
+            101,
+            101
+        ],
+        [
+            "1A OGDEN HENRY RUSSO 2026",
+            102,
+            102
+        ],
+        [
+            "1A OGDEN JASE COLEMAN 2026",
+            103,
+            103
+        ],
+        [
+            "2A SE VALLEY DREYVON STEADMAN 2025",
+            104,
+            104
+        ],
+        [
+            "3A PERRY CARLOS RUIZ-ARAGON 2025",
+            105,
+            105
+        ],
+        [
+            "1A OGDEN TRISTAN MOSLEY 2025",
+            106,
+            106
+        ],
+        [
+            "3A PERRY KYEO AUGUSTINE 2026",
+            107,
+            107
+        ],
+        [
+            "2A EAST SAC ZANDER HEMER 2026",
+            108,
+            108
+        ],
+        [
+            "1A MADRID CARTER LINDLEY 2024",
+            109,
+            109
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS JOSHUA MOORE 2024",
+            110,
+            110
+        ],
+        [
+            "1A WOODWARD ACADEMY DANIEL TELLEZ 2026",
+            111,
+            111
+        ],
+        [
+            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
+            112,
+            112
+        ],
+        [
+            "3A PERRY MINASAY TEWELDE 2024",
+            113,
+            113
+        ],
+        [
+            "2A SE VALLEY JACOB SNYDER 2023",
+            114,
+            114
+        ],
+        [
+            "1A OGDEN DECLAN SANCULI 2026",
+            115,
+            115
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN PARKER PAGEL 2023",
+            116,
+            116
+        ],
+        [
+            "3A PERRY OSWALD CORNELIO VAZQUEZ 2025",
+            117,
+            117
+        ],
+        [
+            "1A OGDEN JACOB THOMSEN 2025",
+            118,
+            118
+        ],
+        [
+            "2A SE VALLEY JAMERIC DALLEY 2023",
+            119,
+            119
+        ],
+        [
+            "1A MADRID LANDEN SCHNEIDER 2026",
+            120,
+            120
+        ],
+        [
+            "3A PERRY ISAAC BALLARD 2025",
+            121,
+            121
+        ],
+        [
+            "2A EAST SAC TUCKER FREESE 2026",
+            122,
+            122
+        ],
+        [
+            "1A WEST BEND-MALLARD TREVOR SABIN 2023",
+            123,
+            123
+        ],
+        [
+            "1A PANORAMA ZACH HAYDEN 2026",
+            124,
+            124
+        ],
+        [
+            "3A PERRY ANGEL RODRIGUEZ 2026",
+            125,
+            125
+        ],
+        [
+            "2A OABCIG MATTHEW HOLBROOK 2023",
+            126,
+            126
+        ],
+        [
+            "2A EAST SAC ETHAN PETERS 2024",
+            127,
+            127
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN CALEB BLAIR 2023",
+            128,
+            128
+        ],
+        [
+            "1A MADRID BLANE SCHNEIDER 2026",
+            129,
+            129
+        ],
+        [
+            "1A MADRID OWEN BURKHART 2024",
+            130,
+            130
+        ],
+        [
+            "1A OGDEN GAVIN SILER 2026",
+            131,
+            131
+        ],
+        [
+            "1A WEST BEND-MALLARD GRAYDEN FORSYTHE 2025",
+            132,
+            132
+        ],
+        [
+            "2A EAST SAC CADEN BACHMAN 2026",
+            133,
+            133
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN LANDEN EVANS 2025",
+            134,
+            134
+        ],
+        [
+            "1A WEST BEND-MALLARD KLAYTON JONES 2024",
+            135,
+            135
+        ],
+        [
+            "1A MADRID JOSHUA HAU 2024",
+            136,
+            136
+        ],
+        [
+            "2A EAST SAC TONY CLAIR 2024",
+            137,
+            137
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN ELIJAH WILSON 2025",
+            138,
+            138
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK DEZEEUW 2023",
+            139,
+            139
+        ],
+        [
+            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            140,
+            140
+        ],
+        [
+            "2A SE VALLEY ELIAS FIELD 2023",
+            141,
+            141
+        ],
+        [
+            "1A MADRID DYLAN FOX 2026",
+            142,
+            142
+        ],
+        [
+            "2A SE VALLEY RYAN STEWART 2023",
+            143,
+            143
+        ],
+        [
+            "1A MADRID BRAEDEN ALBRECHT 2023",
+            144,
+            144
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN GABE RASTETTER 2023",
+            145,
+            145
+        ]
+    ]
+}

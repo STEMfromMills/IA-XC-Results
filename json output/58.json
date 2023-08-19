@@ -1,0 +1,336 @@
+{
+    "name": "Okoboji JV",
+    "time_seconds": 1662008458,
+    "standings": [
+        [
+            "2A OKOBOJI LANE LARSON 2025",
+            0,
+            0
+        ],
+        [
+            "3A SIOUX CENTER NICHOLAS DAHM 2024",
+            1,
+            1
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK ULISES MACIAS 2023",
+            2,
+            2
+        ],
+        [
+            "2A OKOBOJI NICO BARBA 2024",
+            3,
+            3
+        ],
+        [
+            "3A SIOUX CENTER REESE DEKKERS 2023",
+            4,
+            4
+        ],
+        [
+            "2A OKOBOJI KADEN ZWEIBAHMER 2023",
+            5,
+            5
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK JESUS MARTINEZ 2024",
+            6,
+            6
+        ],
+        [
+            "2A OKOBOJI RAY KAISER 2026",
+            7,
+            7
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK RYLIE MAYO 2023",
+            8,
+            8
+        ],
+        [
+            "3A SIOUX CENTER EASTON KROESE 2024",
+            9,
+            9
+        ],
+        [
+            "1A SIOUX CENTRAL HUNTER SMITH 2023",
+            10,
+            10
+        ],
+        [
+            "3A SIOUX CENTER VAN JETT ES 2025",
+            11,
+            11
+        ],
+        [
+            "2A OKOBOJI SAM HOGGARD 2024",
+            12,
+            12
+        ],
+        [
+            "2A OKOBOJI HUNTER HALLENGREN 2024",
+            13,
+            13
+        ],
+        [
+            "2A OKOBOJI TRISTAN STRANTZ 2024",
+            14,
+            14
+        ],
+        [
+            "2A WEST LYON ALEC KOCK 2026",
+            15,
+            15
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK MARLIN MARTINEZ 2026",
+            16,
+            16
+        ],
+        [
+            "1A SIOUX CENTRAL ANDREW NELSON 2026",
+            17,
+            17
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK SAM GRUIS 2023",
+            18,
+            18
+        ],
+        [
+            "2A WEST LYON NATHAN YOUNG 2024",
+            19,
+            19
+        ],
+        [
+            "2A OKOBOJI ANDREW FRERICHS 2026",
+            20,
+            20
+        ],
+        [
+            "2A OKOBOJI OLIVER MILLER 2026",
+            21,
+            21
+        ],
+        [
+            "2A CHEROKEE SKYLER ROBINSON 2023",
+            22,
+            22
+        ],
+        [
+            "2A WEST LYON KEVIN MARTINEZ 2024",
+            23,
+            23
+        ],
+        [
+            "3A SIOUX CENTER EASTON ADDINK 2026",
+            24,
+            24
+        ],
+        [
+            "2A CHEROKEE GRADY MIZNER-FUNDERMANN 2026",
+            25,
+            25
+        ],
+        [
+            "2A CHEROKEE BRAEDEN MAZUREK 2024",
+            26,
+            26
+        ],
+        [
+            "1A SIOUX CENTRAL KURTIS WOOD 2024",
+            27,
+            27
+        ],
+        [
+            "2A CHEROKEE TYLER HUGHES 2025",
+            28,
+            28
+        ],
+        [
+            "3A SIOUX CENTER BLAKE BANDSTRA 2023",
+            29,
+            29
+        ],
+        [
+            "2A CHEROKEE ETHAN BUSSE 2024",
+            30,
+            30
+        ],
+        [
+            "3A SIOUX CENTER LUIS MORALESMORALES 2026",
+            31,
+            31
+        ],
+        [
+            "3A SIOUX CENTER ISAIAH RENSINK 2026",
+            32,
+            32
+        ],
+        [
+            "3A SIOUX CENTER LANDON HAUGSTAD 2025",
+            33,
+            33
+        ],
+        [
+            "2A CHEROKEE NICHOLAS ALINGH 2023",
+            34,
+            34
+        ],
+        [
+            "3A SIOUX CENTER SERGIO RAMOSMORALES 2026",
+            35,
+            35
+        ],
+        [
+            "2A EMMETSBURG BEN HURLEY 2024",
+            36,
+            36
+        ],
+        [
+            "2A OKOBOJI AUSTIN KASCH 2023",
+            37,
+            37
+        ],
+        [
+            "2A CHEROKEE OSCAR REALIGA 2025",
+            38,
+            38
+        ],
+        [
+            "2A CHEROKEE KALEB NELSON 2025",
+            39,
+            39
+        ],
+        [
+            "2A OKOBOJI COLE BECKER 2025",
+            40,
+            40
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN TRISTON VOS 2026",
+            41,
+            41
+        ],
+        [
+            "2A OKOBOJI MARC HOGGARD 2025",
+            42,
+            42
+        ],
+        [
+            "3A SIOUX CENTER WILLIAM HURST 2023",
+            43,
+            43
+        ],
+        [
+            "2A CHEROKEE KEEGAN VOLKERT 2025",
+            44,
+            44
+        ],
+        [
+            "2A OKOBOJI MICHAEL GONNERMAN 2024",
+            45,
+            45
+        ],
+        [
+            "1A SIOUX CENTRAL ZANE SANGWIN 2026",
+            46,
+            46
+        ],
+        [
+            "2A WEST LYON PETER RENS 2026",
+            47,
+            47
+        ],
+        [
+            "2A GEORGE-LITTLE ROCK OLIVER HARMS 2025",
+            48,
+            48
+        ],
+        [
+            "3A SIOUX CENTER DANIEL GARCIAVERA 2026",
+            49,
+            49
+        ],
+        [
+            "3A SIOUX CENTER CRISTIAN RAMOS 2026",
+            50,
+            50
+        ],
+        [
+            "1A NORTH UNION KADE MADDEN 2026",
+            51,
+            51
+        ],
+        [
+            "1A SIOUX CENTRAL NOAH GARCIA 2026",
+            52,
+            52
+        ],
+        [
+            "3A SIOUX CENTER ADAM HENRICH 2023",
+            53,
+            53
+        ],
+        [
+            "3A SIOUX CENTER MILES SCHUITEMAN 2023",
+            54,
+            54
+        ],
+        [
+            "3A SIOUX CENTER BEN HAVERHALS 2026",
+            55,
+            55
+        ],
+        [
+            "2A EMMETSBURG ROBERT FREDERICK 2025",
+            56,
+            56
+        ],
+        [
+            "3A SIOUX CENTER JONY RAMOS 2026",
+            57,
+            57
+        ],
+        [
+            "1A SIOUX CENTRAL GREG ANDERSON 2023",
+            58,
+            58
+        ],
+        [
+            "2A OKOBOJI CONNOR CUNNINGHAM 2023",
+            59,
+            59
+        ],
+        [
+            "2A OKOBOJI PAUL CONOVER 2023",
+            60,
+            60
+        ],
+        [
+            "1A SIOUX CENTRAL BRETTON FARNHAM 2025",
+            61,
+            61
+        ],
+        [
+            "2A EMMETSBURG LUCIAN BENJAMIN 2024",
+            62,
+            62
+        ],
+        [
+            "1A SIOUX CENTRAL HUNTER PHELPS 2023",
+            63,
+            63
+        ],
+        [
+            "3A SIOUX CENTER REYNOSO ANDY PEREZ 2024",
+            64,
+            64
+        ],
+        [
+            "3A SIOUX CENTER EVAN HURST 2026",
+            65,
+            65
+        ]
+    ]
+}

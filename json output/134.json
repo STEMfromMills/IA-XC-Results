@@ -1,0 +1,391 @@
+{
+    "name": "Osage",
+    "time_seconds": 1663045214,
+    "standings": [
+        [
+            "1A LAKE MILLS JUSTIN RYGH 2024",
+            0,
+            0
+        ],
+        [
+            "1A NORTH BUTLER OWEN ALMELIEN 2023",
+            1,
+            1
+        ],
+        [
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            2,
+            2
+        ],
+        [
+            "1A NEWMAN JOEY RINGO 2023",
+            3,
+            3
+        ],
+        [
+            "2A NEW HAMPTON CAM MCMORRIS 2024",
+            4,
+            4
+        ],
+        [
+            "2A CRESTWOOD DOMINIC BIGALK 2024",
+            5,
+            5
+        ],
+        [
+            "1A LAKE MILLS KNUTE ROGNE 2026",
+            6,
+            6
+        ],
+        [
+            "2A FOREST CITY PARKER SHARP 2023",
+            7,
+            7
+        ],
+        [
+            "2A FOREST CITY ETHAN JOHNSON 2023",
+            8,
+            8
+        ],
+        [
+            "2A OSAGE KEAGAN HENNESSEY 2023",
+            9,
+            9
+        ],
+        [
+            "2A NEW HAMPTON JACK SHAWVER 2024",
+            10,
+            10
+        ],
+        [
+            "2A FOREST CITY CARSON STRUKEL 2023",
+            11,
+            11
+        ],
+        [
+            "1A NASHUA-PLAINFIELD JASE HANSEN 2026",
+            12,
+            12
+        ],
+        [
+            "1A CENTRAL SPRINGS CARTER LANPHERE 2024",
+            13,
+            13
+        ],
+        [
+            "2A OSAGE DARREN ADAMS 2024",
+            14,
+            14
+        ],
+        [
+            "2A NEW HAMPTON TREYCE ORR 2023",
+            15,
+            15
+        ],
+        [
+            "2A FOREST CITY SILAS GANN 2026",
+            16,
+            16
+        ],
+        [
+            "2A CRESTWOOD NATHAN AHERN 2025",
+            17,
+            17
+        ],
+        [
+            "1A SAINT ANSGAR COLE HANSEN 2023",
+            18,
+            18
+        ],
+        [
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
+            19,
+            19
+        ],
+        [
+            "2A OSAGE CHASE POTTER 2023",
+            20,
+            20
+        ],
+        [
+            "2A FOREST CITY ETHAN BERTRAM 2026",
+            21,
+            21
+        ],
+        [
+            "2A FOREST CITY JOSIAH WELCH 2023",
+            22,
+            22
+        ],
+        [
+            "1A CENTRAL SPRINGS GAVIN RYNER 2025",
+            23,
+            23
+        ],
+        [
+            "1A LAKE MILLS KADE VAN ROEKEL 2025",
+            24,
+            24
+        ],
+        [
+            "2A CRESTWOOD LUKE STORTZ 2023",
+            25,
+            25
+        ],
+        [
+            "1A NEWMAN ADAM HENRICH 2025",
+            26,
+            26
+        ],
+        [
+            "2A OSAGE ASHTON SONBERG 2023",
+            27,
+            27
+        ],
+        [
+            "1A NORTH BUTLER TRAGER PECHA 2026",
+            28,
+            28
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS CHRISTOPHER GREENFIELD 2025",
+            29,
+            29
+        ],
+        [
+            "1A NEWMAN LANDON KOHLER 2023",
+            30,
+            30
+        ],
+        [
+            "2A FOREST CITY JADYN WELCH 2023",
+            31,
+            31
+        ],
+        [
+            "1A CENTRAL SPRINGS AUSTIN LLOYD 2023",
+            32,
+            32
+        ],
+        [
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
+            33,
+            33
+        ],
+        [
+            "1A NEWMAN LIAM STOCKBERGER 2024",
+            34,
+            34
+        ],
+        [
+            "2A CRESTWOOD JACK MACDUFF 2026",
+            35,
+            35
+        ],
+        [
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
+            36,
+            36
+        ],
+        [
+            "1A NORTH BUTLER WYATT ANDERSON 2024",
+            37,
+            37
+        ],
+        [
+            "1A NEWMAN SAM STEIDL 2025",
+            38,
+            38
+        ],
+        [
+            "1A NEWMAN NOAH O'CONNELL 2025",
+            39,
+            39
+        ],
+        [
+            "1A NASHUA-PLAINFIELD CALEB SINNWELL 2025",
+            40,
+            40
+        ],
+        [
+            "1A LAKE MILLS HAYDEN THOMPSON 2026",
+            41,
+            41
+        ],
+        [
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
+            42,
+            42
+        ],
+        [
+            "1A NASHUA-PLAINFIELD CALEB LENTZ 2024",
+            43,
+            43
+        ],
+        [
+            "2A CRESTWOOD SAM BRACE 2024",
+            44,
+            44
+        ],
+        [
+            "2A OSAGE LOGAN MITCHELL 2024",
+            45,
+            45
+        ],
+        [
+            "1A LAKE MILLS LUCAS OLDENKAMP 2025",
+            46,
+            46
+        ],
+        [
+            "2A OSAGE HAMPTON ARCINIEGA 2025",
+            47,
+            47
+        ],
+        [
+            "2A NEW HAMPTON JARRIN ROBINSON 2025",
+            48,
+            48
+        ],
+        [
+            "2A CRESTWOOD BROOKS MOSER 2025",
+            49,
+            49
+        ],
+        [
+            "2A OSAGE TANNER WRIGHT 2025",
+            50,
+            50
+        ],
+        [
+            "1A NASHUA-PLAINFIELD LEVI WINTERS 2023",
+            51,
+            51
+        ],
+        [
+            "1A NASHUA-PLAINFIELD LUKE PAPLOW 2025",
+            52,
+            52
+        ],
+        [
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
+            53,
+            53
+        ],
+        [
+            "1A BELMOND-KLEMME ALDO MARTINEZ 2023",
+            54,
+            54
+        ],
+        [
+            "1A CENTRAL SPRINGS THOMAS HAAS 2025",
+            55,
+            55
+        ],
+        [
+            "1A NORTHWOOD-KENSETT AIDEN BICE 2025",
+            56,
+            56
+        ],
+        [
+            "1A CENTRAL SPRINGS JACK PRUIN 2025",
+            57,
+            57
+        ],
+        [
+            "1A LAKE MILLS ASA STELLPFLUG 2024",
+            58,
+            58
+        ],
+        [
+            "1A NEWMAN DAN SPOONER 2026",
+            59,
+            59
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS TATE JACKSON 2025",
+            60,
+            60
+        ],
+        [
+            "1A CENTRAL SPRINGS OWEN WETTER 2024",
+            61,
+            61
+        ],
+        [
+            "1A CENTRAL SPRINGS BLAKE BARKER 2024",
+            62,
+            62
+        ],
+        [
+            "1A NORTHWOOD-KENSETT ZACH HEIKEN 2026",
+            63,
+            63
+        ],
+        [
+            "1A NORTH BUTLER SAMUEL MARTINEZ-MACIAS 2026",
+            64,
+            64
+        ],
+        [
+            "1A SAINT ANSGAR LUCAN KNUTSON 2025",
+            65,
+            65
+        ],
+        [
+            "1A NASHUA-PLAINFIELD BRADY LENSING 2026",
+            66,
+            66
+        ],
+        [
+            "1A ROCKFORD RYKER HOFFMAN 2025",
+            67,
+            67
+        ],
+        [
+            "1A SAINT ANSGAR BRIAN NUNEZ 2025",
+            68,
+            68
+        ],
+        [
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
+            69,
+            69
+        ],
+        [
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
+            70,
+            70
+        ],
+        [
+            "1A LAKE MILLS ALEJANDRO VAZQUEZ-PEREZ 2025",
+            71,
+            71
+        ],
+        [
+            "1A ROCKFORD MAC HIRV 2024",
+            72,
+            72
+        ],
+        [
+            "1A NORTH BUTLER ALEX ALMELIEN 2025",
+            73,
+            73
+        ],
+        [
+            "1A NORTH BUTLER OWEN SWYGMAN 2024",
+            74,
+            74
+        ],
+        [
+            "1A NORTH BUTLER BRADY HENNING 2026",
+            75,
+            75
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS HUNTER SMIDT 2025",
+            76,
+            76
+        ]
+    ]
+}

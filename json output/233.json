@@ -1,0 +1,491 @@
+{
+    "name": "Clarke",
+    "time_seconds": 1664254853,
+    "standings": [
+        [
+            "1A CENTRAL DECATUR VINCENT CARCAMO 2023",
+            0,
+            0
+        ],
+        [
+            "2A I35 AUSTIN VANDER WERF 2024",
+            1,
+            1
+        ],
+        [
+            "2A I35 BEN REYES 2023",
+            2,
+            2
+        ],
+        [
+            "2A CHARITON BLANE WALLACE 2023",
+            3,
+            3
+        ],
+        [
+            "1A SE WARREN RONAN JIMENEZ 2023",
+            4,
+            4
+        ],
+        [
+            "2A VAN METER LUKA HULSE 2025",
+            5,
+            5
+        ],
+        [
+            "2A CHARITON BRADLEY HOBBS 2024",
+            6,
+            6
+        ],
+        [
+            "2A CHARITON DAVID CRABB 2024",
+            7,
+            7
+        ],
+        [
+            "1A CENTRAL DECATUR JOE SHEETZ 2024",
+            8,
+            8
+        ],
+        [
+            "2A CHARITON CONNOR DIXSON 2024",
+            9,
+            9
+        ],
+        [
+            "2A DAVIS COUNTY MARK SHIRLEY 2024",
+            10,
+            10
+        ],
+        [
+            "3A CLARKE MICAH DOMINA 2025",
+            11,
+            11
+        ],
+        [
+            "2A DAVIS COUNTY SUTTON SHIVELY 2024",
+            12,
+            12
+        ],
+        [
+            "3A CLARKE CALHOUN LUNDQUIST 2023",
+            13,
+            13
+        ],
+        [
+            "2A CHARITON BRENT CRABB 2026",
+            14,
+            14
+        ],
+        [
+            "3A CLARKE DEVANTE CALDWELL 2025",
+            15,
+            15
+        ],
+        [
+            "3A CLARKE ALEXANDER SHINN 2024",
+            16,
+            16
+        ],
+        [
+            "2A I35 OWEN DICKINSON 2023",
+            17,
+            17
+        ],
+        [
+            "2A DAVIS COUNTY DRAKE HAMM 2023",
+            18,
+            18
+        ],
+        [
+            "3A CRESTON RILEY WIPPERMAN 2023",
+            19,
+            19
+        ],
+        [
+            "3A CRESTON OWEN WEIS 2026",
+            20,
+            20
+        ],
+        [
+            "2A DAVIS COUNTY DANIEL OLIVER 2023",
+            21,
+            21
+        ],
+        [
+            "2A I35 OWEN FESTLER 2023",
+            22,
+            22
+        ],
+        [
+            "2A I35 MICHAEL UPP 2025",
+            23,
+            23
+        ],
+        [
+            "3A CLARKE RICHIE DONALDSON 2023",
+            24,
+            24
+        ],
+        [
+            "2A DAVIS COUNTY AARON COOK 2025",
+            25,
+            25
+        ],
+        [
+            "2A I35 CANNON BECK 2024",
+            26,
+            26
+        ],
+        [
+            "2A VAN METER CAEL REIMERS 2025",
+            27,
+            27
+        ],
+        [
+            "2A DAVIS COUNTY GAVIN SHIVELY 2026",
+            28,
+            28
+        ],
+        [
+            "2A CHARITON SAMUEL KERNS 2025",
+            29,
+            29
+        ],
+        [
+            "2A I35 CARSON ALLEN 2023",
+            30,
+            30
+        ],
+        [
+            "2A CHARITON DYLAN CHANDLER 2026",
+            31,
+            31
+        ],
+        [
+            "3A CLARKE COOPER BAHLS 2025",
+            32,
+            32
+        ],
+        [
+            "2A DAVIS COUNTY CHANDLER BACHMAN 2025",
+            33,
+            33
+        ],
+        [
+            "1A CENTRAL DECATUR ARI JOHNSON 2025",
+            34,
+            34
+        ],
+        [
+            "3A CRESTON CARSON SMITH 2023",
+            35,
+            35
+        ],
+        [
+            "1A MOUNT AYR ASHTYN BENESH 2024",
+            36,
+            36
+        ],
+        [
+            "1A SE WARREN CHASE THOMPSON 2024",
+            37,
+            37
+        ],
+        [
+            "2A CHARITON JESSE THOMAS 2023",
+            38,
+            38
+        ],
+        [
+            "3A CRESTON GABE HOPKINS 2025",
+            39,
+            39
+        ],
+        [
+            "2A VAN METER KAEGAN WIGANT 2026",
+            40,
+            40
+        ],
+        [
+            "2A DAVIS COUNTY TYLER BURTON 2024",
+            41,
+            41
+        ],
+        [
+            "3A CRESTON ANTHONY EBLEN 2024",
+            42,
+            42
+        ],
+        [
+            "3A CLARKE CONNER WILLIAMS 2025",
+            43,
+            43
+        ],
+        [
+            "3A CRESTON CHRISTIAN AHRENS 2024",
+            44,
+            44
+        ],
+        [
+            "2A DAVIS COUNTY BRYSON BENGE 2024",
+            45,
+            45
+        ],
+        [
+            "1A CENTRAL DECATUR MADDOX KISTLER 2025",
+            46,
+            46
+        ],
+        [
+            "2A VAN METER LEO HAYES 2024",
+            47,
+            47
+        ],
+        [
+            "2A DAVIS COUNTY CHARLIE WARREN 2025",
+            48,
+            48
+        ],
+        [
+            "1A MOUNT AYR BRAYLON GREENWELL 2026",
+            49,
+            49
+        ],
+        [
+            "2A CHARITON MITCHELL SWARTHOUT 2023",
+            50,
+            50
+        ],
+        [
+            "2A CHARITON ETHAN WERTS 2025",
+            51,
+            51
+        ],
+        [
+            "2A VAN METER LIAM NEWELL 2026",
+            52,
+            52
+        ],
+        [
+            "2A DAVIS COUNTY CAMRON HUBBARTT 2026",
+            53,
+            53
+        ],
+        [
+            "2A VAN METER CORY OLIVER 2026",
+            54,
+            54
+        ],
+        [
+            "2A DAVIS COUNTY KAISON HEEMSBERGEN 2025",
+            55,
+            55
+        ],
+        [
+            "2A CHARITON GAGE HART 2024",
+            56,
+            56
+        ],
+        [
+            "2A VAN METER CAMDEN KRUSEMARK 2025",
+            57,
+            57
+        ],
+        [
+            "3A CLARKE CADEN EARLS 2024",
+            58,
+            58
+        ],
+        [
+            "1A CENTRAL DECATUR CODY MORGAN 2023",
+            59,
+            59
+        ],
+        [
+            "2A VAN METER RYDER RASMUSSEN 2026",
+            60,
+            60
+        ],
+        [
+            "2A DAVIS COUNTY LANDON FETCHO 2025",
+            61,
+            61
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            62,
+            62
+        ],
+        [
+            "3A CLARKE NATHANIEL BISHOP 2023",
+            63,
+            63
+        ],
+        [
+            "2A DAVIS COUNTY JOHN ERP 2025",
+            64,
+            64
+        ],
+        [
+            "2A DAVIS COUNTY MAX MCCOY 2023",
+            65,
+            65
+        ],
+        [
+            "3A CRESTON ALLEN KENDRICK 2026",
+            66,
+            66
+        ],
+        [
+            "3A CRESTON JESH VILLALPANDO 2026",
+            67,
+            67
+        ],
+        [
+            "1A SW VALLEY ETHAN JAMES 2024",
+            68,
+            68
+        ],
+        [
+            "1A CENTRAL DECATUR ANDEN HALL 2025",
+            69,
+            69
+        ],
+        [
+            "2A DAVIS COUNTY GAVIN KLAUS 2025",
+            70,
+            70
+        ],
+        [
+            "3A CLARKE TRENT ENGEL 2023",
+            71,
+            71
+        ],
+        [
+            "1A CENTRAL DECATUR KACYN WATSON 2026",
+            72,
+            72
+        ],
+        [
+            "2A DAVIS COUNTY GABE GERRITSON 2025",
+            73,
+            73
+        ],
+        [
+            "2A DAVIS COUNTY JOSIAH VANMAANEN 2026",
+            74,
+            74
+        ],
+        [
+            "2A VAN METER MASON BRADLEY 2026",
+            75,
+            75
+        ],
+        [
+            "2A DAVIS COUNTY KOLE DRUMMOND 2026",
+            76,
+            76
+        ],
+        [
+            "2A CHARITON DREW CHANDLER 2026",
+            77,
+            77
+        ],
+        [
+            "1A MORAVIA PARKER ARMSTRONG 2025",
+            78,
+            78
+        ],
+        [
+            "1A MORAVIA JACOB IRVING 2025",
+            79,
+            79
+        ],
+        [
+            "1A SW VALLEY MATTHEW MEANS 2025",
+            80,
+            80
+        ],
+        [
+            "3A CLARKE BRODY FEEHAN 2025",
+            81,
+            81
+        ],
+        [
+            "2A I35 SAM UPP 2025",
+            82,
+            82
+        ],
+        [
+            "2A CHARITON LUIS ACUNA 2025",
+            83,
+            83
+        ],
+        [
+            "2A VAN METER BEN KOSTER 2026",
+            84,
+            84
+        ],
+        [
+            "1A SE WARREN GABE COLOCHO-OROSCO 2024",
+            85,
+            85
+        ],
+        [
+            "1A MORAVIA CLAYTON WILLIAMS 2024",
+            86,
+            86
+        ],
+        [
+            "1A MORAVIA KALEB REBANECK 2025",
+            87,
+            87
+        ],
+        [
+            "1A MORAVIA KAYDON LEADON 2025",
+            88,
+            88
+        ],
+        [
+            "1A MORAVIA GAVIN REBANECK 2025",
+            89,
+            89
+        ],
+        [
+            "3A CLARKE COOPER CIECALONE 2026",
+            90,
+            90
+        ],
+        [
+            "1A SE WARREN HAROLD BALK 2025",
+            91,
+            91
+        ],
+        [
+            "2A DAVIS COUNTY OWEN KLAUS 2026",
+            92,
+            92
+        ],
+        [
+            "2A CHARITON ISAAC SUNDQUIST 2024",
+            93,
+            93
+        ],
+        [
+            "2A VAN METER JACKSON SLICK 2025",
+            94,
+            94
+        ],
+        [
+            "1A SW VALLEY LUCAS JAMES 2026",
+            95,
+            95
+        ],
+        [
+            "3A CLARKE CASEY WADE 2026",
+            96,
+            96
+        ]
+    ]
+}

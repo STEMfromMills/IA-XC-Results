@@ -1,0 +1,321 @@
+{
+    "name": "Lake City j",
+    "time_seconds": 1664859652,
+    "standings": [
+        [
+            "1A OGDEN CAEL DOZIER 2025",
+            0,
+            0
+        ],
+        [
+            "1A OGDEN BRAYDON DOTY 2023",
+            1,
+            1
+        ],
+        [
+            "1A OGDEN TRAVIS BOOTHROYD 2024",
+            2,
+            2
+        ],
+        [
+            "1A SIOUX CENTRAL HUNTER SMITH 2023",
+            3,
+            3
+        ],
+        [
+            "1A OGDEN CADEN LERDAL 2025",
+            4,
+            4
+        ],
+        [
+            "3A DENISON CHRIS CAMPOS 2023",
+            5,
+            5
+        ],
+        [
+            "1A OGDEN TREVOR BOOTHROYD 2024",
+            6,
+            6
+        ],
+        [
+            "1A OGDEN MATTHEW SEGO 2023",
+            7,
+            7
+        ],
+        [
+            "3A DENISON CARLOS ZAMAGO 2026",
+            8,
+            8
+        ],
+        [
+            "3A DENISON JUAN DIAZ 2024",
+            9,
+            9
+        ],
+        [
+            "2A SE VALLEY COLE LUNDGREN 2025",
+            10,
+            10
+        ],
+        [
+            "1A MANSON NW WEBSTER BRODY PROCTOR 2024",
+            11,
+            11
+        ],
+        [
+            "1A SIOUX CENTRAL NOAH GARCIA 2026",
+            12,
+            12
+        ],
+        [
+            "1A OGDEN LANDON ABBOTT 2026",
+            13,
+            13
+        ],
+        [
+            "2A SE VALLEY CAELAN OAKES-SUDHISH 2024",
+            14,
+            14
+        ],
+        [
+            "3A DENISON BRODY SKARIN 2026",
+            15,
+            15
+        ],
+        [
+            "1A RIDGE VIEW TRISTAN WERNER 2026",
+            16,
+            16
+        ],
+        [
+            "1A SIOUX CENTRAL ANDREW NELSON 2026",
+            17,
+            17
+        ],
+        [
+            "1A SIOUX CENTRAL BRETTON FARNHAM 2025",
+            18,
+            18
+        ],
+        [
+            "1A OGDEN WILL FREY 2025",
+            19,
+            19
+        ],
+        [
+            "1A SIOUX CENTRAL ZANE SANGWIN 2026",
+            20,
+            20
+        ],
+        [
+            "1A OGDEN DECLAN SANCULI 2026",
+            21,
+            21
+        ],
+        [
+            "2A POCAHONTAS DEAN MOWRY 2025",
+            22,
+            22
+        ],
+        [
+            "2A SE VALLEY DREYVON STEADMAN 2025",
+            23,
+            23
+        ],
+        [
+            "3A DENISON ADRIAN VELAZQUEZ 2023",
+            24,
+            24
+        ],
+        [
+            "1A OGDEN TRISTAN MOSLEY 2025",
+            25,
+            25
+        ],
+        [
+            "1A OGDEN PALMER HICKINGBOTTOM 2026",
+            26,
+            26
+        ],
+        [
+            "1A RIDGE VIEW DANIEL NAJERA-TORRES 2025",
+            27,
+            27
+        ],
+        [
+            "1A OGDEN HENRY RUSSO 2026",
+            28,
+            28
+        ],
+        [
+            "1A RIDGE VIEW EDUARDO MENDOZA 2024",
+            29,
+            29
+        ],
+        [
+            "2A SE VALLEY JACOB SNYDER 2023",
+            30,
+            30
+        ],
+        [
+            "2A EAST SAC TONY CLAIR 2024",
+            31,
+            31
+        ],
+        [
+            "1A OGDEN RYKER KRUSE 2025",
+            32,
+            32
+        ],
+        [
+            "1A SIOUX CENTRAL GAUGE SMITH 2026",
+            33,
+            33
+        ],
+        [
+            "1A OGDEN JASE COLEMAN 2026",
+            34,
+            34
+        ],
+        [
+            "1A OGDEN JACOB THOMSEN 2025",
+            35,
+            35
+        ],
+        [
+            "1A MANSON NW WEBSTER NOAH BERGER 2026",
+            36,
+            36
+        ],
+        [
+            "2A OABCIG JUAN DELCID 2023",
+            37,
+            37
+        ],
+        [
+            "2A EAST SAC TUCKER FREESE 2026",
+            38,
+            38
+        ],
+        [
+            "2A EAST SAC ETHAN PETERS 2024",
+            39,
+            39
+        ],
+        [
+            "1A SIOUX CENTRAL GARTH THOMAS 2023",
+            40,
+            40
+        ],
+        [
+            "1A SIOUX CENTRAL GREG ANDERSON 2023",
+            41,
+            41
+        ],
+        [
+            "1A OGDEN GAVIN SILER 2026",
+            42,
+            42
+        ],
+        [
+            "1A WOODWARD ACADEMY ISAAC JOHNSON 2026",
+            43,
+            43
+        ],
+        [
+            "1A RIDGE VIEW MASON WOLF 2023",
+            44,
+            44
+        ],
+        [
+            "1A SIOUX CENTRAL KURTIS WOOD 2024",
+            45,
+            45
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN CALEB BLAIR 2023",
+            46,
+            46
+        ],
+        [
+            "2A EAST SAC XANDER HEMER 2026",
+            47,
+            47
+        ],
+        [
+            "2A POCAHONTAS NATE GREGERSEN 2026",
+            48,
+            48
+        ],
+        [
+            "2A SE VALLEY CADEN KALTSCHNEE 2025",
+            49,
+            49
+        ],
+        [
+            "1A MANSON NW WEBSTER DALTON BENNETT 2023",
+            50,
+            50
+        ],
+        [
+            "1A SIOUX CENTRAL HUNTER PHELPS 2023",
+            51,
+            51
+        ],
+        [
+            "2A SE VALLEY ELIAS FIELD 2023",
+            52,
+            52
+        ],
+        [
+            "2A EAST SAC CADE BACHMAN 2026",
+            53,
+            53
+        ],
+        [
+            "1A RIDGE VIEW XAVIER ROJAS 2025",
+            54,
+            54
+        ],
+        [
+            "1A RIDGE VIEW JADE JOCHIMS 2024",
+            55,
+            55
+        ],
+        [
+            "2A GREENE COUNTY JAYDEN KOLLER 2026",
+            56,
+            56
+        ],
+        [
+            "2A SE VALLEY JAMIE DALLEY 2023",
+            57,
+            57
+        ],
+        [
+            "1A RIDGE VIEW RHYANN ROJAS 2024",
+            58,
+            58
+        ],
+        [
+            "1A RIDGE VIEW TREVOR GOETTSCH 2026",
+            59,
+            59
+        ],
+        [
+            "2A SE VALLEY RYAN STEWART 2026",
+            60,
+            60
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN ELIJAH WILSON 2025",
+            61,
+            61
+        ],
+        [
+            "2A SOUTH CENTRAL CALHOUN GABE RASTETTER 2023",
+            62,
+            62
+        ]
+    ]
+}

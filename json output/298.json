@@ -1,0 +1,606 @@
+{
+    "name": "Atlantic ",
+    "time_seconds": 1665032458,
+    "standings": [
+        [
+            "3A WINTERSET MASON BACK 2023",
+            0,
+            0
+        ],
+        [
+            "3A DENISON RICHARD GONZALEZ 2025",
+            1,
+            1
+        ],
+        [
+            "1A SAINT ALBERT COLIN LILLIE 2023",
+            2,
+            2
+        ],
+        [
+            "2A CLARINDA TREYTON SCHAAPHERDER 2024",
+            3,
+            3
+        ],
+        [
+            "3A WINTERSET SAM HENSLEY 2024",
+            4,
+            4
+        ],
+        [
+            "2A CLARINDA KYLE WAGONER 2025",
+            5,
+            5
+        ],
+        [
+            "1A NODAWAY VALLEY DOUG BERG 2023",
+            6,
+            6
+        ],
+        [
+            "3A CARROLL KUEMPER RYAN NORTH 2024",
+            7,
+            7
+        ],
+        [
+            "3A WINTERSET ETHAN EASTER 2023",
+            8,
+            8
+        ],
+        [
+            "3A WINTERSET ELI COWMAN 2024",
+            9,
+            9
+        ],
+        [
+            "3A WINTERSET COLLIN KESSLER 2025",
+            10,
+            10
+        ],
+        [
+            "3A CARROLL KUEMPER JACOB GREVING 2024",
+            11,
+            11
+        ],
+        [
+            "1A SAINT ALBERT OWEN WISE 2024",
+            12,
+            12
+        ],
+        [
+            "3A WINTERSET LUKE HEITHOFF 2023",
+            13,
+            13
+        ],
+        [
+            "1A EARLHAM BLAKE TIEMEYER 2025",
+            14,
+            14
+        ],
+        [
+            "1A RIVERSIDE MASON MCCREADY 2024",
+            15,
+            15
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON MICHAEL WIESELER 2024",
+            16,
+            16
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON BRAULIO GONZALEZ 2025",
+            17,
+            17
+        ],
+        [
+            "3A ATLANTIC CHRISTIAN THOMPSON 2025",
+            18,
+            18
+        ],
+        [
+            "4A CB JEFFERSON KAIDEN HAMILTON 2026",
+            19,
+            19
+        ],
+        [
+            "3A HARLAN IAN SHELTON 2024",
+            20,
+            20
+        ],
+        [
+            "2A TREYNOR JOHN ROSS BIEDERMAN 2023",
+            21,
+            21
+        ],
+        [
+            "3A DENISON ETHAN PERRIEN 2023",
+            22,
+            22
+        ],
+        [
+            "3A DENISON LEONARDO FLORES 2023",
+            23,
+            23
+        ],
+        [
+            "4A CB LINCOLN CODY SMITH 2024",
+            24,
+            24
+        ],
+        [
+            "1A RIVERSIDE BRODY HENDERSON 2026",
+            25,
+            25
+        ],
+        [
+            "3A ATLANTIC DEVON FIELDS 2025",
+            26,
+            26
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON HAYDEN GAMBLE 2023",
+            27,
+            27
+        ],
+        [
+            "3A ATLANTIC ALEX SONNTAG 2024",
+            28,
+            28
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON EVAN JANZEN 2023",
+            29,
+            29
+        ],
+        [
+            "3A CARROLL KUEMPER THOMAS POTTEBAUM 2026",
+            30,
+            30
+        ],
+        [
+            "3A CARROLL KUEMPER FLETCH BADDING 2026",
+            31,
+            31
+        ],
+        [
+            "3A HARLAN KEATON HEILESON 2024",
+            32,
+            32
+        ],
+        [
+            "2A TREYNOR MASON YOCHUM 2023",
+            33,
+            33
+        ],
+        [
+            "4A CB JEFFERSON MARK MARKUSON 2023",
+            34,
+            34
+        ],
+        [
+            "1A SAINT ALBERT JOE HUGHES 2025",
+            35,
+            35
+        ],
+        [
+            "4A CB LINCOLN AIDAN WATTS 2025",
+            36,
+            36
+        ],
+        [
+            "3A ATLANTIC TYRELL WILLIAMS 2024",
+            37,
+            37
+        ],
+        [
+            "3A HARLAN JOSEPH BRAGG 2024",
+            38,
+            38
+        ],
+        [
+            "1A RIVERSIDE ERIC DUHACHEK 2023",
+            39,
+            39
+        ],
+        [
+            "3A CARROLL KUEMPER DAYTON WIEDERIEN 2026",
+            40,
+            40
+        ],
+        [
+            "1A SAINT ALBERT ADAM DENNY 2023",
+            41,
+            41
+        ],
+        [
+            "3A HARLAN KAIDEN MILLIKEN 2023",
+            42,
+            42
+        ],
+        [
+            "3A HARLAN GRANT PETERSEN 2026",
+            43,
+            43
+        ],
+        [
+            "1A SAINT ALBERT GABRIEL BARAJAS 2025",
+            44,
+            44
+        ],
+        [
+            "3A CRESTON RILEY WIPPERMAN 2023",
+            45,
+            45
+        ],
+        [
+            "3A WINTERSET LIAM SUTTON 2024",
+            46,
+            46
+        ],
+        [
+            "1A RIVERSIDE DAWSON HENDERSON 2026",
+            47,
+            47
+        ],
+        [
+            "3A DENISON IVAN LEDESMA 2026",
+            48,
+            48
+        ],
+        [
+            "4A CB JEFFERSON ETHAN BOSE 2023",
+            49,
+            49
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON DANIEL DELAROSA 2026",
+            50,
+            50
+        ],
+        [
+            "4A CB LINCOLN ROBERT SIFORD 2023",
+            51,
+            51
+        ],
+        [
+            "2A CLARINDA MORGAN MANES 2026",
+            52,
+            52
+        ],
+        [
+            "3A DENISON ETHAN OLSEN 2025",
+            53,
+            53
+        ],
+        [
+            "3A ATLANTIC MASON MCFADDEN 2024",
+            54,
+            54
+        ],
+        [
+            "2A CLARINDA ALEX LIHS 2024",
+            55,
+            55
+        ],
+        [
+            "1A EARLHAM PAYTON HARGER 2024",
+            56,
+            56
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON OWEN KONOPASEK 2025",
+            57,
+            57
+        ],
+        [
+            "2A CLARINDA RYLAN HENKE 2023",
+            58,
+            58
+        ],
+        [
+            "2A SHENANDOAH DAMIEN LITTLE THUNDER 2025",
+            59,
+            59
+        ],
+        [
+            "3A CRESTON OWEN WEIS 2026",
+            60,
+            60
+        ],
+        [
+            "2A CLARINDA GRANT BARR 2024",
+            61,
+            61
+        ],
+        [
+            "3A CARROLL KUEMPER JACOB MCCARGAR 2026",
+            62,
+            62
+        ],
+        [
+            "1A EARLHAM BLAKE PETERSEN 2025",
+            63,
+            63
+        ],
+        [
+            "3A ATLANTIC TALON LAJEUNESS 2025",
+            64,
+            64
+        ],
+        [
+            "1A SAINT ALBERT JACOB BOSWELL 2025",
+            65,
+            65
+        ],
+        [
+            "1A EARLHAM DONOVAN BRAET 2026",
+            66,
+            66
+        ],
+        [
+            "2A SHENANDOAH BRANDON MCDOWELL 2024",
+            67,
+            67
+        ],
+        [
+            "1A EARLHAM COLE FLICKINGER 2023",
+            68,
+            68
+        ],
+        [
+            "3A DENISON BRIAN IBARRA 2023",
+            69,
+            69
+        ],
+        [
+            "3A HARLAN SETH ANDERSON 2023",
+            70,
+            70
+        ],
+        [
+            "4A CB LINCOLN MARCOS CONTRERAS 2024",
+            71,
+            71
+        ],
+        [
+            "3A ATLANTIC BRADEN SPURR 2024",
+            72,
+            72
+        ],
+        [
+            "1A RIVERSIDE TEEGAN SCHECHINGER 2023",
+            73,
+            73
+        ],
+        [
+            "3A HARLAN JONATHAN SHELTON 2024",
+            74,
+            74
+        ],
+        [
+            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            75,
+            75
+        ],
+        [
+            "2A TREYNOR JEYDEN FARR 2026",
+            76,
+            76
+        ],
+        [
+            "2A SHENANDOAH HUNTER KELLOGG 2024",
+            77,
+            77
+        ],
+        [
+            "4A CB LINCOLN PARKER HERZOG 2024",
+            78,
+            78
+        ],
+        [
+            "1A RIVERSIDE CALEB STEVENS 2023",
+            79,
+            79
+        ],
+        [
+            "3A CRESTON CARSON SMITH 2023",
+            80,
+            80
+        ],
+        [
+            "1A SAINT ALBERT BRADY SMITH 2026",
+            81,
+            81
+        ],
+        [
+            "4A CB JEFFERSON IMMANUEL BROWN 2026",
+            82,
+            82
+        ],
+        [
+            "4A CB LINCOLN DALTON MCCORMICK 2023",
+            83,
+            83
+        ],
+        [
+            "3A CRESTON ANTHONY EBLEN 2024",
+            84,
+            84
+        ],
+        [
+            "2A SHENANDOAH DALTON KELLOGG 2024",
+            85,
+            85
+        ],
+        [
+            "3A DENISON ALBERTO ZAMAGO 2024",
+            86,
+            86
+        ],
+        [
+            "2A TREYNOR JACK CARLEY 2024",
+            87,
+            87
+        ],
+        [
+            "2A SHENANDOAH HOLSTE DAVIN 2025",
+            88,
+            88
+        ],
+        [
+            "2A RED OAK TY JENKINS 2024",
+            89,
+            89
+        ],
+        [
+            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            90,
+            90
+        ],
+        [
+            "3A CARROLL KUEMPER TYLER LEISE 2025",
+            91,
+            91
+        ],
+        [
+            "2A RED OAK JOSHUA LERETTE 2024",
+            92,
+            92
+        ],
+        [
+            "2A CLARINDA ALEC WYMAN 2023",
+            93,
+            93
+        ],
+        [
+            "3A CRESTON GABE HOPKINS 2025",
+            94,
+            94
+        ],
+        [
+            "4A CB LINCOLN DANIEL HORNBERG 2025",
+            95,
+            95
+        ],
+        [
+            "1A EARLHAM COOPER MICHAEL 2024",
+            96,
+            96
+        ],
+        [
+            "1A EARLHAM TYLER JOHNSON 2023",
+            97,
+            97
+        ],
+        [
+            "2A TREYNOR MILES NICHOLS 2023",
+            98,
+            98
+        ],
+        [
+            "4A CB JEFFERSON BRANDON BOWEN 2024",
+            99,
+            99
+        ],
+        [
+            "2A RED OAK BENNETT STICKLAND 2024",
+            100,
+            100
+        ],
+        [
+            "4A CB JEFFERSON ASA NEVILLE 2023",
+            101,
+            101
+        ],
+        [
+            "1A RIVERSIDE DALTON SMITH 2024",
+            102,
+            102
+        ],
+        [
+            "2A TREYNOR CHASE KILLINGER 2026",
+            103,
+            103
+        ],
+        [
+            "3A CRESTON ALLEN KENDRICK 2026",
+            104,
+            104
+        ],
+        [
+            "1A STANTON LOGAN MCQUEEN 2025",
+            105,
+            105
+        ],
+        [
+            "2A SHENANDOAH RAFE RODEWALD 2024",
+            106,
+            106
+        ],
+        [
+            "4A CB JEFFERSON RYAN SHEPARD 2024",
+            107,
+            107
+        ],
+        [
+            "2A SHENANDOAH ANDREW LAWRENCE 2024",
+            108,
+            108
+        ],
+        [
+            "3A CRESTON CHRISTIAN AHRENS 2024",
+            109,
+            109
+        ],
+        [
+            "1A FREMONT-MILLS ANDERSON CARTER 2026",
+            110,
+            110
+        ],
+        [
+            "1A FREMONT-MILLS ETHAN DINES 2026",
+            111,
+            111
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            112,
+            112
+        ],
+        [
+            "1A STANTON ZOOEY ALLEN 2025",
+            113,
+            113
+        ],
+        [
+            "2A RED OAK BRYCE WILLIAMS 2026",
+            114,
+            114
+        ],
+        [
+            "1A NODAWAY VALLEY JACK JENSEN 2024",
+            115,
+            115
+        ],
+        [
+            "2A TREYNOR ANDREW SAAR 2023",
+            116,
+            116
+        ],
+        [
+            "1A STANTON KYLE PASTORE 2023",
+            117,
+            117
+        ],
+        [
+            "1A STANTON ERIC KUTZLI 2026",
+            118,
+            118
+        ],
+        [
+            "1A NODAWAY VALLEY LANDON LABARGE 2026",
+            119,
+            119
+        ]
+    ]
+}

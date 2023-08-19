@@ -1,0 +1,401 @@
+{
+    "name": "Nevada j",
+    "time_seconds": 1664168448,
+    "standings": [
+        [
+            "3A NORTH POLK GRANT ASPENGREN 2024",
+            0,
+            0
+        ],
+        [
+            "3A NORTH POLK NOLAN MANDERNACH 2024",
+            1,
+            1
+        ],
+        [
+            "3A GILBERT EMRICK RYAN 2026",
+            2,
+            2
+        ],
+        [
+            "3A GILBERT JOHN ARTZ 2025",
+            3,
+            3
+        ],
+        [
+            "3A GILBERT JACOB DANILSON 2023",
+            4,
+            4
+        ],
+        [
+            "3A GILBERT ZEKE HATFIELD 2025",
+            5,
+            5
+        ],
+        [
+            "3A GILBERT CALEB RAGALLER 2023",
+            6,
+            6
+        ],
+        [
+            "3A NORTH POLK NATE BERGERSON 2023",
+            7,
+            7
+        ],
+        [
+            "3A NORTH POLK STOCKTON HUETHER 2025",
+            8,
+            8
+        ],
+        [
+            "3A NORTH POLK NATHAN HARRINGTON 2026",
+            9,
+            9
+        ],
+        [
+            "3A GILBERT ANDREW SOUPIR 2025",
+            10,
+            10
+        ],
+        [
+            "3A NEVADA GAVIN SKAGGS 2024",
+            11,
+            11
+        ],
+        [
+            "3A NORTH POLK ETHAN FAWCETT 2025",
+            12,
+            12
+        ],
+        [
+            "3A NORTH POLK PAYTON LEHMAN 2025",
+            13,
+            13
+        ],
+        [
+            "3A NORTH POLK MISHA MCILRAVY 2026",
+            14,
+            14
+        ],
+        [
+            "3A GILBERT LANDON LUCHT 2026",
+            15,
+            15
+        ],
+        [
+            "3A NEVADA IAN THOMAS 2024",
+            16,
+            16
+        ],
+        [
+            "3A GILBERT CASON EGGERT 2023",
+            17,
+            17
+        ],
+        [
+            "3A GILBERT WILL SOUPIR 2026",
+            18,
+            18
+        ],
+        [
+            "3A NEVADA CALEB BIENSEN 2026",
+            19,
+            19
+        ],
+        [
+            "3A GILBERT WILSON LOFSTEDT 2023",
+            20,
+            20
+        ],
+        [
+            "3A NEVADA LUCAS MILLS 2024",
+            21,
+            21
+        ],
+        [
+            "3A GILBERT DALTON NELSON 2023",
+            22,
+            22
+        ],
+        [
+            "3A GILBERT SPENCER WEYDERT 2024",
+            23,
+            23
+        ],
+        [
+            "3A GILBERT TRISTAN LIMOGES 2025",
+            24,
+            24
+        ],
+        [
+            "3A GILBERT WESTON CONGDON 2023",
+            25,
+            25
+        ],
+        [
+            "3A GILBERT ETHAN WILCOX 2025",
+            26,
+            26
+        ],
+        [
+            "1A SOUTH HAMILTON COLTON FINK 2023",
+            27,
+            27
+        ],
+        [
+            "3A GILBERT DANIEL MAY 2026",
+            28,
+            28
+        ],
+        [
+            "3A NEVADA CONNERY VARSA 2026",
+            29,
+            29
+        ],
+        [
+            "3A GILBERT JACK DYCHE 2026",
+            30,
+            30
+        ],
+        [
+            "2A WEST MARSHALL ZANE KIRKE 2023",
+            31,
+            31
+        ],
+        [
+            "1A EAST MARSHALL JOE FULLER 2025",
+            32,
+            32
+        ],
+        [
+            "1A SOUTH HAMILTON ELI RALSTON 2024",
+            33,
+            33
+        ],
+        [
+            "1A EAST MARSHALL BRAYDEN BURKE 2024",
+            34,
+            34
+        ],
+        [
+            "3A NORTH POLK LUKE PHILLIPS 2023",
+            35,
+            35
+        ],
+        [
+            "3A NEVADA BOURNE HANSON 2026",
+            36,
+            36
+        ],
+        [
+            "3A NEVADA RYNE ERICKSON 2024",
+            37,
+            37
+        ],
+        [
+            "3A NORTH POLK HUDSON SHIPLEY 2025",
+            38,
+            38
+        ],
+        [
+            "2A WEST MARSHALL ERICK ROSAS 2026",
+            39,
+            39
+        ],
+        [
+            "1A BCLUW SKYE MOSSMAN 2026",
+            40,
+            40
+        ],
+        [
+            "3A GILBERT ADAM RENZE 2023",
+            41,
+            41
+        ],
+        [
+            "1A SOUTH HAMILTON SAM FINK 2026",
+            42,
+            42
+        ],
+        [
+            "1A EAST MARSHALL AUSTIN PANSEGRAU 2026",
+            43,
+            43
+        ],
+        [
+            "2A ROLAND-STORY TOM SEVERSIKE 2023",
+            44,
+            44
+        ],
+        [
+            "3A NORTH POLK BRENNON MOREHEAD 2026",
+            45,
+            45
+        ],
+        [
+            "3A GILBERT ERIK SOENKSEN 2023",
+            46,
+            46
+        ],
+        [
+            "1A SOUTH HAMILTON LANE TARBILL 2025",
+            47,
+            47
+        ],
+        [
+            "3A NEVADA RYAN WESSELS 2025",
+            48,
+            48
+        ],
+        [
+            "2A ROLAND-STORY ADAM THIEL 2023",
+            49,
+            49
+        ],
+        [
+            "2A ROLAND-STORY REECE MARTIN 2023",
+            50,
+            50
+        ],
+        [
+            "3A GILBERT EMERSON CONGDON 2026",
+            51,
+            51
+        ],
+        [
+            "1A SOUTH HAMILTON BRAYDEN MOORE 2025",
+            52,
+            52
+        ],
+        [
+            "3A NEVADA DAMIN BROCKMAN 2026",
+            53,
+            53
+        ],
+        [
+            "2A ROLAND-STORY NELS HANSON 2024",
+            54,
+            54
+        ],
+        [
+            "3A GILBERT CHARLIE MORTIMER 2025",
+            55,
+            55
+        ],
+        [
+            "2A WEST MARSHALL DOMINIC FICKEN 2023",
+            56,
+            56
+        ],
+        [
+            "1A BCLUW PAUL MURTY 2023",
+            57,
+            57
+        ],
+        [
+            "3A NEVADA COLLIN SKAGGS 2026",
+            58,
+            58
+        ],
+        [
+            "2A WEST MARSHALL WYATT THOMPSON 2023",
+            59,
+            59
+        ],
+        [
+            "2A WEST MARSHALL EVAN MEESTER 2025",
+            60,
+            60
+        ],
+        [
+            "2A ROLAND-STORY AYDEN MCLAIN 2024",
+            61,
+            61
+        ],
+        [
+            "3A GILBERT JACKSON RIESSELMAN 2026",
+            62,
+            62
+        ],
+        [
+            "2A ROLAND-STORY SAM BRAUCHER 2025",
+            63,
+            63
+        ],
+        [
+            "3A GILBERT EVAN BUTTERY 2023",
+            64,
+            64
+        ],
+        [
+            "3A NEVADA NICHOLAS FISCHELS 2026",
+            65,
+            65
+        ],
+        [
+            "1A BCLUW COLTON DONALDSON 2025",
+            66,
+            66
+        ],
+        [
+            "3A GILBERT ALDO SCHWARTZ 2025",
+            67,
+            67
+        ],
+        [
+            "2A WEST MARSHALL WESLEY THOMPSON 2023",
+            68,
+            68
+        ],
+        [
+            "3A NEVADA SPENCER HALEY 2026",
+            69,
+            69
+        ],
+        [
+            "3A GILBERT TRAVIS GOFF 2023",
+            70,
+            70
+        ],
+        [
+            "1A BCLUW ELIJAH BOND 2025",
+            71,
+            71
+        ],
+        [
+            "3A GILBERT SAM ELLINGSON 2026",
+            72,
+            72
+        ],
+        [
+            "2A WEST MARSHALL NOAH TOLLEFSON 2026",
+            73,
+            73
+        ],
+        [
+            "2A WEST MARSHALL ETHAN WATSON 2026",
+            74,
+            74
+        ],
+        [
+            "2A WEST MARSHALL LAWSON COULTER 2025",
+            75,
+            75
+        ],
+        [
+            "3A GILBERT HUNTER HESSON 2024",
+            76,
+            76
+        ],
+        [
+            "1A BCLUW TUCKER WEDGWOOD 2024",
+            77,
+            77
+        ],
+        [
+            "2A ROLAND-STORY CAEL FABER 2026",
+            78,
+            78
+        ]
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "name": "Monticello var",
+    "time_seconds": 1662786058,
+    "standings": [
+        [
+            "3A EPWORTH ISAIAH HAMMERAND 2023",
+            0,
+            0
+        ],
+        [
+            "2A TIPTON CLAY BOHLMANN 2025",
+            1,
+            1
+        ],
+        [
+            "1A BELLEVUE PAYTON GRIEBEL 2024",
+            2,
+            2
+        ],
+        [
+            "3A EPWORTH DEREK FANGMANN 2023",
+            3,
+            3
+        ],
+        [
+            "1A CASCADE ADAM KNEPPER 2023",
+            4,
+            4
+        ],
+        [
+            "2A MID-PRAIRIE EMMETT SWARTZENTRUBER 2025",
+            5,
+            5
+        ],
+        [
+            "1A BELLEVUE AIDEN ONKEN 2023",
+            6,
+            6
+        ],
+        [
+            "2A TIPTON TY NICHOLS 2023",
+            7,
+            7
+        ],
+        [
+            "2A MONTICELLO CHESNEY CAPRON 2023",
+            8,
+            8
+        ],
+        [
+            "3A EPWORTH QUENTIN NAUMAN 2026",
+            9,
+            9
+        ],
+        [
+            "2A MONTICELLO JACOB MILLER 2023",
+            10,
+            10
+        ],
+        [
+            "3A EPWORTH DREW MEYER 2023",
+            11,
+            11
+        ],
+        [
+            "2A ANAMOSA SHEA KEISTER 2023",
+            12,
+            12
+        ],
+        [
+            "2A ANAMOSA SETH COUNTRYMAN 2025",
+            13,
+            13
+        ],
+        [
+            "2A TIPTON CALEB BOHLMANN 2026",
+            14,
+            14
+        ],
+        [
+            "2A TIPTON MAXSON FOGG 2025",
+            15,
+            15
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION DAVID LOCHNER 2023",
+            16,
+            16
+        ],
+        [
+            "3A EPWORTH LEVI MEYER 2023",
+            17,
+            17
+        ],
+        [
+            "1A NORTH LINN LEVI BENESH 2026",
+            18,
+            18
+        ],
+        [
+            "1A CASCADE MAX NADEAU 2023",
+            19,
+            19
+        ],
+        [
+            "2A MID-PRAIRIE JAYSE YODER 2025",
+            20,
+            20
+        ],
+        [
+            "1A MAQUOKETA VALLEY MATTHEW SCHAUL 2025",
+            21,
+            21
+        ],
+        [
+            "2A MID-PRAIRIE PRESTON YUTZY 2025",
+            22,
+            22
+        ],
+        [
+            "2A MONTICELLO AEDAN ALTHOFF 2026",
+            23,
+            23
+        ],
+        [
+            "2A MID-PRAIRIE NATHAN WALLINGTON 2023",
+            24,
+            24
+        ],
+        [
+            "2A MONTICELLO CORD NIETERT 2023",
+            25,
+            25
+        ],
+        [
+            "1A SPRINGVILLE EVAN ROBERTSON 2023",
+            26,
+            26
+        ],
+        [
+            "2A MONTICELLO ALEX OSWALD 2024",
+            27,
+            27
+        ],
+        [
+            "1A NORTH LINN CALEB BILDSTEIN 2025",
+            28,
+            28
+        ],
+        [
+            "2A BECKMAN JACOB SCHLARMANN 2024",
+            29,
+            29
+        ],
+        [
+            "1A CASCADE LANE COOK 2025",
+            30,
+            30
+        ],
+        [
+            "1A BELLEVUE CONNOR KILBURG 2026",
+            31,
+            31
+        ],
+        [
+            "2A ANAMOSA CARVER REISS 2025",
+            32,
+            32
+        ],
+        [
+            "1A CALAMUS-WHEATLAND LOGAN RIEDESEL 2025",
+            33,
+            33
+        ],
+        [
+            "2A ANAMOSA CALEB LOEHR 2023",
+            34,
+            34
+        ],
+        [
+            "3A EPWORTH BRODY STANER 2025",
+            35,
+            35
+        ],
+        [
+            "1A NORTH LINN TY PFLUGHAUPT 2024",
+            36,
+            36
+        ],
+        [
+            "2A BECKMAN ANDREW SCHLARMANN 2026",
+            37,
+            37
+        ],
+        [
+            "2A ANAMOSA JACK TROESTER 2024",
+            38,
+            38
+        ],
+        [
+            "1A MAQUOKETA VALLEY GEORGE LIVINGSTON 2024",
+            39,
+            39
+        ],
+        [
+            "2A MID-PRAIRIE BLAKE CREED 2023",
+            40,
+            40
+        ],
+        [
+            "1A CASCADE BEN GEHL 2023",
+            41,
+            41
+        ],
+        [
+            "1A NORTH LINN LANDON THOMSEN 2026",
+            42,
+            42
+        ],
+        [
+            "2A MONTICELLO NATHAN SAUSER 2023",
+            43,
+            43
+        ],
+        [
+            "1A BELLEVUE BEN STEINBECK 2023",
+            44,
+            44
+        ],
+        [
+            "1A CALAMUS-WHEATLAND JACKSON RIEDESEL 2024",
+            45,
+            45
+        ],
+        [
+            "1A CASCADE ANDREW KAALBERG 2025",
+            46,
+            46
+        ],
+        [
+            "2A TIPTON ANDREW SHUMAKER 2024",
+            47,
+            47
+        ],
+        [
+            "2A TIPTON JETT KAMBERLING 2026",
+            48,
+            48
+        ],
+        [
+            "2A MID-PRAIRIE JORDAN STOCK 2023",
+            49,
+            49
+        ],
+        [
+            "2A TIPTON BRODY DEERBERG 2023",
+            50,
+            50
+        ],
+        [
+            "1A MAQUOKETA VALLEY ARION RAVE 2025",
+            51,
+            51
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION CONNOR LERCH 2025",
+            52,
+            52
+        ],
+        [
+            "2A MID-PRAIRIE DANIEL RODGERS 2024",
+            53,
+            53
+        ],
+        [
+            "1A CALAMUS-WHEATLAND MASON MOHR 2026",
+            54,
+            54
+        ],
+        [
+            "2A MONTICELLO REEVE GRAVER 2025",
+            55,
+            55
+        ],
+        [
+            "1A BELLEVUE BEN MEYER 2024",
+            56,
+            56
+        ],
+        [
+            "2A BECKMAN ADAM GAUL 2026",
+            57,
+            57
+        ],
+        [
+            "3A EPWORTH THOMAS BLAIR 2023",
+            58,
+            58
+        ],
+        [
+            "2A CAMANCHE NICK REUTER 2023",
+            59,
+            59
+        ],
+        [
+            "1A CALAMUS-WHEATLAND AIDAN YADDOF 2026",
+            60,
+            60
+        ],
+        [
+            "2A ANAMOSA JACOB LOEHR 2023",
+            61,
+            61
+        ],
+        [
+            "2A ANAMOSA BRAEDEN KEISTER 2025",
+            62,
+            62
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION JOHN MURPHY 2026",
+            63,
+            63
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION GENO DELPREORE 2025",
+            64,
+            64
+        ],
+        [
+            "2A CAMANCHE MADDOX HOMAN 2025",
+            65,
+            65
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION AIDEN MARIETTA 2023",
+            66,
+            66
+        ],
+        [
+            "1A CASCADE NATHANIEL MANTERNACH 2024",
+            67,
+            67
+        ],
+        [
+            "1A MAQUOKETA VALLEY TOBY GRIMM 2024",
+            68,
+            68
+        ],
+        [
+            "1A CASCADE GIOVANNI VEGA-VEGA 2024",
+            69,
+            69
+        ],
+        [
+            "1A MAQUOKETA VALLEY KENYON BAKER 2026",
+            70,
+            70
+        ],
+        [
+            "2A BECKMAN JOE SCHNEIDER 2023",
+            71,
+            71
+        ],
+        [
+            "1A NORTH LINN CARTER FOLKERS 2023",
+            72,
+            72
+        ],
+        [
+            "1A NORTH LINN SAWYER LONG 2026",
+            73,
+            73
+        ],
+        [
+            "2A BECKMAN DANNY DUDZIK 2026",
+            74,
+            74
+        ],
+        [
+            "2A BECKMAN RILEY WHITE 2024",
+            75,
+            75
+        ],
+        [
+            "2A BECKMAN SPENCER REA 2023",
+            76,
+            76
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION MICHAEL LOCHNER 2023",
+            77,
+            77
+        ],
+        [
+            "2A CAMANCHE TY GRAVERT 2023",
+            78,
+            78
+        ],
+        [
+            "2A CAMANCHE CAMERON DORSEY 2025",
+            79,
+            79
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION LUKE JENNINGS 2026",
+            80,
+            80
+        ],
+        [
+            "2A CAMANCHE BRAXTON LAURION 2026",
+            81,
+            81
+        ],
+        [
+            "2A CAMANCHE TANNER SNODGRASS 2025",
+            82,
+            82
+        ],
+        [
+            "1A CALAMUS-WHEATLAND KAISER SANDS 2025",
+            83,
+            83
+        ]
+    ]
+}

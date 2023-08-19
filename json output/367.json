@@ -1,0 +1,536 @@
+{
+    "name": "Mount Ayr",
+    "time_seconds": 1665637207,
+    "standings": [
+        [
+            "1A NODAWAY VALLEY DOUG BERG 2023",
+            0,
+            0
+        ],
+        [
+            "1A ANKENY CHRISTIAN DANIEL SCHOENING 2024",
+            1,
+            1
+        ],
+        [
+            "1A LAMONI TYSON MCDOLE 2023",
+            2,
+            2
+        ],
+        [
+            "1A SE WARREN RONAN JIMENEZ 2023",
+            3,
+            3
+        ],
+        [
+            "1A SE WARREN RYLAN JIMENEZ 2023",
+            4,
+            4
+        ],
+        [
+            "1A ANKENY CHRISTIAN ALEX DAVIS 2026",
+            5,
+            5
+        ],
+        [
+            "1A EAST UNION JACOB DRISKILL 2024",
+            6,
+            6
+        ],
+        [
+            "1A NODAWAY VALLEY MALACHI BROERS 2024",
+            7,
+            7
+        ],
+        [
+            "1A MARTENSDALE ADEN MOORE 2024",
+            8,
+            8
+        ],
+        [
+            "1A GRANDVIEW MILTON BURKHART 2025",
+            9,
+            9
+        ],
+        [
+            "1A CAM GAVIN CLAYTON 2023",
+            10,
+            10
+        ],
+        [
+            "3A CLARKE MICAH DOMINA 2025",
+            11,
+            11
+        ],
+        [
+            "1A ESSEX TONY RACINE 2024",
+            12,
+            12
+        ],
+        [
+            "1A GRANDVIEW MORGAN CIPALE 2024",
+            13,
+            13
+        ],
+        [
+            "1A GRANDVIEW KELTON TRIM 2023",
+            14,
+            14
+        ],
+        [
+            "1A WAYNE LEVI MOSS 2024",
+            15,
+            15
+        ],
+        [
+            "3A CLARKE CALHOUN LUNDQUIST 2023",
+            16,
+            16
+        ],
+        [
+            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            17,
+            17
+        ],
+        [
+            "1A MARTENSDALE ELIJAH WHEELDON 2025",
+            18,
+            18
+        ],
+        [
+            "1A SE WARREN CHASE THOMPSON 2024",
+            19,
+            19
+        ],
+        [
+            "1A DIAGONAL CARTER LUMBARD 2024",
+            20,
+            20
+        ],
+        [
+            "1A GRANDVIEW BRETT SCHROEDER 2023",
+            21,
+            21
+        ],
+        [
+            "3A CLARKE DEVANTE CALDWELL 2025",
+            22,
+            22
+        ],
+        [
+            "1A MARTENSDALE TEEGAN DORENKAMP 2025",
+            23,
+            23
+        ],
+        [
+            "1A WAYNE MAX POLLOCK 2026",
+            24,
+            24
+        ],
+        [
+            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            25,
+            25
+        ],
+        [
+            "1A MARTENSDALE THOMAS MUNDIL 2025",
+            26,
+            26
+        ],
+        [
+            "1A MARTENSDALE LEVI WEBB 2023",
+            27,
+            27
+        ],
+        [
+            "1A GRANDVIEW ISAAC THORINGTON 2024",
+            28,
+            28
+        ],
+        [
+            "1A DIAGONAL SCOTTY BOHN 2023",
+            29,
+            29
+        ],
+        [
+            "1A ANKENY CHRISTIAN THOMAS HURST 2025",
+            30,
+            30
+        ],
+        [
+            "1A ANKENY CHRISTIAN LANDON NEHRING 2024",
+            31,
+            31
+        ],
+        [
+            "1A WAYNE DALTON COUCHMAN 2023",
+            32,
+            32
+        ],
+        [
+            "1A ANKENY CHRISTIAN LUKE REITSMA 2026",
+            33,
+            33
+        ],
+        [
+            "1A DIAGONAL OWEN WHITTINGTON 2026",
+            34,
+            34
+        ],
+        [
+            "1A CAM CARSON CARY 2023",
+            35,
+            35
+        ],
+        [
+            "1A AUDUBON MASON STECKLER 2025",
+            36,
+            36
+        ],
+        [
+            "1A MOUNT AYR ASHTYN BENESH 2024",
+            37,
+            37
+        ],
+        [
+            "1A SIDNEY FLYNT BELL 2026",
+            38,
+            38
+        ],
+        [
+            "3A CLARKE COOPER BAHLS 2025",
+            39,
+            39
+        ],
+        [
+            "3A CLARKE RICHIE DONALDSON 2023",
+            40,
+            40
+        ],
+        [
+            "3A CLARKE CONNER WILLIAMS 2025",
+            41,
+            41
+        ],
+        [
+            "1A MARTENSDALE NATHAN MUNDIL 2025",
+            42,
+            42
+        ],
+        [
+            "1A GRANDVIEW LOGAN WITZENBURG 2023",
+            43,
+            43
+        ],
+        [
+            "3A CLARKE CADEN EARLS 2024",
+            44,
+            44
+        ],
+        [
+            "1A MARTENSDALE JONATHAN MOORE 2024",
+            45,
+            45
+        ],
+        [
+            "1A BEDFORD TANNER ROWE 2025",
+            46,
+            46
+        ],
+        [
+            "1A BEDFORD KOEN DEHASS 2025",
+            47,
+            47
+        ],
+        [
+            "1A MOUNT AYR BRAYLON GREENWELL 2026",
+            48,
+            48
+        ],
+        [
+            "1A ANKENY CHRISTIAN LUCAS WEATHERS 2025",
+            49,
+            49
+        ],
+        [
+            "1A WAYNE NASH BUCKINGHAM 2024",
+            50,
+            50
+        ],
+        [
+            "1A STANTON LOGAN MCQUEEN 2025",
+            51,
+            51
+        ],
+        [
+            "1A SW VALLEY ASHTON BOSWELL 2026",
+            52,
+            52
+        ],
+        [
+            "1A GRANDVIEW OWEN NOTEBOOM 2024",
+            53,
+            53
+        ],
+        [
+            "3A CLARKE ALEXANDER SHINN 2024",
+            54,
+            54
+        ],
+        [
+            "1A IOWA SCHOOL FOR THE DEAF CRISTIAN LOPEZ-RODRIQUEZ 2026",
+            55,
+            55
+        ],
+        [
+            "1A STANTON ZOOEY ALLEN 2025",
+            56,
+            56
+        ],
+        [
+            "1A AUDUBON ELI DEIST 2024",
+            57,
+            57
+        ],
+        [
+            "1A BEDFORD BRETT MEYER 2026",
+            58,
+            58
+        ],
+        [
+            "1A SIDNEY WILL BRYANT 2024",
+            59,
+            59
+        ],
+        [
+            "1A CENTRAL DECATUR MADDOX KISTLER 2025",
+            60,
+            60
+        ],
+        [
+            "1A FREMONT-MILLS CADE HARRIS 2026",
+            61,
+            61
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            62,
+            62
+        ],
+        [
+            "1A WAYNE COOPER ANDERSON 2024",
+            63,
+            63
+        ],
+        [
+            "1A WAYNE NOAH HAGAN 2026",
+            64,
+            64
+        ],
+        [
+            "1A CENTRAL DECATUR ANDEN HALL 2025",
+            65,
+            65
+        ],
+        [
+            "1A ANKENY CHRISTIAN KYLE WEBBER 2026",
+            66,
+            66
+        ],
+        [
+            "3A CLARKE TRENT ENGEL 2023",
+            67,
+            67
+        ],
+        [
+            "1A NODAWAY VALLEY JACK JENSEN 2024",
+            68,
+            68
+        ],
+        [
+            "1A FREMONT-MILLS ANDERSON CARTER 2026",
+            69,
+            69
+        ],
+        [
+            "1A FREMONT-MILLS ETHAN DINES 2026",
+            70,
+            70
+        ],
+        [
+            "1A SW VALLEY ETHAN JAMES 2024",
+            71,
+            71
+        ],
+        [
+            "1A SW VALLEY BRANDON COX 2025",
+            72,
+            72
+        ],
+        [
+            "3A CLARKE BRODY FEEHAN 2025",
+            73,
+            73
+        ],
+        [
+            "1A EAST UNION PEYTON LONG 2023",
+            74,
+            74
+        ],
+        [
+            "3A CLARKE JAKE PONTIER 2025",
+            75,
+            75
+        ],
+        [
+            "1A SW VALLEY MATTHEW MEANS 2025",
+            76,
+            76
+        ],
+        [
+            "1A CENTRAL DECATUR KACYN WATSON 2026",
+            77,
+            77
+        ],
+        [
+            "1A ESSEX ASHON KLINE 2026",
+            78,
+            78
+        ],
+        [
+            "3A CLARKE ETHAN EARLS 2025",
+            79,
+            79
+        ],
+        [
+            "1A WAYNE LAYTEN ANDERSON 2026",
+            80,
+            80
+        ],
+        [
+            "1A GRANDVIEW ISAIAH IVES 2023",
+            81,
+            81
+        ],
+        [
+            "1A STANTON ERIC KUTZLI 2026",
+            82,
+            82
+        ],
+        [
+            "1A LAMONI HOSAH NIEBAUER 2025",
+            83,
+            83
+        ],
+        [
+            "1A SE WARREN GABE COLOCHO-OROZCO 2024",
+            84,
+            84
+        ],
+        [
+            "1A AUDUBON WYATT JESSEN 2025",
+            85,
+            85
+        ],
+        [
+            "1A STANTON KYLE PASTORE 2023",
+            86,
+            86
+        ],
+        [
+            "1A BEDFORD TIM PLUMB 2026",
+            87,
+            87
+        ],
+        [
+            "1A ESSEX JOHNATHAN STALEY 2023",
+            88,
+            88
+        ],
+        [
+            "1A ANKENY CHRISTIAN TRENTON MYERS 2026",
+            89,
+            89
+        ],
+        [
+            "1A SW VALLEY SAWYER HENSLEY 2023",
+            90,
+            90
+        ],
+        [
+            "1A CAM BLAKE GOSSMAN 2026",
+            91,
+            91
+        ],
+        [
+            "1A CAM GUNNER NAMANNY 2024",
+            92,
+            92
+        ],
+        [
+            "1A SIDNEY MAVRYC MORGAN 2026",
+            93,
+            93
+        ],
+        [
+            "1A BEDFORD ELI JOHNSON 2026",
+            94,
+            94
+        ],
+        [
+            "1A SW VALLEY LUCAS JAMES 2026",
+            95,
+            95
+        ],
+        [
+            "1A GRANDVIEW HENRY CHARLTON 2025",
+            96,
+            96
+        ],
+        [
+            "1A NODAWAY VALLEY LANDON LABARGE 2026",
+            97,
+            97
+        ],
+        [
+            "1A ANKENY CHRISTIAN JACK PEDERSEN 2026",
+            98,
+            98
+        ],
+        [
+            "3A CLARKE COOPER CIECALONE 2026",
+            99,
+            99
+        ],
+        [
+            "1A DIAGONAL EJ ALLEE 2026",
+            100,
+            100
+        ],
+        [
+            "1A SE WARREN HAROLD BALK 2025",
+            101,
+            101
+        ],
+        [
+            "3A CLARKE CASEY WADE 2026",
+            102,
+            102
+        ],
+        [
+            "1A GRANDVIEW NICK JURGENS 2023",
+            103,
+            103
+        ],
+        [
+            "1A BEDFORD MICHAEL GEARHART 2026",
+            104,
+            104
+        ],
+        [
+            "3A CLARKE HUNTER REECE 2025",
+            105,
+            105
+        ]
+    ]
+}

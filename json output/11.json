@@ -1,0 +1,721 @@
+{
+    "name": "IFA AGWSR",
+    "time_seconds": 1661403611,
+    "standings": [
+        [
+            "1A EAST MARSHALL PATRICK SLIFER 2023",
+            0,
+            0
+        ],
+        [
+            "1A NEWMAN JOEY RINGO 2023",
+            1,
+            1
+        ],
+        [
+            "3A NEVADA CARTER HOLLAND 2024",
+            2,
+            2
+        ],
+        [
+            "3A CLEAR LAKE LEO TOLENTINO 2023",
+            3,
+            3
+        ],
+        [
+            "3A CLEAR LAKE JACK CRANE 2023",
+            4,
+            4
+        ],
+        [
+            "1A EAST MARSHALL JOE TERRONES 2023",
+            5,
+            5
+        ],
+        [
+            "3A NEVADA OWEN FREEMAN 2023",
+            6,
+            6
+        ],
+        [
+            "3A CLEAR LAKE ANDREW MIXDORF 2023",
+            7,
+            7
+        ],
+        [
+            "3A IFA-AGWSR JASE BEAUBIEN 2023",
+            8,
+            8
+        ],
+        [
+            "3A CLEAR LAKE JADEN WRIGHT 2023",
+            9,
+            9
+        ],
+        [
+            "3A NEVADA BRIAN RHODE 2025",
+            10,
+            10
+        ],
+        [
+            "1A EAST MARSHALL KALEB GRANT 2024",
+            11,
+            11
+        ],
+        [
+            "3A NEVADA NICK FRIDERES 2023",
+            12,
+            12
+        ],
+        [
+            "3A CLEAR LAKE OWEN SMITH 2025",
+            13,
+            13
+        ],
+        [
+            "3A NEVADA ROWAN STEELE 2024",
+            14,
+            14
+        ],
+        [
+            "3A CLEAR LAKE MARCUS SKIDMORE 2023",
+            15,
+            15
+        ],
+        [
+            "3A CLEAR LAKE AIDEN HIPPEN 2026",
+            16,
+            16
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
+            17,
+            17
+        ],
+        [
+            "1A EAST MARSHALL BROCK CURTIS 2023",
+            18,
+            18
+        ],
+        [
+            "3A CLEAR LAKE ISAAC SMITH 2026",
+            19,
+            19
+        ],
+        [
+            "1A EAST MARSHALL CHANDLER CURTIS 2026",
+            20,
+            20
+        ],
+        [
+            "2A EAGLE GROVE DRAKE WELAND 2023",
+            21,
+            21
+        ],
+        [
+            "1A EAST MARSHALL CALE HUNGERFORD 2024",
+            22,
+            22
+        ],
+        [
+            "3A NEVADA WILL BAUMAN 2024",
+            23,
+            23
+        ],
+        [
+            "1A NEWMAN ADAM HENRICH 2025",
+            24,
+            24
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC VOSBURG 2025",
+            25,
+            25
+        ],
+        [
+            "1A NEWMAN LIAM STOCKBERGER 2024",
+            26,
+            26
+        ],
+        [
+            "3A NEVADA PAUL STEPHENS 2026",
+            27,
+            27
+        ],
+        [
+            "3A NEVADA DAWSON LEMKE 2026",
+            28,
+            28
+        ],
+        [
+            "1A BELMOND-KLEMME BRADAN GABRIELSON 2023",
+            29,
+            29
+        ],
+        [
+            "1A NEWMAN LANDON KOHLER 2023",
+            30,
+            30
+        ],
+        [
+            "1A SOUTH HARDIN COLTON MCDONALD 2023",
+            31,
+            31
+        ],
+        [
+            "3A HUMBOLDT GABE THUMMA 2026",
+            32,
+            32
+        ],
+        [
+            "3A NEVADA FRANK ENGSTROM 2024",
+            33,
+            33
+        ],
+        [
+            "1A NEWMAN NOAH O'CONNELL 2025",
+            34,
+            34
+        ],
+        [
+            "2A EAGLE GROVE NOAH THUL 2024",
+            35,
+            35
+        ],
+        [
+            "1A SOUTH HARDIN HAYDEN STARR 2025",
+            36,
+            36
+        ],
+        [
+            "3A CLEAR LAKE CALEB JONES 2024",
+            37,
+            37
+        ],
+        [
+            "3A NEVADA IAN THOMAS 2024",
+            38,
+            38
+        ],
+        [
+            "3A IFA-AGWSR HUNTER MILLER 2025",
+            39,
+            39
+        ],
+        [
+            "2A EAGLE GROVE ZABDI CASTRO 2025",
+            40,
+            40
+        ],
+        [
+            "1A NEWMAN SAM STEIDL 2025",
+            41,
+            41
+        ],
+        [
+            "3A NEVADA LUCAS MILLS 2024",
+            42,
+            42
+        ],
+        [
+            "2A EAGLE GROVE DUSTIN DAWSON 2023",
+            43,
+            43
+        ],
+        [
+            "3A HUMBOLDT HAYDEN HANSEN 2024",
+            44,
+            44
+        ],
+        [
+            "1A EAST MARSHALL CARTER BRUMMEL 2024",
+            45,
+            45
+        ],
+        [
+            "3A HUMBOLDT JAYDEN GARGANO 2023",
+            46,
+            46
+        ],
+        [
+            "3A NEVADA GAVIN SKAGGS 2024",
+            47,
+            47
+        ],
+        [
+            "2A EAGLE GROVE FELIX GONZALEZ 2026",
+            48,
+            48
+        ],
+        [
+            "2A EAGLE GROVE DYLAN BECK 2025",
+            49,
+            49
+        ],
+        [
+            "2A EAGLE GROVE ZACH HOGREFE 2025",
+            50,
+            50
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
+            51,
+            51
+        ],
+        [
+            "3A CLEAR LAKE WESTON CONWAY 2025",
+            52,
+            52
+        ],
+        [
+            "3A HUMBOLDT JUSTIN ASH 2025",
+            53,
+            53
+        ],
+        [
+            "3A CLEAR LAKE ETHAN EVELSIZER 2024",
+            54,
+            54
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JONAH CARNEY 2026",
+            55,
+            55
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
+            56,
+            56
+        ],
+        [
+            "2A EAGLE GROVE ALEX GASPAR 2023",
+            57,
+            57
+        ],
+        [
+            "3A HUMBOLDT DAYLIN MCDANIEL 2024",
+            58,
+            58
+        ],
+        [
+            "3A NEVADA MILES ENGSTROM 2026",
+            59,
+            59
+        ],
+        [
+            "1A BELMOND-KLEMME GRIFFIN PAULSEN 2026",
+            60,
+            60
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MITTERAND TCHAMBA 2023",
+            61,
+            61
+        ],
+        [
+            "3A CLEAR LAKE DANIEL STEINBRON 2026",
+            62,
+            62
+        ],
+        [
+            "3A CLEAR LAKE LIAM BYRNES 2025",
+            63,
+            63
+        ],
+        [
+            "3A CLEAR LAKE COLBY ARCHER 2026",
+            64,
+            64
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL MARSHAL RUST 2023",
+            65,
+            65
+        ],
+        [
+            "3A CLEAR LAKE ANDREW KORENBERG 2024",
+            66,
+            66
+        ],
+        [
+            "3A CLEAR LAKE HUDSON UETZ 2025",
+            67,
+            67
+        ],
+        [
+            "3A HUMBOLDT JADEN HIMROD 2025",
+            68,
+            68
+        ],
+        [
+            "1A NEWMAN JACE SUNTKEN 2026",
+            69,
+            69
+        ],
+        [
+            "3A NEVADA CALEB BIENSEN 2026",
+            70,
+            70
+        ],
+        [
+            "1A SOUTH HARDIN COLLIN BURK 2026",
+            71,
+            71
+        ],
+        [
+            "1A NEWMAN TYLER PETREE 2026",
+            72,
+            72
+        ],
+        [
+            "3A NEVADA CONNERY VARSA 2026",
+            73,
+            73
+        ],
+        [
+            "1A NEWMAN DAN SPOONER 2026",
+            74,
+            74
+        ],
+        [
+            "1A BELMOND-KLEMME RYAN HARTWIG 2026",
+            75,
+            75
+        ],
+        [
+            "3A HUMBOLDT JASPER JONES 2025",
+            76,
+            76
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL PEYTON KOFOOT 2025",
+            77,
+            77
+        ],
+        [
+            "3A NEVADA BOURNE HANSON 2026",
+            78,
+            78
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL BRODY ROBERTSON 2025",
+            79,
+            79
+        ],
+        [
+            "1A EAST MARSHALL JOE FULLER 2025",
+            80,
+            80
+        ],
+        [
+            "3A NEVADA RYAN WESSELS 2025",
+            81,
+            81
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
+            82,
+            82
+        ],
+        [
+            "1A EAST MARSHALL AUSTIN PANSEGRAU 2026",
+            83,
+            83
+        ],
+        [
+            "1A SOUTH HARDIN GAVIN RUNYON 2025",
+            84,
+            84
+        ],
+        [
+            "1A BELMOND-KLEMME ALDO MARTINEZ 2023",
+            85,
+            85
+        ],
+        [
+            "3A IFA-AGWSR WILKEN KUBE 2024",
+            86,
+            86
+        ],
+        [
+            "2A EAGLE GROVE PATRICK HEATON 2026",
+            87,
+            87
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ISAAC FOXEN 2025",
+            88,
+            88
+        ],
+        [
+            "3A CLEAR LAKE AIDAN MANEMANN 2023",
+            89,
+            89
+        ],
+        [
+            "3A CLEAR LAKE CJ VARNER 2026",
+            90,
+            90
+        ],
+        [
+            "3A HUMBOLDT PEYTON VAN PELT 2024",
+            91,
+            91
+        ],
+        [
+            "3A HUMBOLDT CARSON CHAMBERS 2026",
+            92,
+            92
+        ],
+        [
+            "3A IFA-AGWSR MARTIN BEISEL 2023",
+            93,
+            93
+        ],
+        [
+            "3A HUMBOLDT COLLIN VIK 2023",
+            94,
+            94
+        ],
+        [
+            "1A BELMOND-KLEMME DANIEL RODRIGUEZ 2026",
+            95,
+            95
+        ],
+        [
+            "3A HUMBOLDT HENRY BORMANN 2024",
+            96,
+            96
+        ],
+        [
+            "1A NEWMAN JOSH HANSON 2024",
+            97,
+            97
+        ],
+        [
+            "1A NEWMAN OWEN KLATT 2024",
+            98,
+            98
+        ],
+        [
+            "3A CLEAR LAKE CODY HUA 2024",
+            99,
+            99
+        ],
+        [
+            "2A EAGLE GROVE EVAN COOPER 2025",
+            100,
+            100
+        ],
+        [
+            "3A NEVADA RYNE ERICKSON 2024",
+            101,
+            101
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG GAVIN BERNARD 2025",
+            102,
+            102
+        ],
+        [
+            "3A CLEAR LAKE ETHAN GANSEN 2024",
+            103,
+            103
+        ],
+        [
+            "3A NEVADA COLLIN SKAGGS 2026",
+            104,
+            104
+        ],
+        [
+            "3A NEVADA NICHOLAS FISCHELS 2026",
+            105,
+            105
+        ],
+        [
+            "3A NEVADA DAMIN BROCKMAN 2026",
+            106,
+            106
+        ],
+        [
+            "1A NEWMAN ELIAS CARLSSON 2026",
+            107,
+            107
+        ],
+        [
+            "1A SOUTH HARDIN CHARLIE CUMMINGS 2026",
+            108,
+            108
+        ],
+        [
+            "2A EAGLE GROVE FELIX REYES 2026",
+            109,
+            109
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ADAM MASKE 2023",
+            110,
+            110
+        ],
+        [
+            "3A IFA-AGWSR ERIC WENNES 2023",
+            111,
+            111
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL ISAAC SAUKE 2025",
+            112,
+            112
+        ],
+        [
+            "3A HUMBOLDT GRAHAM BAKKEN 2026",
+            113,
+            113
+        ],
+        [
+            "3A IFA-AGWSR AARON BLACKBURN 2026",
+            114,
+            114
+        ],
+        [
+            "2A EAGLE GROVE BRANDON CRAIL 2023",
+            115,
+            115
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL CADE ALONZO 2024",
+            116,
+            116
+        ],
+        [
+            "3A HUMBOLDT STERLING SCRANTON 2025",
+            117,
+            117
+        ],
+        [
+            "3A HUMBOLDT JOEL THURM 2026",
+            118,
+            118
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL TAM HINDIN 2024",
+            119,
+            119
+        ],
+        [
+            "3A HUMBOLDT TYLER SCHLUTER 2023",
+            120,
+            120
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG LANDON REYNOLDS 2025",
+            121,
+            121
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
+            122,
+            122
+        ],
+        [
+            "3A CLEAR LAKE LANE STROUP 2026",
+            123,
+            123
+        ],
+        [
+            "1A BELMOND-KLEMME ALEC HERROLD 2026",
+            124,
+            124
+        ],
+        [
+            "3A HUMBOLDT KEATON TAYLOR 2026",
+            125,
+            125
+        ],
+        [
+            "3A CLEAR LAKE JACKSON WEST 2023",
+            126,
+            126
+        ],
+        [
+            "3A HUMBOLDT KADEN CAQUELIN 2025",
+            127,
+            127
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL LANDYN MCGUIRE 2023",
+            128,
+            128
+        ],
+        [
+            "3A HAMPTON-DUMONT CAL CONNOR MILLER 2025",
+            129,
+            129
+        ],
+        [
+            "3A CLEAR LAKE EZRA ZICKEFOOSE 2026",
+            130,
+            130
+        ],
+        [
+            "1A SOUTH HARDIN EDWIN LOZANO 2023",
+            131,
+            131
+        ],
+        [
+            "3A HUMBOLDT JASE GOODELL 2023",
+            132,
+            132
+        ],
+        [
+            "3A CLEAR LAKE ABRAHAM CLARK 2026",
+            133,
+            133
+        ],
+        [
+            "3A NEVADA SPENCER HALEY 2026",
+            134,
+            134
+        ],
+        [
+            "3A CLEAR LAKE KARSEN EVANS 2026",
+            135,
+            135
+        ],
+        [
+            "1A BELMOND-KLEMME CALLUM SIFERT 2026",
+            136,
+            136
+        ],
+        [
+            "3A CLEAR LAKE JACKSON EDEN 2026",
+            137,
+            137
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ELI THORNE 2024",
+            138,
+            138
+        ],
+        [
+            "1A NEWMAN BEN SCHUTT 2025",
+            139,
+            139
+        ],
+        [
+            "3A HUMBOLDT MACK HARKLAU 2025",
+            140,
+            140
+        ],
+        [
+            "3A HUMBOLDT JASON OXLAJ-MEJIA 2025",
+            141,
+            141
+        ],
+        [
+            "3A HUMBOLDT COLBY CAQUELIN 2023",
+            142,
+            142
+        ]
+    ]
+}

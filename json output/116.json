@@ -1,0 +1,371 @@
+{
+    "name": "Decorah var",
+    "time_seconds": 1662786056,
+    "standings": [
+        [
+            "4A IOWA CITY HIGH TRUMAN THOMPSON 2023",
+            0,
+            0
+        ],
+        [
+            "4A IOWA CITY HIGH NOAH CAREY 2023",
+            1,
+            1
+        ],
+        [
+            "1A IOWA CITY REGINA AIDAN O'NEIL 2024",
+            2,
+            2
+        ],
+        [
+            "4A CR PRAIRIE NICK LEE 2025",
+            3,
+            3
+        ],
+        [
+            "4A IOWA CITY HIGH AMMON SMITH 2023",
+            4,
+            4
+        ],
+        [
+            "4A CR PRAIRIE JAXON SICKELS 2023",
+            5,
+            5
+        ],
+        [
+            "4A IOWA CITY LIBERTY AIDAN DECKER 2024",
+            6,
+            6
+        ],
+        [
+            "4A IOWA CITY LIBERTY NOAH GREGOIRE 2025",
+            7,
+            7
+        ],
+        [
+            "2A WAUKON NATHAN O'NEILL 2023",
+            8,
+            8
+        ],
+        [
+            "4A IOWA CITY HIGH OWYN NOBLE 2024",
+            9,
+            9
+        ],
+        [
+            "4A CR PRAIRIE ZACH COOPER 2023",
+            10,
+            10
+        ],
+        [
+            "4A LINN-MAR LUKE STEFFEN 2023",
+            11,
+            11
+        ],
+        [
+            "4A IOWA CITY LIBERTY NATHAN KINZER 2023",
+            12,
+            12
+        ],
+        [
+            "4A IOWA CITY HIGH BRAEDEN MARKER 2023",
+            13,
+            13
+        ],
+        [
+            "1A IOWA CITY REGINA DAN MALEY 2023",
+            14,
+            14
+        ],
+        [
+            "4A LINN-MAR ETHAN COZINE 2023",
+            15,
+            15
+        ],
+        [
+            "4A CR PRAIRIE CARSON NOVE 2025",
+            16,
+            16
+        ],
+        [
+            "1A IOWA CITY REGINA JOE MALEY 2023",
+            17,
+            17
+        ],
+        [
+            "4A LINN-MAR OWEN HANSON 2025",
+            18,
+            18
+        ],
+        [
+            "3A DECORAH HENRY WEIS 2024",
+            19,
+            19
+        ],
+        [
+            "4A IOWA CITY HIGH ADAM BYWATER 2023",
+            20,
+            20
+        ],
+        [
+            "3A CHARLES CITY XANDER GRAESER 2025",
+            21,
+            21
+        ],
+        [
+            "4A CR PRAIRIE ANSON FAUCHIER 2023",
+            22,
+            22
+        ],
+        [
+            "3A CHARLES CITY NICK WILLIAMS 2025",
+            23,
+            23
+        ],
+        [
+            "4A MASON CITY BRANDT HAAKENSTAD 2025",
+            24,
+            24
+        ],
+        [
+            "4A MASON CITY RA'SHAUN WYNTER 2024",
+            25,
+            25
+        ],
+        [
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            26,
+            26
+        ],
+        [
+            "2A WAUKON WYATT GULLA 2024",
+            27,
+            27
+        ],
+        [
+            "3A DECORAH GRANT ZILKA 2025",
+            28,
+            28
+        ],
+        [
+            "3A DECORAH DAVIS COPPOLA 2025",
+            29,
+            29
+        ],
+        [
+            "4A IOWA CITY LIBERTY JACOB MADSEN 2025",
+            30,
+            30
+        ],
+        [
+            "2A WAUKON ISAAC REISINGER 2025",
+            31,
+            31
+        ],
+        [
+            "4A IOWA CITY HIGH OWEN VANDERLINDEN 2023",
+            32,
+            32
+        ],
+        [
+            "4A LINN-MAR ETHAN BOSTON 2025",
+            33,
+            33
+        ],
+        [
+            "2A WAUKON SKYLER DUGAN 2024",
+            34,
+            34
+        ],
+        [
+            "2A WAUKON JOSH KEENAN 2023",
+            35,
+            35
+        ],
+        [
+            "4A MASON CITY JESS CORNICK 2023",
+            36,
+            36
+        ],
+        [
+            "4A LINN-MAR JOEY BANOWETZ 2023",
+            37,
+            37
+        ],
+        [
+            "4A LINN-MAR EZRA CRANDALL 2024",
+            38,
+            38
+        ],
+        [
+            "3A DECORAH CADE OLSON 2023",
+            39,
+            39
+        ],
+        [
+            "2A NEW HAMPTON CAM MCMORRIS 2024",
+            40,
+            40
+        ],
+        [
+            "2A WAUKON CONNOR CAHOON 2024",
+            41,
+            41
+        ],
+        [
+            "3A DECORAH THOMAS HAMMEL 2025",
+            42,
+            42
+        ],
+        [
+            "1A TURKEY VALLEY RUSSELL NIEMAN 2024",
+            43,
+            43
+        ],
+        [
+            "2A WAUKON CALEB HELGERSON 2025",
+            44,
+            44
+        ],
+        [
+            "4A LINN-MAR RILEY KUHN 2024",
+            45,
+            45
+        ],
+        [
+            "3A CHARLES CITY ISAAC THOMPSON 2024",
+            46,
+            46
+        ],
+        [
+            "1A IOWA CITY REGINA SAMUEL WELTER 2025",
+            47,
+            47
+        ],
+        [
+            "2A OSAGE DARREN ADAMS 2024",
+            48,
+            48
+        ],
+        [
+            "3A DECORAH JAKE MAGNER 2023",
+            49,
+            49
+        ],
+        [
+            "4A CR PRAIRIE KURTIS PETERSEN 2023",
+            50,
+            50
+        ],
+        [
+            "4A IOWA CITY LIBERTY MAXWELL THOMPSON 2023",
+            51,
+            51
+        ],
+        [
+            "1A IOWA CITY REGINA RIORDAN SMITH 2024",
+            52,
+            52
+        ],
+        [
+            "3A CHARLES CITY LUKAS VANCE 2024",
+            53,
+            53
+        ],
+        [
+            "1A IOWA CITY REGINA HENRY BOTTORFF 2023",
+            54,
+            54
+        ],
+        [
+            "2A NEW HAMPTON JACK SHAWVER 2024",
+            55,
+            55
+        ],
+        [
+            "2A NEW HAMPTON TREYCE ORR 2023",
+            56,
+            56
+        ],
+        [
+            "1A IOWA CITY REGINA MATT TAKACS 2024",
+            57,
+            57
+        ],
+        [
+            "4A IOWA CITY LIBERTY THOMAS FOWLER 2025",
+            58,
+            58
+        ],
+        [
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
+            59,
+            59
+        ],
+        [
+            "4A MASON CITY KALE DIMARCO 2023",
+            60,
+            60
+        ],
+        [
+            "4A IOWA CITY LIBERTY OWEN ABEL 2023",
+            61,
+            61
+        ],
+        [
+            "2A OSAGE CHASE POTTER 2023",
+            62,
+            62
+        ],
+        [
+            "3A CHARLES CITY CARTER HABERKORN 2025",
+            63,
+            63
+        ],
+        [
+            "3A DECORAH D'MITRY LESSER 2025",
+            64,
+            64
+        ],
+        [
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
+            65,
+            65
+        ],
+        [
+            "4A CR PRAIRIE DYLAN SCHWARZ 2023",
+            66,
+            66
+        ],
+        [
+            "2A NEW HAMPTON XANDER MEYERHOFF 2025",
+            67,
+            67
+        ],
+        [
+            "4A MASON CITY BRADY WICKERING 2025",
+            68,
+            68
+        ],
+        [
+            "3A CHARLES CITY HOLDEN MCINROY 2026",
+            69,
+            69
+        ],
+        [
+            "3A CHARLES CITY JACKSON KOWALSKI 2026",
+            70,
+            70
+        ],
+        [
+            "4A MASON CITY MARKUS ELSBERND 2023",
+            71,
+            71
+        ],
+        [
+            "2A OSAGE LOGAN MITCHELL 2024",
+            72,
+            72
+        ]
+    ]
+}

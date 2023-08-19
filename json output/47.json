@@ -1,0 +1,401 @@
+{
+    "name": "Williamsburg V",
+    "time_seconds": 1661835647,
+    "standings": [
+        [
+            "3A SOUTH TAMA TOMMY TYYNISMAA 2024",
+            0,
+            0
+        ],
+        [
+            "3A SOUTH TAMA JAMES BRANT 2024",
+            1,
+            1
+        ],
+        [
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
+            2,
+            2
+        ],
+        [
+            "1A LYNNVILLE-SULLY JAMES GRUVER 2023",
+            3,
+            3
+        ],
+        [
+            "3A NEWTON LANDON MENNINGA 2024",
+            4,
+            4
+        ],
+        [
+            "1A SPRINGVILLE JACK STAMP 2025",
+            5,
+            5
+        ],
+        [
+            "3A OSKALOOSA WILL ROACH 2024",
+            6,
+            6
+        ],
+        [
+            "3A BENTON TREY SCHULTE 2023",
+            7,
+            7
+        ],
+        [
+            "3A NEWTON LEO FRIEDMAN 2023",
+            8,
+            8
+        ],
+        [
+            "1A LYNNVILLE-SULLY HENDRICK LOWRY 2025",
+            9,
+            9
+        ],
+        [
+            "3A SOUTH TAMA CADE ROSENBERGER 2024",
+            10,
+            10
+        ],
+        [
+            "2A WILLIAMSBURG CALVIN SEEMAN 2024",
+            11,
+            11
+        ],
+        [
+            "3A OSKALOOSA REID LUCK 2025",
+            12,
+            12
+        ],
+        [
+            "1A LYNNVILLE-SULLY ZACH MORNINGSTAR 2023",
+            13,
+            13
+        ],
+        [
+            "1A SPRINGVILLE EVAN ROBERTSON 2023",
+            14,
+            14
+        ],
+        [
+            "3A NEWTON COLLIN BUCHLI 2023",
+            15,
+            15
+        ],
+        [
+            "3A NEWTON CHRISTIAN BUCHLI 2025",
+            16,
+            16
+        ],
+        [
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
+            17,
+            17
+        ],
+        [
+            "3A BENTON ISAAC MORRIS 2024",
+            18,
+            18
+        ],
+        [
+            "3A NEWTON JAVIN DOLAND 2025",
+            19,
+            19
+        ],
+        [
+            "3A BENTON CALEB OLSON 2026",
+            20,
+            20
+        ],
+        [
+            "3A NEWTON PRESLEY ARNOLD 2024",
+            21,
+            21
+        ],
+        [
+            "3A OSKALOOSA LUKE ABRAHAMSON 2024",
+            22,
+            22
+        ],
+        [
+            "3A OSKALOOSA BLAKE HERNY 2026",
+            23,
+            23
+        ],
+        [
+            "3A BENTON BLAKE DAUGHERTY 2023",
+            24,
+            24
+        ],
+        [
+            "3A NEWTON JESUS MURILLO 2024",
+            25,
+            25
+        ],
+        [
+            "3A SOUTH TAMA BARRETT JESINA 2026",
+            26,
+            26
+        ],
+        [
+            "3A OSKALOOSA SAM NELSON 2026",
+            27,
+            27
+        ],
+        [
+            "3A BENTON MARCUS RICKLEFS 2024",
+            28,
+            28
+        ],
+        [
+            "1A MONTEZUMA CARTER MCKEE 2024",
+            29,
+            29
+        ],
+        [
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
+            30,
+            30
+        ],
+        [
+            "3A OSKALOOSA COLTON ANDERSON 2023",
+            31,
+            31
+        ],
+        [
+            "2A DAVIS COUNTY SUTTON SHIVELY 2024",
+            32,
+            32
+        ],
+        [
+            "3A SOUTH TAMA KADEN KOPSA 2024",
+            33,
+            33
+        ],
+        [
+            "2A PCM COBY DERAAD 2026",
+            34,
+            34
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN CALEB SKINNER 2024",
+            35,
+            35
+        ],
+        [
+            "1A MONTEZUMA GAVIN STRONG 2023",
+            36,
+            36
+        ],
+        [
+            "1A MONTEZUMA JAYDEN ROSS 2024",
+            37,
+            37
+        ],
+        [
+            "3A SOUTH TAMA HOLDEN SCHIRMER 2024",
+            38,
+            38
+        ],
+        [
+            "2A DAVIS COUNTY DRAKE HAMM 2023",
+            39,
+            39
+        ],
+        [
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
+            40,
+            40
+        ],
+        [
+            "1A MONTEZUMA JACK ERSELIUS 2024",
+            41,
+            41
+        ],
+        [
+            "1A SPRINGVILLE GRANT CHRISMAN 2024",
+            42,
+            42
+        ],
+        [
+            "2A DAVIS COUNTY MARK SHIRLEY 2024",
+            43,
+            43
+        ],
+        [
+            "2A DAVIS COUNTY DANIEL OLIVER 2023",
+            44,
+            44
+        ],
+        [
+            "2A DAVIS COUNTY GAVIN SHIVELY 2026",
+            45,
+            45
+        ],
+        [
+            "3A SOUTH TAMA CALE GRAFF 2025",
+            46,
+            46
+        ],
+        [
+            "1A WATERLOO CHRISTIAN LEVI TRELKA 2026",
+            47,
+            47
+        ],
+        [
+            "3A OSKALOOSA REED PETERSON 2024",
+            48,
+            48
+        ],
+        [
+            "1A WATERLOO CHRISTIAN DAWSON GRADY 2026",
+            49,
+            49
+        ],
+        [
+            "3A BENTON BRANDON SCHULTZ 2023",
+            50,
+            50
+        ],
+        [
+            "1A BELLE PLAINE GABE KAPLAN 2025",
+            51,
+            51
+        ],
+        [
+            "1A BELLE PLAINE HUNTER HENRY 2026",
+            52,
+            52
+        ],
+        [
+            "2A WILLIAMSBURG NOLAN KENT 2026",
+            53,
+            53
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN JEREMY NICODEMUS 2026",
+            54,
+            54
+        ],
+        [
+            "3A BENTON LUKE LANGE 2025",
+            55,
+            55
+        ],
+        [
+            "2A DAVIS COUNTY CHANDLER BACHMAN 2025",
+            56,
+            56
+        ],
+        [
+            "2A DAVIS COUNTY CAMRON HUBBARTT 2026",
+            57,
+            57
+        ],
+        [
+            "2A WILLIAMSBURG LUKE HIRKO 2026",
+            58,
+            58
+        ],
+        [
+            "1A WATERLOO CHRISTIAN EAN DAVIS 2025",
+            59,
+            59
+        ],
+        [
+            "1A SPRINGVILLE CRESTON CORDES 2024",
+            60,
+            60
+        ],
+        [
+            "1A BELLE PLAINE MADDOX PURK 2025",
+            61,
+            61
+        ],
+        [
+            "1A MONTEZUMA BRYSON STOCKMAN 2025",
+            62,
+            62
+        ],
+        [
+            "2A PCM CARSON TAYLOR 2025",
+            63,
+            63
+        ],
+        [
+            "1A BELLE PLAINE JACOB KAPLAN 2023",
+            64,
+            64
+        ],
+        [
+            "1A SPRINGVILLE SLAYTON STRAUB 2024",
+            65,
+            65
+        ],
+        [
+            "1A MONTEZUMA KOHEN HOLLAND 2025",
+            66,
+            66
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN JOSH SKINNER 2026",
+            67,
+            67
+        ],
+        [
+            "2A PCM CHARLIE FORD 2026",
+            68,
+            68
+        ],
+        [
+            "1A MONTEZUMA JUSIAH WETERING 2025",
+            69,
+            69
+        ],
+        [
+            "1A LYNNVILLE-SULLY ETHAN DUNSBERGEN 2026",
+            70,
+            70
+        ],
+        [
+            "2A PCM WYATT VANNOY 2025",
+            71,
+            71
+        ],
+        [
+            "1A HLV ETHAN LICHT 2024",
+            72,
+            72
+        ],
+        [
+            "1A WATERLOO CHRISTIAN BENNET GARDNER 2026",
+            73,
+            73
+        ],
+        [
+            "1A HLV AUSTIN VANHAMME 2024",
+            74,
+            74
+        ],
+        [
+            "1A BELLE PLAINE HARRY SINGH 2024",
+            75,
+            75
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN LANDON CONN 2026",
+            76,
+            76
+        ],
+        [
+            "2A PCM JACOB BUYS 2025",
+            77,
+            77
+        ],
+        [
+            "1A LYNNVILLE-SULLY EVAN FIKSE 2023",
+            78,
+            78
+        ]
+    ]
+}

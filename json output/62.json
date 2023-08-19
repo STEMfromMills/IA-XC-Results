@@ -1,0 +1,546 @@
+{
+    "name": "Regina j",
+    "time_seconds": 1662008402,
+    "standings": [
+        [
+            "3A CLEAR CREEK-AMANA WILL SWIFT 2023",
+            0,
+            0
+        ],
+        [
+            "3A WASHINGTON ANDREW SHEPHERD 2024",
+            1,
+            1
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACKSON SCHLOSS 2023",
+            2,
+            2
+        ],
+        [
+            "3A CLEAR CREEK-AMANA FRED SCHULTZ 2024",
+            3,
+            3
+        ],
+        [
+            "3A CLEAR CREEK-AMANA NICHOLAS SCHIELTZ 2026",
+            4,
+            4
+        ],
+        [
+            "3A WASHINGTON WILLIAM KENNEDY 2023",
+            5,
+            5
+        ],
+        [
+            "2A TIPTON BRYCE OLSEEN 2026",
+            6,
+            6
+        ],
+        [
+            "3A SOLON TRISTAN FREEMAN 2024",
+            7,
+            7
+        ],
+        [
+            "2A MONTICELLO ROYCE KIBURZ 2025",
+            8,
+            8
+        ],
+        [
+            "3A EPWORTH PRESTON KREMERS 2025",
+            9,
+            9
+        ],
+        [
+            "3A MARION BENNETT KAUTZ 2026",
+            10,
+            10
+        ],
+        [
+            "3A WASHINGTON CAMERON VONGPANYA 2023",
+            11,
+            11
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACKSON VANHORN 2026",
+            12,
+            12
+        ],
+        [
+            "3A SOLON WYATT APPLEGARTH 2024",
+            13,
+            13
+        ],
+        [
+            "3A MARION ARTHUR SEUFFERLEIN 2025",
+            14,
+            14
+        ],
+        [
+            "3A CLEAR CREEK-AMANA SAMSON STRANK 2026",
+            15,
+            15
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CADEN BURKLE 2026",
+            16,
+            16
+        ],
+        [
+            "2A MONTICELLO WILL WOLKEN 2025",
+            17,
+            17
+        ],
+        [
+            "1A IOWA CITY REGINA LINCON DARDIS 2025",
+            18,
+            18
+        ],
+        [
+            "3A MARION ASHER WEEMS 2025",
+            19,
+            19
+        ],
+        [
+            "2A MONTICELLO DYLAN PONDER 2023",
+            20,
+            20
+        ],
+        [
+            "3A SOLON OWEN YOUNG 2024",
+            21,
+            21
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ANDREW ROTZOLL 2025",
+            22,
+            22
+        ],
+        [
+            "3A SOLON JACK HOSKING 2024",
+            23,
+            23
+        ],
+        [
+            "3A WASHINGTON IVAN RANGEL 2026",
+            24,
+            24
+        ],
+        [
+            "2A TIPTON ZANDER HAGEN 2025",
+            25,
+            25
+        ],
+        [
+            "3A EPWORTH JAMARIOUS LUCIUS 2024",
+            26,
+            26
+        ],
+        [
+            "2A MONTICELLO MACE SCHNOOR 2026",
+            27,
+            27
+        ],
+        [
+            "1A IOWA CITY REGINA HOWIE O'ROURKE 2026",
+            28,
+            28
+        ],
+        [
+            "3A WASHINGTON JAMIE ESQUIVEL 2024",
+            29,
+            29
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KEEGAN KENNE 2025",
+            30,
+            30
+        ],
+        [
+            "3A SOLON SPENCER MICHELS 2026",
+            31,
+            31
+        ],
+        [
+            "3A WASHINGTON KEATON CRAWFORD 2023",
+            32,
+            32
+        ],
+        [
+            "3A MARION WES LOGAN 2023",
+            33,
+            33
+        ],
+        [
+            "1A IOWA CITY REGINA JOE POLYAK 2024",
+            34,
+            34
+        ],
+        [
+            "2A MONTICELLO ALEX PRULL 2025",
+            35,
+            35
+        ],
+        [
+            "3A SOLON LEWIS SUTTON 2023",
+            36,
+            36
+        ],
+        [
+            "2A WEST LIBERTY JOAQUIN ELIZONDO 2024",
+            37,
+            37
+        ],
+        [
+            "3A SOLON GABE NICHOLSON 2024",
+            38,
+            38
+        ],
+        [
+            "1A IOWA CITY REGINA BRENDAN OLNEY 2026",
+            39,
+            39
+        ],
+        [
+            "3A WASHINGTON NATE EDMONDS 2025",
+            40,
+            40
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HARKARAN GILL 2023",
+            41,
+            41
+        ],
+        [
+            "2A MONTICELLO BRENNAN BOHLKEN 2025",
+            42,
+            42
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROGAN NELSON 2026",
+            43,
+            43
+        ],
+        [
+            "2A TIPTON DALTON MCDONALD 2024",
+            44,
+            44
+        ],
+        [
+            "2A TIPTON CARSON GLICK 2024",
+            45,
+            45
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ODIN HANKINS 2026",
+            46,
+            46
+        ],
+        [
+            "2A MONTICELLO GRANT GASSMAN 2026",
+            47,
+            47
+        ],
+        [
+            "3A SOLON BRODY CASH 2023",
+            48,
+            48
+        ],
+        [
+            "3A SOLON RENE MEZA 2026",
+            49,
+            49
+        ],
+        [
+            "3A SOLON CADEN MAI 2026",
+            50,
+            50
+        ],
+        [
+            "1A IOWA CITY REGINA CONALL SMITH 2026",
+            51,
+            51
+        ],
+        [
+            "3A EPWORTH NATHAN CASEY 2023",
+            52,
+            52
+        ],
+        [
+            "1A IOWA CITY REGINA EMILIANO HERRERA-SINNWELL 2024",
+            53,
+            53
+        ],
+        [
+            "2A MONTICELLO ELIJAH NORTON 2024",
+            54,
+            54
+        ],
+        [
+            "3A EPWORTH CHARLIE ZIMMERMAN 2026",
+            55,
+            55
+        ],
+        [
+            "3A EPWORTH TYLER BEDTKA 2024",
+            56,
+            56
+        ],
+        [
+            "1A IOWA CITY REGINA GRADY KLINGEMAN 2026",
+            57,
+            57
+        ],
+        [
+            "2A WEST LIBERTY CAMERON ELIZONDO 2024",
+            58,
+            58
+        ],
+        [
+            "3A SOLON CHARLIE PETTIT 2026",
+            59,
+            59
+        ],
+        [
+            "3A MARION CHARLES CLARK 2026",
+            60,
+            60
+        ],
+        [
+            "1A NORTH CEDAR JAMES TROUGHTON 2026",
+            61,
+            61
+        ],
+        [
+            "3A WASHINGTON KADEN READ 2025",
+            62,
+            62
+        ],
+        [
+            "2A WEST LIBERTY MANU GARCIA BLANES 2025",
+            63,
+            63
+        ],
+        [
+            "3A MARION JOSIAH GREGORY 2025",
+            64,
+            64
+        ],
+        [
+            "3A WASHINGTON KEVEN RAYMUNDO 2026",
+            65,
+            65
+        ],
+        [
+            "2A TIPTON OWEN BOLDT 2025",
+            66,
+            66
+        ],
+        [
+            "2A ANAMOSA THOMAS STEINLAGE 2023",
+            67,
+            67
+        ],
+        [
+            "3A MARION SAMUEL PROCTOR 2026",
+            68,
+            68
+        ],
+        [
+            "3A WASHINGTON JACK KLEESE 2023",
+            69,
+            69
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KAMERON DUNKIN 2026",
+            70,
+            70
+        ],
+        [
+            "3A SOLON TOBY KLEINSMITH 2026",
+            71,
+            71
+        ],
+        [
+            "3A CLEAR CREEK-AMANA COLE IBURG 2024",
+            72,
+            72
+        ],
+        [
+            "3A MARION RODNEY FETTER 2024",
+            73,
+            73
+        ],
+        [
+            "3A SOLON KARDYN HUYNH 2025",
+            74,
+            74
+        ],
+        [
+            "3A MARION KYAN ROSS 2023",
+            75,
+            75
+        ],
+        [
+            "3A SOLON IAN RESSLER 2023",
+            76,
+            76
+        ],
+        [
+            "2A TIPTON ISAAC SPANGLER 2026",
+            77,
+            77
+        ],
+        [
+            "2A MONTICELLO CHARLY LLOYD 2025",
+            78,
+            78
+        ],
+        [
+            "3A WASHINGTON LOGAN KNEESE 2025",
+            79,
+            79
+        ],
+        [
+            "3A SOLON ETHAN MELLOY 2024",
+            80,
+            80
+        ],
+        [
+            "3A MARION GRANT SCHULZ 2023",
+            81,
+            81
+        ],
+        [
+            "3A WASHINGTON DIRK ROTHE 2025",
+            82,
+            82
+        ],
+        [
+            "3A MARION CORBAN MCCOY 2025",
+            83,
+            83
+        ],
+        [
+            "3A SOLON BRAYDON BAKER 2026",
+            84,
+            84
+        ],
+        [
+            "1A NORTH CEDAR MICHAEL REDHAGE 2025",
+            85,
+            85
+        ],
+        [
+            "3A MARION GRIFFIN COATES 2023",
+            86,
+            86
+        ],
+        [
+            "3A EPWORTH BRANDON VASKE 2024",
+            87,
+            87
+        ],
+        [
+            "1A CASCADE PAYTON FELDMANN 2024",
+            88,
+            88
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HAYDEN MILLER 2025",
+            89,
+            89
+        ],
+        [
+            "3A SOLON EVZEN MEZA 2025",
+            90,
+            90
+        ],
+        [
+            "1A CASCADE REECE DREW 2024",
+            91,
+            91
+        ],
+        [
+            "3A EPWORTH BRAYDEN EBERLING 2026",
+            92,
+            92
+        ],
+        [
+            "2A WEST LIBERTY CHRISTOPHER PALMA 2023",
+            93,
+            93
+        ],
+        [
+            "1A IOWA CITY REGINA DANYAL MUEH 2025",
+            94,
+            94
+        ],
+        [
+            "1A NORTH CEDAR CHARLES ROBINSON 2024",
+            95,
+            95
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HENRY DAVIDSON 2026",
+            96,
+            96
+        ],
+        [
+            "1A NORTH CEDAR BRADEN SISSEL 2026",
+            97,
+            97
+        ],
+        [
+            "3A WASHINGTON KEVIN FLANNERY 2023",
+            98,
+            98
+        ],
+        [
+            "3A SOLON JACOB KRAMER 2026",
+            99,
+            99
+        ],
+        [
+            "2A MONTICELLO JOE STOLL 2023",
+            100,
+            100
+        ],
+        [
+            "3A SOLON MICHAEL DEVALK 2025",
+            101,
+            101
+        ],
+        [
+            "3A EPWORTH GRANT GAULEY 2026",
+            102,
+            102
+        ],
+        [
+            "3A EPWORTH JAKE BOGE 2026",
+            103,
+            103
+        ],
+        [
+            "2A WEST LIBERTY BEN THARP 2026",
+            104,
+            104
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACK KESTEL 2025",
+            105,
+            105
+        ],
+        [
+            "1A CASCADE ALEC COOK 2026",
+            106,
+            106
+        ],
+        [
+            "3A WASHINGTON SEAN STEEPLETON 2025",
+            107,
+            107
+        ]
+    ]
+}

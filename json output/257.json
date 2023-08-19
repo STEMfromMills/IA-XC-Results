@@ -1,0 +1,731 @@
+{
+    "name": "Perry",
+    "time_seconds": 1664427617,
+    "standings": [
+        [
+            "2A DSM CHRISTIAN AARON FYNAARDT 2023",
+            0,
+            0
+        ],
+        [
+            "3A WINTERSET MASON BACK 2023",
+            1,
+            1
+        ],
+        [
+            "2A DSM CHRISTIAN CALEB TEN PAS 2026",
+            2,
+            2
+        ],
+        [
+            "2A DSM CHRISTIAN COLLIN HOUG 2024",
+            3,
+            3
+        ],
+        [
+            "3A WINTERSET SAM HENSLEY 2024",
+            4,
+            4
+        ],
+        [
+            "3A WINTERSET ETHAN EASTER 2023",
+            5,
+            5
+        ],
+        [
+            "2A DSM CHRISTIAN JACK MCPARTLAND 2024",
+            6,
+            6
+        ],
+        [
+            "3A WINTERSET COLLIN KESSLER 2025",
+            7,
+            7
+        ],
+        [
+            "3A WINTERSET ELI COWMAN 2024",
+            8,
+            8
+        ],
+        [
+            "3A BONDURANT-FARRAR LUCAS WALKER 2024",
+            9,
+            9
+        ],
+        [
+            "3A BALLARD SETH PENCOOK 2023",
+            10,
+            10
+        ],
+        [
+            "3A PERRY YONAS ANDEMICHAEL 2025",
+            11,
+            11
+        ],
+        [
+            "3A BALLARD AUSTIN SHOEN 2023",
+            12,
+            12
+        ],
+        [
+            "3A WINTERSET LUKE HEITHOFF 2023",
+            13,
+            13
+        ],
+        [
+            "2A DSM CHRISTIAN JACK GUMMERT 2024",
+            14,
+            14
+        ],
+        [
+            "3A BALLARD TRENT PAYNE 2023",
+            15,
+            15
+        ],
+        [
+            "3A BONDURANT-FARRAR NYLE DAVIS 2025",
+            16,
+            16
+        ],
+        [
+            "2A DSM CHRISTIAN CARTER MANN 2025",
+            17,
+            17
+        ],
+        [
+            "3A BALLARD JAYDEN LELAND 2026",
+            18,
+            18
+        ],
+        [
+            "3A BALLARD BRADLEY SAGE 2024",
+            19,
+            19
+        ],
+        [
+            "3A BOONE NATHANIEL WINTERS 2023",
+            20,
+            20
+        ],
+        [
+            "2A GREENE COUNTY NOAH HINOTE 2025",
+            21,
+            21
+        ],
+        [
+            "2A DSM CHRISTIAN BEN NYBERG 2025",
+            22,
+            22
+        ],
+        [
+            "2A ROLAND-STORY EVAN VOGA 2025",
+            23,
+            23
+        ],
+        [
+            "4A DSM NORTH CONSTANT RASHIDI 2025",
+            24,
+            24
+        ],
+        [
+            "2A DSM CHRISTIAN LUKE HAGENBERG 2025",
+            25,
+            25
+        ],
+        [
+            "2A GREENE COUNTY GAVYN WINTERS 2025",
+            26,
+            26
+        ],
+        [
+            "3A BONDURANT-FARRAR COOPER STEEPLES 2025",
+            27,
+            27
+        ],
+        [
+            "3A BALLARD PEYTON JOHNSON 2026",
+            28,
+            28
+        ],
+        [
+            "3A WINTERSET LIAM SUTTON 2024",
+            29,
+            29
+        ],
+        [
+            "3A BOONE HENRY POLLARD 2023",
+            30,
+            30
+        ],
+        [
+            "2A DSM CHRISTIAN AARON ALFERINK 2025",
+            31,
+            31
+        ],
+        [
+            "2A GREENE COUNTY ETHAN FREDERICK 2023",
+            32,
+            32
+        ],
+        [
+            "3A SAYDEL NAHUM LOCK 2025",
+            33,
+            33
+        ],
+        [
+            "3A PERRY THAD STEWART 2026",
+            34,
+            34
+        ],
+        [
+            "2A DSM CHRISTIAN JADEN SISLER 2025",
+            35,
+            35
+        ],
+        [
+            "3A BALLARD LOGAN HUNTRODS 2025",
+            36,
+            36
+        ],
+        [
+            "3A WINTERSET CALUM YEAGER 2026",
+            37,
+            37
+        ],
+        [
+            "3A BONDURANT-FARRAR JACK RIECK 2026",
+            38,
+            38
+        ],
+        [
+            "2A GREENE COUNTY KOLBY ANGELL 2024",
+            39,
+            39
+        ],
+        [
+            "2A DSM CHRISTIAN COLBY ROSNO 2025",
+            40,
+            40
+        ],
+        [
+            "3A BONDURANT-FARRAR DAVID EIVINS 2025",
+            41,
+            41
+        ],
+        [
+            "3A BOONE MAX JOHNSTON 2023",
+            42,
+            42
+        ],
+        [
+            "3A WINTERSET MILES BOOTON 2024",
+            43,
+            43
+        ],
+        [
+            "3A BONDURANT-FARRAR BRADLEY HUGHES 2026",
+            44,
+            44
+        ],
+        [
+            "4A DSM NORTH GADI KALIFA 2025",
+            45,
+            45
+        ],
+        [
+            "3A WINTERSET LIBERTO INIESTA 2025",
+            46,
+            46
+        ],
+        [
+            "2A DSM CHRISTIAN AIDEN BUCKINGHAM 2025",
+            47,
+            47
+        ],
+        [
+            "4A DSM NORTH EBENEZER YAFETI 2026",
+            48,
+            48
+        ],
+        [
+            "3A BOONE KYAN LEHMAN 2025",
+            49,
+            49
+        ],
+        [
+            "3A BONDURANT-FARRAR BRADY SANGER 2026",
+            50,
+            50
+        ],
+        [
+            "2A GREENE COUNTY CARTER HINOTE 2026",
+            51,
+            51
+        ],
+        [
+            "3A BOONE CARDEN NEREM 2025",
+            52,
+            52
+        ],
+        [
+            "3A SAYDEL ALEX WOOD 2026",
+            53,
+            53
+        ],
+        [
+            "2A DSM CHRISTIAN KIERAN SEELEY 2026",
+            54,
+            54
+        ],
+        [
+            "3A BONDURANT-FARRAR AIDEN CARL 2024",
+            55,
+            55
+        ],
+        [
+            "3A BONDURANT-FARRAR SAM GRIFFITH 2026",
+            56,
+            56
+        ],
+        [
+            "4A DSM NORTH JOSUE BARAHONA-ALVARADO 2025",
+            57,
+            57
+        ],
+        [
+            "3A SAYDEL JONAH PEAK 2023",
+            58,
+            58
+        ],
+        [
+            "3A WINTERSET MATHEW BUCK 2023",
+            59,
+            59
+        ],
+        [
+            "2A DSM CHRISTIAN EVAN FOPMA 2025",
+            60,
+            60
+        ],
+        [
+            "3A BALLARD IAN GODBOLD 2023",
+            61,
+            61
+        ],
+        [
+            "3A BALLARD BRADEN KUBICHEK 2025",
+            62,
+            62
+        ],
+        [
+            "3A PERRY OWEN MYERS 2025",
+            63,
+            63
+        ],
+        [
+            "3A BOONE HENRY VAN DYKE 2023",
+            64,
+            64
+        ],
+        [
+            "2A ROLAND-STORY LUCAS WUEBKER 2024",
+            65,
+            65
+        ],
+        [
+            "3A BONDURANT-FARRAR PORTER FRANCOIS 2023",
+            66,
+            66
+        ],
+        [
+            "2A DSM CHRISTIAN NATHANAEL HERMAN 2023",
+            67,
+            67
+        ],
+        [
+            "2A ROLAND-STORY LUCCAS HART 2025",
+            68,
+            68
+        ],
+        [
+            "3A BONDURANT-FARRAR GAVIN LYMAN 2024",
+            69,
+            69
+        ],
+        [
+            "3A PERRY JOHNATHAN CHAVEZ 2023",
+            70,
+            70
+        ],
+        [
+            "3A BONDURANT-FARRAR JONAH GREUBEL 2023",
+            71,
+            71
+        ],
+        [
+            "3A BONDURANT-FARRAR BRAYDIN PHIPPS 2025",
+            72,
+            72
+        ],
+        [
+            "3A WINTERSET FRANKLIN PASTORINO 2024",
+            73,
+            73
+        ],
+        [
+            "2A ROLAND-STORY NOLAN RHOAD 2024",
+            74,
+            74
+        ],
+        [
+            "2A ROLAND-STORY COLTEN LUCCHESI 2024",
+            75,
+            75
+        ],
+        [
+            "3A BONDURANT-FARRAR AJ EVERLY 2023",
+            76,
+            76
+        ],
+        [
+            "3A BONDURANT-FARRAR MARTIN SCHMESIER 2025",
+            77,
+            77
+        ],
+        [
+            "2A DSM CHRISTIAN IAN HAGENBERG 2023",
+            78,
+            78
+        ],
+        [
+            "2A DSM CHRISTIAN AJ WILLIS 2024",
+            79,
+            79
+        ],
+        [
+            "2A DSM CHRISTIAN JAXSON GRAY 2025",
+            80,
+            80
+        ],
+        [
+            "3A SAYDEL JACOB MCPHERREN 2026",
+            81,
+            81
+        ],
+        [
+            "3A BOONE ISAAC CLARK 2026",
+            82,
+            82
+        ],
+        [
+            "3A WINTERSET CHARLIE KING 2026",
+            83,
+            83
+        ],
+        [
+            "2A DSM CHRISTIAN ASHER RIPPEY 2025",
+            84,
+            84
+        ],
+        [
+            "2A GREENE COUNTY MYLO TAUTE 2023",
+            85,
+            85
+        ],
+        [
+            "3A PERRY GANNON MEIS 2023",
+            86,
+            86
+        ],
+        [
+            "3A BOONE KRIS FRANTZEN 2023",
+            87,
+            87
+        ],
+        [
+            "3A WINTERSET ZACK FREASE 2024",
+            88,
+            88
+        ],
+        [
+            "3A PERRY BRYCE ANLIKER 2023",
+            89,
+            89
+        ],
+        [
+            "2A GREENE COUNTY BORK ERSNES 2023",
+            90,
+            90
+        ],
+        [
+            "3A BOONE SIMON ENABNIT 2026",
+            91,
+            91
+        ],
+        [
+            "3A BALLARD KALEB DEE 2026",
+            92,
+            92
+        ],
+        [
+            "2A ROLAND-STORY TATE LANDE 2026",
+            93,
+            93
+        ],
+        [
+            "3A BOONE BRAM CARPENTER 2024",
+            94,
+            94
+        ],
+        [
+            "3A BOONE WESLEY BABER 2024",
+            95,
+            95
+        ],
+        [
+            "2A ROLAND-STORY CALEB DANIELSON 2025",
+            96,
+            96
+        ],
+        [
+            "2A DSM CHRISTIAN ASHER KURTZ 2025",
+            97,
+            97
+        ],
+        [
+            "2A ROLAND-STORY ADAM THIEL 2023",
+            98,
+            98
+        ],
+        [
+            "2A ROLAND-STORY TOM SEVERSIKE 2023",
+            99,
+            99
+        ],
+        [
+            "3A BONDURANT-FARRAR BRAXTON ROBBEN 2025",
+            100,
+            100
+        ],
+        [
+            "3A BONDURANT-FARRAR CADEN ROBINSON SAATHOFF 2024",
+            101,
+            101
+        ],
+        [
+            "3A BOONE SETH MORRIS 2023",
+            102,
+            102
+        ],
+        [
+            "2A DSM CHRISTIAN ETHAN KRATOCHVIL 2025",
+            103,
+            103
+        ],
+        [
+            "3A SAYDEL CONNER BROONER 2023",
+            104,
+            104
+        ],
+        [
+            "3A PERRY AIDAN CARLSON 2025",
+            105,
+            105
+        ],
+        [
+            "2A DSM CHRISTIAN JAKOB GRIMES 2023",
+            106,
+            106
+        ],
+        [
+            "2A DSM CHRISTIAN CARTER TIMMONS 2025",
+            107,
+            107
+        ],
+        [
+            "2A DSM CHRISTIAN JACK LAMBERT 2023",
+            108,
+            108
+        ],
+        [
+            "3A BONDURANT-FARRAR JONAH POOCK 2023",
+            109,
+            109
+        ],
+        [
+            "3A PERRY MASON HOFFMAN 2024",
+            110,
+            110
+        ],
+        [
+            "3A BALLARD MICAH OTT 2024",
+            111,
+            111
+        ],
+        [
+            "2A DSM CHRISTIAN ALEX STEENHOEK 2026",
+            112,
+            112
+        ],
+        [
+            "3A BOONE DORIAN MYERS 2026",
+            113,
+            113
+        ],
+        [
+            "3A BALLARD JOZEPH HANSEN 2024",
+            114,
+            114
+        ],
+        [
+            "3A PERRY KYEO AUGUSTINE 2026",
+            115,
+            115
+        ],
+        [
+            "3A BONDURANT-FARRAR MAX FICK 2024",
+            116,
+            116
+        ],
+        [
+            "2A GREENE COUNTY JAYDEN KOLLER 2026",
+            117,
+            117
+        ],
+        [
+            "2A ROLAND-STORY NELS HANSON 2024",
+            118,
+            118
+        ],
+        [
+            "3A SAYDEL OLIVER MAZARIEGOS 2024",
+            119,
+            119
+        ],
+        [
+            "4A DSM NORTH AUSTIN SCHULDT 2024",
+            120,
+            120
+        ],
+        [
+            "3A BOONE JASE BARRICK 2025",
+            121,
+            121
+        ],
+        [
+            "3A BALLARD ALEX HOLMES 2023",
+            122,
+            122
+        ],
+        [
+            "2A ROLAND-STORY REECE MARTIN 2023",
+            123,
+            123
+        ],
+        [
+            "3A BALLARD TAYLOR LEEDS 2025",
+            124,
+            124
+        ],
+        [
+            "3A PERRY RENZO SAENZ 2025",
+            125,
+            125
+        ],
+        [
+            "2A ROLAND-STORY AYDEN MCLAIN 2024",
+            126,
+            126
+        ],
+        [
+            "3A BONDURANT-FARRAR CALVIN SCHERTZ 2025",
+            127,
+            127
+        ],
+        [
+            "3A BONDURANT-FARRAR THEO BROWN 2024",
+            128,
+            128
+        ],
+        [
+            "2A ROLAND-STORY SAM BRAUCHER 2025",
+            129,
+            129
+        ],
+        [
+            "2A GREENE COUNTY TEAGAN CHISHOLM 2026",
+            130,
+            130
+        ],
+        [
+            "3A BOONE NATE FITZGERALD 2026",
+            131,
+            131
+        ],
+        [
+            "3A PERRY CARLOS RUIZ-ARAGON 2025",
+            132,
+            132
+        ],
+        [
+            "3A BALLARD BEN BAIER 2024",
+            133,
+            133
+        ],
+        [
+            "3A WINTERSET BARRETT SONGER 2026",
+            134,
+            134
+        ],
+        [
+            "3A PERRY OSWALD CORNELIO-VAZQUEZ 2025",
+            135,
+            135
+        ],
+        [
+            "3A BOONE BO BRADDOCK 2023",
+            136,
+            136
+        ],
+        [
+            "3A BALLARD JERANIMO RICO 2023",
+            137,
+            137
+        ],
+        [
+            "2A ROLAND-STORY CAEL FABER 2026",
+            138,
+            138
+        ],
+        [
+            "3A SAYDEL BARRETT WEISPFENNING 2025",
+            139,
+            139
+        ],
+        [
+            "3A PERRY KYLE HERNANDEZ 2023",
+            140,
+            140
+        ],
+        [
+            "2A DSM CHRISTIAN JOHNSTONE WAMBUI 2025",
+            141,
+            141
+        ],
+        [
+            "3A PERRY ISAAC BALLARD 2025",
+            142,
+            142
+        ],
+        [
+            "3A PERRY ANGEL RODRIQUEZ 2026",
+            143,
+            143
+        ],
+        [
+            "2A DSM CHRISTIAN DEACON MENNINGA 2026",
+            144,
+            144
+        ]
+    ]
+}

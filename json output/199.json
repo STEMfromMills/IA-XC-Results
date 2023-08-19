@@ -1,0 +1,536 @@
+{
+    "name": "Grundy Center var",
+    "time_seconds": 1663822819,
+    "standings": [
+        [
+            "2A GRUNDY CENTER / GLADBROOK KADEN LYNCH 2024",
+            0,
+            0
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK EMERSON VOKES 2026",
+            1,
+            1
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRENNEN SAGER 2023",
+            2,
+            2
+        ],
+        [
+            "3A CHARLES CITY NICK WILLIAMS 2025",
+            3,
+            3
+        ],
+        [
+            "1A VALLEY LUTHERAN ADRIC SCHMITZ 2023",
+            4,
+            4
+        ],
+        [
+            "2A DENVER JACK MULERT 2023",
+            5,
+            5
+        ],
+        [
+            "1A EAST MARSHALL JOE TERRONES 2023",
+            6,
+            6
+        ],
+        [
+            "3A CHARLES CITY XANDER GRAESER 2025",
+            7,
+            7
+        ],
+        [
+            "1A EAST MARSHALL PATRICK SLIFER 2023",
+            8,
+            8
+        ],
+        [
+            "2A JESUP NATHAN PINT 2025",
+            9,
+            9
+        ],
+        [
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            10,
+            10
+        ],
+        [
+            "2A DENVER MAXWELL SCHWANDT 2023",
+            11,
+            11
+        ],
+        [
+            "2A DENVER NEAL PINTER 2024",
+            12,
+            12
+        ],
+        [
+            "2A DENVER TREVOR BAAS 2025",
+            13,
+            13
+        ],
+        [
+            "3A CHARLES CITY ISAAC THOMPSON 2024",
+            14,
+            14
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK TYLER VENENGA 2024",
+            15,
+            15
+        ],
+        [
+            "2A DENVER TALAN LAFRENTZ 2025",
+            16,
+            16
+        ],
+        [
+            "1A EAST MARSHALL KALEB GRANT 2024",
+            17,
+            17
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
+            18,
+            18
+        ],
+        [
+            "2A NEW HAMPTON JACK SHAWVER 2024",
+            19,
+            19
+        ],
+        [
+            "2A NEW HAMPTON TREYCE ORR 2023",
+            20,
+            20
+        ],
+        [
+            "2A DENVER CARSON HAASE 2024",
+            21,
+            21
+        ],
+        [
+            "1A EAST MARSHALL BROCK CURTIS 2023",
+            22,
+            22
+        ],
+        [
+            "2A JESUP AYDEN GONZALEZ 2024",
+            23,
+            23
+        ],
+        [
+            "2A DENVER GABE SWALES 2025",
+            24,
+            24
+        ],
+        [
+            "1A HUDSON RYAN PECK 2023",
+            25,
+            25
+        ],
+        [
+            "2A JESUP KADEN LANGE 2026",
+            26,
+            26
+        ],
+        [
+            "1A SOUTH HARDIN COLTON MCDONALD 2023",
+            27,
+            27
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ETHAN BOYLE 2023",
+            28,
+            28
+        ],
+        [
+            "1A HUDSON LUCAS GRADY 2024",
+            29,
+            29
+        ],
+        [
+            "2A JESUP TYLER NOLAN 2024",
+            30,
+            30
+        ],
+        [
+            "1A COLFAX-MINGO HARRISON RHONE 2025",
+            31,
+            31
+        ],
+        [
+            "3A CHARLES CITY LUKAS VANCE 2024",
+            32,
+            32
+        ],
+        [
+            "1A VALLEY LUTHERAN ISAAC DAWSON 2023",
+            33,
+            33
+        ],
+        [
+            "2A JESUP WILL NESBIT 2026",
+            34,
+            34
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DEVIN WRIDER 2025",
+            35,
+            35
+        ],
+        [
+            "1A HUDSON BRADY HANSEN 2024",
+            36,
+            36
+        ],
+        [
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
+            37,
+            37
+        ],
+        [
+            "1A WATERLOO CHRISTIAN LEVI TRELKA 2026",
+            38,
+            38
+        ],
+        [
+            "1A EAST MARSHALL CHANDLER CURTIS 2026",
+            39,
+            39
+        ],
+        [
+            "1A MONTEZUMA GAVIN STRONG 2023",
+            40,
+            40
+        ],
+        [
+            "3A CHARLES CITY ANDERS HAGLUND 2023",
+            41,
+            41
+        ],
+        [
+            "1A EAST MARSHALL CALE HUNGERFORD 2024",
+            42,
+            42
+        ],
+        [
+            "1A MONTEZUMA CARTER MCKEE 2024",
+            43,
+            43
+        ],
+        [
+            "2A UNION LA PORTE CITY KENGO UCHIYAMA-HANSEN 2025",
+            44,
+            44
+        ],
+        [
+            "1A COLFAX-MINGO JOSUE RODRIGUEZ 2025",
+            45,
+            45
+        ],
+        [
+            "2A UNION LA PORTE CITY CAMERON MULLEN 2026",
+            46,
+            46
+        ],
+        [
+            "3A CHARLES CITY CARTER HABERKORN 2025",
+            47,
+            47
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK BRAYDEN WALLIS 2025",
+            48,
+            48
+        ],
+        [
+            "1A SOUTH HARDIN GAVIN RUNYON 2025",
+            49,
+            49
+        ],
+        [
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
+            50,
+            50
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ISAAC BOEHMLER 2023",
+            51,
+            51
+        ],
+        [
+            "1A VALLEY LUTHERAN JEREMIAH STEGGALL 2023",
+            52,
+            52
+        ],
+        [
+            "1A VALLEY LUTHERAN ETHAN L'HEUREUX 2023",
+            53,
+            53
+        ],
+        [
+            "1A MONTEZUMA JAYDEN ROSS 2024",
+            54,
+            54
+        ],
+        [
+            "1A HUDSON LANE ROGERS 2023",
+            55,
+            55
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK JERYN SPEAR 2023",
+            56,
+            56
+        ],
+        [
+            "1A SOUTH HARDIN HAYDEN STARR 2025",
+            57,
+            57
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
+            58,
+            58
+        ],
+        [
+            "1A MONTEZUMA JACK ERSELIUS 2024",
+            59,
+            59
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JONAH CARNEY 2026",
+            60,
+            60
+        ],
+        [
+            "1A WATERLOO CHRISTIAN DAWSON GRADY 2026",
+            61,
+            61
+        ],
+        [
+            "2A JESUP KARSTEN NUEHRING 2025",
+            62,
+            62
+        ],
+        [
+            "3A CHARLES CITY NOAH MORRIS 2025",
+            63,
+            63
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
+            64,
+            64
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
+            65,
+            65
+        ],
+        [
+            "2A NEW HAMPTON JARRIN ROBINSON 2025",
+            66,
+            66
+        ],
+        [
+            "1A GMG BRAYTON DAVIS 2026",
+            67,
+            67
+        ],
+        [
+            "2A UNION LA PORTE CITY WYATT HOY 2024",
+            68,
+            68
+        ],
+        [
+            "1A VALLEY LUTHERAN KELLER WILSON 2024",
+            69,
+            69
+        ],
+        [
+            "1A MONTEZUMA COLTON BENSON 2023",
+            70,
+            70
+        ],
+        [
+            "1A VALLEY LUTHERAN JONAH WOOLERY 2024",
+            71,
+            71
+        ],
+        [
+            "1A HUDSON JACOB CULHAM 2026",
+            72,
+            72
+        ],
+        [
+            "1A WATERLOO CHRISTIAN EAN DAVIS 2025",
+            73,
+            73
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ISAAC FOXEN 2025",
+            74,
+            74
+        ],
+        [
+            "1A EAST MARSHALL CARTER BRUMMEL 2024",
+            75,
+            75
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG XAVIER PARRA-MORALES 2025",
+            76,
+            76
+        ],
+        [
+            "1A COLFAX-MINGO XAVIER WOODS 2025",
+            77,
+            77
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG LANE CONVERSE 2024",
+            78,
+            78
+        ],
+        [
+            "1A HUDSON ALEX STEELE 2024",
+            79,
+            79
+        ],
+        [
+            "2A NEW HAMPTON XANDER MEYERHOFF 2025",
+            80,
+            80
+        ],
+        [
+            "1A COLFAX-MINGO TONY BUENROSTRO 2025",
+            81,
+            81
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG TRAVIS SMITH 2025",
+            82,
+            82
+        ],
+        [
+            "1A SOUTH HARDIN COLLIN BURK 2026",
+            83,
+            83
+        ],
+        [
+            "1A VALLEY LUTHERAN DW BELTZ 2024",
+            84,
+            84
+        ],
+        [
+            "2A UNION LA PORTE CITY ASHER BEERMAN 2023",
+            85,
+            85
+        ],
+        [
+            "2A UNION LA PORTE CITY AUSTIN MARTIN 2024",
+            86,
+            86
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG PARKER SHERMAN 2025",
+            87,
+            87
+        ],
+        [
+            "1A COLFAX-MINGO OWEN AMENT 2025",
+            88,
+            88
+        ],
+        [
+            "1A NORTH TAMA CASE MONAT 2024",
+            89,
+            89
+        ],
+        [
+            "1A MONTEZUMA BRYSON STOCKMAN 2025",
+            90,
+            90
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG RYAN RICH 2023",
+            91,
+            91
+        ],
+        [
+            "2A JESUP KYLE WILSON 2023",
+            92,
+            92
+        ],
+        [
+            "1A COLFAX-MINGO JOHN MCGILL 2024",
+            93,
+            93
+        ],
+        [
+            "1A GMG NOAH TESKE 2023",
+            94,
+            94
+        ],
+        [
+            "1A SOUTH HARDIN CHARLIE CUMMINGS 2026",
+            95,
+            95
+        ],
+        [
+            "1A MONTEZUMA JUSIAH WETERING 2025",
+            96,
+            96
+        ],
+        [
+            "1A BGM LOGAN FINDLAY 2024",
+            97,
+            97
+        ],
+        [
+            "2A UNION LA PORTE CITY BRADY SPENCE 2023",
+            98,
+            98
+        ],
+        [
+            "2A UNION LA PORTE CITY DANSON MOODY 2024",
+            99,
+            99
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
+            100,
+            100
+        ],
+        [
+            "1A GMG JARRET HORNBERG 2023",
+            101,
+            101
+        ],
+        [
+            "1A COLFAX-MINGO SETH BRANT 2023",
+            102,
+            102
+        ],
+        [
+            "1A SOUTH HARDIN EDWIN LOZANO 2023",
+            103,
+            103
+        ],
+        [
+            "1A GMG DRAYSON STEPHENSON 2026",
+            104,
+            104
+        ],
+        [
+            "1A WATERLOO CHRISTIAN BENNET GARDNER 2026",
+            105,
+            105
+        ]
+    ]
+}

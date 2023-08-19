@@ -1,0 +1,376 @@
+{
+    "name": "ACGC",
+    "time_seconds": 1663822808,
+    "standings": [
+        [
+            "1A IKM-MANNING CADEN KELLER 2023",
+            0,
+            0
+        ],
+        [
+            "1A AC-GC JUSTIN REINHART 2023",
+            1,
+            1
+        ],
+        [
+            "1A AC-GC ANDREW MAHAFFEY 2024",
+            2,
+            2
+        ],
+        [
+            "1A AC-GC GAVIN SLOSS 2025",
+            3,
+            3
+        ],
+        [
+            "3A PERRY YONAS ANDEMICHAEL 2025",
+            4,
+            4
+        ],
+        [
+            "1A AC-GC BO ARRASMITH 2024",
+            5,
+            5
+        ],
+        [
+            "1A AC-GC LANCE BUNDE 2024",
+            6,
+            6
+        ],
+        [
+            "1A IKM-MANNING LANE SAMS 2024",
+            7,
+            7
+        ],
+        [
+            "1A AC-GC NOAH KADING 2025",
+            8,
+            8
+        ],
+        [
+            "1A IKM-MANNING NATHAN JOHNSON 2023",
+            9,
+            9
+        ],
+        [
+            "1A AC-GC TYCONDER ELLIS 2023",
+            10,
+            10
+        ],
+        [
+            "1A IKM-MANNING REED HINNERS 2023",
+            11,
+            11
+        ],
+        [
+            "1A MARTENSDALE ADEN MOORE 2024",
+            12,
+            12
+        ],
+        [
+            "1A IKM-MANNING ABE POLZIEN 2025",
+            13,
+            13
+        ],
+        [
+            "3A PERRY THAD STEWART 2026",
+            14,
+            14
+        ],
+        [
+            "1A IKM-MANNING KASCHE HUEHN 2025",
+            15,
+            15
+        ],
+        [
+            "1A COON RAPIDS-BAYARD LANDON COOK 2026",
+            16,
+            16
+        ],
+        [
+            "1A AC-GC JARRETT MCCLAIN 2024",
+            17,
+            17
+        ],
+        [
+            "1A AC-GC JACKSON SLOSS 2023",
+            18,
+            18
+        ],
+        [
+            "1A EAST MILLS ANTHONY OBERMILLER 2023",
+            19,
+            19
+        ],
+        [
+            "1A EAST MILLS STEVEN BARRETT 2024",
+            20,
+            20
+        ],
+        [
+            "2A WEST CENTRAL VALLEY CAEL HAZEN 2024",
+            21,
+            21
+        ],
+        [
+            "1A AC-GC EASTON STRINGHAM 2024",
+            22,
+            22
+        ],
+        [
+            "1A IKM-MANNING CAMDEN MORRIS 2026",
+            23,
+            23
+        ],
+        [
+            "1A AC-GC ALEX SPACK 2023",
+            24,
+            24
+        ],
+        [
+            "1A MARTENSDALE ELIJAH WHEELDON 2025",
+            25,
+            25
+        ],
+        [
+            "1A IKM-MANNING ISAAC BLANKMAN 2026",
+            26,
+            26
+        ],
+        [
+            "1A IKM-MANNING RYAN GERMER 2024",
+            27,
+            27
+        ],
+        [
+            "1A EXIRA ERIC WILSON 2024",
+            28,
+            28
+        ],
+        [
+            "1A EXIRA AUSTIN RASMUSSEN 2026",
+            29,
+            29
+        ],
+        [
+            "1A EXIRA JONAS LACANNE 2024",
+            30,
+            30
+        ],
+        [
+            "1A IKM-MANNING JAYDEN PHIPPS 2024",
+            31,
+            31
+        ],
+        [
+            "2A WEST CENTRAL VALLEY JARED RODRIGUES 2025",
+            32,
+            32
+        ],
+        [
+            "1A MARTENSDALE TEEGAN DORENKAMP 2025",
+            33,
+            33
+        ],
+        [
+            "3A PERRY KYLE HERNANDEZ 2023",
+            34,
+            34
+        ],
+        [
+            "1A MARTENSDALE DEVIN WEBB 2025",
+            35,
+            35
+        ],
+        [
+            "1A EAST MILLS CAMRYN JOHNSON 2024",
+            36,
+            36
+        ],
+        [
+            "1A IKM-MANNING NATHANAEL CONNER 2026",
+            37,
+            37
+        ],
+        [
+            "1A MARTENSDALE JONATHAN MOORE 2024",
+            38,
+            38
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK SMITH 2023",
+            39,
+            39
+        ],
+        [
+            "1A EXIRA PHIL REINHART 2024",
+            40,
+            40
+        ],
+        [
+            "1A MARTENSDALE NATHAN MUNDIL 2025",
+            41,
+            41
+        ],
+        [
+            "1A AC-GC JUSTIN DAVIS 2023",
+            42,
+            42
+        ],
+        [
+            "1A MARTENSDALE THOMAS MUNDIL 2025",
+            43,
+            43
+        ],
+        [
+            "1A AC-GC FINN BILLHEIMER 2026",
+            44,
+            44
+        ],
+        [
+            "3A PERRY BRYCE ANLIKER 2023",
+            45,
+            45
+        ],
+        [
+            "1A EAST MILLS ANDREW LARAMY 2023",
+            46,
+            46
+        ],
+        [
+            "1A EAST MILLS WALTER SEIPOLD 2025",
+            47,
+            47
+        ],
+        [
+            "1A AC-GC MAX TRUJILLO-GARCIA 2026",
+            48,
+            48
+        ],
+        [
+            "1A IKM-MANNING JOEL MCLAWS 2023",
+            49,
+            49
+        ],
+        [
+            "1A IKM-MANNING HUNTER JULIN 2026",
+            50,
+            50
+        ],
+        [
+            "3A PERRY AIDAN CARLSON 2025",
+            51,
+            51
+        ],
+        [
+            "3A PERRY KYEO AUGUSTINE 2026",
+            52,
+            52
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            53,
+            53
+        ],
+        [
+            "1A EAST MILLS COOPER STEARNS 2025",
+            54,
+            54
+        ],
+        [
+            "1A EXIRA QUINTINN WHITE 2024",
+            55,
+            55
+        ],
+        [
+            "3A PERRY CHAD GRAY 2023",
+            56,
+            56
+        ],
+        [
+            "1A PANORAMA ZACH HAYDEN 2026",
+            57,
+            57
+        ],
+        [
+            "1A EAST MILLS THOREN WADE 2023",
+            58,
+            58
+        ],
+        [
+            "1A EXIRA JAIDEN PETTEPIER 2024",
+            59,
+            59
+        ],
+        [
+            "3A PERRY MINASEY TEWELDE 2024",
+            60,
+            60
+        ],
+        [
+            "1A EXIRA CARTER WIEMANN 2026",
+            61,
+            61
+        ],
+        [
+            "3A PERRY CARLOS RUIZ-ARAGON 2025",
+            62,
+            62
+        ],
+        [
+            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
+            63,
+            63
+        ],
+        [
+            "1A SW VALLEY ETHAN JAMES 2024",
+            64,
+            64
+        ],
+        [
+            "1A SW VALLEY MATTHEW MEANS 2025",
+            65,
+            65
+        ],
+        [
+            "1A EAST MILLS JOHN WADE 2026",
+            66,
+            66
+        ],
+        [
+            "1A COON RAPIDS-BAYARD LOGAN KENYON 2026",
+            67,
+            67
+        ],
+        [
+            "2A WEST CENTRAL VALLEY KIERNAN HUTTON 2026",
+            68,
+            68
+        ],
+        [
+            "3A PERRY ISAAC BALLARD 2025",
+            69,
+            69
+        ],
+        [
+            "1A EAST MILLS JORDAN WILLIAMS 2025",
+            70,
+            70
+        ],
+        [
+            "3A PERRY MASON HOFFMAN 2024",
+            71,
+            71
+        ],
+        [
+            "1A SW VALLEY LUCAS JAMES 2026",
+            72,
+            72
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK DEZEEUW 2023",
+            73,
+            73
+        ]
+    ]
+}

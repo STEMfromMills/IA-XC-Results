@@ -1,0 +1,621 @@
+{
+    "name": "Edgewood Colesburg",
+    "time_seconds": 1661230804,
+    "standings": [
+        [
+            "2A STARMONT CHARLIE SIECK 2023",
+            0,
+            0
+        ],
+        [
+            "1A MFL MARMAC JACOB SCHELLHORN 2025",
+            1,
+            1
+        ],
+        [
+            "4A WATERLOO WEST PRESLEY BERNS 2025",
+            2,
+            2
+        ],
+        [
+            "1A CLAYTON RIDGE KEATON REIMER 2023",
+            3,
+            3
+        ],
+        [
+            "4A WATERLOO WEST BEN RITTER 2025",
+            4,
+            4
+        ],
+        [
+            "1A CLAYTON RIDGE GAVIN MOSER 2023",
+            5,
+            5
+        ],
+        [
+            "4A WATERLOO WEST RYAN HARN 2024",
+            6,
+            6
+        ],
+        [
+            "4A WATERLOO WEST BRADEN NYSTROM 2023",
+            7,
+            7
+        ],
+        [
+            "1A CENTRAL ELKADER GAVIN HOLST 2025",
+            8,
+            8
+        ],
+        [
+            "1A TURKEY VALLEY RUSSELL NIEMAN 2024",
+            9,
+            9
+        ],
+        [
+            "4A WATERLOO WEST ZEPHANIAH GUSTAFSON 2023",
+            10,
+            10
+        ],
+        [
+            "2A STARMONT LANE GERMAN 2023",
+            11,
+            11
+        ],
+        [
+            "1A KEE LANSING JUSTIN WAGNER 2026",
+            12,
+            12
+        ],
+        [
+            "1A POSTVILLE ABDIAZIZ IBRAHIM 2024",
+            13,
+            13
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG TREY NEDERHOFF 2023",
+            14,
+            14
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ISAAC BOEHMLER 2023",
+            15,
+            15
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ETHAN BOYLE 2023",
+            16,
+            16
+        ],
+        [
+            "1A SOUTH WINNESHIEK HUNTER WAGNER 2023",
+            17,
+            17
+        ],
+        [
+            "2A BECKMAN ANDREW SCHLARMANN 2026",
+            18,
+            18
+        ],
+        [
+            "1A MFL MARMAC WILLIAM KOETHER 2023",
+            19,
+            19
+        ],
+        [
+            "1A SOUTH WINNESHIEK JOHN DONOVAN 2025",
+            20,
+            20
+        ],
+        [
+            "2A BECKMAN ADAM GAUL 2026",
+            21,
+            21
+        ],
+        [
+            "1A CLAYTON RIDGE ERIK FLORES 2023",
+            22,
+            22
+        ],
+        [
+            "1A SOUTH WINNESHIEK OMAR FLORES 2023",
+            23,
+            23
+        ],
+        [
+            "1A DUNKERTON DYLAN MARQUART 2025",
+            24,
+            24
+        ],
+        [
+            "1A ALBURNETT HAYDEN GUSTAFSON 2026",
+            25,
+            25
+        ],
+        [
+            "1A ALBURNETT LOGAN OSSMAN 2026",
+            26,
+            26
+        ],
+        [
+            "4A WATERLOO WEST CONNOR HEUTHORST 2024",
+            27,
+            27
+        ],
+        [
+            "1A ALBURNETT AUSTIN SCHECHINGER 2025",
+            28,
+            28
+        ],
+        [
+            "4A WATERLOO WEST CHASE NORDMAN 2024",
+            29,
+            29
+        ],
+        [
+            "1A POSTVILLE MELVIN MARTIN 2025",
+            30,
+            30
+        ],
+        [
+            "4A WATERLOO WEST CALEB KERKOVE 2024",
+            31,
+            31
+        ],
+        [
+            "4A WATERLOO WEST COOPER PAXTON 2023",
+            32,
+            32
+        ],
+        [
+            "1A MFL MARMAC SAWYER KEEHNER 2024",
+            33,
+            33
+        ],
+        [
+            "2A STARMONT BRAYDON WEDO 2023",
+            34,
+            34
+        ],
+        [
+            "2A BECKMAN JACOB SCHLARMANN 2024",
+            35,
+            35
+        ],
+        [
+            "1A MFL MARMAC TUCKER RUFF 2025",
+            36,
+            36
+        ],
+        [
+            "2A STARMONT IAN OTDOERFER 2025",
+            37,
+            37
+        ],
+        [
+            "1A CLAYTON RIDGE JESUS TABORA-LARA 2025",
+            38,
+            38
+        ],
+        [
+            "1A SOUTH WINNESHIEK BO WANGSNESS 2024",
+            39,
+            39
+        ],
+        [
+            "1A CENTRAL ELKADER COLLIN JASTER 2026",
+            40,
+            40
+        ],
+        [
+            "1A CLAYTON RIDGE JACKSON PATINO 2023",
+            41,
+            41
+        ],
+        [
+            "1A POSTVILLE MOHAMED HASHI 2023",
+            42,
+            42
+        ],
+        [
+            "2A BECKMAN RILEY WHITE 2024",
+            43,
+            43
+        ],
+        [
+            "2A BECKMAN DANNY DUDZIK 2026",
+            44,
+            44
+        ],
+        [
+            "1A DUNKERTON NOAH FUELLING 2025",
+            45,
+            45
+        ],
+        [
+            "1A SOUTH WINNESHIEK ABE CONWAY 2024",
+            46,
+            46
+        ],
+        [
+            "4A WATERLOO WEST GUNNER STEELE 2025",
+            47,
+            47
+        ],
+        [
+            "1A CLAYTON RIDGE NATE MEIER 2023",
+            48,
+            48
+        ],
+        [
+            "2A BECKMAN SPENCER REA 2023",
+            49,
+            49
+        ],
+        [
+            "4A WATERLOO WEST JAMES KNIGHT 2026",
+            50,
+            50
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG XAVIER PARRA-MORALES 2025",
+            51,
+            51
+        ],
+        [
+            "2A STARMONT VINCENT BRYANT 2025",
+            52,
+            52
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG TRAVIS SMITH 2025",
+            53,
+            53
+        ],
+        [
+            "2A BECKMAN JOE SCHNEIDER 2023",
+            54,
+            54
+        ],
+        [
+            "1A DUNKERTON DANE KRAUSE 2024",
+            55,
+            55
+        ],
+        [
+            "1A ALBURNETT BRADY SCOTT 2026",
+            56,
+            56
+        ],
+        [
+            "1A ALBURNETT TRENTON ABEL 2025",
+            57,
+            57
+        ],
+        [
+            "1A SOUTH WINNESHIEK DAWSON WENTHOLD 2023",
+            58,
+            58
+        ],
+        [
+            "2A BECKMAN ANDREW SALRIN 2024",
+            59,
+            59
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG LANE CONVERSE 2024",
+            60,
+            60
+        ],
+        [
+            "1A SOUTH WINNESHIEK BRAD DAHL 2026",
+            61,
+            61
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG WESTIN OSBORN 2025",
+            62,
+            62
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG PARKER SHERMAN 2025",
+            63,
+            63
+        ],
+        [
+            "1A TURKEY VALLEY BODE BALK 2024",
+            64,
+            64
+        ],
+        [
+            "2A BECKMAN PARKER DOMEYER 2025",
+            65,
+            65
+        ],
+        [
+            "2A STARMONT JACEN GRUMAN 2025",
+            66,
+            66
+        ],
+        [
+            "1A CENTRAL ELKADER VAUGHN ZITTERGRUEN 2025",
+            67,
+            67
+        ],
+        [
+            "2A BECKMAN JOHN PAUL GREBNER 2023",
+            68,
+            68
+        ],
+        [
+            "2A STARMONT WYATT NELSON 2025",
+            69,
+            69
+        ],
+        [
+            "1A ALBURNETT GUNNAR KEENEY 2023",
+            70,
+            70
+        ],
+        [
+            "1A ALBURNETT BEN BEMER 2026",
+            71,
+            71
+        ],
+        [
+            "1A ALBURNETT NOAH KRUCKENBERG 2024",
+            72,
+            72
+        ],
+        [
+            "1A CENTRAL ELKADER CADEN FETTE 2026",
+            73,
+            73
+        ],
+        [
+            "1A DUNKERTON COLIN SNYDER 2026",
+            74,
+            74
+        ],
+        [
+            "1A POSTVILLE KARL PETERS 2026",
+            75,
+            75
+        ],
+        [
+            "1A POSTVILLE DEYBY MUXIN 2025",
+            76,
+            76
+        ],
+        [
+            "2A STARMONT CARSON CURTIS 2026",
+            77,
+            77
+        ],
+        [
+            "1A MFL MARMAC JARON WILLIE 2025",
+            78,
+            78
+        ],
+        [
+            "1A DUNKERTON GRANT FINCK 2025",
+            79,
+            79
+        ],
+        [
+            "1A KEE LANSING ISAIAH WAGNER 2026",
+            80,
+            80
+        ],
+        [
+            "1A DUNKERTON KAYDEN KITE 2025",
+            81,
+            81
+        ],
+        [
+            "1A ALBURNETT AIDAN MCGRAW 2024",
+            82,
+            82
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG RYAN RICH 2023",
+            83,
+            83
+        ],
+        [
+            "1A KEE LANSING BRENDAN JONES 2025",
+            84,
+            84
+        ],
+        [
+            "4A WATERLOO WEST LOGAN ODEKIRK 2024",
+            85,
+            85
+        ],
+        [
+            "2A BECKMAN ISAAC WESTHOFF 2023",
+            86,
+            86
+        ],
+        [
+            "4A WATERLOO WEST SAM LUND 2023",
+            87,
+            87
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG BRENNEN BLAKE 2025",
+            88,
+            88
+        ],
+        [
+            "1A ALBURNETT RYAN SMITH 2025",
+            89,
+            89
+        ],
+        [
+            "2A STARMONT JACOB SIMPSON 2023",
+            90,
+            90
+        ],
+        [
+            "1A POSTVILLE DENNIS HERNANDEZ 2025",
+            91,
+            91
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG BILLY HOFFMAN 2026",
+            92,
+            92
+        ],
+        [
+            "2A STARMONT CALEB PINION 2026",
+            93,
+            93
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG DAKOTA HAMANN 2024",
+            94,
+            94
+        ],
+        [
+            "1A ALBURNETT CAM MCGRAW 2026",
+            95,
+            95
+        ],
+        [
+            "2A BECKMAN COLE LUENSMANN 2026",
+            96,
+            96
+        ],
+        [
+            "1A CLAYTON RIDGE BLAKE IHDE 2023",
+            97,
+            97
+        ],
+        [
+            "1A SOUTH WINNESHIEK KADEN BARTON FRANZEN 2025",
+            98,
+            98
+        ],
+        [
+            "1A KEE LANSING CARTER VERTHEIN 2026",
+            99,
+            99
+        ],
+        [
+            "1A SOUTH WINNESHIEK NATHAN DAVIS 2023",
+            100,
+            100
+        ],
+        [
+            "1A SOUTH WINNESHIEK DIEGO FLORES 2026",
+            101,
+            101
+        ],
+        [
+            "4A WATERLOO WEST CALEB ANDERSEN 2025",
+            102,
+            102
+        ],
+        [
+            "2A BECKMAN ZACH HELLE 2025",
+            103,
+            103
+        ],
+        [
+            "1A SOUTH WINNESHIEK MAX MOONEN 2024",
+            104,
+            104
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG KYLER COLE 2025",
+            105,
+            105
+        ],
+        [
+            "1A CENTRAL ELKADER TATE BERNS 2023",
+            106,
+            106
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ANDERSON MATT 2023",
+            107,
+            107
+        ],
+        [
+            "1A CENTRAL ELKADER BRYCE HELLER 2026",
+            108,
+            108
+        ],
+        [
+            "4A WATERLOO WEST MICHAEL DUNN 2023",
+            109,
+            109
+        ],
+        [
+            "1A EDGEWOOD-COLESBURG CAEL HELMRICHS 2026",
+            110,
+            110
+        ],
+        [
+            "2A STARMONT ANTHONY STOCKS 2023",
+            111,
+            111
+        ],
+        [
+            "1A CENTRAL ELKADER DECLAN FINLEY 2026",
+            112,
+            112
+        ],
+        [
+            "1A MFL MARMAC LOGAN ROSS 2025",
+            113,
+            113
+        ],
+        [
+            "1A SOUTH WINNESHIEK HENRY WILLEY 2026",
+            114,
+            114
+        ],
+        [
+            "1A CLAYTON RIDGE ELLIOT BROWN 2023",
+            115,
+            115
+        ],
+        [
+            "1A CENTRAL ELKADER MICHAEL WHITE 2026",
+            116,
+            116
+        ],
+        [
+            "2A STARMONT EVAN RECKER 2023",
+            117,
+            117
+        ],
+        [
+            "1A ALBURNETT AIDEN CORNWELL 2025",
+            118,
+            118
+        ],
+        [
+            "2A STARMONT CALEB BOARDMAN 2026",
+            119,
+            119
+        ],
+        [
+            "1A ALBURNETT GAGE RAUCH 2026",
+            120,
+            120
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ELI PRIEBE 2025",
+            121,
+            121
+        ],
+        [
+            "2A BECKMAN JAMES ROBERTS 2024",
+            122,
+            122
+        ]
+    ]
+}

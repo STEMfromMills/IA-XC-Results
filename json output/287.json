@@ -1,0 +1,631 @@
+{
+    "name": "Dike j",
+    "time_seconds": 1664859647,
+    "standings": [
+        [
+            "2A DENVER JARETT CLAYTON 2024",
+            0,
+            0
+        ],
+        [
+            "2A DENVER SEAN GOMEZ 2025",
+            1,
+            1
+        ],
+        [
+            "2A DENVER MYLES MATTHIAS 2025",
+            2,
+            2
+        ],
+        [
+            "2A DENVER CARSON HAASE 2024",
+            3,
+            3
+        ],
+        [
+            "2A DENVER GARRETT EVEN 2023",
+            4,
+            4
+        ],
+        [
+            "2A DENVER JASON WATERMAN 2024",
+            5,
+            5
+        ],
+        [
+            "2A DENVER GRANT PAUTSCH 2024",
+            6,
+            6
+        ],
+        [
+            "2A DENVER CONNER CLINTON 2024",
+            7,
+            7
+        ],
+        [
+            "3A BENTON EVAN DAUGHERTY 2023",
+            8,
+            8
+        ],
+        [
+            "2A DENVER DAGEN HENZEN 2025",
+            9,
+            9
+        ],
+        [
+            "2A DENVER JACOB STEEGE 2023",
+            10,
+            10
+        ],
+        [
+            "3A CHARLES CITY NOAH MORRIS 2025",
+            11,
+            11
+        ],
+        [
+            "3A CHARLES CITY HOLDEN MCINROY 2026",
+            12,
+            12
+        ],
+        [
+            "3A CHARLES CITY JACKSON KOWALSKI 2026",
+            13,
+            13
+        ],
+        [
+            "3A CHARLES CITY MICHAEL BAUER 2025",
+            14,
+            14
+        ],
+        [
+            "2A DENVER JOSH RABENHORST 2026",
+            15,
+            15
+        ],
+        [
+            "2A COLUMBUS CATHOLIC ADAM BLAKEMAN 2026",
+            16,
+            16
+        ],
+        [
+            "3A GRINNELL BILLY LOPATTO 2025",
+            17,
+            17
+        ],
+        [
+            "1A VALLEY LUTHERAN MICAH WILSON 2025",
+            18,
+            18
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK CHRIS UTTERBACK 2025",
+            19,
+            19
+        ],
+        [
+            "2A OSAGE TYSEN STANGEL 2026",
+            20,
+            20
+        ],
+        [
+            "3A CHARLES CITY KAYDEN KIRBY 2024",
+            21,
+            21
+        ],
+        [
+            "1A VALLEY LUTHERAN DW BELTZ 2024",
+            22,
+            22
+        ],
+        [
+            "2A DENVER MITCHELL DOEPKE 2026",
+            23,
+            23
+        ],
+        [
+            "1A WAPSIE VALLEY FINN SCHAEFER 2026",
+            24,
+            24
+        ],
+        [
+            "3A BENTON LUIS ARAIZA 2025",
+            25,
+            25
+        ],
+        [
+            "3A CHARLES CITY CHRIS MARTIN 2025",
+            26,
+            26
+        ],
+        [
+            "1A WAPSIE VALLEY COLE BRAM 2024",
+            27,
+            27
+        ],
+        [
+            "1A HUDSON DREW HANSEN 2023",
+            28,
+            28
+        ],
+        [
+            "1A NEWMAN CADEN GIBBONS 2025",
+            29,
+            29
+        ],
+        [
+            "3A GRINNELL CARTER EITEL 2026",
+            30,
+            30
+        ],
+        [
+            "1A HUDSON ALEX STEELE 2024",
+            31,
+            31
+        ],
+        [
+            "3A BENTON NOAH PICKART 2026",
+            32,
+            32
+        ],
+        [
+            "3A GRINNELL EZRA PRAITIS-HILL 2023",
+            33,
+            33
+        ],
+        [
+            "3A BENTON COLIN REINERS 2026",
+            34,
+            34
+        ],
+        [
+            "3A GRINNELL JASE KOESTER 2026",
+            35,
+            35
+        ],
+        [
+            "3A CHARLES CITY CLAY PRICE 2026",
+            36,
+            36
+        ],
+        [
+            "2A WEST MARSHALL ERICK ROSAS-CANCHOLA 2026",
+            37,
+            37
+        ],
+        [
+            "3A CHARLES CITY ADRIAN IBARRA 2024",
+            38,
+            38
+        ],
+        [
+            "3A CHARLES CITY XAVIER SCOTT 2025",
+            39,
+            39
+        ],
+        [
+            "3A CHARLES CITY MASON MILLER 2024",
+            40,
+            40
+        ],
+        [
+            "1A NEWMAN TYLER PETREE 2026",
+            41,
+            41
+        ],
+        [
+            "1A NEWMAN DAN SPOONER 2026",
+            42,
+            42
+        ],
+        [
+            "3A GRINNELL HARRISON LAUG 2025",
+            43,
+            43
+        ],
+        [
+            "3A GRINNELL PETER SIMPSON 2023",
+            44,
+            44
+        ],
+        [
+            "3A GRINNELL LUKE OHLSEN 2025",
+            45,
+            45
+        ],
+        [
+            "1A NEWMAN ELIAS CARLSSON 2026",
+            46,
+            46
+        ],
+        [
+            "1A TRIPOLI ADAM HENNINGS 2023",
+            47,
+            47
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK WESLEY LATCHMAN 2023",
+            48,
+            48
+        ],
+        [
+            "1A NEWMAN OWEN KLATT 2024",
+            49,
+            49
+        ],
+        [
+            "2A WEST MARSHALL JOHNATHAN DOWNS 2023",
+            50,
+            50
+        ],
+        [
+            "1A NORTH LINN ISAAC PFAB 2025",
+            51,
+            51
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DANIEL HOMMEL 2026",
+            52,
+            52
+        ],
+        [
+            "1A HUDSON CAMERON DANIELSEN 2023",
+            53,
+            53
+        ],
+        [
+            "1A NEWMAN JACE SUNTKEN 2026",
+            54,
+            54
+        ],
+        [
+            "2A DENVER NATE RABENHORST 2023",
+            55,
+            55
+        ],
+        [
+            "2A DENVER JOE RABENHORST 2026",
+            56,
+            56
+        ],
+        [
+            "2A WEST MARSHALL DOMINIC FICKEN 2023",
+            57,
+            57
+        ],
+        [
+            "2A OSAGE ETHAN PETERSON 2026",
+            58,
+            58
+        ],
+        [
+            "2A DENVER JOSIAH SWALES 2026",
+            59,
+            59
+        ],
+        [
+            "1A NORTH LINN LUKE BARTH 2026",
+            60,
+            60
+        ],
+        [
+            "3A CHARLES CITY BRADEN CHARLTON 2024",
+            61,
+            61
+        ],
+        [
+            "1A BCLUW ZACH MORRIS 2025",
+            62,
+            62
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG TYLER BIRCH 2023",
+            63,
+            63
+        ],
+        [
+            "1A WAPSIE VALLEY BRADEN BANTZ 2026",
+            64,
+            64
+        ],
+        [
+            "3A BENTON BRYTON GRIMM 2023",
+            65,
+            65
+        ],
+        [
+            "2A OSAGE JACKSON JOHNSON 2026",
+            66,
+            66
+        ],
+        [
+            "1A BCLUW PAUL MURTY 2023",
+            67,
+            67
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK ALEX ROGERS 2024",
+            68,
+            68
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK CAMERON SIEH 2025",
+            69,
+            69
+        ],
+        [
+            "3A CHARLES CITY ANTON DITTMER 2024",
+            70,
+            70
+        ],
+        [
+            "2A DENVER XANDER PETERSON 2025",
+            71,
+            71
+        ],
+        [
+            "2A COLUMBUS CATHOLIC JACOB BERUMEZ 2025",
+            72,
+            72
+        ],
+        [
+            "3A CHARLES CITY BLAKE HOEFT 2025",
+            73,
+            73
+        ],
+        [
+            "3A CHARLES CITY RILEY PEREZ 2025",
+            74,
+            74
+        ],
+        [
+            "2A OSAGE BEN MEIER 2025",
+            75,
+            75
+        ],
+        [
+            "1A BCLUW COLTON DONALDSON 2025",
+            76,
+            76
+        ],
+        [
+            "3A BENTON BRAETON HAVILL 2025",
+            77,
+            77
+        ],
+        [
+            "1A VALLEY LUTHERAN ZANE SCHMITZ 2026",
+            78,
+            78
+        ],
+        [
+            "2A WEST MARSHALL EVAN MEESTER 2025",
+            79,
+            79
+        ],
+        [
+            "3A CHARLES CITY HUNTER NORTHRUP 2026",
+            80,
+            80
+        ],
+        [
+            "3A GRINNELL THOMAS BROWN 2024",
+            81,
+            81
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK PRESTON MARTENS 2025",
+            82,
+            82
+        ],
+        [
+            "2A COLUMBUS CATHOLIC LOUIS MINARD 2024",
+            83,
+            83
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TREY DRUVENGA 2024",
+            84,
+            84
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK KEELAN VANHEIDEN 2024",
+            85,
+            85
+        ],
+        [
+            "3A CHARLES CITY MASON NELSON 2025",
+            86,
+            86
+        ],
+        [
+            "1A WAPSIE VALLEY ELIJAH EIKE 2026",
+            87,
+            87
+        ],
+        [
+            "1A WAPSIE VALLEY ROBERT LEE 2025",
+            88,
+            88
+        ],
+        [
+            "2A WEST MARSHALL WYATT THOMPSON 2023",
+            89,
+            89
+        ],
+        [
+            "1A WAPSIE VALLEY ALEX BRAM 2026",
+            90,
+            90
+        ],
+        [
+            "2A DIKE-NEW HARTFORD LUCAS RAGSDALE 2024",
+            91,
+            91
+        ],
+        [
+            "1A WAPSIE VALLEY MADDEN KANE 2026",
+            92,
+            92
+        ],
+        [
+            "2A WEST MARSHALL MAVERICK GIBSON 2026",
+            93,
+            93
+        ],
+        [
+            "2A WEST MARSHALL ETHAN WATSON 2026",
+            94,
+            94
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ANDERSON MATT 2023",
+            95,
+            95
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK JAKE MAY 2026",
+            96,
+            96
+        ],
+        [
+            "1A MESKWAKI TIBBY BILLY 2024",
+            97,
+            97
+        ],
+        [
+            "2A WEST MARSHALL WESLEY THOMPSON 2023",
+            98,
+            98
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK KADEN KAUFFMAN 2025",
+            99,
+            99
+        ],
+        [
+            "3A BENTON NATHAN BECKER 2026",
+            100,
+            100
+        ],
+        [
+            "2A WEST MARSHALL LAWSON COULTER 2025",
+            101,
+            101
+        ],
+        [
+            "1A HUDSON STEVEN DEKUTOSKI 2026",
+            102,
+            102
+        ],
+        [
+            "2A OSAGE CONNOR ADAMS 2026",
+            103,
+            103
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG LANDON REYNOLDS 2025",
+            104,
+            104
+        ],
+        [
+            "1A MESKWAKI TENOCH SNOW 2024",
+            105,
+            105
+        ],
+        [
+            "3A CHARLES CITY GAGE KILBY 2023",
+            106,
+            106
+        ],
+        [
+            "2A DIKE-NEW HARTFORD JACOB WHITE 2026",
+            107,
+            107
+        ],
+        [
+            "1A BCLUW ELIJAH BOND 2025",
+            108,
+            108
+        ],
+        [
+            "1A BCLUW TUCKER WEDGWOOD 2024",
+            109,
+            109
+        ],
+        [
+            "2A OSAGE TAYLOR HOBBS 2026",
+            110,
+            110
+        ],
+        [
+            "2A COLUMBUS CATHOLIC ALEX HENNING 2025",
+            111,
+            111
+        ],
+        [
+            "3A CHARLES CITY JARELL JONES 2025",
+            112,
+            112
+        ],
+        [
+            "1A NEWMAN BEN SCHUTT 2025",
+            113,
+            113
+        ],
+        [
+            "1A WAPSIE VALLEY ERIC BRYAN 2026",
+            114,
+            114
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK CALEB KNUTSEN 2025",
+            115,
+            115
+        ],
+        [
+            "2A GRUNDY CENTER / GLADBROOK DANIEL BARKLEY 2026",
+            116,
+            116
+        ],
+        [
+            "2A DENVER DARWIN SHOLLENBARGER 2024",
+            117,
+            117
+        ],
+        [
+            "3A BENTON ROBERT EDDARDS 2026",
+            118,
+            118
+        ],
+        [
+            "1A TRIPOLI DESHAUN WILDER 2023",
+            119,
+            119
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG ELI PRIEBE 2025",
+            120,
+            120
+        ],
+        [
+            "1A VALLEY LUTHERAN OWEN WEBER 2025",
+            121,
+            121
+        ],
+        [
+            "3A BENTON ANDREW HINES 2026",
+            122,
+            122
+        ],
+        [
+            "2A SUMNER-FREDERICKSBURG MASON BRITT 2025",
+            123,
+            123
+        ],
+        [
+            "2A DENVER NICK SATTHERTHWAITE 2026",
+            124,
+            124
+        ]
+    ]
+}

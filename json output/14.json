@@ -1,0 +1,331 @@
+{
+    "name": "Sioux City Heelan JV",
+    "time_seconds": 1661403614,
+    "standings": [
+        [
+            "4A SIOUX CITY NORTH ALEX WILFORD 2023",
+            0,
+            0
+        ],
+        [
+            "3A BISHOP HEELAN ALEX GONZALEZ 2024",
+            1,
+            1
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON ALEJANDRO VARGAS-GAYTAN 2025",
+            2,
+            2
+        ],
+        [
+            "4A SIOUX CITY NORTH EVEN TESFASELASSIE 2026",
+            3,
+            3
+        ],
+        [
+            "3A BISHOP HEELAN ANDRES GONZALEZ 2025",
+            4,
+            4
+        ],
+        [
+            "4A SIOUX CITY NORTH DAVIAN GREENSTREET 2023",
+            5,
+            5
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON EASTON WHEELER 2023",
+            6,
+            6
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON KASEY MCGREGOR 2025",
+            7,
+            7
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON DALTON VANWYHE 2024",
+            8,
+            8
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON EMILIANO GONZALEZ 2024",
+            9,
+            9
+        ],
+        [
+            "4A SIOUX CITY EAST JACOB DENKER 2023",
+            10,
+            10
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON OWEN KONOPASEK 2025",
+            11,
+            11
+        ],
+        [
+            "4A SIOUX CITY NORTH ADAM EMBROCK 2024",
+            12,
+            12
+        ],
+        [
+            "4A SIOUX CITY NORTH LOGAN WOOLWORTH 2025",
+            13,
+            13
+        ],
+        [
+            "4A SIOUX CITY EAST KELLEN VLAHOULIS 2023",
+            14,
+            14
+        ],
+        [
+            "4A SIOUX CITY NORTH CARTER VOGT 2024",
+            15,
+            15
+        ],
+        [
+            "4A SIOUX CITY NORTH BEN HAMES 2026",
+            16,
+            16
+        ],
+        [
+            "3A BISHOP HEELAN JACKSON KINNETZ 2025",
+            17,
+            17
+        ],
+        [
+            "4A SIOUX CITY EAST DYLAN CHWIRKA 2026",
+            18,
+            18
+        ],
+        [
+            "4A SIOUX CITY WEST CARTER BENSON 2023",
+            19,
+            19
+        ],
+        [
+            "4A SIOUX CITY EAST KENNEDY FITCH 2024",
+            20,
+            20
+        ],
+        [
+            "4A SIOUX CITY NORTH JOSEPH OLSON 2023",
+            21,
+            21
+        ],
+        [
+            "3A BISHOP HEELAN JACOB WELCH 2025",
+            22,
+            22
+        ],
+        [
+            "4A SIOUX CITY NORTH GAVIN HAROLDSON 2025",
+            23,
+            23
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON NATHANIAL MACCLURE 2024",
+            24,
+            24
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON ETHAN SKOGLAND 2024",
+            25,
+            25
+        ],
+        [
+            "4A SIOUX CITY EAST JOSEPH DEBATES 2023",
+            26,
+            26
+        ],
+        [
+            "3A BISHOP HEELAN AUSTIN LARSEN 2025",
+            27,
+            27
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON NATHAN MYERS 2025",
+            28,
+            28
+        ],
+        [
+            "4A SIOUX CITY NORTH MIGUEL SANCHEZ-GOMEZ 2026",
+            29,
+            29
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON VINCENT BEYER 2024",
+            30,
+            30
+        ],
+        [
+            "4A SIOUX CITY EAST OMAR JIMENEZ 2023",
+            31,
+            31
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON SAIRAM SUNDAREM 2024",
+            32,
+            32
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON CAM KEOKENCHANH 2024",
+            33,
+            33
+        ],
+        [
+            "3A BISHOP HEELAN JACK JENSEN 2024",
+            34,
+            34
+        ],
+        [
+            "3A BISHOP HEELAN JACK STAHLE 2023",
+            35,
+            35
+        ],
+        [
+            "4A SIOUX CITY EAST NOAH DANDURAND 2025",
+            36,
+            36
+        ],
+        [
+            "3A BISHOP HEELAN CONAN KIRKPATRICK 2025",
+            37,
+            37
+        ],
+        [
+            "4A SIOUX CITY NORTH PAUL BOUWERS 2025",
+            38,
+            38
+        ],
+        [
+            "1A WHITING COLE BETHUNE 2025",
+            39,
+            39
+        ],
+        [
+            "4A SIOUX CITY NORTH ELLIOT WALZ 2023",
+            40,
+            40
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON JULIAN MCGINTY 2024",
+            41,
+            41
+        ],
+        [
+            "4A SIOUX CITY NORTH JOSE VALLADOLID 2023",
+            42,
+            42
+        ],
+        [
+            "2A WOODBURY CENTRAL-KP KAEDYN WILLIS 2026",
+            43,
+            43
+        ],
+        [
+            "4A SIOUX CITY WEST JULIO SANTOS 2024",
+            44,
+            44
+        ],
+        [
+            "3A SERGEANT BLUFF-LUTON CLINT HEGER 2025",
+            45,
+            45
+        ],
+        [
+            "3A BISHOP HEELAN BRITTON PATEE 2025",
+            46,
+            46
+        ],
+        [
+            "3A BISHOP HEELAN BEN DAFFER 2026",
+            47,
+            47
+        ],
+        [
+            "4A SIOUX CITY EAST MALLIK WINKEL 2023",
+            48,
+            48
+        ],
+        [
+            "4A SIOUX CITY NORTH BENJAMIN NIMAJA 2025",
+            49,
+            49
+        ],
+        [
+            "3A BISHOP HEELAN NICHOLAS DAFFER 2024",
+            50,
+            50
+        ],
+        [
+            "4A SIOUX CITY EAST KEATON EDWARDS 2026",
+            51,
+            51
+        ],
+        [
+            "4A SIOUX CITY WEST CHRISTIAN SANCHEZ 2024",
+            52,
+            52
+        ],
+        [
+            "4A SIOUX CITY NORTH EVAN LORENZEN 2026",
+            53,
+            53
+        ],
+        [
+            "2A WOODBURY CENTRAL-KP NOAH O'MARA 2024",
+            54,
+            54
+        ],
+        [
+            "3A BISHOP HEELAN BLAKE RIKER 2025",
+            55,
+            55
+        ],
+        [
+            "4A SIOUX CITY WEST WAYLON SMITH 2025",
+            56,
+            56
+        ],
+        [
+            "4A SIOUX CITY WEST MAXWELL SANDS 2025",
+            57,
+            57
+        ],
+        [
+            "3A BISHOP HEELAN IKEY SCOTT 2025",
+            58,
+            58
+        ],
+        [
+            "2A WOODBURY CENTRAL-KP AIDIN VERSCHOOR 2024",
+            59,
+            59
+        ],
+        [
+            "4A SIOUX CITY WEST JOSEPH WILSON 2026",
+            60,
+            60
+        ],
+        [
+            "3A BISHOP HEELAN KEENAN AESOPH 2023",
+            61,
+            61
+        ],
+        [
+            "4A SIOUX CITY WEST DEONDRE NERI 2025",
+            62,
+            62
+        ],
+        [
+            "1A WHITING ISAAC RICH 2026",
+            63,
+            63
+        ],
+        [
+            "3A BISHOP HEELAN ADAM ANDREWS 2026",
+            64,
+            64
+        ]
+    ]
+}

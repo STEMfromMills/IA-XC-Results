@@ -1,0 +1,626 @@
+{
+    "name": "Central DeWitt ",
+    "time_seconds": 1665032403,
+    "standings": [
+        [
+            "4A NORTH SCOTT NIK DAVIS 2023",
+            0,
+            0
+        ],
+        [
+            "1A PRINCE OF PEACE MARCUS BLOUNT 2023",
+            1,
+            1
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROCK HILSMAN 2025",
+            2,
+            2
+        ],
+        [
+            "4A BETTENDORF AJ WILLEY 2026",
+            3,
+            3
+        ],
+        [
+            "4A DAVENPORT CENTRAL OWEN CHRISTY 2023",
+            4,
+            4
+        ],
+        [
+            "3A CENTRAL DEWITT BEN ZIMMER 2024",
+            5,
+            5
+        ],
+        [
+            "2A MONTICELLO CHESNEY CAPRON 2023",
+            6,
+            6
+        ],
+        [
+            "3A CENTRAL DEWITT CALEB OLSON 2025",
+            7,
+            7
+        ],
+        [
+            "4A NORTH SCOTT YORTY HAGEDORN 2025",
+            8,
+            8
+        ],
+        [
+            "3A CLEAR CREEK-AMANA PEYTON STADLER 2023",
+            9,
+            9
+        ],
+        [
+            "4A DAVENPORT CENTRAL TYLER RYAN 2025",
+            10,
+            10
+        ],
+        [
+            "4A BURLINGTON SAMUEL MOREHEAD 2023",
+            11,
+            11
+        ],
+        [
+            "2A MONTICELLO JACOB MILLER 2023",
+            12,
+            12
+        ],
+        [
+            "4A BETTENDORF RYAN HEDEN 2025",
+            13,
+            13
+        ],
+        [
+            "4A BETTENDORF KAIDAN VANDERWEELE 2024",
+            14,
+            14
+        ],
+        [
+            "4A DAVENPORT NORTH GRANT WIESE 2024",
+            15,
+            15
+        ],
+        [
+            "4A BETTENDORF XAVIER POTTS 2023",
+            16,
+            16
+        ],
+        [
+            "3A CLEAR CREEK-AMANA THOMAS STILTNER 2024",
+            17,
+            17
+        ],
+        [
+            "2A MONTICELLO AEDAN ALTHOFF 2026",
+            18,
+            18
+        ],
+        [
+            "4A NORTH SCOTT BRAEDEN BOHANNON 2023",
+            19,
+            19
+        ],
+        [
+            "2A MONTICELLO ALEX OSWALD 2024",
+            20,
+            20
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION DAVID LOCHNER 2023",
+            21,
+            21
+        ],
+        [
+            "4A NORTH SCOTT CARTER UNWIN 2026",
+            22,
+            22
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ISAAC SORENSEN 2025",
+            23,
+            23
+        ],
+        [
+            "1A CALAMUS-WHEATLAND LOGAN RIEDESEL 2025",
+            24,
+            24
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JAMIE HAYES 2024",
+            25,
+            25
+        ],
+        [
+            "4A BETTENDORF GAGE RATH 2024",
+            26,
+            26
+        ],
+        [
+            "4A DAVENPORT WEST SHAWN OLSEN 2025",
+            27,
+            27
+        ],
+        [
+            "2A MONTICELLO REEVE GRAVER 2025",
+            28,
+            28
+        ],
+        [
+            "4A BETTENDORF ZACH VANWYCHEN 2024",
+            29,
+            29
+        ],
+        [
+            "4A MUSCATINE DYLAN MARESCA 2024",
+            30,
+            30
+        ],
+        [
+            "2A NORTHEAST CARTER JARGO 2023",
+            31,
+            31
+        ],
+        [
+            "4A NORTH SCOTT GRANT PETERSON 2024",
+            32,
+            32
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CASH JENSEN 2023",
+            33,
+            33
+        ],
+        [
+            "4A CLINTON LUKE JENNINGS 2023",
+            34,
+            34
+        ],
+        [
+            "4A MUSCATINE CADEN BROWN 2024",
+            35,
+            35
+        ],
+        [
+            "4A DAVENPORT CENTRAL JOE MINITER 2025",
+            36,
+            36
+        ],
+        [
+            "4A BURLINGTON JOEY JOLIN 2024",
+            37,
+            37
+        ],
+        [
+            "3A CENTRAL DEWITT ELSTON LINDNER 2024",
+            38,
+            38
+        ],
+        [
+            "4A DAVENPORT WEST JAYCOB MCDANEL 2023",
+            39,
+            39
+        ],
+        [
+            "4A DAVENPORT CENTRAL PETE LINEHAN 2024",
+            40,
+            40
+        ],
+        [
+            "2A MONTICELLO WALKER SPENCE 2023",
+            41,
+            41
+        ],
+        [
+            "1A EASTON VALLEY COLE VENEMA 2024",
+            42,
+            42
+        ],
+        [
+            "1A CALAMUS-WHEATLAND JACKSON RIEDESEL 2024",
+            43,
+            43
+        ],
+        [
+            "3A CENTRAL DEWITT ADAM WILKE 2026",
+            44,
+            44
+        ],
+        [
+            "3A CENTRAL DEWITT KEEGAN PETERSON 2025",
+            45,
+            45
+        ],
+        [
+            "4A BURLINGTON BRAXTON HUTCHINSON 2025",
+            46,
+            46
+        ],
+        [
+            "3A CENTRAL DEWITT PARKER PETSCHE 2025",
+            47,
+            47
+        ],
+        [
+            "4A DAVENPORT WEST CAMDEN KILKER 2023",
+            48,
+            48
+        ],
+        [
+            "3A MAQUOKETA MAX NOTZ 2026",
+            49,
+            49
+        ],
+        [
+            "4A DAVENPORT NORTH MATT LICHT 2023",
+            50,
+            50
+        ],
+        [
+            "4A DAVENPORT NORTH CAMDEN BENNETT 2025",
+            51,
+            51
+        ],
+        [
+            "1A PRINCE OF PEACE TATE RUDEN 2025",
+            52,
+            52
+        ],
+        [
+            "2A MONTICELLO CORD NIETERT 2023",
+            53,
+            53
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION CONNOR LERCH 2025",
+            54,
+            54
+        ],
+        [
+            "4A MUSCATINE SHILOH MORTER 2023",
+            55,
+            55
+        ],
+        [
+            "4A DAVENPORT CENTRAL CARTER RICHTER 2025",
+            56,
+            56
+        ],
+        [
+            "4A MUSCATINE AUSTIN FOOR 2023",
+            57,
+            57
+        ],
+        [
+            "3A MAQUOKETA BRECKIN DOWNEY 2024",
+            58,
+            58
+        ],
+        [
+            "4A NORTH SCOTT MATTHEW SIMMONS 2025",
+            59,
+            59
+        ],
+        [
+            "4A DAVENPORT WEST AUSTIN LEWIS 2025",
+            60,
+            60
+        ],
+        [
+            "2A NORTHEAST KELVIN MACHANDE 2024",
+            61,
+            61
+        ],
+        [
+            "4A CLINTON BRIAN UNKE 2024",
+            62,
+            62
+        ],
+        [
+            "3A CLEAR CREEK-AMANA NOAH YOST 2024",
+            63,
+            63
+        ],
+        [
+            "4A NORTH SCOTT ALEC HARRIS 2023",
+            64,
+            64
+        ],
+        [
+            "4A BURLINGTON AARON MOREHEAD 2026",
+            65,
+            65
+        ],
+        [
+            "4A CLINTON OWEN SANDER-WELZIEN 2023",
+            66,
+            66
+        ],
+        [
+            "3A CENTRAL DEWITT ALEX FULLER 2023",
+            67,
+            67
+        ],
+        [
+            "2A NORTHEAST DANIEL ROWLAND 2023",
+            68,
+            68
+        ],
+        [
+            "2A WILTON DEACON DUFFE 2024",
+            69,
+            69
+        ],
+        [
+            "2A CAMANCHE NICK REUTER 2023",
+            70,
+            70
+        ],
+        [
+            "1A CALAMUS-WHEATLAND MASON MOHR 2026",
+            71,
+            71
+        ],
+        [
+            "4A DAVENPORT NORTH COLE MILLER 2024",
+            72,
+            72
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION JOHN MURPHY 2026",
+            73,
+            73
+        ],
+        [
+            "4A DAVENPORT NORTH ADAM WIESE 2026",
+            74,
+            74
+        ],
+        [
+            "2A NORTHEAST CARVER LANGE 2024",
+            75,
+            75
+        ],
+        [
+            "1A CALAMUS-WHEATLAND AIDAN YADDOF 2026",
+            76,
+            76
+        ],
+        [
+            "4A BURLINGTON RYAN SCHOENEWE 2023",
+            77,
+            77
+        ],
+        [
+            "4A CLINTON ZAREK HASKELL 2025",
+            78,
+            78
+        ],
+        [
+            "4A CLINTON KOLTON LORION 2026",
+            79,
+            79
+        ],
+        [
+            "4A DAVENPORT WEST ZACH CARNEY 2026",
+            80,
+            80
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION AIDEN MARIETTA 2023",
+            81,
+            81
+        ],
+        [
+            "4A DAVENPORT CENTRAL SHYAM DEVASTHALI 2024",
+            82,
+            82
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION GENO DELPREORE 2025",
+            83,
+            83
+        ],
+        [
+            "3A MAQUOKETA JACOB NAAB 2025",
+            84,
+            84
+        ],
+        [
+            "4A BURLINGTON WILLIAM KLATT 2024",
+            85,
+            85
+        ],
+        [
+            "1A PRINCE OF PEACE HAKAEL POWELL 2025",
+            86,
+            86
+        ],
+        [
+            "4A DAVENPORT NORTH MAX STACHULA 2024",
+            87,
+            87
+        ],
+        [
+            "4A CLINTON ED WEINER 2025",
+            88,
+            88
+        ],
+        [
+            "2A NORTHEAST ETHAN JOHNSON 2024",
+            89,
+            89
+        ],
+        [
+            "4A MUSCATINE REECE EBERHARD 2023",
+            90,
+            90
+        ],
+        [
+            "4A DAVENPORT NORTH SAM STACHULA 2024",
+            91,
+            91
+        ],
+        [
+            "2A NORTHEAST JACOB TEGELER 2024",
+            92,
+            92
+        ],
+        [
+            "4A DAVENPORT CENTRAL JACOB SCHWARTZHOFF 2023",
+            93,
+            93
+        ],
+        [
+            "4A CLINTON BRADY JENNINGS 2025",
+            94,
+            94
+        ],
+        [
+            "4A MUSCATINE JARED LOPEZ 2023",
+            95,
+            95
+        ],
+        [
+            "2A WILTON TRAE HAGEN 2023",
+            96,
+            96
+        ],
+        [
+            "1A MARQUETTE ANDREW SCHMIDT 2024",
+            97,
+            97
+        ],
+        [
+            "2A NORTHEAST PARKER MESSERICH 2025",
+            98,
+            98
+        ],
+        [
+            "3A DAVENPORT ASSUMPTION MICHAEL LOCHNER 2023",
+            99,
+            99
+        ],
+        [
+            "1A CALAMUS-WHEATLAND ALEX RICKERTSEN 2026",
+            100,
+            100
+        ],
+        [
+            "4A MUSCATINE JON HIGHT 2023",
+            101,
+            101
+        ],
+        [
+            "2A WILTON BRIGGS OIEN 2026",
+            102,
+            102
+        ],
+        [
+            "2A WEST LIBERTY JOAQUIN ELIZONDO 2024",
+            103,
+            103
+        ],
+        [
+            "2A WEST LIBERTY MANU GARCIA BLANES 2025",
+            104,
+            104
+        ],
+        [
+            "1A MARQUETTE TREVOR KLEIN 2023",
+            105,
+            105
+        ],
+        [
+            "2A WILTON LIAM ALDELFINGER 2026",
+            106,
+            106
+        ],
+        [
+            "1A MARQUETTE ETHAN DESOTEL 2023",
+            107,
+            107
+        ],
+        [
+            "2A CAMANCHE TY GRAVERT 2023",
+            108,
+            108
+        ],
+        [
+            "2A CAMANCHE DAVID ZAVALA 2023",
+            109,
+            109
+        ],
+        [
+            "4A DAVENPORT WEST ALEX EWOLDT 2025",
+            110,
+            110
+        ],
+        [
+            "3A MAQUOKETA JAYDEN KOOS 2023",
+            111,
+            111
+        ],
+        [
+            "1A PRINCE OF PEACE BRODY DEHNER 2023",
+            112,
+            112
+        ],
+        [
+            "4A BURLINGTON CHANDLER CARPER 2025",
+            113,
+            113
+        ],
+        [
+            "2A CAMANCHE BRAXTON LAURION 2026",
+            114,
+            114
+        ],
+        [
+            "2A WEST LIBERTY CAMERON ELIZONDO 2024",
+            115,
+            115
+        ],
+        [
+            "1A CALAMUS-WHEATLAND KAISER SANDS 2025",
+            116,
+            116
+        ],
+        [
+            "2A WILTON TOMMY DRAKE-METZGER 2026",
+            117,
+            117
+        ],
+        [
+            "1A MARQUETTE WYATT GREGORICH 2026",
+            118,
+            118
+        ],
+        [
+            "2A WEST LIBERTY CHRISTOPHER PALMA 2023",
+            119,
+            119
+        ],
+        [
+            "3A MAQUOKETA MASON SMITH 2026",
+            120,
+            120
+        ],
+        [
+            "1A PRINCE OF PEACE SAM SISNEROS 2026",
+            121,
+            121
+        ],
+        [
+            "1A PRINCE OF PEACE LIAM DARSIDAN 2025",
+            122,
+            122
+        ],
+        [
+            "2A WILTON GRAYSON HARTUNG 2025",
+            123,
+            123
+        ]
+    ]
+}

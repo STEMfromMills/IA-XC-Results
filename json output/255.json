@@ -1,0 +1,816 @@
+{
+    "name": "Iowa City j",
+    "time_seconds": 1664427615,
+    "standings": [
+        [
+            "4A IOWA CITY HIGH GEORGE KARR 2025",
+            0,
+            0
+        ],
+        [
+            "4A IOWA CITY HIGH JONAS ACKERMAN 2023",
+            1,
+            1
+        ],
+        [
+            "4A IOWA CITY HIGH ADAM SCHAEFER 2025",
+            2,
+            2
+        ],
+        [
+            "4A CR PRAIRIE CARTER MULFORD 2025",
+            3,
+            3
+        ],
+        [
+            "4A IOWA CITY HIGH DYLAN BEERENDS 2025",
+            4,
+            4
+        ],
+        [
+            "4A CR PRAIRIE EASTON MAI 2025",
+            5,
+            5
+        ],
+        [
+            "4A CR PRAIRIE MICHAEL REYES 2023",
+            6,
+            6
+        ],
+        [
+            "4A CR PRAIRIE ETHAN MCMANUS 2026",
+            7,
+            7
+        ],
+        [
+            "4A CR PRAIRIE KYLE JOHNSON 2026",
+            8,
+            8
+        ],
+        [
+            "4A IOWA CITY HIGH BRADY GLUBA 2025",
+            9,
+            9
+        ],
+        [
+            "4A IOWA CITY HIGH PHILIP MACGILLIVRAY 2023",
+            10,
+            10
+        ],
+        [
+            "4A CR PRAIRIE COLE YOUNGER 2025",
+            11,
+            11
+        ],
+        [
+            "4A PLEASANT VALLEY PRANAV SURESH 2023",
+            12,
+            12
+        ],
+        [
+            "4A IOWA CITY HIGH HENRI RENAUD 2025",
+            13,
+            13
+        ],
+        [
+            "4A CR PRAIRIE KURTIS PETERSEN 2023",
+            14,
+            14
+        ],
+        [
+            "4A PLEASANT VALLEY LEVI STEELE 2026",
+            15,
+            15
+        ],
+        [
+            "4A PLEASANT VALLEY DAVID MAHLKUCH 2024",
+            16,
+            16
+        ],
+        [
+            "4A CR PRAIRIE BRADLEY ALLDREDGE 2024",
+            17,
+            17
+        ],
+        [
+            "4A CR PRAIRIE BRAYDEN LEIS 2025",
+            18,
+            18
+        ],
+        [
+            "4A PLEASANT VALLEY ASHVANTH PARANIDHARAN 2023",
+            19,
+            19
+        ],
+        [
+            "4A IOWA CITY HIGH RHYS ZAWOJEWSKI 2023",
+            20,
+            20
+        ],
+        [
+            "4A IOWA CITY HIGH JACK DEGNER 2024",
+            21,
+            21
+        ],
+        [
+            "4A IOWA CITY HIGH LINUS MCROBERTS 2026",
+            22,
+            22
+        ],
+        [
+            "4A PLEASANT VALLEY RYLAN WINDMILLER 2024",
+            23,
+            23
+        ],
+        [
+            "4A PLEASANT VALLEY ETHAN FOLTZ 2024",
+            24,
+            24
+        ],
+        [
+            "4A IOWA CITY HIGH MATT SCHAECKENBACH 2023",
+            25,
+            25
+        ],
+        [
+            "4A DUBUQUE SENIOR SAM CAVANAUGH 2026",
+            26,
+            26
+        ],
+        [
+            "4A DUBUQUE SENIOR HENRY ARLING 2026",
+            27,
+            27
+        ],
+        [
+            "4A DUBUQUE SENIOR FINN KINKAID 2025",
+            28,
+            28
+        ],
+        [
+            "4A IOWA CITY HIGH HAL SEAMANS 2023",
+            29,
+            29
+        ],
+        [
+            "4A PLEASANT VALLEY CARSON ROMAN 2025",
+            30,
+            30
+        ],
+        [
+            "4A CR PRAIRIE DILLON WIETHORN 2026",
+            31,
+            31
+        ],
+        [
+            "3A CLEAR CREEK-AMANA CADEN BURKLE 2026",
+            32,
+            32
+        ],
+        [
+            "4A CR PRAIRIE CHASE YODER 2023",
+            33,
+            33
+        ],
+        [
+            "4A DUBUQUE SENIOR ELIJAH ROACH 2026",
+            34,
+            34
+        ],
+        [
+            "4A DUBUQUE SENIOR COLTON FREUND 2026",
+            35,
+            35
+        ],
+        [
+            "4A IOWA CITY HIGH MAX MCDOWELL 2026",
+            36,
+            36
+        ],
+        [
+            "4A DUBUQUE SENIOR GABE CHRISTENSEN 2026",
+            37,
+            37
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ANDREW ROTZOLL 2025",
+            38,
+            38
+        ],
+        [
+            "4A CR PRAIRIE JOHN HYNEK 2025",
+            39,
+            39
+        ],
+        [
+            "4A DUBUQUE SENIOR BEN SCHAEFER 2026",
+            40,
+            40
+        ],
+        [
+            "4A PLEASANT VALLEY ZACH ZUIDERVEEN 2026",
+            41,
+            41
+        ],
+        [
+            "4A IOWA CITY HIGH JARRIS PROSTTMANN 2026",
+            42,
+            42
+        ],
+        [
+            "4A IOWA CITY LIBERTY PETER STRATHMAN 2025",
+            43,
+            43
+        ],
+        [
+            "4A PLEASANT VALLEY VRYAS PILA 2026",
+            44,
+            44
+        ],
+        [
+            "4A PLEASANT VALLEY HENRY ALLERS 2025",
+            45,
+            45
+        ],
+        [
+            "3A CLEAR CREEK-AMANA ODIN HANKINS 2026",
+            46,
+            46
+        ],
+        [
+            "4A DUBUQUE SENIOR WILLIAM FRY 2026",
+            47,
+            47
+        ],
+        [
+            "4A PLEASANT VALLEY GRIFFIN ADKINS 2026",
+            48,
+            48
+        ],
+        [
+            "4A PLEASANT VALLEY ZACH BAUER 2026",
+            49,
+            49
+        ],
+        [
+            "4A CR PRAIRIE KADEN DRUECKER 2023",
+            50,
+            50
+        ],
+        [
+            "4A PLEASANT VALLEY TANISH CHAUHAN 2023",
+            51,
+            51
+        ],
+        [
+            "4A IOWA CITY HIGH EPHRAM BYLER 2025",
+            52,
+            52
+        ],
+        [
+            "4A DUBUQUE SENIOR SHEA MCDONALD 2026",
+            53,
+            53
+        ],
+        [
+            "4A IOWA CITY HIGH NOAM MORTON 2025",
+            54,
+            54
+        ],
+        [
+            "4A PLEASANT VALLEY TIM KU 2024",
+            55,
+            55
+        ],
+        [
+            "3A CLEAR CREEK-AMANA SAMSON STRANK 2026",
+            56,
+            56
+        ],
+        [
+            "4A CR PRAIRIE NOAH REU 2023",
+            57,
+            57
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KEEGAN KENNE 2025",
+            58,
+            58
+        ],
+        [
+            "4A DUBUQUE SENIOR LOGAN DEAN 2024",
+            59,
+            59
+        ],
+        [
+            "4A IOWA CITY HIGH MUSTAFA NORELDAIM 2025",
+            60,
+            60
+        ],
+        [
+            "4A PLEASANT VALLEY BRADY EVANS 2025",
+            61,
+            61
+        ],
+        [
+            "4A IOWA CITY HIGH LYNDEN MACGILLIVRAY 2026",
+            62,
+            62
+        ],
+        [
+            "4A CR PRAIRIE GO BENESH 2023",
+            63,
+            63
+        ],
+        [
+            "4A PLEASANT VALLEY DANIEL ZIETLOW 2023",
+            64,
+            64
+        ],
+        [
+            "4A PLEASANT VALLEY THOMAS BACON 2026",
+            65,
+            65
+        ],
+        [
+            "4A DUBUQUE SENIOR NIC GRAHAM 2023",
+            66,
+            66
+        ],
+        [
+            "4A DUBUQUE SENIOR DEREK FOHT 2025",
+            67,
+            67
+        ],
+        [
+            "4A DUBUQUE SENIOR MASON LIDDLE 2025",
+            68,
+            68
+        ],
+        [
+            "4A IOWA CITY LIBERTY EVAN PAVOLVEC 2025",
+            69,
+            69
+        ],
+        [
+            "4A IOWA CITY HIGH LUKE LOCHER 2024",
+            70,
+            70
+        ],
+        [
+            "4A PLEASANT VALLEY COOPER BRIES 2026",
+            71,
+            71
+        ],
+        [
+            "4A PLEASANT VALLEY IAN BENGE 2025",
+            72,
+            72
+        ],
+        [
+            "4A IOWA CITY LIBERTY KYLE GESELL 2025",
+            73,
+            73
+        ],
+        [
+            "4A CR PRAIRIE NASH HAYEK 2024",
+            74,
+            74
+        ],
+        [
+            "4A IOWA CITY HIGH EDGAR MHOON-LOPEZ 2024",
+            75,
+            75
+        ],
+        [
+            "4A DUBUQUE SENIOR TEDDY RUPPEL 2025",
+            76,
+            76
+        ],
+        [
+            "4A DUBUQUE SENIOR ALEX NIELSEN 2024",
+            77,
+            77
+        ],
+        [
+            "4A PLEASANT VALLEY COLE HALUPNIK 2024",
+            78,
+            78
+        ],
+        [
+            "4A IOWA CITY LIBERTY RUSSELL BROWN 2025",
+            79,
+            79
+        ],
+        [
+            "4A IOWA CITY HIGH WILLIAM KARR 2025",
+            80,
+            80
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HARKARAN GILL 2023",
+            81,
+            81
+        ],
+        [
+            "4A DUBUQUE SENIOR PRESTON BLOCK 2025",
+            82,
+            82
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACKSON VANHORN 2026",
+            83,
+            83
+        ],
+        [
+            "4A IOWA CITY LIBERTY RYAN MCDERMOTT 2025",
+            84,
+            84
+        ],
+        [
+            "4A IOWA CITY LIBERTY RILEY DORMAN 2025",
+            85,
+            85
+        ],
+        [
+            "4A DUBUQUE SENIOR SEBASTIAN REINERT 2025",
+            86,
+            86
+        ],
+        [
+            "4A CR JEFFERSON BLAKE PRITCHARD 2026",
+            87,
+            87
+        ],
+        [
+            "4A DUBUQUE SENIOR JOSH SCHWAB 2026",
+            88,
+            88
+        ],
+        [
+            "4A CR PRAIRIE JOSEPH ENDICOTT 2025",
+            89,
+            89
+        ],
+        [
+            "4A PLEASANT VALLEY MATT PISCHKE 2024",
+            90,
+            90
+        ],
+        [
+            "4A IOWA CITY LIBERTY ANDREW KACZKA 2023",
+            91,
+            91
+        ],
+        [
+            "4A PLEASANT VALLEY FINLEY MCMILLAN 2025",
+            92,
+            92
+        ],
+        [
+            "4A IOWA CITY HIGH TRUMAN BRIGHT 2024",
+            93,
+            93
+        ],
+        [
+            "4A IOWA CITY HIGH BRADEN CLARK 2025",
+            94,
+            94
+        ],
+        [
+            "4A IOWA CITY HIGH CONNOR MCDOWELL 2023",
+            95,
+            95
+        ],
+        [
+            "4A DUBUQUE SENIOR MONTE SPRANK 2024",
+            96,
+            96
+        ],
+        [
+            "4A IOWA CITY HIGH ELIOTT LEWIS 2023",
+            97,
+            97
+        ],
+        [
+            "4A IOWA CITY HIGH JACK EDWARDS 2026",
+            98,
+            98
+        ],
+        [
+            "3A CLEAR CREEK-AMANA KAMERON DUNKIN 2026",
+            99,
+            99
+        ],
+        [
+            "3A CLEAR CREEK-AMANA BROGAN NELSON 2026",
+            100,
+            100
+        ],
+        [
+            "4A PLEASANT VALLEY KUSHI MARIDU 2023",
+            101,
+            101
+        ],
+        [
+            "4A PLEASANT VALLEY NIRMAL ALLA 2023",
+            102,
+            102
+        ],
+        [
+            "4A CR PRAIRIE TRAVIS RAIRDIN 2026",
+            103,
+            103
+        ],
+        [
+            "4A IOWA CITY LIBERTY TREVOR PETERSEN 2026",
+            104,
+            104
+        ],
+        [
+            "4A IOWA CITY LIBERTY ELI GATTS 2026",
+            105,
+            105
+        ],
+        [
+            "4A PLEASANT VALLEY OWEN DOBSON 2025",
+            106,
+            106
+        ],
+        [
+            "4A IOWA CITY LIBERTY MICAH REES 2024",
+            107,
+            107
+        ],
+        [
+            "4A IOWA CITY LIBERTY YUMA SQUIRES 2026",
+            108,
+            108
+        ],
+        [
+            "4A IOWA CITY LIBERTY ISAAC BLACKWELL 2026",
+            109,
+            109
+        ],
+        [
+            "4A IOWA CITY HIGH SAM HAGEDORN 2023",
+            110,
+            110
+        ],
+        [
+            "4A DUBUQUE SENIOR ISAAC MAUS 2024",
+            111,
+            111
+        ],
+        [
+            "4A IOWA CITY LIBERTY ANGEL PAREDES RUIZ 2024",
+            112,
+            112
+        ],
+        [
+            "4A PLEASANT VALLEY COLIN MERELL 2026",
+            113,
+            113
+        ],
+        [
+            "4A IOWA CITY HIGH JACK AYERS 2023",
+            114,
+            114
+        ],
+        [
+            "4A CR JEFFERSON MALACHI ARMON 2026",
+            115,
+            115
+        ],
+        [
+            "4A PLEASANT VALLEY NIKHIL NAMSHAMGARI 2025",
+            116,
+            116
+        ],
+        [
+            "4A DUBUQUE SENIOR THARU JAYAWICKRAMA 2023",
+            117,
+            117
+        ],
+        [
+            "4A PLEASANT VALLEY MITCHELL POTERACK 2023",
+            118,
+            118
+        ],
+        [
+            "4A IOWA CITY HIGH ELI FOSTER 2025",
+            119,
+            119
+        ],
+        [
+            "4A CR PRAIRIE HARRISON STARK 2026",
+            120,
+            120
+        ],
+        [
+            "4A DUBUQUE SENIOR FINNIGAN NOEL 2025",
+            121,
+            121
+        ],
+        [
+            "4A CR PRAIRIE BENJAMIN HOLLINGER 2026",
+            122,
+            122
+        ],
+        [
+            "4A PLEASANT VALLEY JOSH THOMAS 2023",
+            123,
+            123
+        ],
+        [
+            "4A PLEASANT VALLEY DHRUV PATIL 2026",
+            124,
+            124
+        ],
+        [
+            "4A CR JEFFERSON YAO AMEGANDJIN 2023",
+            125,
+            125
+        ],
+        [
+            "4A IOWA CITY LIBERTY ADAM SCHULTZ 2024",
+            126,
+            126
+        ],
+        [
+            "4A PLEASANT VALLEY ISAAC SHEPHERD 2026",
+            127,
+            127
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HAYDEN MILLER 2025",
+            128,
+            128
+        ],
+        [
+            "4A IOWA CITY HIGH JACOB DIXON 2025",
+            129,
+            129
+        ],
+        [
+            "4A IOWA CITY HIGH ARAV PARANDKAR 2025",
+            130,
+            130
+        ],
+        [
+            "4A CR JEFFERSON CHARLIE WAECHTER 2026",
+            131,
+            131
+        ],
+        [
+            "4A CR JEFFERSON CALE PILKINGTON 2025",
+            132,
+            132
+        ],
+        [
+            "3A CLEAR CREEK-AMANA HENRY DAVIDSON 2026",
+            133,
+            133
+        ],
+        [
+            "4A IOWA CITY LIBERTY CONNOR DALLNER 2025",
+            134,
+            134
+        ],
+        [
+            "4A PLEASANT VALLEY AMMAR BAZARRA 2026",
+            135,
+            135
+        ],
+        [
+            "4A IOWA CITY LIBERTY REGAN KOPECKY 2026",
+            136,
+            136
+        ],
+        [
+            "4A IOWA CITY LIBERTY BEN KACZKA 2025",
+            137,
+            137
+        ],
+        [
+            "4A CR JEFFERSON GRIFFIN BUBENYAK 2026",
+            138,
+            138
+        ],
+        [
+            "4A CR PRAIRIE JONATHAN REU 2025",
+            139,
+            139
+        ],
+        [
+            "4A IOWA CITY LIBERTY AUSTIN ANDERSON 2025",
+            140,
+            140
+        ],
+        [
+            "4A IOWA CITY HIGH FARIS ELTAYIB 2023",
+            141,
+            141
+        ],
+        [
+            "4A IOWA CITY LIBERTY BLAKE VAUGHN 2025",
+            142,
+            142
+        ],
+        [
+            "4A IOWA CITY HIGH PAUL TRAN 2026",
+            143,
+            143
+        ],
+        [
+            "4A CR JEFFERSON TYREEK JACKSON 2024",
+            144,
+            144
+        ],
+        [
+            "4A IOWA CITY HIGH MARK ELWER 2026",
+            145,
+            145
+        ],
+        [
+            "4A IOWA CITY HIGH LU GUETZKO 2023",
+            146,
+            146
+        ],
+        [
+            "4A IOWA CITY LIBERTY HADI ARBID 2026",
+            147,
+            147
+        ],
+        [
+            "4A IOWA CITY LIBERTY COOPER BUSCHE 2026",
+            148,
+            148
+        ],
+        [
+            "4A PLEASANT VALLEY ETHAN FRECKLETON 2026",
+            149,
+            149
+        ],
+        [
+            "4A IOWA CITY HIGH NOLAN BALMER 2025",
+            150,
+            150
+        ],
+        [
+            "4A PLEASANT VALLEY NIKHIL SAINI 2026",
+            151,
+            151
+        ],
+        [
+            "4A DUBUQUE SENIOR RYDER BARTMANN 2026",
+            152,
+            152
+        ],
+        [
+            "4A DUBUQUE SENIOR ZACH MATHEW 2026",
+            153,
+            153
+        ],
+        [
+            "4A DUBUQUE SENIOR ALEX DIXON 2024",
+            154,
+            154
+        ],
+        [
+            "4A PLEASANT VALLEY MASON DEERING 2026",
+            155,
+            155
+        ],
+        [
+            "4A IOWA CITY LIBERTY PHILIP MONTOVER 2025",
+            156,
+            156
+        ],
+        [
+            "3A CLEAR CREEK-AMANA JACK KESTEL 2025",
+            157,
+            157
+        ],
+        [
+            "4A IOWA CITY LIBERTY PIYUSH PYDIPALLI 2025",
+            158,
+            158
+        ],
+        [
+            "4A CR JEFFERSON NICK BUMPUS 2026",
+            159,
+            159
+        ],
+        [
+            "4A IOWA CITY LIBERTY ASA PELZEL 2025",
+            160,
+            160
+        ],
+        [
+            "4A IOWA CITY HIGH RICHIE NGUYEN 2023",
+            161,
+            161
+        ]
+    ]
+}

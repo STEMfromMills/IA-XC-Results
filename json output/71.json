@@ -1,0 +1,786 @@
+{
+    "name": "Linn Mar",
+    "time_seconds": 1662181211,
+    "standings": [
+        [
+            "4A CR KENNEDY MILES WILSON 2023",
+            0,
+            0
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JOHN MALONEY 2024",
+            1,
+            1
+        ],
+        [
+            "4A CR KENNEDY HENRY MCMAHAN 2024",
+            2,
+            2
+        ],
+        [
+            "4A CR KENNEDY ADAM GRAY 2026",
+            3,
+            3
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD CHARLIE DRISCOLL 2024",
+            4,
+            4
+        ],
+        [
+            "2A OELWEIN CONALL SAUSER 2025",
+            5,
+            5
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD ZACK JOHNSON 2024",
+            6,
+            6
+        ],
+        [
+            "4A LINN-MAR LUKE STEFFEN 2023",
+            7,
+            7
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD MICAH FERN 2026",
+            8,
+            8
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD BRANDON KASS 2025",
+            9,
+            9
+        ],
+        [
+            "4A LINN-MAR OWEN HANSON 2025",
+            10,
+            10
+        ],
+        [
+            "2A OELWEIN RAY GEARHART 2023",
+            11,
+            11
+        ],
+        [
+            "4A LINN-MAR JOEY BANOWETZ 2023",
+            12,
+            12
+        ],
+        [
+            "4A CR JEFFERSON CADEN DAVIS 2024",
+            13,
+            13
+        ],
+        [
+            "4A LINN-MAR ETHAN COZINE 2023",
+            14,
+            14
+        ],
+        [
+            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            15,
+            15
+        ],
+        [
+            "4A LINN-MAR EZRA CRANDALL 2024",
+            16,
+            16
+        ],
+        [
+            "4A LINN-MAR RILEY KUHN 2024",
+            17,
+            17
+        ],
+        [
+            "4A LINN-MAR ETHAN BOSTON 2025",
+            18,
+            18
+        ],
+        [
+            "4A CR KENNEDY REECE MURRAY 2024",
+            19,
+            19
+        ],
+        [
+            "4A CR KENNEDY JACOB BRUNS 2024",
+            20,
+            20
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD KYLE DUEHR 2024",
+            21,
+            21
+        ],
+        [
+            "2A OELWEIN CALEB SCHUNK 2025",
+            22,
+            22
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD WILL HOUSELOG 2025",
+            23,
+            23
+        ],
+        [
+            "4A CR KENNEDY REUBEN SCHLAAK 2025",
+            24,
+            24
+        ],
+        [
+            "4A CR WASHINGTON JOHN LORENZ 2023",
+            25,
+            25
+        ],
+        [
+            "4A CR WASHINGTON KRIENE SCHNEIDERMANN 2024",
+            26,
+            26
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD DENIS MASONIVIC 2024",
+            27,
+            27
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD OWEN LEITZEN 2025",
+            28,
+            28
+        ],
+        [
+            "4A LINN-MAR BHARGAVA MAYLA 2025",
+            29,
+            29
+        ],
+        [
+            "4A LINN-MAR KADON HARPER 2023",
+            30,
+            30
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD GRANT MISIAGBECKLER 2023",
+            31,
+            31
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD DEVIN SPAHN 2023",
+            32,
+            32
+        ],
+        [
+            "4A LINN-MAR NICHOLAS GORSICH 2023",
+            33,
+            33
+        ],
+        [
+            "4A CR KENNEDY CREW GEATER 2024",
+            34,
+            34
+        ],
+        [
+            "4A CR KENNEDY JACOB HORTON 2023",
+            35,
+            35
+        ],
+        [
+            "2A OELWEIN GABE DRISCOLL 2026",
+            36,
+            36
+        ],
+        [
+            "4A LINN-MAR WILL GRANT 2023",
+            37,
+            37
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JOE VIZE 2023",
+            38,
+            38
+        ],
+        [
+            "4A LINN-MAR GRIFFIN ADAMSON 2025",
+            39,
+            39
+        ],
+        [
+            "4A LINN-MAR ETHAN KAMPHAUGH 2025",
+            40,
+            40
+        ],
+        [
+            "4A LINN-MAR CONNOR DEAHL 2023",
+            41,
+            41
+        ],
+        [
+            "4A LINN-MAR TRISTAN CERNEY 2026",
+            42,
+            42
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD AIDEN LANGE 2025",
+            43,
+            43
+        ],
+        [
+            "4A CR KENNEDY NATHANIEL GOFF 2026",
+            44,
+            44
+        ],
+        [
+            "4A LINN-MAR BRENDAN BAKKER 2024",
+            45,
+            45
+        ],
+        [
+            "4A LINN-MAR ALEX KAALBERG 2023",
+            46,
+            46
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD BRENDON ZHENG 2025",
+            47,
+            47
+        ],
+        [
+            "4A CR KENNEDY NOAH PENN 2026",
+            48,
+            48
+        ],
+        [
+            "4A CR KENNEDY LINCOLN MCMAHAN 2026",
+            49,
+            49
+        ],
+        [
+            "4A CR KENNEDY CHRISTIAN HODGINS 2024",
+            50,
+            50
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD COLIN HENN 2026",
+            51,
+            51
+        ],
+        [
+            "4A CR JEFFERSON KINNICK MEIER 2024",
+            52,
+            52
+        ],
+        [
+            "4A CR KENNEDY ZACHARY ISPENTCHIAN 2025",
+            53,
+            53
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD WILL SCOTT 2024",
+            54,
+            54
+        ],
+        [
+            "4A CR KENNEDY ALEXANDER VOLDEN 2024",
+            55,
+            55
+        ],
+        [
+            "4A CR WASHINGTON KYLE REISINGER 2024",
+            56,
+            56
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD VINCENT SCHERR 2025",
+            57,
+            57
+        ],
+        [
+            "4A CR KENNEDY RYKER SCHECKEL 2026",
+            58,
+            58
+        ],
+        [
+            "4A LINN-MAR MICAH WADDELL 2023",
+            59,
+            59
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD LUCAS TYLER 2023",
+            60,
+            60
+        ],
+        [
+            "4A CR KENNEDY COLLIN SWEENEY 2024",
+            61,
+            61
+        ],
+        [
+            "4A WATERLOO EAST RICARDO RIOS 2024",
+            62,
+            62
+        ],
+        [
+            "4A LINN-MAR CREIGHTON FAIRLEY 2023",
+            63,
+            63
+        ],
+        [
+            "4A LINN-MAR BEN WHITE 2024",
+            64,
+            64
+        ],
+        [
+            "4A LINN-MAR LUCAS TENTINGER 2025",
+            65,
+            65
+        ],
+        [
+            "4A CR KENNEDY MADDEN DEWALLE 2026",
+            66,
+            66
+        ],
+        [
+            "4A LINN-MAR QUINN LORENZ 2026",
+            67,
+            67
+        ],
+        [
+            "4A CR KENNEDY BEN KNIPFER 2024",
+            68,
+            68
+        ],
+        [
+            "4A CR WASHINGTON NICK FOREMAN 2024",
+            69,
+            69
+        ],
+        [
+            "4A CR JEFFERSON OLIVIER MUBENGWA 2023",
+            70,
+            70
+        ],
+        [
+            "4A CR KENNEDY REGAN ROELOFS 2024",
+            71,
+            71
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JAKE STANNER 2023",
+            72,
+            72
+        ],
+        [
+            "4A CR KENNEDY SINTAYEHU HALL 2025",
+            73,
+            73
+        ],
+        [
+            "4A LINN-MAR THIAGO BEDAL 2024",
+            74,
+            74
+        ],
+        [
+            "4A LINN-MAR LEO HACKETT 2026",
+            75,
+            75
+        ],
+        [
+            "4A CR JEFFERSON AUSTIN DEAL 2024",
+            76,
+            76
+        ],
+        [
+            "4A LINN-MAR TYLER PERSON 2025",
+            77,
+            77
+        ],
+        [
+            "4A CR JEFFERSON ALEC ASCHENBRENNER 2025",
+            78,
+            78
+        ],
+        [
+            "4A CR KENNEDY AIDAN ZIEGLER 2024",
+            79,
+            79
+        ],
+        [
+            "2A OELWEIN KONNER BARAT-KLIMESH 2024",
+            80,
+            80
+        ],
+        [
+            "4A CR KENNEDY JONAH MCMAHAN 2024",
+            81,
+            81
+        ],
+        [
+            "4A LINN-MAR EVAN FELTON 2025",
+            82,
+            82
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JACOB JOHNSON 2023",
+            83,
+            83
+        ],
+        [
+            "4A LINN-MAR JIMMY WOOD 2024",
+            84,
+            84
+        ],
+        [
+            "4A LINN-MAR PARKER HOLTEN 2026",
+            85,
+            85
+        ],
+        [
+            "4A LINN-MAR ROBBIE HOKE 2026",
+            86,
+            86
+        ],
+        [
+            "4A CR JEFFERSON JONATHAN MITTELSTEADT 2026",
+            87,
+            87
+        ],
+        [
+            "4A CR WASHINGTON CADE SMITH 2025",
+            88,
+            88
+        ],
+        [
+            "4A CR JEFFERSON SEAN ASCHENBRENNER 2023",
+            89,
+            89
+        ],
+        [
+            "4A LINN-MAR TALAN STRADT 2025",
+            90,
+            90
+        ],
+        [
+            "4A LINN-MAR BASSIL ELSHIEKH 2025",
+            91,
+            91
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD KOREY HIRSCHSCHMITT 2026",
+            92,
+            92
+        ],
+        [
+            "4A CR KENNEDY GRANT PATTRIDGE 2026",
+            93,
+            93
+        ],
+        [
+            "4A LINN-MAR CARLOS MORALES 2024",
+            94,
+            94
+        ],
+        [
+            "4A LINN-MAR CARTER BYERS 2026",
+            95,
+            95
+        ],
+        [
+            "4A CR WASHINGTON ISAIAH SMITH 2024",
+            96,
+            96
+        ],
+        [
+            "4A WATERLOO EAST JUAN CARLOS RICO 2024",
+            97,
+            97
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JETT DIDELOT 2025",
+            98,
+            98
+        ],
+        [
+            "4A CR JEFFERSON GERALD TOGBAH 2023",
+            99,
+            99
+        ],
+        [
+            "4A CR WASHINGTON AIDEN ERICKSON 2026",
+            100,
+            100
+        ],
+        [
+            "2A OELWEIN LANDON DOWD 2026",
+            101,
+            101
+        ],
+        [
+            "4A CR KENNEDY LUCAS DOLPHIN 2023",
+            102,
+            102
+        ],
+        [
+            "4A CR WASHINGTON RYDER FLEMING 2023",
+            103,
+            103
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD HENREY MALCOM 2023",
+            104,
+            104
+        ],
+        [
+            "4A CR WASHINGTON LOUIS DEW 2025",
+            105,
+            105
+        ],
+        [
+            "4A CR KENNEDY TANNER WILSON 2025",
+            106,
+            106
+        ],
+        [
+            "4A CR KENNEDY JACK OLESEN 2025",
+            107,
+            107
+        ],
+        [
+            "2A OELWEIN KESHAUN WILLIAMS 2026",
+            108,
+            108
+        ],
+        [
+            "4A CR KENNEDY ANTHONY ZACHAR 2026",
+            109,
+            109
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD CHARLES SCHULTZ 2026",
+            110,
+            110
+        ],
+        [
+            "4A LINN-MAR JACK FAGAN 2026",
+            111,
+            111
+        ],
+        [
+            "4A CR WASHINGTON NATHAN KOZELSKY 2024",
+            112,
+            112
+        ],
+        [
+            "4A CR WASHINGTON ALEX WITTNEBEL 2023",
+            113,
+            113
+        ],
+        [
+            "2A OELWEIN HUNTER DRISCOLL 2026",
+            114,
+            114
+        ],
+        [
+            "4A LINN-MAR HAYDEN WILDMAN 2024",
+            115,
+            115
+        ],
+        [
+            "4A WATERLOO EAST GEORVON TYLER 2025",
+            116,
+            116
+        ],
+        [
+            "4A CR KENNEDY BRYCE WILSON 2026",
+            117,
+            117
+        ],
+        [
+            "4A CR JEFFERSON YAO AMEGANDJIN 2023",
+            118,
+            118
+        ],
+        [
+            "4A CR KENNEDY ETHAN WHITE 2026",
+            119,
+            119
+        ],
+        [
+            "2A OELWEIN NEVIN BERRY 2023",
+            120,
+            120
+        ],
+        [
+            "4A CR KENNEDY COLE PRUETT 2024",
+            121,
+            121
+        ],
+        [
+            "4A LINN-MAR HAYDEN ACKLEY 2026",
+            122,
+            122
+        ],
+        [
+            "4A CR KENNEDY NICK BLOISE 2026",
+            123,
+            123
+        ],
+        [
+            "4A LINN-MAR BEN TENTINGER 2025",
+            124,
+            124
+        ],
+        [
+            "4A CR WASHINGTON RYAN MCSPADDEN 2023",
+            125,
+            125
+        ],
+        [
+            "4A LINN-MAR BRONSON BEALS 2026",
+            126,
+            126
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD RILEY TIGGES 2024",
+            127,
+            127
+        ],
+        [
+            "4A CR JEFFERSON CALE PILKINGTON 2025",
+            128,
+            128
+        ],
+        [
+            "4A CR JEFFERSON NICK HARMS 2024",
+            129,
+            129
+        ],
+        [
+            "4A CR KENNEDY OWEN MCLAUGHLIN 2026",
+            130,
+            130
+        ],
+        [
+            "4A LINN-MAR AIDEN MOORE 2026",
+            131,
+            131
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD OWEN ERRTHUM 2024",
+            132,
+            132
+        ],
+        [
+            "4A CR WASHINGTON CADEN MESSENGER 2026",
+            133,
+            133
+        ],
+        [
+            "4A CR WASHINGTON COLTON EILERS 2024",
+            134,
+            134
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD JOSH BENNETT 2024",
+            135,
+            135
+        ],
+        [
+            "4A CR JEFFERSON MALACHI ARMON 2026",
+            136,
+            136
+        ],
+        [
+            "4A CR WASHINGTON EVAN TOMINSKY 2024",
+            137,
+            137
+        ],
+        [
+            "2A OELWEIN MIKE WILLIAMS 2026",
+            138,
+            138
+        ],
+        [
+            "4A CR WASHINGTON HENRY APPLEBY-SPARROW 2026",
+            139,
+            139
+        ],
+        [
+            "4A CR WASHINGTON LAIRD HANNA 2026",
+            140,
+            140
+        ],
+        [
+            "4A LINN-MAR OWEN SNYDER 2026",
+            141,
+            141
+        ],
+        [
+            "4A LINN-MAR NATHAN LEEMHUIS 2023",
+            142,
+            142
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD LEVI KRAMER 2024",
+            143,
+            143
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD AIDEN QUAM 2024",
+            144,
+            144
+        ],
+        [
+            "4A WATERLOO EAST PRAY REH 2024",
+            145,
+            145
+        ],
+        [
+            "4A CR WASHINGTON AUSTIN DAMISCH 2026",
+            146,
+            146
+        ],
+        [
+            "4A CR JEFFERSON BLAKE PRITCHARD 2026",
+            147,
+            147
+        ],
+        [
+            "4A DUBUQUE HEMPSTEAD PARKER WELBES 2026",
+            148,
+            148
+        ],
+        [
+            "4A CR JEFFERSON GRIFFIN BUBENYAK 2026",
+            149,
+            149
+        ],
+        [
+            "4A CR JEFFERSON CHARLIE WAECHTER 2026",
+            150,
+            150
+        ],
+        [
+            "4A LINN-MAR JUSTIN LEEMHUIS 2024",
+            151,
+            151
+        ],
+        [
+            "4A CR WASHINGTON CAMERON ANDREWS 2025",
+            152,
+            152
+        ],
+        [
+            "4A LINN-MAR SAM BILES 2025",
+            153,
+            153
+        ],
+        [
+            "4A CR JEFFERSON NICK BUMPUS 2026",
+            154,
+            154
+        ],
+        [
+            "4A CR WASHINGTON CHARLES SCHRADER 2025",
+            155,
+            155
+        ]
+    ]
+}

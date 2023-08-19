@@ -1,0 +1,471 @@
+{
+    "name": "North Fayette Valley",
+    "time_seconds": 1662613252,
+    "standings": [
+        [
+            "2A OELWEIN CONALL SAUSER 2025",
+            0,
+            0
+        ],
+        [
+            "1A MFL MARMAC JACOB SCHELLHORN 2025",
+            1,
+            1
+        ],
+        [
+            "2A OELWEIN RAY GEARHART 2023",
+            2,
+            2
+        ],
+        [
+            "1A CLAYTON RIDGE KEATON REIMER 2023",
+            3,
+            3
+        ],
+        [
+            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            4,
+            4
+        ],
+        [
+            "1A POSTVILLE ABDIAZIZ IBRAHIM 2024",
+            5,
+            5
+        ],
+        [
+            "1A CLAYTON RIDGE GAVIN MOSER 2023",
+            6,
+            6
+        ],
+        [
+            "2A OSAGE KEAGAN HENNESSEY 2023",
+            7,
+            7
+        ],
+        [
+            "2A OELWEIN CALEB SCHUNK 2025",
+            8,
+            8
+        ],
+        [
+            "1A CENTRAL ELKADER GAVIN HOLST 2025",
+            9,
+            9
+        ],
+        [
+            "2A OELWEIN JACOB SULLIVAN 2023",
+            10,
+            10
+        ],
+        [
+            "2A JESUP NATHAN PINT 2025",
+            11,
+            11
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LUKAS MCGOWAN 2024",
+            12,
+            12
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TYLER NYSTEL 2023",
+            13,
+            13
+        ],
+        [
+            "2A OSAGE DARREN ADAMS 2024",
+            14,
+            14
+        ],
+        [
+            "2A OELWEIN GABE DRISCOLL 2026",
+            15,
+            15
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY MICAH ZURBRIGGEN 2024",
+            16,
+            16
+        ],
+        [
+            "2A JESUP WILL NESBIT 2026",
+            17,
+            17
+        ],
+        [
+            "1A POSTVILLE MOHAMED HASHI 2023",
+            18,
+            18
+        ],
+        [
+            "2A JESUP KADEN LANGE 2026",
+            19,
+            19
+        ],
+        [
+            "1A KEE LANSING JUSTIN WAGNER 2026",
+            20,
+            20
+        ],
+        [
+            "2A JESUP TYLER NOLAN 2024",
+            21,
+            21
+        ],
+        [
+            "1A CLAYTON RIDGE ERIK FLORES 2023",
+            22,
+            22
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY DILLON SPARGROVE 2023",
+            23,
+            23
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY SHAWN GILSON 2023",
+            24,
+            24
+        ],
+        [
+            "2A JESUP AYDEN GONZALEZ 2024",
+            25,
+            25
+        ],
+        [
+            "2A OSAGE CHASE POTTER 2023",
+            26,
+            26
+        ],
+        [
+            "2A OSAGE ASHTON SONBERG 2023",
+            27,
+            27
+        ],
+        [
+            "1A CLAYTON RIDGE JESUS TABORA-LARA 2025",
+            28,
+            28
+        ],
+        [
+            "1A MFL MARMAC WILL KOETHER 2023",
+            29,
+            29
+        ],
+        [
+            "2A DIKE-NEW HARTFORD BRYCE PETERSEN 2023",
+            30,
+            30
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY PEYTON ELLIOT 2026",
+            31,
+            31
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY STANSBERY GABE 2026",
+            32,
+            32
+        ],
+        [
+            "1A CLAYTON RIDGE JACKSON PATINO 2023",
+            33,
+            33
+        ],
+        [
+            "2A OSAGE LOGAN MITCHELL 2024",
+            34,
+            34
+        ],
+        [
+            "2A OSAGE TANNER WRIGHT 2025",
+            35,
+            35
+        ],
+        [
+            "2A OSAGE HAMPTON ARCINIEGA 2025",
+            36,
+            36
+        ],
+        [
+            "2A DIKE-NEW HARTFORD CALEB PAULSEN 2023",
+            37,
+            37
+        ],
+        [
+            "1A MFL MARMAC SAWYER KEEHNER 2024",
+            38,
+            38
+        ],
+        [
+            "2A JESUP KARSTEN NUEHRING 2025",
+            39,
+            39
+        ],
+        [
+            "2A DIKE-NEW HARTFORD SHAYDEN LOGER 2023",
+            40,
+            40
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY KEAGAN MCGRANE 2024",
+            41,
+            41
+        ],
+        [
+            "2A OELWEIN KESHAUN WILLIAMS 2026",
+            42,
+            42
+        ],
+        [
+            "1A CLAYTON RIDGE NATE MEIER 2023",
+            43,
+            43
+        ],
+        [
+            "1A POSTVILLE NATANAEL GONZALEZ 2024",
+            44,
+            44
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY RYAN PUTNEY 2026",
+            45,
+            45
+        ],
+        [
+            "2A OSAGE TYSEN STANGEL 2026",
+            46,
+            46
+        ],
+        [
+            "1A POSTVILLE DEYBY MUXIN 2025",
+            47,
+            47
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LEO PHAN 2023",
+            48,
+            48
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RASMUS BRANDT 2023",
+            49,
+            49
+        ],
+        [
+            "1A KEE LANSING ISAIAH WAGNER 2026",
+            50,
+            50
+        ],
+        [
+            "1A CENTRAL ELKADER CADEN FETTE 2026",
+            51,
+            51
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY JOHN STARRETT 2023",
+            52,
+            52
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY NICK HOHENBRINK 2024",
+            53,
+            53
+        ],
+        [
+            "2A DIKE-NEW HARTFORD FINN O'NEILL 2026",
+            54,
+            54
+        ],
+        [
+            "1A CENTRAL ELKADER VAUGHN ZITTERGRUEN 2025",
+            55,
+            55
+        ],
+        [
+            "2A JESUP CAMDEN FUELING 2026",
+            56,
+            56
+        ],
+        [
+            "1A POSTVILLE KARL PETERS 2026",
+            57,
+            57
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY TOMMY CLARK 2023",
+            58,
+            58
+        ],
+        [
+            "2A OELWEIN CJ BEATTY 2024",
+            59,
+            59
+        ],
+        [
+            "2A OSAGE JACKSON JOHNSON 2026",
+            60,
+            60
+        ],
+        [
+            "2A OELWEIN HUNTER DRISCOLL 2026",
+            61,
+            61
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY CLAY SCHAEFER 2024",
+            62,
+            62
+        ],
+        [
+            "1A CLAYTON RIDGE COLTON HOEGER 2026",
+            63,
+            63
+        ],
+        [
+            "1A POSTVILLE DENNIS HERNANDEZ 2025",
+            64,
+            64
+        ],
+        [
+            "2A JESUP ZANDER SCHMIDT 2024",
+            65,
+            65
+        ],
+        [
+            "2A OELWEIN LANDON DOWD 2026",
+            66,
+            66
+        ],
+        [
+            "2A OELWEIN BRADY BURKHART 2025",
+            67,
+            67
+        ],
+        [
+            "2A OELWEIN NEVIN BERRY 2023",
+            68,
+            68
+        ],
+        [
+            "2A DIKE-NEW HARTFORD JACOB WHITE 2026",
+            69,
+            69
+        ],
+        [
+            "1A KEE LANSING CARTER VERTHEIN 2026",
+            70,
+            70
+        ],
+        [
+            "1A CENTRAL ELKADER TATE BERNS 2023",
+            71,
+            71
+        ],
+        [
+            "2A JESUP DAVID SADLER 2026",
+            72,
+            72
+        ],
+        [
+            "1A CLAYTON RIDGE BLAKE IHDE 2023",
+            73,
+            73
+        ],
+        [
+            "1A CLAYTON RIDGE ETHAN BACKES 2026",
+            74,
+            74
+        ],
+        [
+            "2A OELWEIN ELIJAH KING 2026",
+            75,
+            75
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RUSH L'HEUREUX 2026",
+            76,
+            76
+        ],
+        [
+            "2A JESUP CAYDEN KIEFFER 2024",
+            77,
+            77
+        ],
+        [
+            "1A CENTRAL ELKADER BRYCE HELLER 2026",
+            78,
+            78
+        ],
+        [
+            "2A OSAGE ETHAN PETERSON 2026",
+            79,
+            79
+        ],
+        [
+            "2A OELWEIN MIKE WILLIAMS 2026",
+            80,
+            80
+        ],
+        [
+            "1A MFL MARMAC LOGAN ROSS 2025",
+            81,
+            81
+        ],
+        [
+            "1A CLAYTON RIDGE KASEY THIESE 2026",
+            82,
+            82
+        ],
+        [
+            "2A OELWEIN ADYEN JAMES 2024",
+            83,
+            83
+        ],
+        [
+            "1A CLAYTON RIDGE LELAND MUELLER 2026",
+            84,
+            84
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TREY DRUVENGA 2024",
+            85,
+            85
+        ],
+        [
+            "2A JESUP PARKER WOODWARD 2025",
+            86,
+            86
+        ],
+        [
+            "1A CENTRAL ELKADER DECLAN FINLEY 2026",
+            87,
+            87
+        ],
+        [
+            "2A OSAGE CONNOR ADAMS 2026",
+            88,
+            88
+        ],
+        [
+            "1A CENTRAL ELKADER MICHAEL WHITE 2026",
+            89,
+            89
+        ],
+        [
+            "2A OSAGE BEN MEIER 2025",
+            90,
+            90
+        ],
+        [
+            "2A OSAGE TAYLOR HOBBS 2026",
+            91,
+            91
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY ETHAN DANIEL 2024",
+            92,
+            92
+        ]
+    ]
+}

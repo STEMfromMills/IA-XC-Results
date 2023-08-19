@@ -1,0 +1,791 @@
+{
+    "name": "West Delaware ",
+    "time_seconds": 1664859656,
+    "standings": [
+        [
+            "3A MARION JEDIDIAH OSGOOD 2023",
+            0,
+            0
+        ],
+        [
+            "3A EPWORTH ISAIAH HAMMERAND 2023",
+            1,
+            1
+        ],
+        [
+            "2A STARMONT CHARLIE SIECK 2023",
+            2,
+            2
+        ],
+        [
+            "2A TIPTON CLAY BOHLMANN 2025",
+            3,
+            3
+        ],
+        [
+            "1A BELLEVUE PAYTON GRIEBEL 2024",
+            4,
+            4
+        ],
+        [
+            "3A EPWORTH QUENTIN NAUMAN 2026",
+            5,
+            5
+        ],
+        [
+            "3A MARION COOPER COOK 2024",
+            6,
+            6
+        ],
+        [
+            "2A OELWEIN CONALL SAUSER 2025",
+            7,
+            7
+        ],
+        [
+            "3A MARION JAKOB REGENNITTER 2023",
+            8,
+            8
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELI PAGE 2024",
+            9,
+            9
+        ],
+        [
+            "3A EPWORTH DEREK FANGMANN 2023",
+            10,
+            10
+        ],
+        [
+            "3A MARION JORDAN FISCHER 2024",
+            11,
+            11
+        ],
+        [
+            "3A VINTON-SHELLSBURG ELIJAH BLIX 2023",
+            12,
+            12
+        ],
+        [
+            "2A TIPTON TY NICHOLS 2023",
+            13,
+            13
+        ],
+        [
+            "2A TIPTON MAXSON FOGG 2025",
+            14,
+            14
+        ],
+        [
+            "3A CLEAR LAKE JACK CRANE 2023",
+            15,
+            15
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CALEB HOINS 2023",
+            16,
+            16
+        ],
+        [
+            "3A EPWORTH DREW MEYER 2023",
+            17,
+            17
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALEX TORRES 2026",
+            18,
+            18
+        ],
+        [
+            "1A CASCADE ADAM KNEPPER 2023",
+            19,
+            19
+        ],
+        [
+            "3A MARION CHRIS OBERBROECKLING 2023",
+            20,
+            20
+        ],
+        [
+            "2A TIPTON CALEB BOHLMANN 2026",
+            21,
+            21
+        ],
+        [
+            "3A MOUNT VERNON-LISBON KLAYTEN PERREAULT 2024",
+            22,
+            22
+        ],
+        [
+            "1A MAQUOKETA VALLEY MATTHEW SCHAUL 2025",
+            23,
+            23
+        ],
+        [
+            "1A EAST BUCHANAN NOAH VALENZUELA 2024",
+            24,
+            24
+        ],
+        [
+            "1A BELLEVUE AIDEN ONKEN 2023",
+            25,
+            25
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK CADEN KUEKER 2023",
+            26,
+            26
+        ],
+        [
+            "3A CENTER POINT-URBANA CAYLE ESTLING 2026",
+            27,
+            27
+        ],
+        [
+            "3A MOUNT VERNON-LISBON DAWSON SCHEIL 2026",
+            28,
+            28
+        ],
+        [
+            "2A OELWEIN JACOB SULLIVAN 2023",
+            29,
+            29
+        ],
+        [
+            "3A CENTER POINT-URBANA BRODY BEHRENS 2024",
+            30,
+            30
+        ],
+        [
+            "2A ANAMOSA SHEA KEISTER 2023",
+            31,
+            31
+        ],
+        [
+            "1A SPRINGVILLE JACK STAMP 2025",
+            32,
+            32
+        ],
+        [
+            "3A WEST DELAWARE ZACH WENGER 2024",
+            33,
+            33
+        ],
+        [
+            "2A JESUP NATHAN PINT 2025",
+            34,
+            34
+        ],
+        [
+            "2A ANAMOSA SETH COUNTRYMAN 2025",
+            35,
+            35
+        ],
+        [
+            "3A CENTER POINT-URBANA COOPER GRIMM 2026",
+            36,
+            36
+        ],
+        [
+            "3A MOUNT VERNON-LISBON SEAMUS O'CONNOR 2025",
+            37,
+            37
+        ],
+        [
+            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            38,
+            38
+        ],
+        [
+            "1A CASCADE MAX NADEAU 2023",
+            39,
+            39
+        ],
+        [
+            "3A CENTER POINT-URBANA CASEY KIRTZ 2024",
+            40,
+            40
+        ],
+        [
+            "3A MOUNT VERNON-LISBON WESLEY SADLER 2025",
+            41,
+            41
+        ],
+        [
+            "1A SPRINGVILLE EVAN ROBERTSON 2023",
+            42,
+            42
+        ],
+        [
+            "3A MOUNT VERNON-LISBON ZACH FALL 2023",
+            43,
+            43
+        ],
+        [
+            "3A MOUNT VERNON-LISBON JUNIOR KROB 2023",
+            44,
+            44
+        ],
+        [
+            "1A MAQUOKETA VALLEY GEORGE LIVINGSTON 2024",
+            45,
+            45
+        ],
+        [
+            "3A WEST DELAWARE JASE TURNIS 2025",
+            46,
+            46
+        ],
+        [
+            "3A CENTER POINT-URBANA ISAAC LARSON 2024",
+            47,
+            47
+        ],
+        [
+            "1A CASCADE LANE COOK 2025",
+            48,
+            48
+        ],
+        [
+            "3A CLEAR LAKE ANDREW MIXDORF 2023",
+            49,
+            49
+        ],
+        [
+            "3A CENTER POINT-URBANA CARTER EASTON 2025",
+            50,
+            50
+        ],
+        [
+            "3A EPWORTH BRODY STANER 2025",
+            51,
+            51
+        ],
+        [
+            "3A CLEAR LAKE JADEN WRIGHT 2023",
+            52,
+            52
+        ],
+        [
+            "1A CEDAR VALLEY CHRISTIAN CALEB SKINNER 2024",
+            53,
+            53
+        ],
+        [
+            "2A ANAMOSA CALEB LOEHR 2023",
+            54,
+            54
+        ],
+        [
+            "3A CENTER POINT-URBANA TEEGAN FUESSLEY 2023",
+            55,
+            55
+        ],
+        [
+            "3A CLEAR LAKE LEO TOLENTINO 2023",
+            56,
+            56
+        ],
+        [
+            "3A MARION JARRED REGENNITTER 2023",
+            57,
+            57
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK MARSHALL MEYER 2023",
+            58,
+            58
+        ],
+        [
+            "3A CR XAVIER MARCUS CAMACHO 2024",
+            59,
+            59
+        ],
+        [
+            "2A ANAMOSA JACK TROESTER 2024",
+            60,
+            60
+        ],
+        [
+            "1A CASCADE BEN GEHL 2023",
+            61,
+            61
+        ],
+        [
+            "3A EPWORTH LEVI MEYER 2023",
+            62,
+            62
+        ],
+        [
+            "2A TIPTON JETT KAMBERLING 2026",
+            63,
+            63
+        ],
+        [
+            "2A TIPTON BRODY DEERBERG 2023",
+            64,
+            64
+        ],
+        [
+            "1A BELLEVUE BEN STEINBECK 2023",
+            65,
+            65
+        ],
+        [
+            "2A ANAMOSA CARVER REISS 2025",
+            66,
+            66
+        ],
+        [
+            "3A VINTON-SHELLSBURG JACK BLAIS 2026",
+            67,
+            67
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK GAVIN BARRY 2024",
+            68,
+            68
+        ],
+        [
+            "2A JESUP AYDEN GONZALEZ 2024",
+            69,
+            69
+        ],
+        [
+            "3A WEST DELAWARE EVAN KARTMAN 2024",
+            70,
+            70
+        ],
+        [
+            "2A OELWEIN CALEB SCHUNK 2025",
+            71,
+            71
+        ],
+        [
+            "2A BECKMAN JACOB SCHLARMANN 2024",
+            72,
+            72
+        ],
+        [
+            "3A WEST DELAWARE ALEX STEFFEN 2024",
+            73,
+            73
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AUSTIN SOLDWISCH 2025",
+            74,
+            74
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LUKAS MCGOWAN 2024",
+            75,
+            75
+        ],
+        [
+            "2A STARMONT LANE GERMAN 2023",
+            76,
+            76
+        ],
+        [
+            "3A MARION BENNETT KAUTZ 2026",
+            77,
+            77
+        ],
+        [
+            "1A MAQUOKETA VALLEY ARION RAVE 2025",
+            78,
+            78
+        ],
+        [
+            "3A MAQUOKETA MAX NOTZ 2026",
+            79,
+            79
+        ],
+        [
+            "3A CLEAR LAKE MARCUS SKIDMORE 2023",
+            80,
+            80
+        ],
+        [
+            "2A JESUP KADEN LANGE 2026",
+            81,
+            81
+        ],
+        [
+            "2A ANAMOSA JACOB LOEHR 2023",
+            82,
+            82
+        ],
+        [
+            "1A CASCADE ANDREW KAALBERG 2025",
+            83,
+            83
+        ],
+        [
+            "2A OELWEIN RAY GEARHART 2023",
+            84,
+            84
+        ],
+        [
+            "3A VINTON-SHELLSBURG ALDIN SWANSON 2024",
+            85,
+            85
+        ],
+        [
+            "2A ANAMOSA BRAEDEN KEISTER 2025",
+            86,
+            86
+        ],
+        [
+            "2A TIPTON ZAC BUTLER 2025",
+            87,
+            87
+        ],
+        [
+            "2A BECKMAN ANDREW SCHLARMANN 2026",
+            88,
+            88
+        ],
+        [
+            "1A ALBURNETT HAYDEN GUSTAFSON 2026",
+            89,
+            89
+        ],
+        [
+            "3A CR XAVIER ALEC BATTIEN 2023",
+            90,
+            90
+        ],
+        [
+            "3A CLEAR LAKE CALEB JONES 2024",
+            91,
+            91
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK COLIN KNUDSEN 2025",
+            92,
+            92
+        ],
+        [
+            "3A WEST DELAWARE BRADEN WENGER 2025",
+            93,
+            93
+        ],
+        [
+            "1A SPRINGVILLE GRANT CHRISMAN 2024",
+            94,
+            94
+        ],
+        [
+            "2A BECKMAN ADAM GAUL 2026",
+            95,
+            95
+        ],
+        [
+            "3A MAQUOKETA BRECKIN DOWNEY 2024",
+            96,
+            96
+        ],
+        [
+            "3A EPWORTH PRESTON KREMERS 2025",
+            97,
+            97
+        ],
+        [
+            "1A BELLEVUE BEN MEYER 2024",
+            98,
+            98
+        ],
+        [
+            "2A OELWEIN GABE DRISCOLL 2026",
+            99,
+            99
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY DILLON SPARGROVE 2023",
+            100,
+            100
+        ],
+        [
+            "3A INDEPENDENCE TANNER WILSON 2025",
+            101,
+            101
+        ],
+        [
+            "3A WEST DELAWARE NICK MENSEN 2024",
+            102,
+            102
+        ],
+        [
+            "3A MOUNT VERNON-LISBON RYNE MOELLER 2023",
+            103,
+            103
+        ],
+        [
+            "3A CR XAVIER ABE RENZE 2026",
+            104,
+            104
+        ],
+        [
+            "3A CLEAR LAKE OWEN SMITH 2025",
+            105,
+            105
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY MICAH ZURBRIGGEN 2024",
+            106,
+            106
+        ],
+        [
+            "1A EAST BUCHANAN BEN HESNER 2023",
+            107,
+            107
+        ],
+        [
+            "3A VINTON-SHELLSBURG ZACH KLOPPING 2025",
+            108,
+            108
+        ],
+        [
+            "2A JESUP TYLER NOLAN 2024",
+            109,
+            109
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY SHAWN GILSON 2023",
+            110,
+            110
+        ],
+        [
+            "1A EAST BUCHANAN HAYDEN NELSON 2024",
+            111,
+            111
+        ],
+        [
+            "1A BELLEVUE GABE MANDERS 2025",
+            112,
+            112
+        ],
+        [
+            "1A BELLEVUE KYLE DUNNE 2026",
+            113,
+            113
+        ],
+        [
+            "3A INDEPENDENCE ETHAN CALAHAN 2025",
+            114,
+            114
+        ],
+        [
+            "3A CR XAVIER TIM LESNIK 2023",
+            115,
+            115
+        ],
+        [
+            "3A WEST DELAWARE ASHTON CHESMORE 2025",
+            116,
+            116
+        ],
+        [
+            "3A CR XAVIER DYLAN LANG 2026",
+            117,
+            117
+        ],
+        [
+            "2A JESUP WILL NESBIT 2026",
+            118,
+            118
+        ],
+        [
+            "1A CASCADE NATHANIEL MANTERNACH 2024",
+            119,
+            119
+        ],
+        [
+            "2A STARMONT IAN OTDOERFER 2025",
+            120,
+            120
+        ],
+        [
+            "3A INDEPENDENCE TYLER WIELAND 2025",
+            121,
+            121
+        ],
+        [
+            "2A BECKMAN DANNY DUDZIK 2026",
+            122,
+            122
+        ],
+        [
+            "3A CR XAVIER WILL KARL 2023",
+            123,
+            123
+        ],
+        [
+            "1A CASCADE TRENTEN TOPPING 2025",
+            124,
+            124
+        ],
+        [
+            "3A VINTON-SHELLSBURG EMMETT COLSCH 2024",
+            125,
+            125
+        ],
+        [
+            "1A MAQUOKETA VALLEY TOBY GRIMM 2024",
+            126,
+            126
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY PEYTON ELLIOTT 2026",
+            127,
+            127
+        ],
+        [
+            "2A JESUP KARSTEN NUEHRING 2025",
+            128,
+            128
+        ],
+        [
+            "3A INDEPENDENCE GATES BLAKE 2024",
+            129,
+            129
+        ],
+        [
+            "2A OELWEIN KESHAUN WILLIAMS 2026",
+            130,
+            130
+        ],
+        [
+            "3A INDEPENDENCE CARSON BANTZ 2024",
+            131,
+            131
+        ],
+        [
+            "1A ALBURNETT AUSTIN SCHECHINGER 2025",
+            132,
+            132
+        ],
+        [
+            "3A MAQUOKETA JACOB NABB 2025",
+            133,
+            133
+        ],
+        [
+            "1A SPRINGVILLE CRESTON CORDES 2024",
+            134,
+            134
+        ],
+        [
+            "1A ALBURNETT TRENTON ABEL 2025",
+            135,
+            135
+        ],
+        [
+            "1A EAST BUCHANAN JADEN PEYTON 2023",
+            136,
+            136
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY KEAGAN MCGRANE 2024",
+            137,
+            137
+        ],
+        [
+            "1A ALBURNETT BEN BEMER 2026",
+            138,
+            138
+        ],
+        [
+            "1A EAST BUCHANAN SAMMY COOK 2023",
+            139,
+            139
+        ],
+        [
+            "2A BECKMAN JOE SCHNEIDER 2023",
+            140,
+            140
+        ],
+        [
+            "3A CR XAVIER LIAM PERREAULT 2024",
+            141,
+            141
+        ],
+        [
+            "3A MAQUOKETA JAYDEN KOOS 2023",
+            142,
+            142
+        ],
+        [
+            "3A WAVERLY-SHELL ROCK AIDEN BRIDGES 2024",
+            143,
+            143
+        ],
+        [
+            "2A BECKMAN SPENCER REA 2023",
+            144,
+            144
+        ],
+        [
+            "1A MAQUOKETA VALLEY BRADY EIKE 2025",
+            145,
+            145
+        ],
+        [
+            "2A BECKMAN JOHN PAUL GREBNER 2023",
+            146,
+            146
+        ],
+        [
+            "1A MAQUOKETA VALLEY KENYON BAKER 2026",
+            147,
+            147
+        ],
+        [
+            "2A JESUP CAMDEN FUELING 2026",
+            148,
+            148
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY STANSBERY GABE 2026",
+            149,
+            149
+        ],
+        [
+            "3A INDEPENDENCE TALAN DECKER 2025",
+            150,
+            150
+        ],
+        [
+            "1A SPRINGVILLE SLAYTON STRAUB 2024",
+            151,
+            151
+        ],
+        [
+            "2A STARMONT CARSON CURTIS 2026",
+            152,
+            152
+        ],
+        [
+            "3A INDEPENDENCE WILL PERRY 2023",
+            153,
+            153
+        ],
+        [
+            "2A STARMONT JACEN GRUMAN 2025",
+            154,
+            154
+        ],
+        [
+            "1A ALBURNETT GUNNAR KEENEY 2023",
+            155,
+            155
+        ],
+        [
+            "1A ALBURNETT AIDAN MCGRAW 2024",
+            156,
+            156
+        ]
+    ]
+}

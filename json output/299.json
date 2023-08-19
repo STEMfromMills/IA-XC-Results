@@ -1,0 +1,401 @@
+{
+    "name": "Boone",
+    "time_seconds": 1665032459,
+    "standings": [
+        [
+            "3A HUMBOLDT GABE THUMMA 2026",
+            0,
+            0
+        ],
+        [
+            "3A GILBERT EMRICK RYAN 2026",
+            1,
+            1
+        ],
+        [
+            "3A GILBERT JOHN ARTZ 2025",
+            2,
+            2
+        ],
+        [
+            "3A GILBERT JACOB DANILSON 2023",
+            3,
+            3
+        ],
+        [
+            "3A BOONE NATHANIEL WINTERS 2023",
+            4,
+            4
+        ],
+        [
+            "3A GILBERT ELI HAGUE 2026",
+            5,
+            5
+        ],
+        [
+            "1A OGDEN JORDAN KING 2023",
+            6,
+            6
+        ],
+        [
+            "3A BOONE BLAKE GRADOVILLE 2025",
+            7,
+            7
+        ],
+        [
+            "3A GILBERT ZEKE HATFIELD 2025",
+            8,
+            8
+        ],
+        [
+            "3A BOONE KYAN LEHMAN 2025",
+            9,
+            9
+        ],
+        [
+            "3A BOONE MAX JOHNSTON 2023",
+            10,
+            10
+        ],
+        [
+            "3A BOONE HENRY POLLARD 2023",
+            11,
+            11
+        ],
+        [
+            "3A GILBERT LANDON LUCHT 2026",
+            12,
+            12
+        ],
+        [
+            "3A BOONE KRIS FRANTZEN 2023",
+            13,
+            13
+        ],
+        [
+            "1A OGDEN CAEL DOZIER 2025",
+            14,
+            14
+        ],
+        [
+            "3A BOONE HENRY VAN DYKE 2023",
+            15,
+            15
+        ],
+        [
+            "1A OGDEN MATTHEW SEGO 2023",
+            16,
+            16
+        ],
+        [
+            "3A GILBERT CALEB RAGALLER 2023",
+            17,
+            17
+        ],
+        [
+            "1A OGDEN TRAVIS BOOTHROYD 2024",
+            18,
+            18
+        ],
+        [
+            "1A OGDEN CADEN LERDAL 2025",
+            19,
+            19
+        ],
+        [
+            "3A GILBERT CASON EGGERT 2023",
+            20,
+            20
+        ],
+        [
+            "3A HUMBOLDT AUSTIN LITTLE 2024",
+            21,
+            21
+        ],
+        [
+            "3A BOONE CARDEN NEREM 2025",
+            22,
+            22
+        ],
+        [
+            "3A HUMBOLDT DAYLIN MCDANIEL 2024",
+            23,
+            23
+        ],
+        [
+            "3A HUMBOLDT JAYDEN GARGANO 2023",
+            24,
+            24
+        ],
+        [
+            "3A GILBERT WESTON CONGDON 2023",
+            25,
+            25
+        ],
+        [
+            "1A OGDEN BRAYDON DOTY 2023",
+            26,
+            26
+        ],
+        [
+            "3A HUMBOLDT HAYDEN HANSEN 2024",
+            27,
+            27
+        ],
+        [
+            "3A GILBERT SPENCER WEYDERT 2024",
+            28,
+            28
+        ],
+        [
+            "3A GILBERT WILSON LOFSTEDT 2023",
+            29,
+            29
+        ],
+        [
+            "3A GILBERT TRISTAN LIMOGES 2025",
+            30,
+            30
+        ],
+        [
+            "3A GILBERT ANDREW SOUPIR 2025",
+            31,
+            31
+        ],
+        [
+            "3A GILBERT DALTON NELSON 2023",
+            32,
+            32
+        ],
+        [
+            "3A GILBERT DANIEL MAY 2026",
+            33,
+            33
+        ],
+        [
+            "1A OGDEN TREVOR BOOTHROYD 2024",
+            34,
+            34
+        ],
+        [
+            "3A GILBERT JACK DYCHE 2026",
+            35,
+            35
+        ],
+        [
+            "3A GILBERT ETHAN WILCOX 2025",
+            36,
+            36
+        ],
+        [
+            "1A OGDEN LANDON ABBOTT 2026",
+            37,
+            37
+        ],
+        [
+            "3A GILBERT ERIK SOENKSEN 2023",
+            38,
+            38
+        ],
+        [
+            "3A BOONE SIMON ENABNIT 2026",
+            39,
+            39
+        ],
+        [
+            "3A HUMBOLDT COLLIN VIK 2023",
+            40,
+            40
+        ],
+        [
+            "3A BOONE DORIAN MYERS 2026",
+            41,
+            41
+        ],
+        [
+            "3A BOONE BRAM CARPENTER 2024",
+            42,
+            42
+        ],
+        [
+            "3A BOONE WESLEY BABER 2024",
+            43,
+            43
+        ],
+        [
+            "3A BOONE ISAAC CLARK 2026",
+            44,
+            44
+        ],
+        [
+            "3A HUMBOLDT JUSTIN ASH 2025",
+            45,
+            45
+        ],
+        [
+            "1A OGDEN WILL FREY 2025",
+            46,
+            46
+        ],
+        [
+            "3A HUMBOLDT HENRY BORMANN 2024",
+            47,
+            47
+        ],
+        [
+            "1A OGDEN PALMER HICKINGBOTTOM 2026",
+            48,
+            48
+        ],
+        [
+            "3A GILBERT JACK SAVAGE 2026",
+            49,
+            49
+        ],
+        [
+            "3A GILBERT CHARLIE MORTIMER 2025",
+            50,
+            50
+        ],
+        [
+            "3A GILBERT EMERSON CONGDON 2026",
+            51,
+            51
+        ],
+        [
+            "3A GILBERT WILL SOUPIR 2026",
+            52,
+            52
+        ],
+        [
+            "3A GILBERT ADAM RENZE 2023",
+            53,
+            53
+        ],
+        [
+            "3A BOONE SETH MORRIS 2023",
+            54,
+            54
+        ],
+        [
+            "3A HUMBOLDT STERLING SCRANTON 2025",
+            55,
+            55
+        ],
+        [
+            "1A OGDEN TRISTAN MOSLEY 2025",
+            56,
+            56
+        ],
+        [
+            "3A HUMBOLDT GRAHAM BAKKEN 2026",
+            57,
+            57
+        ],
+        [
+            "1A OGDEN RYKER KRUSE 2025",
+            58,
+            58
+        ],
+        [
+            "1A OGDEN DECLAN SANCULI 2026",
+            59,
+            59
+        ],
+        [
+            "1A OGDEN JASE COLEMAN 2026",
+            60,
+            60
+        ],
+        [
+            "3A BOONE JASE BARRICK 2025",
+            61,
+            61
+        ],
+        [
+            "1A OGDEN JACOB THOMSEN 2025",
+            62,
+            62
+        ],
+        [
+            "1A OGDEN HENRY RUSSO 2026",
+            63,
+            63
+        ],
+        [
+            "3A HUMBOLDT KEATON TAYLOR 2026",
+            64,
+            64
+        ],
+        [
+            "3A BOONE IAN RUNESTAD 2023",
+            65,
+            65
+        ],
+        [
+            "3A BOONE BO BRADDOCK 2023",
+            66,
+            66
+        ],
+        [
+            "3A GILBERT JACKSON RIESSELMAN 2026",
+            67,
+            67
+        ],
+        [
+            "3A BOONE WYATT JOHNSON 2026",
+            68,
+            68
+        ],
+        [
+            "3A HUMBOLDT JOEL THURM 2026",
+            69,
+            69
+        ],
+        [
+            "1A OGDEN GAVIN SILER 2026",
+            70,
+            70
+        ],
+        [
+            "3A HUMBOLDT KADEN CAQUELIN 2025",
+            71,
+            71
+        ],
+        [
+            "3A BOONE DRAKE HAUSTEAD 2025",
+            72,
+            72
+        ],
+        [
+            "3A GILBERT SAM ELLINGSON 2026",
+            73,
+            73
+        ],
+        [
+            "3A GILBERT ALDO SCHWARTZ 2025",
+            74,
+            74
+        ],
+        [
+            "3A HUMBOLDT MACK HARKLAU 2025",
+            75,
+            75
+        ],
+        [
+            "3A GILBERT TRAVIS GOFF 2023",
+            76,
+            76
+        ],
+        [
+            "3A GILBERT HUNTER HESSON 2024",
+            77,
+            77
+        ],
+        [
+            "3A HUMBOLDT JASON OXLAJ-MEJIA 2025",
+            78,
+            78
+        ]
+    ]
+}

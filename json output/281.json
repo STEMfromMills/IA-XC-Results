@@ -1,0 +1,486 @@
+{
+    "name": "Nodaway Valley",
+    "time_seconds": 1664773241,
+    "standings": [
+        [
+            "1A NODAWAY VALLEY DOUG BERG 2023",
+            0,
+            0
+        ],
+        [
+            "2A I35 AUSTIN VANDER WERF 2024",
+            1,
+            1
+        ],
+        [
+            "1A SE WARREN RONAN JIMENEZ 2023",
+            2,
+            2
+        ],
+        [
+            "2A VAN METER LUKA HULSE 2025",
+            3,
+            3
+        ],
+        [
+            "1A LAMONI TYSON MCDOLE 2023",
+            4,
+            4
+        ],
+        [
+            "1A SE WARREN RYLAN JIMENEZ 2023",
+            5,
+            5
+        ],
+        [
+            "2A I35 BEN REYES 2023",
+            6,
+            6
+        ],
+        [
+            "1A NODAWAY VALLEY MALACHI BROERS 2024",
+            7,
+            7
+        ],
+        [
+            "1A MARTENSDALE ADEN MOORE 2024",
+            8,
+            8
+        ],
+        [
+            "1A TRI-CENTER SEAN MCGEE 2023",
+            9,
+            9
+        ],
+        [
+            "1A AHSTW CALEB HATCH 2024",
+            10,
+            10
+        ],
+        [
+            "1A PLEASANTVILLE KURT KUHNEN 2025",
+            11,
+            11
+        ],
+        [
+            "2A WEST CENTRAL VALLEY CAEL HAZEN 2024",
+            12,
+            12
+        ],
+        [
+            "1A TRI-CENTER BRENNAN BODEN 2025",
+            13,
+            13
+        ],
+        [
+            "1A EAST UNION JACOB DRISKILL 2024",
+            14,
+            14
+        ],
+        [
+            "1A TRI-CENTER NICHOLAS DAHIR 2026",
+            15,
+            15
+        ],
+        [
+            "1A MARTENSDALE ELIJAH WHEELDON 2025",
+            16,
+            16
+        ],
+        [
+            "1A DIAGONAL CARTER LUMBARD 2024",
+            17,
+            17
+        ],
+        [
+            "1A TRI-CENTER KYLE MCDONALD 2025",
+            18,
+            18
+        ],
+        [
+            "1A WOODWARD GRANGER CARSTEN WRIGHT 2023",
+            19,
+            19
+        ],
+        [
+            "2A VAN METER CAEL REIMERS 2025",
+            20,
+            20
+        ],
+        [
+            "2A I35 MICHAEL UPP 2025",
+            21,
+            21
+        ],
+        [
+            "2A I35 OWEN FESTLER 2023",
+            22,
+            22
+        ],
+        [
+            "1A MARTENSDALE TEEGAN DORENKAMP 2025",
+            23,
+            23
+        ],
+        [
+            "2A I35 CANNON BECK 2024",
+            24,
+            24
+        ],
+        [
+            "1A WOODWARD GRANGER HEALEY HILL 2023",
+            25,
+            25
+        ],
+        [
+            "1A PLEASANTVILLE JENKIN FULMER 2023",
+            26,
+            26
+        ],
+        [
+            "1A WOODWARD GRANGER CAEL LEIGHTON 2026",
+            27,
+            27
+        ],
+        [
+            "1A NODAWAY VALLEY TYLER COOPER 2024",
+            28,
+            28
+        ],
+        [
+            "2A I35 OWEN DICKINSON 2023",
+            29,
+            29
+        ],
+        [
+            "1A TRI-CENTER SIMEON WEERS 2024",
+            30,
+            30
+        ],
+        [
+            "1A MARTENSDALE LEVI WEBB 2023",
+            31,
+            31
+        ],
+        [
+            "2A I35 CARSON ALLEN 2023",
+            32,
+            32
+        ],
+        [
+            "1A MARTENSDALE DEVIN WEBB 2025",
+            33,
+            33
+        ],
+        [
+            "1A WOODWARD GRANGER DILLON LIMOGES 2024",
+            34,
+            34
+        ],
+        [
+            "1A NODAWAY VALLEY BEN PIEARSON 2023",
+            35,
+            35
+        ],
+        [
+            "2A VAN METER KAEGAN WIGANT 2026",
+            36,
+            36
+        ],
+        [
+            "1A SE WARREN CHASE THOMPSON 2024",
+            37,
+            37
+        ],
+        [
+            "1A MARTENSDALE THOMAS MUNDIL 2025",
+            38,
+            38
+        ],
+        [
+            "1A DIAGONAL SCOTTY BOHN 2023",
+            39,
+            39
+        ],
+        [
+            "1A BEDFORD TANNER ROWE 2025",
+            40,
+            40
+        ],
+        [
+            "1A DIAGONAL OWEN WHITTINGTON 2026",
+            41,
+            41
+        ],
+        [
+            "1A MARTENSDALE JONATHAN MOORE 2024",
+            42,
+            42
+        ],
+        [
+            "1A WOODWARD GRANGER STERLING PARKINSON 2024",
+            43,
+            43
+        ],
+        [
+            "1A MARTENSDALE NATHAN MUNDIL 2025",
+            44,
+            44
+        ],
+        [
+            "2A WEST CENTRAL VALLEY JARED RODRIGUES 2025",
+            45,
+            45
+        ],
+        [
+            "2A VAN METER TRESTON MURPHY 2025",
+            46,
+            46
+        ],
+        [
+            "1A WOODWARD GRANGER AIDEN TOPOLAVICH 2024",
+            47,
+            47
+        ],
+        [
+            "1A PLEASANTVILLE CAEL JOHNSON 2025",
+            48,
+            48
+        ],
+        [
+            "1A BEDFORD KOEN DEHASS 2025",
+            49,
+            49
+        ],
+        [
+            "2A VAN METER LIAM NEWELL 2026",
+            50,
+            50
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            51,
+            51
+        ],
+        [
+            "1A PLEASANTVILLE MORRISON FULMER 2026",
+            52,
+            52
+        ],
+        [
+            "1A PLEASANTVILLE JAYDIN BOONE 2025",
+            53,
+            53
+        ],
+        [
+            "2A VAN METER CORY OLIVER 2026",
+            54,
+            54
+        ],
+        [
+            "1A TRI-CENTER MICAH MCCARTY 2026",
+            55,
+            55
+        ],
+        [
+            "1A TRI-CENTER MATT EIKENBERRY 2024",
+            56,
+            56
+        ],
+        [
+            "1A WOODWARD GRANGER ELIJAH TAYLOR 2023",
+            57,
+            57
+        ],
+        [
+            "2A VAN METER RYDER RASMUSSEN 2026",
+            58,
+            58
+        ],
+        [
+            "1A TRI-CENTER MATT STOWE 2023",
+            59,
+            59
+        ],
+        [
+            "1A WOODWARD GRANGER ALEX YOUNTS 2026",
+            60,
+            60
+        ],
+        [
+            "1A TRI-CENTER EVAN WHAM 2026",
+            61,
+            61
+        ],
+        [
+            "1A BEDFORD JAYVEN WELCH 2025",
+            62,
+            62
+        ],
+        [
+            "2A VAN METER CAMDEN KRUSEMARK 2025",
+            63,
+            63
+        ],
+        [
+            "1A ORIENT-MACKSBURG DEKON MULLEN 2024",
+            64,
+            64
+        ],
+        [
+            "1A SW VALLEY ETHAN JAMES 2024",
+            65,
+            65
+        ],
+        [
+            "1A SW VALLEY ASHTON BOSWELL 2026",
+            66,
+            66
+        ],
+        [
+            "1A PLEASANTVILLE ETHAN KING 2026",
+            67,
+            67
+        ],
+        [
+            "1A PLEASANTVILLE BROCK JONES 2023",
+            68,
+            68
+        ],
+        [
+            "1A TRI-CENTER JOHNATHAN ZACHARIAS 2026",
+            69,
+            69
+        ],
+        [
+            "1A PANORAMA ZACH HAYDEN 2026",
+            70,
+            70
+        ],
+        [
+            "2A VAN METER LOGAN SCHAFFER 2026",
+            71,
+            71
+        ],
+        [
+            "1A PANORAMA GRYFFIN BURCHFIELD 2024",
+            72,
+            72
+        ],
+        [
+            "1A DIAGONAL ADLAI STEPHENS 2026",
+            73,
+            73
+        ],
+        [
+            "2A VAN METER MASON BRADLEY 2026",
+            74,
+            74
+        ],
+        [
+            "1A EAST UNION PEYTON LONG 2023",
+            75,
+            75
+        ],
+        [
+            "1A WOODWARD GRANGER GRANT POLITO 2025",
+            76,
+            76
+        ],
+        [
+            "2A VAN METER BEN KOSTER 2026",
+            77,
+            77
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK SMITH 2023",
+            78,
+            78
+        ],
+        [
+            "1A WOODWARD GRANGER SIDNEY TREES 2025",
+            79,
+            79
+        ],
+        [
+            "1A TRI-CENTER SMITH HUNTER 2025",
+            80,
+            80
+        ],
+        [
+            "1A LAMONI HOSAH NIEBAUER 2025",
+            81,
+            81
+        ],
+        [
+            "1A NODAWAY VALLEY JACK JENSEN 2024",
+            82,
+            82
+        ],
+        [
+            "1A BEDFORD TIM PLUMB 2026",
+            83,
+            83
+        ],
+        [
+            "1A PLEASANTVILLE ELI DAWSON 2025",
+            84,
+            84
+        ],
+        [
+            "1A SE WARREN GABE COLOCHO-OROZCO 2024",
+            85,
+            85
+        ],
+        [
+            "1A SW VALLEY MATTHEW MEANS 2025",
+            86,
+            86
+        ],
+        [
+            "1A BEDFORD ELI JOHNSON 2026",
+            87,
+            87
+        ],
+        [
+            "2A WEST CENTRAL VALLEY KIERNAN HUTTON 2026",
+            88,
+            88
+        ],
+        [
+            "2A VAN METER JACKSON SLICK 2025",
+            89,
+            89
+        ],
+        [
+            "2A WEST CENTRAL VALLEY NICK DEZEEUW 2023",
+            90,
+            90
+        ],
+        [
+            "1A SW VALLEY LUCAS JAMES 2026",
+            91,
+            91
+        ],
+        [
+            "1A SW VALLEY SAWYER HENSLEY 2023",
+            92,
+            92
+        ],
+        [
+            "1A NODAWAY VALLEY LANDON LABARGE 2026",
+            93,
+            93
+        ],
+        [
+            "1A PLEASANTVILLE MAGELLAN GRABOVSKIS 2026",
+            94,
+            94
+        ],
+        [
+            "1A DIAGONAL EJ ALLEE 2026",
+            95,
+            95
+        ]
+    ]
+}
