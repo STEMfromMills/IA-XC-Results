@@ -30,7 +30,7 @@ def find_and_replace_in_csv(folder_path, search_term, replace_term):
 
 if __name__ == "__main__":
     folder_path = "csv input"
-    search_term = "1A ALTA-AURELIA JOHNSON BLAYKE 2024"
-    replace_term = "1A ALTA-AURELIA BLAYKE JOHNSON 2024"
+    search_term = "1A BEDFORD JEVYN WELCH 2025"
+    replace_term = "1A BEDFORD JAYVEN WELCH 2025"
 
     find_and_replace_in_csv(folder_path, search_term, replace_term)
