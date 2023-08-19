@@ -1,7 +1,7 @@
 import pandas as pd
 
 #create Pandas dataframe from Elo-MMR output
-runner_data = pd.read_csv("1A.csv",header=0)
+runner_data = pd.read_csv("3A.csv",header=0)
 
 #print(runner_data)
 
