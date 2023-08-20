@@ -1,0 +1,466 @@
+{
+    "name": "1A Ridge View",
+    "time_seconds": 1666242037,
+    "standings": [
+        [
+            "1A OGDEN CARSON VAN SICKLE 2024",
+            0,
+            0
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN ALEJANDRO BERNAL 2023",
+            1,
+            1
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN BEN BYERS 2026",
+            2,
+            2
+        ],
+        [
+            "1A MMCRU KADEN GALLES 2024",
+            3,
+            3
+        ],
+        [
+            "1A OGDEN PAYTON VAN SICKLE 2023",
+            4,
+            4
+        ],
+        [
+            "1A ALTA-AURELIA BRADEN SONKSEN 2023",
+            5,
+            5
+        ],
+        [
+            "1A RIVERSIDE MASON MCCREADY 2024",
+            6,
+            6
+        ],
+        [
+            "1A LAWTON-BRONSON THEO MOSEMAN 2023",
+            7,
+            7
+        ],
+        [
+            "1A HINTON ZACH SYPERSMA 2023",
+            8,
+            8
+        ],
+        [
+            "1A SIOUX CENTRAL JACK CHRISTIAN 2026",
+            9,
+            9
+        ],
+        [
+            "1A HINTON CALEB BOWER 2026",
+            10,
+            10
+        ],
+        [
+            "1A SIOUX CENTRAL BRAYDEN KRAMBER 2024",
+            11,
+            11
+        ],
+        [
+            "1A RIVERSIDE BRODY HENDERSON 2026",
+            12,
+            12
+        ],
+        [
+            "1A OGDEN JORDAN KING 2023",
+            13,
+            13
+        ],
+        [
+            "1A TRINITY CHRISTIAN CARTER WESTRA 2025",
+            14,
+            14
+        ],
+        [
+            "1A MMCRU LUCAS BRAUN 2025",
+            15,
+            15
+        ],
+        [
+            "1A SIOUX CENTRAL LEIGHTON SIPPEL 2025",
+            16,
+            16
+        ],
+        [
+            "1A MMCRU OWEN ALESCH 2023",
+            17,
+            17
+        ],
+        [
+            "1A SIOUXLAND CHRISTIAN JUSTIN WILFORD 2023",
+            18,
+            18
+        ],
+        [
+            "1A OGDEN LEVI RUSSO 2023",
+            19,
+            19
+        ],
+        [
+            "1A RIVERSIDE ERIC DUHACHEK 2023",
+            20,
+            20
+        ],
+        [
+            "1A OGDEN JUDE BENBOW 2025",
+            21,
+            21
+        ],
+        [
+            "1A SIOUX CENTRAL ETHAN WERNIMONT 2024",
+            22,
+            22
+        ],
+        [
+            "1A RIVERSIDE DAWSON HENDERSON 2026",
+            23,
+            23
+        ],
+        [
+            "1A AKRON-WESTFIELD CAEL MORROW 2024",
+            24,
+            24
+        ],
+        [
+            "1A HMS GEORGE VARGAS 2024",
+            25,
+            25
+        ],
+        [
+            "1A SIOUX CENTRAL JOSHUA HOFFMAN 2025",
+            26,
+            26
+        ],
+        [
+            "1A HARRIS-LAKE PARK LANDON GREVE 2024",
+            27,
+            27
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN DAVID POPPEN 2025",
+            28,
+            28
+        ],
+        [
+            "1A MMCRU WYATT ALESCH 2026",
+            29,
+            29
+        ],
+        [
+            "1A RIVERSIDE CALEB STEVENS 2023",
+            30,
+            30
+        ],
+        [
+            "1A ALTA-AURELIA MASON BARNES 2024",
+            31,
+            31
+        ],
+        [
+            "1A ALTA-AURELIA BLAYKE JOHNSON 2024",
+            32,
+            32
+        ],
+        [
+            "1A RIVERSIDE TEEGAN SCHECHINGER 2023",
+            33,
+            33
+        ],
+        [
+            "1A GEHLEN BRADAN WEBER 2025",
+            34,
+            34
+        ],
+        [
+            "1A RIDGE VIEW ODIN HANSON 2026",
+            35,
+            35
+        ],
+        [
+            "1A SOUTH O'BRIEN BEN WOODALL 2024",
+            36,
+            36
+        ],
+        [
+            "1A RIDGE VIEW MATTHEW FORRISTAL 2024",
+            37,
+            37
+        ],
+        [
+            "1A SIOUXLAND CHRISTIAN SAMMY DUERLOO 2024",
+            38,
+            38
+        ],
+        [
+            "1A HMS BRYCE DODGE 2023",
+            39,
+            39
+        ],
+        [
+            "1A RIDGE VIEW BRODY BISENIUS 2025",
+            40,
+            40
+        ],
+        [
+            "1A OGDEN BRADY VAN SICKLE 2025",
+            41,
+            41
+        ],
+        [
+            "1A OGDEN PARKER TRUSLER 2023",
+            42,
+            42
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN CALE REITER 2025",
+            43,
+            43
+        ],
+        [
+            "1A RIDGE VIEW KYLER WUNSCHEL 2023",
+            44,
+            44
+        ],
+        [
+            "1A SIOUX CENTRAL NATHAN KUENY 2024",
+            45,
+            45
+        ],
+        [
+            "1A HINTON COOPER NELSON 2025",
+            46,
+            46
+        ],
+        [
+            "1A AKRON-WESTFIELD NOAH BOIE 2025",
+            47,
+            47
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN AIDEN DE ZEEUW 2024",
+            48,
+            48
+        ],
+        [
+            "1A AKRON-WESTFIELD DEXTER BRIGGS 2025",
+            49,
+            49
+        ],
+        [
+            "1A TRINITY CHRISTIAN KYLAN DAVELAAR 2025",
+            50,
+            50
+        ],
+        [
+            "1A TRINITY CHRISTIAN REID GROENEWEG 2025",
+            51,
+            51
+        ],
+        [
+            "1A SIBLEY-OCHEYEDAN KEEGAN DE ZEEUW 2023",
+            52,
+            52
+        ],
+        [
+            "1A RIDGE VIEW ADRIAN ALTENA 2024",
+            53,
+            53
+        ],
+        [
+            "1A GEHLEN ROBERT SCHMIT 2025",
+            54,
+            54
+        ],
+        [
+            "1A SIOUX CENTRAL ALEX KUENY 2026",
+            55,
+            55
+        ],
+        [
+            "1A GEHLEN NOLAN TEEL 2026",
+            56,
+            56
+        ],
+        [
+            "1A HMS BLAINE FINSTER 2025",
+            57,
+            57
+        ],
+        [
+            "1A HMS DAMIAN DODGE 2025",
+            58,
+            58
+        ],
+        [
+            "1A HINTON IAN GREIGG 2025",
+            59,
+            59
+        ],
+        [
+            "1A RIDGE VIEW ROBERT FORRISTAL 2026",
+            60,
+            60
+        ],
+        [
+            "1A RIVERSIDE DALTON SMITH 2024",
+            61,
+            61
+        ],
+        [
+            "1A HMS AIDEN BUSH 2025",
+            62,
+            62
+        ],
+        [
+            "1A HMS RYAN GROTLUSCHEN 2025",
+            63,
+            63
+        ],
+        [
+            "1A RIDGE VIEW TRISTAN WERNER 2026",
+            64,
+            64
+        ],
+        [
+            "1A AKRON-WESTFIELD TANNER FRERICHS 2025",
+            65,
+            65
+        ],
+        [
+            "1A GEHLEN OWEN SEIVERS 2026",
+            66,
+            66
+        ],
+        [
+            "1A ALTA-AURELIA PARKER BUCKENDAHL 2024",
+            67,
+            67
+        ],
+        [
+            "1A HINTON CARSON SUDBECK 2025",
+            68,
+            68
+        ],
+        [
+            "1A WESTWOOD CARTER JENKINS 2024",
+            69,
+            69
+        ],
+        [
+            "1A GEHLEN LANDEN KNEIP 2026",
+            70,
+            70
+        ],
+        [
+            "1A SIOUXLAND CHRISTIAN ANTHONY VILLATORO 2024",
+            71,
+            71
+        ],
+        [
+            "1A SOUTH O'BRIEN BRETT EVANS 2025",
+            72,
+            72
+        ],
+        [
+            "1A SIOUXLAND CHRISTIAN HUNTER PEARSON 2026",
+            73,
+            73
+        ],
+        [
+            "1A AKRON-WESTFIELD DAWSON TROBAUGH 2025",
+            74,
+            74
+        ],
+        [
+            "1A SOUTH O'BRIEN ETHAN SCHWARZ 2025",
+            75,
+            75
+        ],
+        [
+            "1A SOUTH O'BRIEN IAN OLIVER 2024",
+            76,
+            76
+        ],
+        [
+            "1A TRINITY CHRISTIAN MALACHI BLOEMENDAAL 2026",
+            77,
+            77
+        ],
+        [
+            "1A TRINITY CHRISTIAN NICOLAS VAN ENGEN 2023",
+            78,
+            78
+        ],
+        [
+            "1A WESTWOOD OWEN SCOTT 2026",
+            79,
+            79
+        ],
+        [
+            "1A SOUTH O'BRIEN DOMINIC ROUNDS 2026",
+            80,
+            80
+        ],
+        [
+            "1A WHITING COLE BETHUNE 2025",
+            81,
+            81
+        ],
+        [
+            "1A MMCRU MAX PEPPER 2025",
+            82,
+            82
+        ],
+        [
+            "1A ALTA-AURELIA ANDREW KUENY 2026",
+            83,
+            83
+        ],
+        [
+            "1A SOUTH O'BRIEN BENSEN ROHWER 2025",
+            84,
+            84
+        ],
+        [
+            "1A WESTWOOD KORBEN CHRISTOFFERSEN 2026",
+            85,
+            85
+        ],
+        [
+            "1A AKRON-WESTFIELD JEREMIAH BRUGET 2026",
+            86,
+            86
+        ],
+        [
+            "1A SIOUXLAND CHRISTIAN KEATON DUNCAN 2024",
+            87,
+            87
+        ],
+        [
+            "1A WHITING ISAAC RICH 2026",
+            88,
+            88
+        ],
+        [
+            "1A WESTWOOD NOAH SEGGERMAN 2025",
+            89,
+            89
+        ],
+        [
+            "1A SOUTH O'BRIEN CALEB BUENGER 2025",
+            90,
+            90
+        ],
+        [
+            "1A AKRON-WESTFIELD MATHEW BEIRESCHMIDT 2025",
+            91,
+            91
+        ]
+    ]
+}

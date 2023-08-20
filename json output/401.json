@@ -1,0 +1,511 @@
+{
+    "name": "2A Oelwein",
+    "time_seconds": 1666242041,
+    "standings": [
+        [
+            "2A STARMONT CHARLIE SIECK 2023",
+            0,
+            0
+        ],
+        [
+            "2A OELWEIN CONALL SAUSER 2025",
+            1,
+            1
+        ],
+        [
+            "2A GHV CONNOR HAMMITT 2024",
+            2,
+            2
+        ],
+        [
+            "2A ANAMOSA SHEA KEISTER 2023",
+            3,
+            3
+        ],
+        [
+            "2A GHV ZACH FLATEBO 2025",
+            4,
+            4
+        ],
+        [
+            "2A DENVER NEAL PINTER 2024",
+            5,
+            5
+        ],
+        [
+            "2A OELWEIN JACOB SULLIVAN 2023",
+            6,
+            6
+        ],
+        [
+            "2A OELWEIN BENJAMIN DRISCOLL 2024",
+            7,
+            7
+        ],
+        [
+            "2A ANAMOSA SETH COUNTRYMAN 2025",
+            8,
+            8
+        ],
+        [
+            "2A OELWEIN RAY GEARHART 2023",
+            9,
+            9
+        ],
+        [
+            "2A DENVER JACK MULERT 2023",
+            10,
+            10
+        ],
+        [
+            "2A DENVER MAXWELL SCHWANDT 2023",
+            11,
+            11
+        ],
+        [
+            "2A NEW HAMPTON PEYTON ANDERSON 2023",
+            12,
+            12
+        ],
+        [
+            "2A EAGLE GROVE DRAKE WELAND 2023",
+            13,
+            13
+        ],
+        [
+            "2A CRESTWOOD DOMINIC BIGALK 2024",
+            14,
+            14
+        ],
+        [
+            "2A GHV BRONSON BUITENWERF 2023",
+            15,
+            15
+        ],
+        [
+            "2A DENVER TALAN LAFRENTZ 2025",
+            16,
+            16
+        ],
+        [
+            "2A WILLIAMSBURG WES HULSEBERG 2024",
+            17,
+            17
+        ],
+        [
+            "2A CRESTWOOD NATHAN AHERN 2025",
+            18,
+            18
+        ],
+        [
+            "2A DENVER TREVOR BAAS 2025",
+            19,
+            19
+        ],
+        [
+            "2A GHV SCYLAR SCHULZE 2023",
+            20,
+            20
+        ],
+        [
+            "2A OSAGE KEAGAN HENNESSEY 2023",
+            21,
+            21
+        ],
+        [
+            "2A DENVER GABE SWALES 2025",
+            22,
+            22
+        ],
+        [
+            "2A GHV JONAH PRINGNITZ 2026",
+            23,
+            23
+        ],
+        [
+            "2A ANAMOSA CALEB LOEHR 2023",
+            24,
+            24
+        ],
+        [
+            "2A OSAGE DARREN ADAMS 2024",
+            25,
+            25
+        ],
+        [
+            "2A WILLIAMSBURG JAKE BUCHHOLTZ 2023",
+            26,
+            26
+        ],
+        [
+            "2A ANAMOSA CARVER REISS 2025",
+            27,
+            27
+        ],
+        [
+            "2A ANAMOSA JACK TROESTER 2024",
+            28,
+            28
+        ],
+        [
+            "2A WILLIAMSBURG SAM RICH 2023",
+            29,
+            29
+        ],
+        [
+            "2A NEW HAMPTON JACK SHAWVER 2024",
+            30,
+            30
+        ],
+        [
+            "2A NEW HAMPTON CAM MCMORRIS 2024",
+            31,
+            31
+        ],
+        [
+            "2A STARMONT LANE GERMAN 2023",
+            32,
+            32
+        ],
+        [
+            "2A ANAMOSA BRAEDEN KEISTER 2025",
+            33,
+            33
+        ],
+        [
+            "2A WILLIAMSBURG TYLER MCMULLIN 2026",
+            34,
+            34
+        ],
+        [
+            "2A OELWEIN GABE DRISCOLL 2026",
+            35,
+            35
+        ],
+        [
+            "2A DENVER JAYDEN HERRMANN 2023",
+            36,
+            36
+        ],
+        [
+            "2A NEW HAMPTON TREYCE ORR 2023",
+            37,
+            37
+        ],
+        [
+            "2A ROLAND-STORY EVAN VOGA 2025",
+            38,
+            38
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JESSE WASHINGTON 2023",
+            39,
+            39
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LUKAS MCGOWAN 2024",
+            40,
+            40
+        ],
+        [
+            "2A WILLIAMSBURG CREW KLINGNER 2024",
+            41,
+            41
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY MICA ZURBRIGGEN 2024",
+            42,
+            42
+        ],
+        [
+            "2A WILLIAMSBURG FINN BRUMMEL 2026",
+            43,
+            43
+        ],
+        [
+            "2A OELWEIN CALEB SCHUNK 2025",
+            44,
+            44
+        ],
+        [
+            "2A DIKE-NEW HARTFORD TYLER NYSTEL 2023",
+            45,
+            45
+        ],
+        [
+            "2A CRESTWOOD JACK MACDUFF 2026",
+            46,
+            46
+        ],
+        [
+            "2A EAGLE GROVE ZABDI CASTRO 2025",
+            47,
+            47
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY SHAWN GILSON 2023",
+            48,
+            48
+        ],
+        [
+            "2A OSAGE CHASE POTTER 2023",
+            49,
+            49
+        ],
+        [
+            "2A GHV CALEB GOOD 2025",
+            50,
+            50
+        ],
+        [
+            "2A ANAMOSA JACOB LOEHR 2023",
+            51,
+            51
+        ],
+        [
+            "2A WILLIAMSBURG DEVIN BUSCH 2024",
+            52,
+            52
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG JONAH CARNEY 2026",
+            53,
+            53
+        ],
+        [
+            "2A DIKE-NEW HARTFORD BRYCE PETERSEN 2023",
+            54,
+            54
+        ],
+        [
+            "2A EAGLE GROVE FELIX GONZALEZ 2026",
+            55,
+            55
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS CHRISTOPHER GREENFIELD 2025",
+            56,
+            56
+        ],
+        [
+            "2A STARMONT IAN OTDOERFER 2025",
+            57,
+            57
+        ],
+        [
+            "2A CRESTWOOD LUKE STORTZ 2023",
+            58,
+            58
+        ],
+        [
+            "2A GHV GARRETT HELLER 2023",
+            59,
+            59
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG EVAN SHEESLEY 2023",
+            60,
+            60
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG HENRY REINTS 2023",
+            61,
+            61
+        ],
+        [
+            "2A STARMONT BRAYDON WEDO 2023",
+            62,
+            62
+        ],
+        [
+            "2A OSAGE ASHTON SONBERG 2023",
+            63,
+            63
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY DILLON SPARGROVE 2023",
+            64,
+            64
+        ],
+        [
+            "2A NEW HAMPTON BRAIDEN SCHAUFENBUEL 2025",
+            65,
+            65
+        ],
+        [
+            "2A EAGLE GROVE DYLAN BECK 2025",
+            66,
+            66
+        ],
+        [
+            "2A NEW HAMPTON CALYB ZEIEN 2025",
+            67,
+            67
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG KAMDON HOPPENWORTH 2023",
+            68,
+            68
+        ],
+        [
+            "2A ROLAND-STORY LUCCAS HART 2025",
+            69,
+            69
+        ],
+        [
+            "2A ROLAND-STORY LUCAS WUEBKER 2024",
+            70,
+            70
+        ],
+        [
+            "2A OELWEIN KESHAUN WILLIAMS 2026",
+            71,
+            71
+        ],
+        [
+            "2A EAGLE GROVE ZACH HOGREFE 2025",
+            72,
+            72
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY PEYTON ELLIOTT 2026",
+            73,
+            73
+        ],
+        [
+            "2A NEW HAMPTON JARRIN ROBINSON 2025",
+            74,
+            74
+        ],
+        [
+            "2A DIKE-NEW HARTFORD CALEB PAULSEN 2023",
+            75,
+            75
+        ],
+        [
+            "2A EAGLE GROVE PATRICK HEATON 2025",
+            76,
+            76
+        ],
+        [
+            "2A OSAGE LOGAN MITCHELL 2024",
+            77,
+            77
+        ],
+        [
+            "2A APLINGTON-PARKERSBURG ISAAC FOXEN 2025",
+            78,
+            78
+        ],
+        [
+            "2A OSAGE TANNER WRIGHT 2025",
+            79,
+            79
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY LEO PHAN 2023",
+            80,
+            80
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RASMUS BRANDT 2023",
+            81,
+            81
+        ],
+        [
+            "2A NORTH FAYETTE VALLEY KEAGAN MCGRANE 2024",
+            82,
+            82
+        ],
+        [
+            "2A OSAGE TYSEN STANGEL 2026",
+            83,
+            83
+        ],
+        [
+            "2A CRESTWOOD SAM BRACE 2024",
+            84,
+            84
+        ],
+        [
+            "2A ROLAND-STORY COLTEN LUCCHESI 2024",
+            85,
+            85
+        ],
+        [
+            "2A DIKE-NEW HARTFORD SHAYDEN LOGER 2023",
+            86,
+            86
+        ],
+        [
+            "2A ROLAND-STORY NOLAN RHOAD 2024",
+            87,
+            87
+        ],
+        [
+            "2A CRESTWOOD BROOKS MOSER 2025",
+            88,
+            88
+        ],
+        [
+            "2A STARMONT WYATT NELSON 2025",
+            89,
+            89
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS TATE JACKSON 2025",
+            90,
+            90
+        ],
+        [
+            "2A EAGLE GROVE FELIX REYES 2026",
+            91,
+            91
+        ],
+        [
+            "2A STARMONT CARSON CURTIS 2026",
+            92,
+            92
+        ],
+        [
+            "2A ROLAND-STORY TATE LANDE 2026",
+            93,
+            93
+        ],
+        [
+            "2A CRESTWOOD KALEB ADAMS 2024",
+            94,
+            94
+        ],
+        [
+            "2A ROLAND-STORY CALEB DANIELSON 2025",
+            95,
+            95
+        ],
+        [
+            "2A DIKE-NEW HARTFORD FINN O'NEILL 2026",
+            96,
+            96
+        ],
+        [
+            "2A STARMONT VINCENT BRYANT 2025",
+            97,
+            97
+        ],
+        [
+            "2A DIKE-NEW HARTFORD RUSH L'HEUREUX 2026",
+            98,
+            98
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS HUNTER SMIDT 2025",
+            99,
+            99
+        ],
+        [
+            "2A CLARION-GOLDFIELD-DOWS RUSSBEL GARCIA 2025",
+            100,
+            100
+        ]
+    ]
+}

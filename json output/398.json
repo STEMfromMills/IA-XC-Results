@@ -1,0 +1,451 @@
+{
+    "name": "1A SW Valley",
+    "time_seconds": 1666242038,
+    "standings": [
+        [
+            "1A WOODBINE LANDON BENDGEN 2024",
+            0,
+            0
+        ],
+        [
+            "1A SAINT ALBERT COLIN LILLIE 2023",
+            1,
+            1
+        ],
+        [
+            "1A WOODBINE GUNNER WAGNER 2025",
+            2,
+            2
+        ],
+        [
+            "1A SAINT ALBERT OWEN WISE 2024",
+            3,
+            3
+        ],
+        [
+            "1A WOODBINE LANE VENNINK 2023",
+            4,
+            4
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN GAVIN ANDERSEN 2023",
+            5,
+            5
+        ],
+        [
+            "1A EAST UNION JACOB DRISKILL 2024",
+            6,
+            6
+        ],
+        [
+            "1A SAINT ALBERT ADAM DENNY 2023",
+            7,
+            7
+        ],
+        [
+            "1A SAINT ALBERT PARKER HEISTERKAMP 2025",
+            8,
+            8
+        ],
+        [
+            "1A TRI-CENTER SEAN MCGEE 2023",
+            9,
+            9
+        ],
+        [
+            "1A SAINT ALBERT JOE HUGHES 2025",
+            10,
+            10
+        ],
+        [
+            "1A WOODBINE THOMAS TREMEL 2024",
+            11,
+            11
+        ],
+        [
+            "1A TRI-CENTER BRENNAN BODEN 2025",
+            12,
+            12
+        ],
+        [
+            "1A SAINT ALBERT GABRIEL BARAJAS 2025",
+            13,
+            13
+        ],
+        [
+            "1A MARTENSDALE ADEN MOORE 2024",
+            14,
+            14
+        ],
+        [
+            "1A WOODBINE XANDER JOHNSON 2025",
+            15,
+            15
+        ],
+        [
+            "1A GRANDVIEW JACOB HIGHT 2024",
+            16,
+            16
+        ],
+        [
+            "1A GRANDVIEW MORGAN CIPALE 2024",
+            17,
+            17
+        ],
+        [
+            "1A LOGAN-MAGNOLIA WYATT HAWKINS 2025",
+            18,
+            18
+        ],
+        [
+            "1A TRI-CENTER NICHOLAS DAHIR 2026",
+            19,
+            19
+        ],
+        [
+            "1A EAST MILLS STEVEN BARRETT 2024",
+            20,
+            20
+        ],
+        [
+            "1A WOODBINE ADAM BARRY 2025",
+            21,
+            21
+        ],
+        [
+            "1A GRANDVIEW KELTON TRIM 2023",
+            22,
+            22
+        ],
+        [
+            "1A ESSEX TONY RACINE 2024",
+            23,
+            23
+        ],
+        [
+            "1A TRI-CENTER CHRISTIAN DAHIR 2024",
+            24,
+            24
+        ],
+        [
+            "1A MARTENSDALE LEVI WEBB 2023",
+            25,
+            25
+        ],
+        [
+            "1A MISSOURI VALLEY ADAM MEADOWS 2025",
+            26,
+            26
+        ],
+        [
+            "1A MISSOURI VALLEY AIDAN RANGEL 2025",
+            27,
+            27
+        ],
+        [
+            "1A DIAGONAL CARTER LUMBARD 2024",
+            28,
+            28
+        ],
+        [
+            "1A EAST MILLS CAMRYN JOHNSON 2024",
+            29,
+            29
+        ],
+        [
+            "1A MARTENSDALE TEEGAN DORENKAMP 2025",
+            30,
+            30
+        ],
+        [
+            "1A MARTENSDALE ELIJAH WHEELDON 2025",
+            31,
+            31
+        ],
+        [
+            "1A DIAGONAL SCOTTY BOHN 2023",
+            32,
+            32
+        ],
+        [
+            "1A TRI-CENTER KYLE MCDONALD 2025",
+            33,
+            33
+        ],
+        [
+            "1A WOODBINE TREY BURGMEYER 2024",
+            34,
+            34
+        ],
+        [
+            "1A TRI-CENTER SIMEON WEERS 2024",
+            35,
+            35
+        ],
+        [
+            "1A GRANDVIEW ISAAC THORINGTON 2024",
+            36,
+            36
+        ],
+        [
+            "1A SAINT ALBERT BRADY SMITH 2026",
+            37,
+            37
+        ],
+        [
+            "1A GRANDVIEW BRETT SCHROEDER 2023",
+            38,
+            38
+        ],
+        [
+            "1A EAST MILLS ANTHONY OBERMILLER 2023",
+            39,
+            39
+        ],
+        [
+            "1A GRISWOLD NOLLAN SMITH 2026",
+            40,
+            40
+        ],
+        [
+            "1A SIDNEY FLYNT BELL 2026",
+            41,
+            41
+        ],
+        [
+            "1A MISSOURI VALLEY KEATON VOSTER 2026",
+            42,
+            42
+        ],
+        [
+            "1A DIAGONAL OWEN WHITTINGTON 2026",
+            43,
+            43
+        ],
+        [
+            "1A GRISWOLD BRAYDEN LOCKWOOD 2026",
+            44,
+            44
+        ],
+        [
+            "1A MARTENSDALE DEVIN WEBB 2025",
+            45,
+            45
+        ],
+        [
+            "1A LOGAN-MAGNOLIA LYRICK STUEVE 2024",
+            46,
+            46
+        ],
+        [
+            "1A GRISWOLD BODE WYMAN 2025",
+            47,
+            47
+        ],
+        [
+            "1A MARTENSDALE JONATHAN MOORE 2024",
+            48,
+            48
+        ],
+        [
+            "1A MARTENSDALE THOMAS MUNDIL 2025",
+            49,
+            49
+        ],
+        [
+            "1A GRANDVIEW MILTON BURKHART 2025",
+            50,
+            50
+        ],
+        [
+            "1A MISSOURI VALLEY JACKSON HARRISON 2024",
+            51,
+            51
+        ],
+        [
+            "1A GRANDVIEW LOGAN WITZENBURG 2023",
+            52,
+            52
+        ],
+        [
+            "1A EAST MILLS COOPER STEARNS 2025",
+            53,
+            53
+        ],
+        [
+            "1A MOUNT AYR BRAYLON GREENWELL 2026",
+            54,
+            54
+        ],
+        [
+            "1A EAST MILLS WALTER SEIPOLD 2025",
+            55,
+            55
+        ],
+        [
+            "1A MISSOURI VALLEY THERON FELNER 2025",
+            56,
+            56
+        ],
+        [
+            "1A MOUNT AYR ASHTYN BENESH 2024",
+            57,
+            57
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN BRADY DINGUS 2025",
+            58,
+            58
+        ],
+        [
+            "1A SW VALLEY ASHTON BOSWELL 2026",
+            59,
+            59
+        ],
+        [
+            "1A GRISWOLD HOLDEN JENSEN 2025",
+            60,
+            60
+        ],
+        [
+            "1A FREMONT-MILLS ETHAN DINES 2026",
+            61,
+            61
+        ],
+        [
+            "1A EAST MILLS ANDREW LARAMY 2023",
+            62,
+            62
+        ],
+        [
+            "1A FREMONT-MILLS ANDERSON CARTER 2026",
+            63,
+            63
+        ],
+        [
+            "1A LENOX CADE CORDELL 2026",
+            64,
+            64
+        ],
+        [
+            "1A STANTON ZOOEY ALLEN 2025",
+            65,
+            65
+        ],
+        [
+            "1A TRI-CENTER MICAH MCCARTY 2026",
+            66,
+            66
+        ],
+        [
+            "1A MISSOURI VALLEY XAVIER RANGEL 2025",
+            67,
+            67
+        ],
+        [
+            "1A MISSOURI VALLEY GAVIN THACKER 2025",
+            68,
+            68
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN BRONX FETTER 2023",
+            69,
+            69
+        ],
+        [
+            "1A SW VALLEY ETHAN JAMES 2024",
+            70,
+            70
+        ],
+        [
+            "1A EAST UNION PEYTON LONG 2023",
+            71,
+            71
+        ],
+        [
+            "1A LOGAN-MAGNOLIA JAMES NEWTON 2023",
+            72,
+            72
+        ],
+        [
+            "1A GRISWOLD TOSH FELTNER 2023",
+            73,
+            73
+        ],
+        [
+            "1A SW VALLEY MATTHEW MEANS 2025",
+            74,
+            74
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN ELIJAH LEWIS 2024",
+            75,
+            75
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN MICHAEL HOLTMYER 2026",
+            76,
+            76
+        ],
+        [
+            "1A STANTON ERIC KUTZLI 2026",
+            77,
+            77
+        ],
+        [
+            "1A ESSEX KEATON ANDERSON 2025",
+            78,
+            78
+        ],
+        [
+            "1A ESSEX ASHON KLINE 2026",
+            79,
+            79
+        ],
+        [
+            "1A EAST MILLS THOREN WADE 2023",
+            80,
+            80
+        ],
+        [
+            "1A LOGAN-MAGNOLIA AIDEN YOUNG 2024",
+            81,
+            81
+        ],
+        [
+            "1A STANTON KYLE PASTORE 2023",
+            82,
+            82
+        ],
+        [
+            "1A LOGAN-MAGNOLIA WYATT GRIMES 2025",
+            83,
+            83
+        ],
+        [
+            "1A HEARTLAND CHRISTIAN COLTON BRENNAN 2023",
+            84,
+            84
+        ],
+        [
+            "1A ESSEX JOHNATHAN STALEY 2023",
+            85,
+            85
+        ],
+        [
+            "1A LOGAN-MAGNOLIA JONNY DIGGINS 2024",
+            86,
+            86
+        ],
+        [
+            "1A SW VALLEY LUCAS JAMES 2026",
+            87,
+            87
+        ],
+        [
+            "1A DIAGONAL EJ ALLEE 2026",
+            88,
+            88
+        ]
+    ]
+}
