@@ -5,30 +5,28 @@ runner_data = pd.read_csv("all_players.csv",header=0)
 
 # List of items to match
 items_to_match = [
-    'DOWLING',
-    'JOHNSTON',
-    'ANKENY',
-    'NORWALK',
-    'CEDAR FALLS',
-    'WEST DES MOINES VALLEY',
-    'IOWA CITY HIGH',
-    'CR KENNEDY',
-    'PLEASANT VALLEY',
-    'SOUTHEAST POLK',
-    'WAUKEE NW',
-    'DUBUQUE HEMPSTEAD',
-    'SIOUX CITY NORTH',
-    'CR PRAIRIE',
-    'URBANDALE'
+    'IOWA CITY REGINA',
+    'AC-GC',
+    'WOODBINE',
+    'BELLEVUE',
+    'IKM-MANNING',
+    'OGDEN',
+    'SAINT ALBERT',
+    'ST. EDMOND',
+    'CASCADE',
+    'EAST MARSHALL',
+    'LAKE MILLS',
+    'MADRID',
+    'CLAYTON RIDGE',
+    'NORTH MAHASKA',
+    'SIOUX CENTRAL',
+    'NORTH LINN'
     ]  # Add your items here
 
 # List of items to exclude
-items_to_exclude = [
-    'ANKENY CENTENNIAL',
-    'ANKENY CHRISTIAN',
-    ]  # Add your items here
+items_to_exclude = []  # Add your items here
 
-print(items_to_match)
+#print(items_to_match)
 
 # Input CSV file
 input_csv_filename = 'all_players.csv'
